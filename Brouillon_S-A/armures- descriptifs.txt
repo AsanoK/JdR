@@ -1,0 +1,56 @@
+CORPS:
+cotte de maille*
+Une cotte tombant aux cuisses composées d'un assemblage dense de petits anneaux d'acier. Son poids est un mal nécessaire pour bénéficier de l'excellente protection conférée, notamment contre les coups de taille.
+gambison*
+Une tenue matelassée, composée d'au moins une douzaine de couches de tissus, et protégeant surprenamment bien son porteur. Permet également d'atténuer les problème dûs au port d'une armure lourde par-dessus. C'est la base de la tenue de combat, souvent portée toute la journée et même la nuit en campagne.
+cotte de plates
+Une innovation récente, qui consiste à installer des plaques d'aciers rivetées sur une cotte en tissu ou en cuir. Ces plaques sont relativement larges et se chevauhent légèrement pour protéger leur porteur.
+lamellaire (avec spallières, avec tassettes)
+Meilleur marché que nombre d'autres armures lourdes, il s'agit d'une cuirasse rigide constistuée de nombreuses lamelles d'acier lacées entre elles. On peut également disposer de spallières et de tassettes assemblées de la même façon.
+anneaux
+Une armure qui a le mérite d'être bon marché, et de protéger correctement son porteur contre les coups de taille. Il s'agit de coudre des anneaux d'acier sur une cotte de tissu ou de cuir afin de bloquer les coups. Très vulnérable aux attaques d'estoc et aux flèches. Peu recommandée sur un champ de bataille.
+écailles
+Armure composée de nombreuses écailles d'acier se chevauchant pour protéger leur porteur. Très efficace contre la plupart des attaques, mais une arme perforante peut se glisser entre les rangs d'écaille sans grande difficulté.
+
+GANTELETS:
+maille*
+De la même façon que l'on peut assembler des cottes, on peut également faire des gantelets en maille. Ceux-ci ont une paume le plus souvent en cuir, et protègent les mains et les doigts de leur porteur.
+gambison*
+Des gantelets matelassés, pour amortir les coups sur les mains et avant-bras. ils sont souvent portés sous une protection plus sérieuse )pour la compléter.
+plates
+Un développement récent des gantelets, dans lequel on protège la main et l'avant-bras par des plaques d'acier trempé forgées pour épouser la forme des mains de leur propriétaire.
+lamellaires
+Il s'agit de bandes d'acier rivetées sur une structure de tissus ou de cuir, et permettant de protéger correctement les mains et avant-bras sans se ruiner trop.
+écailles
+Un assemblage d'écailles fines pour protéger le porteur. Comme pour les cottes d'écailles, les gantelets sont moins efficaces face aux attaques perforantes.
+CHAUSSES:
+maille (et chausses complètes *)
+Une des dernières pièces achetées par les combattant, les chausses de mailles rendent les jambes pratiquement immunisées aux coups de taille et à la plupart des attaques en réalité. Des chausses complètes permettent de limiter les emplacements vulnérables de l'armure, notamment au niveau de l'aine.
+gambison*
+Des chausses matelassées pour amortir les coups visant les jambes. Souvent portées sous d'autres chausses plus efficaces.
+lamellaire
+Comme pour les gantelets, des bandes d'acier permettent de protéger le porteur à un coût relativement abordable, mais au prix de quelques failles.
+écailles
+Il est possible de protéger également ses jambes avec des écailles d'acier, à la manière de chausses de maille. Toutefois, le même défaut demeure : une arme effilée peut trouver sa route entre les écailles.
+bottes épaisses
+A défaut d'une véritable protection, il est possible de compter sur une bonne paire de botte pour limiter l'efficacité d'un coup sur les jambes.
+
+CASQUES:
+coiffe de maille (et ventail) (* si portée avec une protection de la face quelconque : visière, casque lamellaire intégral, grand heaume, ....)
+Une protection efficace, bien que coûteuse : une coiffe de maille protégeant le crâne dans son ensemble, ainsi que le cou et la nuque. L'addition d'un ventail protège également la majorité du visage des coups.
+casque lamellaire (et casque lamellaire complet*)
+Utilisation de la structure lamellaire (lamelles d'acier lacées entre elles) pour obtenir un casque relativement basique, mais plutôt efficace et meilleur marché. Les versions intégrales couvrent la totalité du crâne et protègent la face avec des lamelles montant jusqu'aux yeux.
+casque cônique (et nasal, lunettes, ventail, visière complète)
+Casque de forme plutôt basique : un simple cône d'acier doublé de tissus pour protéger le sommet du crâne. De nombreuses améliorations existent cependant : avec nasal pour protéger le nez et une partie du visage des coups, notamment de taille, à lunette pour améliorer la protection des yeux, à ventail pour couvrir la face d'une sorte de voile de maille, et enfin à visière complète quand le ventail ne suffit plus et que l'on souhaite protéger complètement la face.
+casque intégral* (grand heaume)
+Le heaume le plus cher, mais aussi le plus protecteur, peut se porter par-dessus une cervellière, un cal et une coiffe de maille en cas de besoin. 
+cal matelassé(* si portée avec une protection de la face quelconque : visière, casque lamellaire intégral, grand heaume, ....)
+La protection la plus élémentaire, visant à amortir les coups, et qui vient souvent en renfort de pièces plus robustes.
+cervellière
+Un simple bol d'acier permettant de protéger à moindre frais le sommet du crâne. Rarement employée seule.
+chapel de fer
+Un casque simple, robuste, et relativement bon marché, sous la forme d'un bol à larges bords en acier. On en retrouve fréquemment chez les soldats, même les plus pauvres.
+
+
+
+Une * signifie que la pièce n'a pas de faille, y compris en tant qu'armure secondaire.

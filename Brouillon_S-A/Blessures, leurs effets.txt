@@ -1,0 +1,32 @@
+Plusieurs types de blessure:
+-superficielles (rien de grave, mais peuvent éventuellement s'infecter) : égratignures, echimoses
+-légère : muscle légèrement touché, os fêlé, articulation luxée :malus, mais pas trop hadicapant (en gros, malus de -1 à -2, suivant le test et la blessure)
+-grave : fracture, organe interne touché, muscle sérieusement atteint : zones inutilisable, risque potentiel grave sur la santé. Pas de séquelle immédiate, risque d'hémorragie, zone inutilisable : la tête implique d'être assomé, le torse au sol et incapable de bouger, le ventre inflige un malus de -3 à toutes les actions.
+-dévastatrice : fracture grave, zone tranchée, organe gravement atteint (non-fonctionnel), santé(survie) mise en jeu, à court et moyen terme, avec des séquelles potentielles sur le long terme. Suivant le coup, réfléchir à des séquelles plus ou moins graves par zone.
+
+Toutes les blessures à la tête peuvent impliquer des conséquences à long terme.
+Par zone:
+bras : les blessures aux bras limitent les actions manuelles. Des séquelles peuvent impliquer une faiblesse ou un manque de dextérité futur avec ce bras
+jambes : limitent la mobilité. Les séquelles s'expriment souvent par un boitement plus ou moins prononcé.
+torse : côtes le plus souvent (notamment pour les cas peu graves), puis les poumons et/ou le coeur pour les cas les plus graves. Séquelles respiratoires potentielles (très grave), ou simplement cosmétiques.
+ventre : au début gras et/ou muscles, en cas de blessure grave, organes internes touchés. Peu de vrais séquelles, mais un très fort risque d'infection (toute blessure grave et + devrait impliquer un risque important de gangrène mortelle).
+Tête : superficialle : cicatrice bénine, avec un éventuel effet sur le social; légère : trauma cranien léger ou oreille endommagé ou cicatrice horrible; grave : trauma cranien moyen, oreille détruite, cicactrice horrible très probable, dents déchaussées; dévastatrice : trauma cranien grave, séquelles très probables à plus ou moins tous les niveaux. Séquelles graves : troubles psycho (post-trauma notamment).
+
+
+Résistance d'une zone : si l'armure n'a pas bloqué le coup, chaque zone a un seuil de résistance:
+léger : 1
+grave : 2
+dévastatrice : 4
+mortel : 6
+La tête a +2 aux seuils, le torse +1, en rason de la structure de ces parties
+
+Ces seuils varient en fonction de la créature. Ceux indiqués ici ne concernent que les humains, et éventuelles espèces équivalentes.
+
+Une arme perforante inflige moins de dégâts (divisés par deux) sur les membres (bras et jambe), mais 1 de plus sur le ventre, le torse et la tête.
+Une arme contondante n'a pas d'effet particulier (bonus à l'équilibrage : les armures sont souvent moins efficaces)
+Une arme tranchante n'a pas d'effet particulier (mais fera souvent plus de dégâts, par contre les armures sont souvent très efficaces).
+
+Une hémorragie : une hémorragie (x) ajoute à chaque tour x points. Quand ces points arrivent à MA+CON, le personnage tombe inconscient. A deux fois cette valeur, il est mort.
+être sonné : un personnage peut tenter de résister à cela via un test de CON+MA, si il échoue, il est considéré comme sonné, et subit un malus de -3 à toutes ses actions.
+
+Tableau des séquelles pouvant arriver à un personnage suite à un coup? si oui, il faut faire un tableau par zone et par type d'attaque (coups critiques de DH par ex). OU alors laisser le MJ seul juge ? option peut-être plus pertinente

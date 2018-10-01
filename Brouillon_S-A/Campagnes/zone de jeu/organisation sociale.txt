@@ -1,0 +1,18 @@
+organisation globale:
+-noblesse (bannerets, divisés en plusieurs rangs)
+-peuple, avec des distinctions suivant la profession.
+
+La noblesse va des bannerets "princiers", avec de grands domaines personnels, aux bannerets mineurs, qui n'ont pas de voix à l'assemblée.
+Les voix à l'assemblée peuvent être héritées (premier fils par défaut), ou obtenues par nomination princière, avec l'accord de l'assemblée. Elles sont représentées par des chevalières au motif simple, et un décret, dont la copie peut théoriquement être trouvée aux archives du prince (certaines copies ont pu disparaitre depuis leur première édition).
+Chaque noble est tenu de servir son suzerain quarante jours par ans, et à cette occasion, de lever les troupes nécessaires sur ses terres. La plupart disposent d'hommes d'arme professionnels afin de défendre leurs terres et mener les troupes levées.
+
+Pour la noblesse, le statut social est le plus souvent lié à la quantité de troupes mobilisables, et leur qualité (qui sont liées à la richesse du domaine évidemment).
+Pour le peuple, la propriété, et la capacité à la défendre sont vues comme les éléments les plus importants : un travailleur agricole sera moins bien considéré qu'un marchand itinérant (à qui appartiennent au moins ses marchandises), qui sera moins considéré qu'une famille de fermiers propriétaires. Le statut d'une maisonnée (entité administrative constituée des individus vivant sous un même toit) est souvent illustré par le nombre d'hommes qu'elle peut fournir à sa communauté pour la défense, et à leurs équipement, qui est payé par la famille.
+
+La base de la société est ainsi la maisonnée : tous les habitants d'une même maison. Cela peut représenter une famille, mais ce n'est pas toujours le cas : certaines maisonnées sont composées de plusieurs familles, d'autres d'une seule branche d'une famille vaste. Un seigneur attend que chaque maisonnée participe à la défense et aux travaux de la communauté, que ce soit par des levées ou des travaux, ils n'hésitent ainsi pas à accorder quelques terres et le droit de fonder une nouvelle maisonnée quand cela est demandé.
+Une maisonnée rurale est souvent assez nombreuse : il peut s'agir de plusieurs familles, dans un grand bâtiment, et les rôles occupés par chacun peuvent être très variés. Une partie des obligations des maisonnées est de fournir du temps de service au suzerain, ce qui signifie dans les campagnes, lui fournir des troupes pendant le printemps et l'été. Leur équipement est payé par la maisonnée elle-même.
+Une maisonnée urbaine est le plus souvent une seule famille, les contraintes, notamment de défense étant plus gérables : le temps de service à la ville peut parfois être racheté, ou être du simple entretien des ouvrages de fortification et de défense, ce qui retire la lourde obligation d'avoir des maisonnées suffisamment grandes pour fournir à tout moment des soldats.
+
+Les aventuriers sont ainsi considérés étrangement : d'une part ils ne possèdent souvent que ce qu'ils portent, ce qui tend à les ranger avec les vagabonds (et donc la lie de la société), mais d'autre part, ils sont souvent des combattants valables, ce qui peut les faire respecter.
+
+

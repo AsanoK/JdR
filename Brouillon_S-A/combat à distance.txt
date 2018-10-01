@@ -1,0 +1,28 @@
+tir: 
+1: ventre
+2-3 : torse
+4 : tête
+5-6 : une jambe
+7-8 : bras droit
+9-10 : bras gauche
+
+Tableau des difficultés pour toucher une cible de taille humaine:
+En-dessous de Portée/5 : tir à bout portant : 1
+jusqu'à portée : tir normal : 2
+jusqu'à portée *2 : tir à portée longue : 3
+jusqu'à portée *3 : tir en cloche : 4
+au-delà de portée *4 : portée extrême : 5
+
+Règle de tir "perdu":
+TODO
+
+Tableau des modificateurs au test de tir pour toucher:
+cible de petite taille : -2
+très petite cible  : -4
+viser une zone : -2
+viser les faiblesse de l'armure : -4
+vents violents : -1 à -4
+cible en mouvement : -1 par tranche de 5m parcourus par la cible lors de sa dernière action. -1 si la cible est en combat rapproché.
+cible immobile : +2 au tir si la cible n'a pas bougée lors de sa dernière action (combattre compte comme ayant bougé pour cela).
+
+

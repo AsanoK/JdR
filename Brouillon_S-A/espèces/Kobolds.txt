@@ -1,0 +1,6 @@
+taille : petite (malus de -2 à tout test basé sur la MA) Utilisation des seuils de dégâts pour petite créature.
+armure naturelle(T/P/C) : 2/1/1 sur toute les zones (secondaires, impassable)
+griffes : portée CàC, VD 0, Pen 1, petites, perforantes.
+Plus une capacité au choix : vol (planage), vision thermographique, long souffle+palmes....
+
+coût : 10PP ?

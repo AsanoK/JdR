@@ -1,0 +1,7 @@
+S'inspirer des plantes existantes (trouver un herbier) et voir comment leurs effets peuvent s'appliquer en terme de règles.
+
+L'herboristerie est la compétence permettant de trouver, de reconnaitre, de récolter, de conserver les plantes pouvant servir pour les tests d'apothicaire.
+Dans une région donnée, on ne trouve évidemment pas tout les types de plantes dans la nature, et celles de la région ne se trouvent pas non plus partout (exemple : certaines ne se trouveront qu'en bord de cours d'eau, d'autres que dans des zones marécageuses).
+
+Un test d'INT+herboristerie permet de trouver un nombre de plantes égal au résultat du test. Celles-ci sont choisies par le MJ après avoir entendu quelles plantes étaient les plus recherchées par le PJ, et avoir regardé les plantes pouvant être trouvées dans la zone. Un test de ce type dure une heure environ.
+Il est aussi possible de tenter un test "passif", en regardant ce qui se trouve aux abords d'une route prise par les personnages. En ce cas, le personnage réalise un test normal, avec les même résultats, mais un test dure deux heures.

@@ -1,0 +1,11 @@
+déjà écrits: noble, grand, don avec les animaux, beau, robuste, sens affutés.
+Mémoire parfaite (4) :le personnage réussi automatiquement les tests de mémoire demandés.
+lettré (4) : le personnage sait lire et écrire, quoique l'orthographe ne soit pas toujours le même d'une personne à l'autre. On partira le plus souvent du principe selon lequel le personnage peut écrire dans toutes les langues qu'il parle, à partir du moment où celles-ci ont des formes écrites.
+protecteur (8) : Le personnage est aidé par quelqu'un de puissant, qui peut, parfois, l'aider. Attention ce genre de service n'est pas forcément gratuit.
+Monsieur tout le monde (3) : le personnage est d'apparence assez banale, et les tests de mémoire pour se souvenir de lui s'effectuent avec un malus de -2.
+camarades (5) : Le personnage fait partie d'une organisation, comme une corporation par exemple. Il en tire les bénéfices, mais doit également payer des taxes supplémentaires par exemple. 
+pied marin (3) : le personnage ne subit jamais de malus dû au mal de mer ou au fait de se déplacer sur le pont d'un navire, sauf dans les mers les plus extrêmes.
+bonne cicatrisation (5) : le personnage guérit 25% plus vite de ses blessures. Cumulatif avec toutes les réductions de temps de guérison.
+prudent (10) : le personnage n'est jamais totalement pris par surprise, et peut donc toujours agir dans ce cas, il peut également toujours tenter un test de perception pour répérer un problème.
+mariage heureux ---ATTENTE DES REGLES DE STRESS---
+

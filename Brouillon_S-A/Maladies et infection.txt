@@ -1,0 +1,29 @@
+médecine : identification des maladies, connaissance du corps humain, des remèdes. Il s'agit plus de la théorie médicale.
+apothicaire : réalisation d'un remède à base de plantes, de minéraux.... Permet éventuellement de connaître le bon remède à un problème donné (s'il est courant)
+chirurgie : réalisation d'une intervention directe : réduction de fracture, ablation, amputation, extraction, saignée.... Peut (va) causer des dommages au patient.
+herboristerie : permet de fournir certains éléments à l'apothicaire, de reconnaître des plantes, mais aussi potentiellement de bénéficier de remèdes de grand-mères.
+Premiers soins : gérer une blessure ouverte, stabiliser l'état d'un blessé (principalement de la traumato).
+
+Chaque maladie : un vecteur, une difficulté pour résister à l'infection, puis les règles détaillées de chacune. La difficulté d'une même maladie peut varier suivant la souche (décision du MJ, ne devrait pas changer de plus de 1).
+Résistance réalisée avec MA+CHA.
+
+Effets possibles:
+-affaiblissement : le personnage subit des effets de fatigue (états ou points)
+-santé : le personnage subit des effets de blessure. Ceux-ci peuvent être impossibles à soigner plus rapidement sans les bonnes plantes (exemple si le problème est au reins, il faut utiliser des plantes améliorant leur fonctionnement). On parle de dommages internes ou externes. La chirurgie peut commettre les deux à la fois.
+-incapacité : le personnage perd (momentanément ou définitivement) l'usage d'un membre, et ce tant qu'il est malade.
+-douleurs : le personnage subit des malus à tous ses jets sur un ou plusieurs membres.
+-Apparence : le personnage malade peut subir des stigmates sociaux, permanents ou temporaires : une maladie peut être socialement connotée ou ses symptomes peuvent être désagréables pour les interlocuteurs (problèmes de peaux, de digestion...)
+
+
+Pour les soigner, il faut:
+-identifier le problème (test de médecine)
+-savoir comment traiter le problème ou ses symptomes
+-réaliser les tests d'apothicaire ou de médecine ou de chirurgie nécessaires
+
+
+
+Le test de résistance peut voir sa difficulté modifiée par l'environnement : une pièce très sale peut augmenter grandement les chances d'attraper une infection. Inversement, de très bonnes conditions de soins peuvent limiter grandement ces risques.
+
+exemple de maladies:
+-grippe (difficulté 2) :incubation 2 jours. S'attrape par contact avec une personne malade. premier jour : -1 à touts les tests (douleurs musculaires). Les jours suivants : 3 niveaux de fatigue automatiques. Dure par défaut 5 jours - le nombre de réussites au test initial.
+-gangrène (difficulté 4) : s'attrape par une blessure non cicatrisée qui s'infecte. Chaque jour, un point de blessure cumulatif est infligé. A partir du début, malus de -2 à tous les tests avec le membre infecté (à tout si c'est la tête ou le torse). Un test de chirurgie, de médecine ou d'apothicaire difficile (4) peut permettre de stopper l'infection à ce stade (attention, la blessure pourrait à nouveau s'infecter, un seul test de chaque type autorisé). Une fois qu'une blessure légère est infligée, le membre devient invalide et le patient subit de grosses fièvres (2 niveaux de fatigue). A ce moment, il faut un test de chirugie difficile(4) pour amputer le membre ou très difficile (5) pour ne pas tout couper. Attention, une amputation est une blessure grave et présente des risques d'hémorragie.
