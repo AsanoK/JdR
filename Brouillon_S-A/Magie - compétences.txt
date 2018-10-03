@@ -31,7 +31,6 @@ rituels faisables :
 -condition : modifie un rituel existant pour lui ajouter une conditions de déclenchement. Lorsque celles-ci sont réalisées, le sort se déclenche, et ce, tant que le réceptacle existe. Un réceptacle est un objet servant de lien entre le lanceur et le sort inactif. Il est possible pour quelqu'un de suivre ce lien. Enchantement+CON
 -contresort : permet de défaire une condition, un rituel, un envoûtement..... Bref un effet magique actif. Suivant les cas, il faut le faire en même temps, ou l'on dispose de tout le temps que l'on souhaite. Enchantement+CON faec à compétence+CON du lanceur adverse.
 -nécromancie ? pas fixé pour celui-ci.
-
 Le système de compétences permet évidemment de cumuler plusieurs types de magie sur un personnage.
 
 Les compétences de magie ont des spécialités par action:
