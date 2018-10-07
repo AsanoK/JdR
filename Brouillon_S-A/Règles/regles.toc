@@ -67,12 +67,14 @@
 \contentsline {subsubsection}{Langue()}{13}
 \contentsline {subsubsection}{M\IeC {\'e}decine}{13}
 \contentsline {subsection}{\numberline {1.4.6}Magie}{13}
-\contentsline {subsubsection}{Occultisme()*}{13}
-\contentsline {subsubsection}{Kin\IeC {\'e}sie()*}{13}
-\contentsline {subsubsection}{Shamanisme*}{13}
+\contentsline {subsubsection}{Sorcellerie}{13}
+\contentsline {subsubsection}{Enchantement*}{13}
+\contentsline {subsubsection}{Symbolisme}{13}
 \contentsline {subsubsection}{Th\IeC {\'e}urgie}{13}
 \contentsline {subsection}{\numberline {1.4.7}Religion}{13}
 \contentsline {subsubsection}{Liturgie*}{13}
+\contentsline {subsubsection}{Rites*}{13}
+\contentsline {subsubsection}{Volont\IeC {\'e}}{13}
 \contentsline {chapter}{\numberline {2}R\IeC {\`e}gles d\IeC {\'e}taill\IeC {\'e}es}{15}
 \contentsline {section}{\numberline {2.1}L'aventure}{15}
 \contentsline {subsection}{\numberline {2.1.1}Fatigue}{15}
@@ -200,7 +202,7 @@
 \contentsline {subsubsection}{jongleur}{32}
 \contentsline {subsubsection}{matelot}{32}
 \contentsline {subsubsection}{novice}{32}
-\contentsline {subsubsection}{page}{32}
+\contentsline {subsubsection}{page}{33}
 \contentsline {subsubsection}{vendeur}{33}
 \contentsline {subsubsection}{voleur}{33}
 \contentsline {subsection}{\numberline {3.2.3}Profession}{33}
@@ -210,18 +212,18 @@
 \contentsline {subsubsection}{bucheron}{33}
 \contentsline {subsubsection}{chasseur de primes}{33}
 \contentsline {subsubsection}{chef de bande}{33}
-\contentsline {subsubsection}{commer\IeC {\c c}ant}{33}
+\contentsline {subsubsection}{commer\IeC {\c c}ant}{34}
 \contentsline {subsubsection}{compagnon}{34}
 \contentsline {subsubsection}{dresseur}{34}
 \contentsline {subsubsection}{\IeC {\'e}claireur}{34}
+\contentsline {subsubsection}{enchanteur}{34}
 \contentsline {subsubsection}{\IeC {\'e}rudit}{34}
 \contentsline {subsubsection}{espion}{34}
 \contentsline {subsubsection}{forestier}{34}
-\contentsline {subsubsection}{garde}{34}
+\contentsline {subsubsection}{garde}{35}
 \contentsline {subsubsection}{guerrier}{35}
 \contentsline {subsubsection}{homme d\IeC {\textquoteright }arme}{35}
 \contentsline {subsubsection}{lutteur}{35}
-\contentsline {subsubsection}{mage}{35}
 \contentsline {subsubsection}{marin}{35}
 \contentsline {subsubsection}{moine}{35}
 \contentsline {subsubsection}{pi\IeC {\'e}ton}{35}
@@ -248,7 +250,7 @@
 \contentsline {subsubsection}{bonne cicatrisation (5) }{37}
 \contentsline {subsubsection}{prudent (10) }{37}
 \contentsline {subsection}{\numberline {3.3.2}D\IeC {\'e}savantages}{37}
-\contentsline {subsubsection}{ath\IeC {\'e}e (10) }{37}
+\contentsline {subsubsection}{ath\IeC {\'e}e (10) }{38}
 \contentsline {subsubsection}{recherch\IeC {\'e} (5 \IeC {\`a} 15) }{38}
 \contentsline {subsubsection}{laid/d\IeC {\'e}figur\IeC {\'e} (5) }{38}
 \contentsline {subsubsection}{maladif (10) }{38}

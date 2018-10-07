@@ -1,0 +1,8 @@
+ENFANCE
+esclavage
+FORMATION
+ajouter un truc à apprenti pour correspondre à un apothicaire/médecin
+PROFESSION
+médecin
+messager
+apothicaire
