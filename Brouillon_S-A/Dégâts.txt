@@ -1,0 +1,4 @@
+Dégâts d'une attaque:
+Marge de réussite de l'attaque + VD de l'arme utilisée contre l'armure de la zone touchée.
+
+Au corps à corps, on ajoute le bonus de dégâts du personnage
