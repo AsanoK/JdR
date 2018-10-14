@@ -1,0 +1,6 @@
+monde natal : colonie pénale(2)
+commandement : colérique (2)
+type de régiment : régiment de récupération (3)
+défauts : cloud of suspicion (-3)
+doctrines : sappeurs (3), combat drugs(2), combattants endurcis (2)
+kit:carabine laser (5), auspex(10), 9-70(3), accordion wire (5), snare mine (8)

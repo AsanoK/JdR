@@ -1,9 +1,13 @@
 ENFANCE
 esclavage
+
 FORMATION
 infirmier (médecin champ de bataille)
 ajouter un truc à apprenti pour correspondre à un apothicaire/médecin
+
+
 PROFESSION
 médecin
 messager
 apothicaire
+roublard?
