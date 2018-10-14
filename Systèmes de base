@@ -1,0 +1,19 @@
+D100:
+lancé d'1d100<score
+Simple, rapide à expliquer
+
+D20:
+1d20+bonus contre seuil
+simple, les bonus peuvent être touchy
+
+réussites:
+xdn, chaque dé ayant un certain résultat est une réussite
+très bien pour les tests en opposition, lourd pour les tests normaux
+
+fixe
+xdn+ bonus éventuels, certains résultats impliquent une réussite, d'autre non
+
+somme:
+xdn, on somme le résultat (on peut ne pas garder tous les dés non plus), et on compare à un seuil.
+assez lourd à mettre en place
+
