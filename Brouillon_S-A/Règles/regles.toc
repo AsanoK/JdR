@@ -32,6 +32,7 @@
 \contentsline {subsubsection}{\IeC {\'e}quitation}{10}
 \contentsline {subsubsection}{natation}{10}
 \contentsline {subsubsection}{escalade}{10}
+\contentsline {subsubsection}{Gymnastique}{11}
 \contentsline {subsubsection}{athl\IeC {\'e}tisme}{11}
 \contentsline {subsubsection}{attelage}{11}
 \contentsline {subsubsection}{navigation}{11}
@@ -46,8 +47,8 @@
 \contentsline {subsubsection}{Jeu()}{11}
 \contentsline {subsubsection}{Musique()}{11}
 \contentsline {subsubsection}{Commandement}{11}
-\contentsline {subsection}{\numberline {1.4.4}Aventure}{11}
-\contentsline {subsubsection}{Discr\IeC {\'e}tion}{11}
+\contentsline {subsection}{\numberline {1.4.4}Aventure}{12}
+\contentsline {subsubsection}{Discr\IeC {\'e}tion}{12}
 \contentsline {subsubsection}{Crochetage }{12}
 \contentsline {subsubsection}{Chasse}{12}
 \contentsline {subsubsection}{Perception}{12}
@@ -56,19 +57,18 @@
 \contentsline {subsubsection}{Escamotage}{12}
 \contentsline {subsubsection}{Contact animal ()}{12}
 \contentsline {subsubsection}{Survie}{12}
-\contentsline {subsubsection}{Gymnastique}{12}
 \contentsline {subsubsection}{Premiers soins}{12}
-\contentsline {subsubsection}{Chirurgie }{12}
+\contentsline {subsubsection}{Chirurgie* }{12}
 \contentsline {subsubsection}{Herboristerie}{12}
 \contentsline {subsection}{\numberline {1.4.5}Savoirs}{13}
 \contentsline {subsubsection}{Connaissances()*}{13}
 \contentsline {subsubsection}{Culture g\IeC {\'e}n\IeC {\'e}rale()}{13}
 \contentsline {subsubsection}{Gestion()}{13}
 \contentsline {subsubsection}{Langue()}{13}
-\contentsline {subsubsection}{M\IeC {\'e}decine}{13}
+\contentsline {subsubsection}{M\IeC {\'e}decine*}{13}
 \contentsline {subsection}{\numberline {1.4.6}Magie}{13}
-\contentsline {subsubsection}{Sorcellerie}{13}
-\contentsline {subsubsection}{Enchantement*}{13}
+\contentsline {subsubsection}{Sorcellerie*}{13}
+\contentsline {subsubsection}{Enchantement()*}{13}
 \contentsline {subsubsection}{Symbolisme}{13}
 \contentsline {subsubsection}{Th\IeC {\'e}urgie}{13}
 \contentsline {subsection}{\numberline {1.4.7}Religion}{13}
