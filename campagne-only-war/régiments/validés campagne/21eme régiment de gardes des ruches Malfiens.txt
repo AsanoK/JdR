@@ -1,0 +1,10 @@
+Monde natal : monde ruche(3)
+commandement:bilieu(2)
+type de régiment:infanterie mécanisée (3)
+défauts: rivalité régimentaire(2)
+doctrines:antichar(4), combattants endurcis(2)
+kit régimentaire:stimm et injecteur(8), chrono(2), auspex(10), respirateur(8).
+
+surnom : les explorateurs
+armes spéciale favorite : lance-flammes
+arme lourde favorite : lance-missile
