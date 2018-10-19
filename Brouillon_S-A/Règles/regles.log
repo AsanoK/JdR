@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  15 OCT 2018 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  19 OCT 2018 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,103 +624,108 @@ Underfull \hbox (badness 1603) in paragraph at lines 747--748
  []
 
 [25]
-Underfull \hbox (badness 2460) in paragraph at lines 765--767
+Overfull \hbox (72.03328pt too wide) in paragraph at lines 764--791
+[][] 
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 798--800
 \T1/cmr/m/n/10 Il est pos-si-ble de porter plusieurs épais-seurs
  []
 
-[26]
-Underfull \hbox (badness 1490) in paragraph at lines 808--809
+[26] [27]
+Underfull \hbox (badness 1490) in paragraph at lines 841--842
 \T1/cmr/m/n/10 Utilisation de la struc-ture lamel-laire (lamelles
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 808--809
+Underfull \hbox (badness 3514) in paragraph at lines 841--842
 \T1/cmr/m/n/10 rel-a-tive-ment basique, mais plutôt ef-fi-cace et
  []
 
-[27] [28
+[28] [29
+
+] [30
 
 ]
 Chapter 3.
 
-Underfull \hbox (badness 2012) in paragraph at lines 829--835
+Underfull \hbox (badness 2012) in paragraph at lines 862--868
 []\T1/cmr/m/n/10 Il faut choisir en pre-mier lieu un pack-age
  []
 
-[29
-
-]
-Underfull \hbox (badness 4217) in paragraph at lines 868--870
+[31]
+Underfull \hbox (badness 4217) in paragraph at lines 901--903
 \T1/cmr/m/n/10 L'enfance du per-son-nage n'est pas vrai-ment
  []
 
-[30]
-Underfull \hbox (badness 1038) in paragraph at lines 903--905
+[32]
+Underfull \hbox (badness 1038) in paragraph at lines 936--938
 \T1/cmr/m/n/10 Le per-son-nage a étudié la magie auprès d'un
  []
 
-[31]
-Underfull \hbox (badness 1377) in paragraph at lines 918--920
+[33]
+Underfull \hbox (badness 1377) in paragraph at lines 951--953
 \T1/cmr/m/n/10 Le per-son-nage a passé l'adolescence avec une
  []
 
-[32]
-Underfull \hbox (badness 1635) in paragraph at lines 953--955
+[34]
+Underfull \hbox (badness 1635) in paragraph at lines 986--988
 \T1/cmr/m/n/10 Le per-son-nage dirige des ac-tiv-ités crim-inelles,
  []
 
-[33]
-Underfull \hbox (badness 1168) in paragraph at lines 975--977
+[35]
+Underfull \hbox (badness 1168) in paragraph at lines 1008--1010
 \T1/cmr/m/n/10 tromperie. cer-tains l'ont bien com-pris et de
  []
 
-[34]
-Underfull \hbox (badness 1803) in paragraph at lines 997--999
+[36]
+Underfull \hbox (badness 1803) in paragraph at lines 1030--1032
 \T1/cmr/m/n/10 règne générale-ment, même si la poli-tique in-
  []
 
-[35]
-Underfull \hbox (badness 1152) in paragraph at lines 1003--1005
+[37]
+Underfull \hbox (badness 1152) in paragraph at lines 1036--1038
 \T1/cmr/m/n/10 Chaque re-li-gion a ses prêtres, qui in-ter-cè-dent
  []
 
-[36]
-Underfull \hbox (badness 7116) in paragraph at lines 1047--1048
+[38]
+Underfull \hbox (badness 7116) in paragraph at lines 1080--1081
 \T1/cmr/m/n/10 Le per-son-nage sait lire et écrire, quoique
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1053--1054
+Underfull \hbox (badness 2573) in paragraph at lines 1086--1087
 \T1/cmr/m/n/10 Le per-son-nage fait par-tie d'une or-gan-i-sa-tion,
  []
 
-[37]
-Underfull \hbox (badness 1803) in paragraph at lines 1065--1066
+[39]
+Underfull \hbox (badness 1803) in paragraph at lines 1098--1099
 \T1/cmr/m/n/10 Le per-son-nage est recher-ché par une fac-tion,
  []
 
-[38]
+[40]
 Chapter 4.
-[39
-
-] [40
-
-] [41
-
+[41
 
 ] [42
 
+] [43
 
-] (./regles.toc [43] [44])
+
+] [44
+
+
+] (./regles.toc [45] [46])
 \tf@toc=\write3
 \openout3 = `regles.toc'.
 
- [45] (./regles.aux) ) 
+ [47] (./regles.aux) ) 
 Here is how much of TeX's memory you used:
- 1745 strings out of 494880
- 18067 string characters out of 6179600
- 75141 words of memory out of 5000000
- 5064 multiletter control sequences out of 15000+600000
+ 1746 strings out of 494880
+ 18079 string characters out of 6179600
+ 81141 words of memory out of 5000000
+ 5065 multiletter control sequences out of 15000+600000
  19289 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  27i,8n,24p,896b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -735,10 +740,10 @@ fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/antoine/.texlive2017/texmf-v
 ar/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/antoine/.texlive2017/texm
 f-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on regles.pdf (45 pages, 231305 bytes).
+Output written on regles.pdf (47 pages, 232742 bytes).
 PDF statistics:
- 560 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
+ 566 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
