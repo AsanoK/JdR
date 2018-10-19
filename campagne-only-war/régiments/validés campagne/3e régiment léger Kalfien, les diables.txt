@@ -1,0 +1,9 @@
+monde natal:mortel(3)
+commandement:phlegmatic(1)
+type de régiment:infanterie légère (2)
+défaut: cloud of suspicion(inquisition - 3)
+doctrines:monture de cavalerie (5), tirailleurs(4)
+kit régimentaire:sabre de cavalerie(5), 2 semaines de rations supplémentaires(3), chrono(2), 2 grenades à fragmentations supplémentaires(10), magnocular(8), couteau supplémentaire(2), pistolet laser et 2 chargeurs(5).
+
+arme spéciale favorite : lance-grenades
+arme lourde favorite : autocanon
