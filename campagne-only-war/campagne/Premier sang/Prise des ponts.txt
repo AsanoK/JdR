@@ -1,4 +1,4 @@
-Objectif principal :
+﻿Objectif principal :
 -prendre le maximum de pont traversant la ville
 -tenir ces ponts, et la tête de pont de l'autre côté jusqu'à l'arrivée de la relève, devant arriver entre 1 et 2 jours plus tard en théorie
 
@@ -32,10 +32,11 @@ En cas d'échec, aller au 6.
 Le premier assaut complètement repoussé, les troupes impériales vont tenter de manoeuvrer différemment avec la seconde vague : un seul pont sera assailli, par toutes les troupes disponibles, qui tenteront de submerger la défense ennemie.
 rencontre : une défense tenace et concentrée, et des combats rapprochés violents.
 En cas de réussite, aller au 7, sans préparation.
+
 7 : tenir le pont
 En fin de journée, une première contre-offensive ennemie s'est organisée pour tenter de bloquer l'avancée impériale, voire leur reprendre du terrain. Il s'agit d'un détachement motorisé léger, avec un soutien d'artillerie légère.
 Si les PJs ont de la chance, ils ont eu le temps de s'y préparer, et disposent d'une défense bien organisée. Dans le cas contraire, cette attaque peut les prendre par surprise au cours même de leur prise du pont.
-recontre : un groupe motorisé, avec des mortiers en soutien, s'avance par la route principale pour reprendre le pont.
+rencontre : un groupe motorisé, avec des mortiers en soutien, s'avance par la route principale pour reprendre le pont.
 En cas de réussite, passer au 8
 En cas d'échec, passer au 6,  sauf si la journée est déjà trop engagée, auquel cas, passer au 9
 
@@ -54,10 +55,12 @@ Les troupes impériales n'arrivant pas à avancer, elles décident d'attendre la
 Il s'agit ici d'une tentative d'infiltration nocturne, afin de saboter les ponts. Ue fois celle-ci faite, le régiment devra soutenir l'offensive impériale principale le long de la rivière.
 rencontre : les troupes adverses en ligne défensive, qu'il faudra infiltrer.
 En cas de réussite ou d'échec, passer au 11
+
 10 : la relève 
 Les troupes de la seconde vague arrivent pour profiter de la tête de pont formée, et relever les PJs. Ceux-ci peuvent alors se reposer quelques temps avant la suite de l'offensive impériale.
 rencotnres :rien, les troupes ennemies sont globalement battues.
 La seconde vague est formée principalement de ????
+
 11 : la cavalerie arrive
 Les troupes de la seconde vague arrivent et doivent s'emparer des ponts. Cela ne les ravit pas vraiment, mais elles n'ont pas vraiment le choix.
 Suivant l'état des ponts, l'offensive se fera vers l'un d'eux ou dans le creux de la rivière. Dans tous les cas, les PJs feront parti de l'assaut, ayant une mielleure connaissance du terrain et du dispositif adverse.
