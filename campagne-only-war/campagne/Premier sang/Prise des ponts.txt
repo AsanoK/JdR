@@ -15,6 +15,7 @@ DEJA FAIT, réussi, mène à 2
 Les forces de l'ennemi commencent à se réorganiser après l'offensive impériale, et commencent à former une ligne défensive le long de l'objectif principal : des détachements adverses sont déployés, et ont formé une ligne fortifiée improvisée au milieu des décombres.
 Par ailleurs, des positions de DCA commencent à se mettre en place, protégé à des points forts du dispositif.
 Rencontre : la compagnie PJ se heurte à des effectifs ennemis importants, de qualité très diverse, sur des positions urbaines. Le QG avancé de l'ennemi se situe dans un vieux bâtiment industriel. Deux positions de DCA commencent à être installées sur des positions hautes : une dans un champ, l'autre sur un toit plat.
+ACTUELLEMENT LA, entre les ponts 2 et 3
 Si les PJs brisent la résistance adverse complètement, passer au 4. Si les combats sont longs passer au 5. En cas d'échec de l'offensive, passer au 6.
 
 4 : prendre et tenir
@@ -66,3 +67,18 @@ Les troupes de la seconde vague arrivent et doivent s'emparer des ponts. Cela ne
 Suivant l'état des ponts, l'offensive se fera vers l'un d'eux ou dans le creux de la rivière. Dans tous les cas, les PJs feront parti de l'assaut, ayant une mielleure connaissance du terrain et du dispositif adverse.
 rencontre : les troupes ennemies restantes
 En cas de réussite, l'offensive impériale pourra continuer, avec un retard certain (dépendant de la suite d'actions menant à ce point). En cas d'échec, un plan de contournement de la position est envisagé, pour ensuite reprendre la ville à revers. Cela ne se fera probablement pas avant J+3 voire J+4 cependant, ce qui mettra en péril les troupes impériales face à la contre-offensiv prévue
+
+
+TIMELINE des mouvements de l'ennemi
+T (1h du matin) : subir un raid aérien massif, grosse désorganisation
+T+1(2h) : perte du sablier devant la première vague impériale, les officiers essaient de retrouver leurs troupes et de les rallier.
+T+3(4h) : premières patrouilles envoyées en ville afin de tâter le terrain. Début d'organisation d'une ligne défensive, peu d'armes lourdes, pas de soutien. La ligne s'improvise le long de la rivière. DCA en place ceci dit.
+ACTUEL T+4(5h)
+T+5(6h) : aube, la ligne commence à bien s'ancrer, avec des sacs de sable, etc. Les mortiers commencent à être mis en place autour des points stratégiques afin de soutenir la ligne défensive.
+T+15(16h) : première contre-offensive, avec des unités mécanisée venue de la capitale. L4offensive majeure se prépare là-bas.
+T+20(21h) : premiers renforts organisés, des offensives limitées sont montées pour tenir les impériaux sur les dents. Moment théorique pour les premiers renforts impériaux.
+T+30(J+1,7h) : offensive matinale, pour déloger les troupes impériales. La contre-offensive majeure commence à avancer vers le front.
+T+42(J+1,19h) : envoi d'éclaireurs pour observer la ligne impériale, et ses points faibles. 
+T+57(J+2,10h) : arrivée des troupes de la contre-offensive majeure. Arrivée des derniers renforts impériaux de la seconde vague.
+T+65 (J+2,18h) : début de l'artillerie en préparation de la vague du lendemain. Artillerie de campagne
+T+80 (J+3, 7h): début de la grande contre-offensive ennemie, impliquant toute la population de la planète, avec des troupes hérétiques mieux éqquipées et entrainées face aux points faibles impériaux.
