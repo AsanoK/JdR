@@ -7,3 +7,11 @@ kit régimentaire:sabre de cavalerie(5), 2 semaines de rations supplémentaires(
 
 arme spéciale favorite : lance-grenades
 arme lourde favorite : multi-laser
+
+Monture:
+diables des sables
+compétences: discrétion(1)
+talents:leap up(1), sprint(1)
+traits:maître du terrain(1), endurant(1), quadrupèdes(1), armure naturelle 3 (1)
+armes:acérées(2)
+blessures : 18

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  19 OCT 2018 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.22)  23 OCT 2018 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -451,34 +451,57 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-] (./regles.toc) [3] [4
+] (./regles.toc [3] [4]) [5] [6
 
 
-] [5
-
-] [6
+] [7
 
 ]
+[8] [9
+
+
+
+] [10]
 Chapter 1.
 
-Underfull \vbox (badness 1308) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 2035) in paragraph at lines 52--56
 \T1/cmr/m/n/10 : leur ob-jec-tif, leur seuil et leur in-ter-valle.
  []
 
-[7]
+[11
+
+
+] [12
+
+]
+Chapter 2.
+
 Underfull \hbox (badness 2393) in paragraph at lines 76--78
 \T1/cmr/m/n/10 L'habileté est la ca-pac-ité d'un per-son-nage à
  []
 
-[8]
+[13
+
+] [14
+
+]
+Chapter 3.
+[15
+
+
+] [16
+
+]
+Chapter 4.
+
 Underfull \hbox (badness 1102) in paragraph at lines 108--112
 \T1/cmr/m/n/10 ser-vent aux dif-férents types d'armes : lames,
  []
 
-[9]
+[17]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 136.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -491,7 +514,7 @@ Underfull \hbox (badness 1997) in paragraph at lines 141--145
 \T1/cmr/m/n/10 d'athlétisme+END. Un test d'équitation+HAB
  []
 
-[10]
+
 Underfull \hbox (badness 2384) in paragraph at lines 175--176
 []\T1/cmr/m/n/10 Enfin, un per-son-nage es-cal-adant une paroi
  []
@@ -501,15 +524,17 @@ Underfull \hbox (badness 1014) in paragraph at lines 175--176
 \T1/cmr/m/n/10 subit un malus de -1 par tranche de 5 ki-los
  []
 
-[11] [12]
+[18] [19] [20]
 Underfull \hbox (badness 3250) in paragraph at lines 238--239
 \T1/cmr/m/n/10 Ensemble des con-nais-sances pra-tiques et des
  []
 
-[13] [14
+[21] [22
 
-]
-Chapter 2.
+] [23
+
+] [24]
+Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 279--280
 []\T1/cmr/m/n/10 coma : Le per-son-nage tombe dans
@@ -523,32 +548,56 @@ Underfull \hbox (badness 4846) in paragraph at lines 279--280
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
+ [25
+
+
+]
+[26
+
+]
+Chapter 6.
+
 Underfull \hbox (badness 1210) in paragraph at lines 333--334
 \T1/cmr/m/n/10 con-séquence di-recte. Peut éventuelle-ment
  []
 
-[16]
+
 Underfull \hbox (badness 3209) in paragraph at lines 340--341
 []\T1/cmr/m/n/10 Un coup in-flige une blessure si après les
  []
 
+[27
 
+]
 Underfull \hbox (badness 1043) in paragraph at lines 374--375
 []\T1/cmr/m/n/10 Les ef-fets, c'est l'ensemble des con-séquences
  []
 
-[17]
+
 Underfull \hbox (badness 2189) in paragraph at lines 402--403
 []\T1/cmr/m/n/10 Par ailleurs, les dif-férentes com-pé-tences de
  []
 
-
+[28]
 Underfull \hbox (badness 1043) in paragraph at lines 407--408
 []\T1/cmr/m/n/10 Médecine : per-met de lim-iter les risques
  []
 
-[18]
+[29
+
+] [30
+
+]
+Chapter 7.
+[31] [32
+
+]
+Chapter 8.
+[33] [34
+
+]
+Chapter 9.
+
 Underfull \hbox (badness 1314) in paragraph at lines 496--497
 \T1/cmr/m/n/10 un test en op-po-si-tion en-tre la VIT+arme de
  []
@@ -558,7 +607,7 @@ Underfull \hbox (badness 2932) in paragraph at lines 500--501
 []\T1/cmr/m/n/10 En cas d'échec, le défenseur peut dé-cider
  []
 
-[19]
+
 Underfull \hbox (badness 2310) in paragraph at lines 516--520
 \T1/cmr/m/n/10 posé de Corps à corps + VIT, et de con-
  []
@@ -573,177 +622,240 @@ Underfull \hbox (badness 1221) in paragraph at lines 516--520
 \T1/cmr/m/n/10 mêlée nor-male (les valeurs de dégâts des po-
  []
 
-
+[35]
 Overfull \hbox (134.89032pt too wide) in paragraph at lines 540--549
  [] 
  []
 
-[20]
-Underfull \hbox (badness 1342) in paragraph at lines 604--605
+[36] [37
+
+] [38
+
+]
+Chapter 10.
+
+Underfull \hbox (badness 1342) in paragraph at lines 610--611
 \T1/cmr/m/n/10 De nom-breuses amulettes, tal-is-mans et autres
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 604--605
+Underfull \hbox (badness 1924) in paragraph at lines 610--611
 \T1/cmr/m/n/10 portes-bonheurs sont fréquem-ment util-isés par
  []
 
-[21]
-Underfull \hbox (badness 5862) in paragraph at lines 608--609
+
+Underfull \hbox (badness 5862) in paragraph at lines 614--615
 []\T1/cmr/m/n/10 Une amulette a égale-ment un coût, qui
  []
 
-[22]
-Underfull \hbox (badness 1178) in paragraph at lines 641--642
+[39]
+Underfull \hbox (badness 1178) in paragraph at lines 647--648
 []\T1/cmr/m/n/10 Chaque élé-ment est une spé-cial-ité dif-férente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 \T1/cmr/m/n/10 : en-chante-ment (py-rokinésie) et en-chante-
  []
 
+[40] [41] [42
 
-Underfull \hbox (badness 1540) in paragraph at lines 675--676
-\T1/cmr/m/n/10 La re-li-gion per-met à un per-son-nage re-ligieux
- []
+]
+Chapter 11.
 
-[23]
-Underfull \hbox (badness 1742) in paragraph at lines 689--690
+Underfull \hbox (badness 1742) in paragraph at lines 695--696
 \T1/cmr/m/n/10 Les céré-monies courantes sont des céré-monies
  []
 
-
-Underfull \hbox (badness 1694) in paragraph at lines 715--716
+[43]
+Underfull \hbox (badness 1694) in paragraph at lines 721--722
 []\T1/cmr/m/n/10 Des vi-sions pour-ront don-ner au per-son-nage
  []
 
-[24]
-Underfull \hbox (badness 1603) in paragraph at lines 747--748
+[44]
+Chapter 12.
+
+Underfull \hbox (badness 1603) in paragraph at lines 753--754
 \T1/cmr/m/n/10 Comme in-diqué précédem-ment, il ex-iste deux
  []
 
-[25]
-Overfull \hbox (72.03328pt too wide) in paragraph at lines 764--791
+[45
+
+]
+Overfull \hbox (72.03328pt too wide) in paragraph at lines 770--797
 [][] 
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 798--800
+Underfull \hbox (badness 2460) in paragraph at lines 809--811
 \T1/cmr/m/n/10 Il est pos-si-ble de porter plusieurs épais-seurs
  []
 
-[26] [27]
-Underfull \hbox (badness 1490) in paragraph at lines 841--842
+[46] [47] [48]
+Underfull \hbox (badness 1490) in paragraph at lines 913--914
 \T1/cmr/m/n/10 Utilisation de la struc-ture lamel-laire (lamelles
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 841--842
+Underfull \hbox (badness 3514) in paragraph at lines 913--914
 \T1/cmr/m/n/10 rel-a-tive-ment basique, mais plutôt ef-fi-cace et
  []
 
-[28] [29
 
-] [30
+Underfull \vbox (badness 1248) has occurred while \output is active []
 
-]
-Chapter 3.
+ [49]
+[50
 
-Underfull \hbox (badness 2012) in paragraph at lines 862--868
+] [51
+
+
+] [52]
+Chapter 13.
+
+Underfull \hbox (badness 2012) in paragraph at lines 934--940
 []\T1/cmr/m/n/10 Il faut choisir en pre-mier lieu un pack-age
  []
 
-[31]
-Underfull \hbox (badness 4217) in paragraph at lines 901--903
+[53
+
+
+
+] [54
+
+]
+Chapter 14.
+[55]
+Underfull \hbox (badness 4217) in paragraph at lines 973--975
 \T1/cmr/m/n/10 L'enfance du per-son-nage n'est pas vrai-ment
  []
 
-[32]
-Underfull \hbox (badness 1038) in paragraph at lines 936--938
+
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+ [56]
+Underfull \hbox (badness 1038) in paragraph at lines 1008--1010
 \T1/cmr/m/n/10 Le per-son-nage a étudié la magie auprès d'un
  []
 
-[33]
-Underfull \hbox (badness 1377) in paragraph at lines 951--953
+[57]
+Underfull \hbox (badness 1377) in paragraph at lines 1023--1025
 \T1/cmr/m/n/10 Le per-son-nage a passé l'adolescence avec une
  []
 
-[34]
-Underfull \hbox (badness 1635) in paragraph at lines 986--988
+[58]
+Underfull \hbox (badness 1635) in paragraph at lines 1058--1060
 \T1/cmr/m/n/10 Le per-son-nage dirige des ac-tiv-ités crim-inelles,
  []
 
-[35]
-Underfull \hbox (badness 1168) in paragraph at lines 1008--1010
+[59]
+Underfull \hbox (badness 1168) in paragraph at lines 1080--1082
 \T1/cmr/m/n/10 tromperie. cer-tains l'ont bien com-pris et de
  []
 
-[36]
-Underfull \hbox (badness 1803) in paragraph at lines 1030--1032
+[60]
+Underfull \vbox (badness 1466) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 1102--1104
 \T1/cmr/m/n/10 règne générale-ment, même si la poli-tique in-
  []
 
-[37]
-Underfull \hbox (badness 1152) in paragraph at lines 1036--1038
+
+Underfull \hbox (badness 1152) in paragraph at lines 1108--1110
 \T1/cmr/m/n/10 Chaque re-li-gion a ses prêtres, qui in-ter-cè-dent
  []
 
-[38]
-Underfull \hbox (badness 7116) in paragraph at lines 1080--1081
+[61] [62]
+Chapter 15.
+
+Underfull \hbox (badness 7116) in paragraph at lines 1152--1153
 \T1/cmr/m/n/10 Le per-son-nage sait lire et écrire, quoique
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1086--1087
+Underfull \hbox (badness 2573) in paragraph at lines 1158--1159
 \T1/cmr/m/n/10 Le per-son-nage fait par-tie d'une or-gan-i-sa-tion,
  []
 
-[39]
-Underfull \hbox (badness 1803) in paragraph at lines 1098--1099
+[63
+
+]
+Underfull \hbox (badness 1803) in paragraph at lines 1170--1171
 \T1/cmr/m/n/10 Le per-son-nage est recher-ché par une fac-tion,
  []
 
-[40]
-Chapter 4.
-[41
+[64] [65
 
-] [42
+] [66
 
-] [43
+] [67
+
+] [68]
+Chapter 16.
+[69
 
 
-] [44
+] [70
+
+]
+Chapter 17.
+[71
 
 
-] (./regles.toc [45] [46])
+] [72
+
+]
+Chapter 18.
+[73
+
+] [74
+
+]
+Chapter 19.
+
+Underfull \hbox (badness 7869) in paragraph at lines 1226--1226
+[]\T1/cmr/bx/n/14.4 Croyances et su-per-sti-
+ []
+
+[75
+
+] [76
+
+] [77
+
+] [78] (./regles.toc [79
+
+
+
+] [80])
 \tf@toc=\write3
 \openout3 = `regles.toc'.
 
- [47] (./regles.aux) ) 
+ [81] (./regles.aux) ) 
 Here is how much of TeX's memory you used:
- 1746 strings out of 494880
- 18079 string characters out of 6179600
- 81141 words of memory out of 5000000
- 5065 multiletter control sequences out of 15000+600000
+ 1751 strings out of 494880
+ 18156 string characters out of 6179600
+ 84141 words of memory out of 5000000
+ 5070 multiletter control sequences out of 15000+600000
  19289 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 27i,8n,24p,896b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,8n,24p,896b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/antoine/.texlive2017/texmf-var/fonts/pk/ljfour/jk
-nappen/ec/ecbx1200.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/ljfour
-/jknappen/ec/ecbx1440.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/ljf
-our/jknappen/ec/ecbx2074.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/
-ljfour/jknappen/ec/ecsl1000.600pk> </home/antoine/.texlive2017/texmf-var/fonts/
-pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/antoine/.texlive2017/texmf-var/fon
+nappen/ec/ecbx1440.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecbx2074.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ecsl1000.600pk> </home/antoine/.texlive2017/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1000.600pk> </home/antoine/.texlive2017/texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/antoine/.texlive2017/texmf-var/fon
 ts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/antoine/.texlive2017/texmf-var/
 fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/antoine/.texlive2017/texmf-v
 ar/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/antoine/.texlive2017/texm
 f-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on regles.pdf (47 pages, 232742 bytes).
+Output written on regles.pdf (81 pages, 260591 bytes).
 PDF statistics:
- 566 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
+ 716 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

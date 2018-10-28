@@ -1,282 +1,97 @@
-\contentsline {chapter}{\numberline {1}R\IeC {\`e}gles de base}{7}
-\contentsline {section}{\numberline {1.1}Lancers de d\IeC {\'e}s}{7}
-\contentsline {subsection}{\numberline {1.1.1}D\IeC {\'e}s utilis\IeC {\'e}s}{7}
-\contentsline {subsection}{\numberline {1.1.2}Tests simples}{7}
-\contentsline {subsection}{\numberline {1.1.3}Tests en opposition}{7}
-\contentsline {subsection}{\numberline {1.1.4}Tests \IeC {\'e}tendus}{7}
-\contentsline {subsection}{\numberline {1.1.5}Notion de ma\IeC {\^\i }trise}{8}
-\contentsline {subsection}{\numberline {1.1.6}Travailler en \IeC {\'e}quipe}{8}
-\contentsline {subsection}{\numberline {1.1.7}Acheter des r\IeC {\'e}ussites}{8}
-\contentsline {section}{\numberline {1.2}Caract\IeC {\'e}ristiques}{8}
-\contentsline {subsection}{\numberline {1.2.1}Masse (MA)}{8}
-\contentsline {subsection}{\numberline {1.2.2}Vitesse (VIT)}{8}
-\contentsline {subsection}{\numberline {1.2.3}Sociabilit\IeC {\'e} (SOC)}{8}
-\contentsline {subsection}{\numberline {1.2.4}Habilet\IeC {\'e} (HAB)}{8}
-\contentsline {subsection}{\numberline {1.2.5}Intuition (INT)}{8}
-\contentsline {subsection}{\numberline {1.2.6}R\IeC {\'e}flexion (REF)}{8}
-\contentsline {subsection}{\numberline {1.2.7}Concentration (CON)}{8}
-\contentsline {subsection}{\numberline {1.2.8}Chance (CHA)}{9}
-\contentsline {section}{\numberline {1.3}Valeurs annexes}{9}
-\contentsline {subsection}{\numberline {1.3.1}Bonus de d\IeC {\'e}g\IeC {\^a}ts (BD):}{9}
-\contentsline {subsection}{\numberline {1.3.2}Endurance(END) :}{9}
-\contentsline {subsection}{\numberline {1.3.3}Jauge de fatigue :}{9}
-\contentsline {subsection}{\numberline {1.3.4}Seuils de blessure :}{9}
-\contentsline {section}{\numberline {1.4}Comp\IeC {\'e}tences}{9}
-\contentsline {subsection}{\numberline {1.4.1}Combat}{9}
-\contentsline {subsubsection}{Arme()}{9}
-\contentsline {subsubsection}{Vis\IeC {\'e}e()}{9}
-\contentsline {subsubsection}{Lancer}{9}
-\contentsline {subsubsection}{d\IeC {\'e}fense}{9}
-\contentsline {subsubsection}{Corps \IeC {\`a} corps}{9}
-\contentsline {subsection}{\numberline {1.4.2}D\IeC {\'e}placement}{10}
-\contentsline {subsubsection}{\IeC {\'e}quitation}{10}
-\contentsline {subsubsection}{natation}{10}
-\contentsline {subsubsection}{escalade}{10}
-\contentsline {subsubsection}{Gymnastique}{11}
-\contentsline {subsubsection}{athl\IeC {\'e}tisme}{11}
-\contentsline {subsubsection}{attelage}{11}
-\contentsline {subsubsection}{navigation}{11}
-\contentsline {subsubsection}{orientation}{11}
-\contentsline {subsection}{\numberline {1.4.3}Social}{11}
-\contentsline {subsubsection}{n\IeC {\'e}gociation}{11}
-\contentsline {subsubsection}{intimidation}{11}
-\contentsline {subsubsection}{mensonge}{11}
-\contentsline {subsubsection}{Discussion}{11}
-\contentsline {subsubsection}{Sympathiser}{11}
-\contentsline {subsubsection}{Art()}{11}
-\contentsline {subsubsection}{Jeu()}{11}
-\contentsline {subsubsection}{Musique()}{11}
-\contentsline {subsubsection}{Commandement}{11}
-\contentsline {subsection}{\numberline {1.4.4}Aventure}{12}
-\contentsline {subsubsection}{Discr\IeC {\'e}tion}{12}
-\contentsline {subsubsection}{Crochetage }{12}
-\contentsline {subsubsection}{Chasse}{12}
-\contentsline {subsubsection}{Perception}{12}
-\contentsline {subsubsection}{Fouille}{12}
-\contentsline {subsubsection}{Artisanat()}{12}
-\contentsline {subsubsection}{Escamotage}{12}
-\contentsline {subsubsection}{Contact animal ()}{12}
-\contentsline {subsubsection}{Survie}{12}
-\contentsline {subsubsection}{Premiers soins}{12}
-\contentsline {subsubsection}{Chirurgie* }{12}
-\contentsline {subsubsection}{Herboristerie}{12}
-\contentsline {subsection}{\numberline {1.4.5}Savoirs}{13}
-\contentsline {subsubsection}{Connaissances()*}{13}
-\contentsline {subsubsection}{Culture g\IeC {\'e}n\IeC {\'e}rale()}{13}
-\contentsline {subsubsection}{Gestion()}{13}
-\contentsline {subsubsection}{Langue()}{13}
-\contentsline {subsubsection}{M\IeC {\'e}decine*}{13}
-\contentsline {subsection}{\numberline {1.4.6}Magie}{13}
-\contentsline {subsubsection}{Sorcellerie*}{13}
-\contentsline {subsubsection}{Enchantement()*}{13}
-\contentsline {subsubsection}{Symbolisme}{13}
-\contentsline {subsubsection}{Th\IeC {\'e}urgie}{13}
-\contentsline {subsection}{\numberline {1.4.7}Religion}{13}
-\contentsline {subsubsection}{Liturgie*}{13}
-\contentsline {subsubsection}{Rites*}{13}
-\contentsline {subsubsection}{Volont\IeC {\'e}}{13}
-\contentsline {chapter}{\numberline {2}R\IeC {\`e}gles d\IeC {\'e}taill\IeC {\'e}es}{15}
-\contentsline {section}{\numberline {2.1}L'aventure}{15}
-\contentsline {subsection}{\numberline {2.1.1}Fatigue}{15}
-\contentsline {subsubsection}{Etats de fatigue - jauge de fatigue}{15}
-\contentsline {subsubsection}{Efforts - gagner des points de fatigue}{15}
-\contentsline {subsection}{\numberline {2.1.2}Environnement}{16}
-\contentsline {subsubsection}{Chute :}{16}
-\contentsline {subsubsection}{Flammes :}{16}
-\contentsline {section}{\numberline {2.2}Blessures, soins et gu\IeC {\'e}rison}{16}
-\contentsline {subsection}{\numberline {2.2.1}Blessures}{16}
-\contentsline {subsubsection}{H\IeC {\'e}morragie}{17}
-\contentsline {subsubsection}{\^Etre sonn\IeC {\'e}}{17}
-\contentsline {subsection}{\numberline {2.2.2}Maladies, infections et poisons}{17}
-\contentsline {subsubsection}{Exemples de maladie}{17}
-\contentsline {paragraph}{La grippe (difficult\IeC {\'e} 2)}{17}
-\contentsline {paragraph}{La gangr\IeC {\`e}ne (difficult\IeC {\'e} 4):}{17}
-\contentsline {subsection}{\numberline {2.2.3}Prodiguer des soins}{18}
-\contentsline {section}{\numberline {2.3}Stress et folie}{18}
-\contentsline {section}{\numberline {2.4}Relations sociales}{18}
-\contentsline {subsection}{\numberline {2.4.1}Contacts}{18}
-\contentsline {subsection}{\numberline {2.4.2}Renomm\IeC {\'e}e}{18}
-\contentsline {section}{\numberline {2.5}Combats}{19}
-\contentsline {subsection}{\numberline {2.5.1}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s:}{19}
-\contentsline {subsection}{\numberline {2.5.2}Combat en m\IeC {\^e}l\IeC {\'e}e:}{19}
-\contentsline {subsubsection}{Enchainer les parades}{20}
-\contentsline {subsubsection}{Le combat \IeC {\`a} mains nues}{20}
-\contentsline {subsubsection}{\IeC {\^e}tre sonn\IeC {\'e}}{20}
-\contentsline {subsubsection}{Modificateurs circonstanciels}{20}
-\contentsline {subsection}{\numberline {2.5.3}Le combat \IeC {\`a} distance:}{20}
-\contentsline {subsection}{\numberline {2.5.4}Infliger des d\IeC {\'e}g\IeC {\^a}ts:}{20}
-\contentsline {section}{\numberline {2.6}Magie}{21}
-\contentsline {subsection}{\numberline {2.6.1}La sorcellerie}{21}
-\contentsline {subsubsection}{Les amulettes}{21}
-\contentsline {subsubsection}{Envo\IeC {\^u}tement}{22}
-\contentsline {subsubsection}{Lien}{22}
-\contentsline {subsubsection}{Divination}{22}
-\contentsline {subsection}{\numberline {2.6.2}L'enchantement}{22}
-\contentsline {subsubsection}{Manipulation \IeC {\'e}l\IeC {\'e}mentaire}{23}
-\contentsline {subsubsection}{T\IeC {\'e}l\IeC {\'e}kin\IeC {\'e}sie}{23}
-\contentsline {subsubsection}{Condition}{23}
-\contentsline {subsubsection}{Contresort}{23}
-\contentsline {section}{\numberline {2.7}Religion}{23}
-\contentsline {subsection}{\numberline {2.7.1}C\IeC {\'e}r\IeC {\'e}monies}{24}
-\contentsline {subsubsection}{C\IeC {\'e}r\IeC {\'e}monies courantes}{24}
-\contentsline {subsubsection}{B\IeC {\'e}n\IeC {\'e}dictions}{24}
-\contentsline {subsection}{\numberline {2.7.2}Rites}{24}
-\contentsline {subsection}{\numberline {2.7.3}Imposer sa volont\IeC {\'e}}{24}
-\contentsline {section}{\numberline {2.8}\IeC {\'e}quipements}{25}
-\contentsline {subsection}{\numberline {2.8.1}Armes de M\IeC {\^e}l\IeC {\'e}e}{25}
-\contentsline {subsubsection}{assembler une arme d\IeC {\textquoteright }hast}{25}
-\contentsline {subsubsection}{Couteau}{25}
-\contentsline {subsubsection}{Dague}{25}
-\contentsline {subsubsection}{Ep\IeC {\'e}e}{25}
-\contentsline {subsubsection}{Sabre}{25}
-\contentsline {subsubsection}{Hache}{25}
-\contentsline {subsubsection}{Marteau de guerre}{25}
-\contentsline {subsubsection}{Manche d\IeC {\textquoteright }arme d\IeC {\textquoteright }hast}{25}
-\contentsline {subsubsection}{Masse}{25}
-\contentsline {subsubsection}{Lance}{25}
-\contentsline {subsubsection}{Pic}{26}
-\contentsline {subsubsection}{Bouclier}{26}
-\contentsline {subsubsection}{Armes improvis\IeC {\'e}es}{26}
-\contentsline {subsection}{\numberline {2.8.2}Armes \IeC {\`a} distance}{26}
-\contentsline {subsection}{\numberline {2.8.3}R\IeC {\`e}gles d\IeC {\textquoteright }armures}{26}
-\contentsline {subsubsection}{Les valeurs d'armure}{26}
-\contentsline {subsubsection}{Cumuler les \IeC {\'e}paisseurs}{26}
-\contentsline {subsection}{\numberline {2.8.4}Plastrons}{26}
-\contentsline {subsubsection}{Cotte de maille*}{26}
-\contentsline {subsubsection}{Gambison*}{26}
-\contentsline {subsubsection}{Cotte de plates}{26}
-\contentsline {subsubsection}{lamellaire (avec spalli\IeC {\`e}res, avec tassettes)}{26}
-\contentsline {subsubsection}{Ecailles}{26}
-\contentsline {subsection}{\numberline {2.8.5}Gantelets}{28}
-\contentsline {subsubsection}{Maille*}{28}
-\contentsline {subsubsection}{Gambison*}{28}
-\contentsline {subsubsection}{Plates}{28}
-\contentsline {subsubsection}{Lamellaires}{28}
-\contentsline {subsubsection}{Ecailles}{28}
-\contentsline {subsection}{\numberline {2.8.6}Chausses}{28}
-\contentsline {subsubsection}{Maille (et chausses compl\IeC {\`e}tes *)}{28}
-\contentsline {subsubsection}{Gambison*}{28}
-\contentsline {subsubsection}{Lamellaire}{28}
-\contentsline {subsubsection}{Ecailles}{28}
-\contentsline {subsubsection}{Bottes \IeC {\'e}paisses}{28}
-\contentsline {subsection}{\numberline {2.8.7}Casques}{28}
-\contentsline {subsubsection}{Coiffe de maille (et ventail)}{28}
-\contentsline {subsubsection}{Casque lamellaire (et casque lamellaire complet*)}{28}
-\contentsline {subsubsection}{Casque conique (et nasal, lunettes, ventail, visi\IeC {\`e}re compl\IeC {\`e}te)}{28}
-\contentsline {subsubsection}{Casque int\IeC {\'e}gral, ou grand heaume*}{29}
-\contentsline {subsubsection}{Cerveli\IeC {\`e}re}{29}
-\contentsline {subsubsection}{Chapel de fer}{29}
-\contentsline {subsection}{\numberline {2.8.8}Autres \IeC {\'e}quipements}{29}
-\contentsline {subsection}{\numberline {2.8.9}Services}{29}
-\contentsline {chapter}{\numberline {3}Cr\IeC {\'e}ation de personnages}{31}
-\contentsline {section}{\numberline {3.1}R\IeC {\'e}sum\IeC {\'e}}{31}
-\contentsline {section}{\numberline {3.2}Packages}{31}
-\contentsline {subsection}{\numberline {3.2.1}Enfance}{31}
-\contentsline {subsubsection}{Bas-fonds}{31}
-\contentsline {subsubsection}{Camp militaire}{31}
-\contentsline {subsubsection}{\IeC {\'e}lev\IeC {\'e} par le temple}{31}
-\contentsline {subsubsection}{for\IeC {\^e}t}{31}
-\contentsline {subsubsection}{itin\IeC {\'e}rance}{32}
-\contentsline {subsubsection}{orphelin}{32}
-\contentsline {subsubsection}{montagnes}{32}
-\contentsline {subsubsection}{noblesse}{32}
-\contentsline {subsubsection}{Nomades}{32}
-\contentsline {subsubsection}{ferme}{32}
-\contentsline {subsubsection}{talents sp\IeC {\'e}ciaux}{32}
-\contentsline {subsubsection}{tribu}{32}
-\contentsline {subsubsection}{urbain}{32}
-\contentsline {subsubsection}{village c\IeC {\^o}tier}{33}
-\contentsline {subsection}{\numberline {3.2.2}Formation}{33}
-\contentsline {subsubsection}{aide agricole}{33}
-\contentsline {subsubsection}{apprenti}{33}
-\contentsline {subsubsection}{berger}{33}
-\contentsline {subsubsection}{ca\IeC {\"\i }d}{33}
-\contentsline {subsubsection}{chasseur}{33}
-\contentsline {subsubsection}{colporteur}{33}
-\contentsline {subsubsection}{coursier}{33}
-\contentsline {subsubsection}{disciple}{33}
-\contentsline {subsubsection}{\IeC {\'e}cuyer}{34}
-\contentsline {subsubsection}{estafette}{34}
-\contentsline {subsubsection}{\IeC {\'e}tudiant}{34}
-\contentsline {subsubsection}{h\IeC {\'e}ritier}{34}
-\contentsline {subsubsection}{jongleur}{34}
-\contentsline {subsubsection}{matelot}{34}
-\contentsline {subsubsection}{novice}{34}
-\contentsline {subsubsection}{page}{35}
-\contentsline {subsubsection}{vendeur}{35}
-\contentsline {subsubsection}{voleur}{35}
-\contentsline {subsection}{\numberline {3.2.3}Profession}{35}
-\contentsline {subsubsection}{arnaqueur}{35}
-\contentsline {subsubsection}{bandit}{35}
-\contentsline {subsubsection}{bretteur}{35}
-\contentsline {subsubsection}{bucheron}{35}
-\contentsline {subsubsection}{chasseur de primes}{35}
-\contentsline {subsubsection}{chef de bande}{35}
-\contentsline {subsubsection}{commer\IeC {\c c}ant}{36}
-\contentsline {subsubsection}{compagnon}{36}
-\contentsline {subsubsection}{dresseur}{36}
-\contentsline {subsubsection}{\IeC {\'e}claireur}{36}
-\contentsline {subsubsection}{enchanteur}{36}
-\contentsline {subsubsection}{\IeC {\'e}rudit}{36}
-\contentsline {subsubsection}{espion}{36}
-\contentsline {subsubsection}{forestier}{36}
-\contentsline {subsubsection}{garde}{37}
-\contentsline {subsubsection}{guerrier}{37}
-\contentsline {subsubsection}{homme d\IeC {\textquoteright }arme}{37}
-\contentsline {subsubsection}{lutteur}{37}
-\contentsline {subsubsection}{marin}{37}
-\contentsline {subsubsection}{moine}{37}
-\contentsline {subsubsection}{pi\IeC {\'e}ton}{37}
-\contentsline {subsubsection}{pr\IeC {\^e}tre}{38}
-\contentsline {subsubsection}{prostitu\IeC {\'e}(e)}{38}
-\contentsline {subsubsection}{seigneur}{38}
-\contentsline {subsubsection}{shaman}{38}
-\contentsline {subsubsection}{sorcier}{38}
-\contentsline {subsubsection}{tireur}{38}
-\contentsline {subsubsection}{trouv\IeC {\`e}re}{38}
-\contentsline {section}{\numberline {3.3}Personnalisation}{38}
-\contentsline {subsection}{\numberline {3.3.1}Avantages}{39}
-\contentsline {subsubsection}{Grand(15)}{39}
-\contentsline {subsubsection}{Noble(10) }{39}
-\contentsline {subsubsection}{Robuste (8):}{39}
-\contentsline {subsubsection}{Talent avec les animaux (5)}{39}
-\contentsline {subsubsection}{Beau (10)}{39}
-\contentsline {subsubsection}{M\IeC {\'e}moire parfaite (4) }{39}
-\contentsline {subsubsection}{lettr\IeC {\'e} (4) }{39}
-\contentsline {subsubsection}{protecteur (8) }{39}
-\contentsline {subsubsection}{Monsieur tout le monde (3) }{39}
-\contentsline {subsubsection}{camarades (5) }{39}
-\contentsline {subsubsection}{pied marin (3) }{39}
-\contentsline {subsubsection}{bonne cicatrisation (5) }{39}
-\contentsline {subsubsection}{prudent (10) }{39}
-\contentsline {subsection}{\numberline {3.3.2}D\IeC {\'e}savantages}{39}
-\contentsline {subsubsection}{ath\IeC {\'e}e (10) }{40}
-\contentsline {subsubsection}{recherch\IeC {\'e} (5 \IeC {\`a} 15) }{40}
-\contentsline {subsubsection}{laid/d\IeC {\'e}figur\IeC {\'e} (5) }{40}
-\contentsline {subsubsection}{maladif (10) }{40}
-\contentsline {subsubsection}{fanatique(10) }{40}
-\contentsline {subsubsection}{code (10) }{40}
-\contentsline {subsubsection}{vendetta (5 \IeC {\`a} 10) }{40}
-\contentsline {subsubsection}{mauvaise r\IeC {\'e}putation (6) }{40}
-\contentsline {subsubsection}{impulsif(6) :}{40}
-\contentsline {subsubsection}{addiction (2 \IeC {\`a} 15 points) }{40}
-\contentsline {chapter}{\numberline {4}Univers}{41}
-\contentsline {section}{\numberline {4.1}L'Alianais}{41}
-\contentsline {subsection}{\numberline {4.1.1}Histoire de la principaut\IeC {\'e}}{41}
-\contentsline {subsection}{\numberline {4.1.2}Les Alianais}{42}
-\contentsline {subsection}{\numberline {4.1.3}Lieux d'int\IeC {\'e}r\IeC {\^e}ts}{42}
-\contentsline {subsection}{\numberline {4.1.4}Personnes d'int\IeC {\'e}r\IeC {\^e}ts}{42}
-\contentsline {subsection}{\numberline {4.1.5}Aventures en Alianais}{42}
-\contentsline {section}{\numberline {4.2}L'Eglise des Triarches}{42}
-\contentsline {subsection}{\numberline {4.2.1}Histoire}{42}
-\contentsline {subsection}{\numberline {4.2.2}Pr\IeC {\'e}ceptes}{42}
-\contentsline {subsection}{\numberline {4.2.3}L'Eglise en Alianais}{42}
-\contentsline {section}{\numberline {4.3}L'Ascelie}{42}
-\contentsline {subsection}{\numberline {4.3.1}Un ancien royaume}{42}
-\contentsline {subsection}{\numberline {4.3.2}Les Asceliens}{42}
-\contentsline {subsection}{\numberline {4.3.3}Un royaume agit\IeC {\'e}}{42}
-\contentsline {section}{\numberline {4.4}Les Hiran}{42}
-\contentsline {subsection}{\numberline {4.4.1}Les tribues frontali\IeC {\`e}res}{42}
-\contentsline {subsection}{\numberline {4.4.2}Les tribues sauvages}{42}
-\contentsline {subsection}{\numberline {4.4.3}Croyances et superstitions}{42}
-\contentsline {subsection}{\numberline {4.4.4}La guerre}{42}
+\contentsline {part}{I\hspace {1em}R\IeC {\`e}gles de base}{9}
+\contentsline {chapter}{\numberline {1}Lancers de d\IeC {\'e}s}{11}
+\contentsline {section}{\numberline {1.1}D\IeC {\'e}s utilis\IeC {\'e}s}{11}
+\contentsline {section}{\numberline {1.2}Tests simples}{11}
+\contentsline {section}{\numberline {1.3}Tests en opposition}{11}
+\contentsline {section}{\numberline {1.4}Tests \IeC {\'e}tendus}{11}
+\contentsline {section}{\numberline {1.5}Notion de ma\IeC {\^\i }trise}{12}
+\contentsline {section}{\numberline {1.6}Travailler en \IeC {\'e}quipe}{12}
+\contentsline {section}{\numberline {1.7}Acheter des r\IeC {\'e}ussites}{12}
+\contentsline {chapter}{\numberline {2}Caract\IeC {\'e}ristiques}{13}
+\contentsline {section}{\numberline {2.1}Masse (MA)}{13}
+\contentsline {section}{\numberline {2.2}Vitesse (VIT)}{13}
+\contentsline {section}{\numberline {2.3}Sociabilit\IeC {\'e} (SOC)}{13}
+\contentsline {section}{\numberline {2.4}Habilet\IeC {\'e} (HAB)}{13}
+\contentsline {section}{\numberline {2.5}Intuition (INT)}{13}
+\contentsline {section}{\numberline {2.6}R\IeC {\'e}flexion (REF)}{13}
+\contentsline {section}{\numberline {2.7}Concentration (CON)}{13}
+\contentsline {section}{\numberline {2.8}Chance (CHA)}{14}
+\contentsline {chapter}{\numberline {3}Valeurs annexes}{15}
+\contentsline {section}{\numberline {3.1}Bonus de d\IeC {\'e}g\IeC {\^a}ts (BD):}{15}
+\contentsline {section}{\numberline {3.2}Endurance(END) :}{15}
+\contentsline {section}{\numberline {3.3}Jauge de fatigue :}{15}
+\contentsline {section}{\numberline {3.4}Seuils de blessure :}{15}
+\contentsline {chapter}{\numberline {4}Comp\IeC {\'e}tences}{17}
+\contentsline {section}{\numberline {4.1}Combat}{17}
+\contentsline {section}{\numberline {4.2}D\IeC {\'e}placement}{18}
+\contentsline {section}{\numberline {4.3}Social}{19}
+\contentsline {section}{\numberline {4.4}Aventure}{20}
+\contentsline {section}{\numberline {4.5}Savoirs}{21}
+\contentsline {section}{\numberline {4.6}Magie}{21}
+\contentsline {section}{\numberline {4.7}Religion}{21}
+\contentsline {part}{II\hspace {1em}R\IeC {\`e}gles d\IeC {\'e}taill\IeC {\'e}es}{23}
+\contentsline {chapter}{\numberline {5}L'aventure}{25}
+\contentsline {section}{\numberline {5.1}Fatigue}{25}
+\contentsline {section}{\numberline {5.2}Environnement}{26}
+\contentsline {chapter}{\numberline {6}Blessures, soins et gu\IeC {\'e}rison}{27}
+\contentsline {section}{\numberline {6.1}Blessures}{27}
+\contentsline {section}{\numberline {6.2}Maladies, infections et poisons}{28}
+\contentsline {paragraph}{La grippe (difficult\IeC {\'e} 2)}{28}
+\contentsline {paragraph}{La gangr\IeC {\`e}ne (difficult\IeC {\'e} 4):}{28}
+\contentsline {section}{\numberline {6.3}Prodiguer des soins}{28}
+\contentsline {chapter}{\numberline {7}Stress et folie}{31}
+\contentsline {chapter}{\numberline {8}Relations sociales}{33}
+\contentsline {section}{\numberline {8.1}Contacts}{33}
+\contentsline {section}{\numberline {8.2}Renomm\IeC {\'e}e}{33}
+\contentsline {chapter}{\numberline {9}Combats}{35}
+\contentsline {section}{\numberline {9.1}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s:}{35}
+\contentsline {section}{\numberline {9.2}Combat en m\IeC {\^e}l\IeC {\'e}e:}{35}
+\contentsline {section}{\numberline {9.3}Le combat \IeC {\`a} distance:}{36}
+\contentsline {section}{\numberline {9.4}Infliger des d\IeC {\'e}g\IeC {\^a}ts}{36}
+\contentsline {section}{\numberline {9.5}Autres actions}{36}
+\contentsline {chapter}{\numberline {10}Magie}{39}
+\contentsline {section}{\numberline {10.1}La sorcellerie}{39}
+\contentsline {section}{\numberline {10.2}L'enchantement}{40}
+\contentsline {chapter}{\numberline {11}Religion}{43}
+\contentsline {section}{\numberline {11.1}C\IeC {\'e}r\IeC {\'e}monies}{43}
+\contentsline {section}{\numberline {11.2}Rites}{44}
+\contentsline {section}{\numberline {11.3}Imposer sa volont\IeC {\'e}}{44}
+\contentsline {chapter}{\numberline {12}\IeC {\'e}quipements}{45}
+\contentsline {section}{\numberline {12.1}Armes de M\IeC {\^e}l\IeC {\'e}e}{45}
+\contentsline {section}{\numberline {12.2}Armes \IeC {\`a} distance}{46}
+\contentsline {section}{\numberline {12.3}R\IeC {\`e}gles d\IeC {\textquoteright }armures}{46}
+\contentsline {section}{\numberline {12.4}Plastrons}{46}
+\contentsline {section}{\numberline {12.5}Gantelets}{48}
+\contentsline {section}{\numberline {12.6}Chausses}{48}
+\contentsline {section}{\numberline {12.7}Heaumes}{49}
+\contentsline {section}{\numberline {12.8}Autres \IeC {\'e}quipements}{50}
+\contentsline {section}{\numberline {12.9}Services}{50}
+\contentsline {part}{III\hspace {1em}Cr\IeC {\'e}ation de personnages}{51}
+\contentsline {chapter}{\numberline {13}R\IeC {\'e}sum\IeC {\'e}}{53}
+\contentsline {chapter}{\numberline {14}Packages}{55}
+\contentsline {section}{\numberline {14.1}Enfance}{55}
+\contentsline {section}{\numberline {14.2}Formation}{57}
+\contentsline {section}{\numberline {14.3}Profession}{59}
+\contentsline {chapter}{\numberline {15}Personnalisation}{63}
+\contentsline {section}{\numberline {15.1}Avantages}{63}
+\contentsline {section}{\numberline {15.2}D\IeC {\'e}savantages}{64}
+\contentsline {part}{IV\hspace {1em}Univers}{67}
+\contentsline {chapter}{\numberline {16}L'Alianais}{69}
+\contentsline {section}{\numberline {16.1}Histoire de la principaut\IeC {\'e}}{69}
+\contentsline {section}{\numberline {16.2}Les Alianais}{70}
+\contentsline {section}{\numberline {16.3}Lieux d'int\IeC {\'e}r\IeC {\^e}ts}{70}
+\contentsline {section}{\numberline {16.4}Personnes d'int\IeC {\'e}r\IeC {\^e}ts}{70}
+\contentsline {section}{\numberline {16.5}Aventures en Alianais}{70}
+\contentsline {chapter}{\numberline {17}L'Eglise des Triarches}{71}
+\contentsline {section}{\numberline {17.1}Histoire}{71}
+\contentsline {section}{\numberline {17.2}Pr\IeC {\'e}ceptes}{71}
+\contentsline {section}{\numberline {17.3}L'Eglise en Alianais}{71}
+\contentsline {chapter}{\numberline {18}L'Ascelie}{73}
+\contentsline {section}{\numberline {18.1}Un ancien royaume}{73}
+\contentsline {section}{\numberline {18.2}Les Asceliens}{73}
+\contentsline {section}{\numberline {18.3}Un royaume agit\IeC {\'e}}{73}
+\contentsline {chapter}{\numberline {19}Les Hiran}{75}
+\contentsline {section}{\numberline {19.1}Les tribues frontali\IeC {\`e}res}{75}
+\contentsline {section}{\numberline {19.2}Les tribues sauvages}{75}
+\contentsline {section}{\numberline {19.3}Croyances et superstitions}{75}
+\contentsline {section}{\numberline {19.4}La guerre}{75}
