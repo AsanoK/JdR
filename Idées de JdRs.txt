@@ -3,3 +3,5 @@
 -système de jeu dans un contexte 20eme siècle, assez léger sur les mécanismes. Plusieurs jeux liés : espionnage, guerre (avec les aspects psychologiques), résistance....
 
 -univers cyberpunk avec un système de jeu dual : police ou crime.
+
+-JdR post-apo, alors que des groupes s'organisent, de plus en plus grands pour non plus survivre, mais vivre dans les ruines. Setting basé sur l'europe plutôt.
