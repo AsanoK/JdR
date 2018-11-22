@@ -17,6 +17,7 @@ Par ailleurs, des positions de DCA commencent à se mettre en place, protégé �
 Rencontre : la compagnie PJ se heurte à des effectifs ennemis importants, de qualité très diverse, sur des positions urbaines. Le QG avancé de l'ennemi se situe dans un vieux bâtiment industriel. Deux positions de DCA commencent à être installées sur des positions hautes : une dans un champ, l'autre sur un toit plat.
 ACTUELLEMENT LA, entre les ponts 2 et 3
 Si les PJs brisent la résistance adverse complètement, passer au 4. Si les combats sont longs passer au 5. En cas d'échec de l'offensive, passer au 6.
+scènes marquantes: retrouver d'autres troupes de la compagnie parès les combats, décousus mais violents, et le début de l'installation. Découverte de ce qui ressemble à une fosse commune qui a été comblée récemment.
 
 4 : prendre et tenir
 Une fois la ligne défensive avancée passée, les PJs ne devraient pas avoir de mal à avancer jusqu'au pont, faiblement défendu par des unités ennemies en repli. Ils ont alors du temps de repos pour s'installer au niveau du pont. De leur point de vue, malgré l'aube qui arrive, la journée en est à peu près à sa moitié (repas de midi en gros) : ils seront encore efficaces quelques heures, mais devront ensuite mettre en place un roulement.
@@ -33,6 +34,7 @@ En cas d'échec, aller au 6.
 Le premier assaut complètement repoussé, les troupes impériales vont tenter de manoeuvrer différemment avec la seconde vague : un seul pont sera assailli, par toutes les troupes disponibles, qui tenteront de submerger la défense ennemie.
 rencontre : une défense tenace et concentrée, et des combats rapprochés violents.
 En cas de réussite, aller au 7, sans préparation.
+scène marquante: assaut massif, le premier de la campagne auquel les PJs participent.
 
 7 : tenir le pont
 En fin de journée, une première contre-offensive ennemie s'est organisée pour tenter de bloquer l'avancée impériale, voire leur reprendre du terrain. Il s'agit d'un détachement motorisé léger, avec un soutien d'artillerie légère.
@@ -40,6 +42,7 @@ Si les PJs ont de la chance, ils ont eu le temps de s'y préparer, et disposent 
 rencontre : un groupe motorisé, avec des mortiers en soutien, s'avance par la route principale pour reprendre le pont.
 En cas de réussite, passer au 8
 En cas d'échec, passer au 6,  sauf si la journée est déjà trop engagée, auquel cas, passer au 9
+scènes marquantes : premier combat contre un blindé ennemi. arrivée d'une partie du reste du bataillon pour les soutenir plus tard dans la journée.
 
 8 : Le pont tient, mais l'ennemi le teste
 La première défense du pont étant une réussite, il va ensuite falloir continuer jusqu'à l'arrivée de la relève. Celle-ci arrivera en milieu de journée le lendemain(J+1) si les DCA ont été gérées vite, ou le surlendemain (J+2), si les transports ont été désorganisés.
@@ -50,24 +53,30 @@ Dans la journée, des échanges de tirs ont lieu avec des troupes isolées, qui 
 Si cela se prolonge jusqu'à J+2, une tentative mieux organisée se met en place : des troupes tentent de trouver de bonnes positions à la faveur de la nuit, pour soutenir une attaque frontale à l'aube.
 En cas de réussite, passer au 10
 En cas d'échec, passer au 11
+scènes marquantes: la charge suicide avec des explosifs. Lutte contre un tireur embusqué avec un bon fusil.
 
 9 : L'offensive est un échec
 Les troupes impériales n'arrivant pas à avancer, elles décident d'attendre la seconde vague, tout en essayant de priver l'ennemi de certains ponts.
 Il s'agit ici d'une tentative d'infiltration nocturne, afin de saboter les ponts. Ue fois celle-ci faite, le régiment devra soutenir l'offensive impériale principale le long de la rivière.
 rencontre : les troupes adverses en ligne défensive, qu'il faudra infiltrer.
 En cas de réussite ou d'échec, passer au 11
+scènes marquantes : infiltration dans les lignes ennemies, la scène majeure devrait être celle de la mise en place des explosif, avec une tension de tout les instants. Le repli de la zone peut aussi être intéressant .
 
 10 : la relève 
 Les troupes de la seconde vague arrivent pour profiter de la tête de pont formée, et relever les PJs. Ceux-ci peuvent alors se reposer quelques temps avant la suite de l'offensive impériale.
 rencotnres :rien, les troupes ennemies sont globalement battues.
-La seconde vague est formée principalement de ????
+La seconde vague est formée principalement de troupes malfienne
+scènes marquantes: rencontre avec la troupe d'un autre régiment, discussions sur la merde dans laquelle tout le monde est. Marché noir avec les malfiens.
 
 11 : la cavalerie arrive
 Les troupes de la seconde vague arrivent et doivent s'emparer des ponts. Cela ne les ravit pas vraiment, mais elles n'ont pas vraiment le choix.
 Suivant l'état des ponts, l'offensive se fera vers l'un d'eux ou dans le creux de la rivière. Dans tous les cas, les PJs feront parti de l'assaut, ayant une mielleure connaissance du terrain et du dispositif adverse.
 rencontre : les troupes ennemies restantes
 En cas de réussite, l'offensive impériale pourra continuer, avec un retard certain (dépendant de la suite d'actions menant à ce point). En cas d'échec, un plan de contournement de la position est envisagé, pour ensuite reprendre la ville à revers. Cela ne se fera probablement pas avant J+3 voire J+4 cependant, ce qui mettra en péril les troupes impériales face à la contre-offensiv prévue
+scènes marquantes: rencontre avec la troupe d'un autre régiment, discussions sur la merde dans laquelle tout le monde est. Assaut massif avec des blindés face à une position fortifiée.
 
+LA SUITE:
+poursuite du scénar face à une contre-offensive ennemie majeure sur tout le front, avec des vagues d'esclaves en première ligne, qui se ruent en avant poussés par leurs maîtres abjects.
 
 TIMELINE des mouvements de l'ennemi
 T (1h du matin) : subir un raid aérien massif, grosse désorganisation
