@@ -1,6 +1,12 @@
 Planning prévi:
-+10 janvier : fin de la phase de préparation et de réflexion  initiale. Système de dé choisi et validé.
++6 janvier : fin de la phase de préparation et de réflexion  initiale. Planning définitif en place. Etapes préparées, nouveaux ajouts déjà anticipés et réfléchis.
 
-+24 janvier: premier jet du système de jeu, avec des éléments de bases des systèmes de combat, de magie, d'exploration de religion et de soins.
++13 janvier : mise à jour principale, changement du système d'attributs et ajout d'un ou plusieurs dynamismes, changements mineurs sur certains systèmes.
 
-+31 janvier : équipements de base
++20 janvier : règles de psycho retravaillées pour être plus cohérentes. Création de perso mise à jour en fonction des modifications précédentes.
+
++27 janvier : passage des sous-systèmes existant en audit.
+
++3 février : sous-systèmes modifiés au besoin, bases posées pour un scénario d'introduction dans l'Alianais.
+
++10 février : scénario d'introduction prêt à jouer, avec les prétirés
