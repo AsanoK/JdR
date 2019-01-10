@@ -18,6 +18,8 @@ Intentions système:
 -Repos, entrainement et craft.
 -Soin lent, en particulier dans des conditions difficiles (déplacements, hygiène....)
 -Système de santé non-basé sur les PVs, mais sur un système de blessures (peut-être s'inspirer des statuts de BW pour certains éléments)
+-stress, traumatismes et problèmes psychologiques
+-importance de la tenue et de la réputation dans les interactions sociales
 ==================================================================
 Intentions univers
 -Univers méconnu par ses habitants. de nombreux lieux sont mystérieux, des légendes courent...
@@ -27,6 +29,7 @@ Intentions univers
 -monde complexe, avec de nombreuses factions, et les individus qui les composent
 -Guerres moches, par des soldats professionnels qui comptent sur le pillage pour s'enrichir. Une partie de l'économie de la noblesse dépend de cela d'ailleurs.
 -Religion au centre de la culture, des superstitions et des habitudes, ce qui ne veut pas dire que tout le monde soit un pratiquant dévôt, mais que toute la société baigne dans cet élément commun.
+-déplacements lents et couteux
 ==================================================================
 Inspirations assumées:
 The Witcher (ambiance globale, ton)

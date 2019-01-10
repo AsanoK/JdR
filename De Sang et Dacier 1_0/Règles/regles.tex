@@ -1,0 +1,1231 @@
+\documentclass[10pt,a4paper,twocolumn]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[tight]{shorttoc}
+\newcommand{\sommaire}{\shorttoc{Sommaire}{1}}
+
+\author{Antoine Robin}
+\title{De Sang et d'Acier}
+\date{}
+\begin{document}
+\title{De Sang et d'Acier}
+\maketitle
+\sommaire
+\part*{Introduction}
+\part{Règles de base}
+\chapter{Lancers de dés}
+\section{Dés utilisés}
+Dans S\&A les dés utilisés sont tous des dés à six faces, ou hexahèdres, ou plus simplement des d6. Ainsi, si le MJ demande de lancer 5d6 dans le cadre d’un test, il s’agit de lancer 5 décaèdres.
+%TODO : reprendre cette partie pour être cohérent avec la 1.0
+\section{Tests simples}
+La majeure partie des tests du jeu impliquent soit une caractéristique seule, soit un couple caractéristique+compétence.
+Dans le cadre d’un test simple, on lance un nombre de d6 égal au score testé (score de caractéristique ou somme des scores de caractéristique et de compétence utilisés). Puis on compte le nombre de succès, avant de comparer avec le seuil nécessaire pour réussir (déterminé par le MJ). Ce seuil dépend de la difficulté de la tâche entreprise, mais le MJ peut également se référer à la table \ref{tableDiffTests} pour s’aider.
+
+\begin{table}
+\caption{ Difficulté des tests :}
+\label{tableDiffTests}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Difficulté} & \textbf{nombre de succès} \\
+   facile & 1  \\
+   normal & 2  \\
+   délicat & 3 \\
+   difficile & 4 \\
+   très difficile & 5 \\
+   surhumain & 6 et + \\
+\end{tabular}
+\end{center}
+\end{table}
+
+La marge de réussite (ou d’échec), est la différence entre le seuil à obtenir et le nombre de succès.
+Le test simple s’utilise pour déterminer si un personnage réussit une action difficile en elle-même, mais sans opposition réelle.
+\section{Tests en opposition}
+Le test en opposition implique que deux personnages effectuent un test simple, puis, comparent leurs nombres de succès respectifs. Le gagnant est alors celui qui en a le plus.
+La marge de réussite est la différence entre les deux résultats.
+Un test en opposition s’utilise pour tester le résultat d’une opposition directe entre deux personnages ou entités.
+Il est possible d’obtenir une égalité dans un test en opposition, auquel cas, le MJ peut décider (suivant le cas), de considérer cela comme une double victoire, ou un double échec par exemple.
+\section{Tests liés}
+\section{Tests en équipe}
+\section{Tests étendus}
+Les tests étendus sont caractérisés par trois valeurs : leur objectif, leur seuil et leur intervalle.
+L’objectif est la marge de réussite totale à obtenir pour réussir, l’intervalle est le temps passé par le personnage pour chaque test. Le seuil est la difficulté de chaque test effectué.
+Tant que l’objectif n’est pas atteint par la valeur actuelle du test (ou que le personnage n’a pas abandonné), le personnage effectue des tests simples. On ajoute la marge de succès de chaque test à la valeur actuelle du test, et de même, on soustrait les marges d’échec de cette valeur. 
+Ce genre de test est utilisé pour déterminer le temps nécessaire à réaliser une tâche.
+\section{Notion de maîtrise}
+Un personnage disposant d’une maîtrise(n) sur une compétence, peut, aux cours de tout test de cette compétence, relancer les dés ayant obtenus moins de n. Le plus courant est maîtrise (1), qui permet de relancer les dés ayant obtenus un 1 sur les tests.
+\section{Acheter des réussites}
+Afin d’accélérer certaines phases impliquant de nombreux lancers de dés, ou de réaliser des tests à la fois très faciles et non critiques, il est possible “d’acheter” des réussites : au lieu d’effectuer un test simple, on calcule un nombre de réussite égal au quart du nombre de dé que l’on aurait utilisé pour le test (arrondi à l’inférieur).
+
+\chapter{Caractéristiques}
+En termes mécaniques, un personnage se définit en premier lieu par 8 valeurs, appelées caractéristiques.
+\section{Masse (MA)}
+Cette caractéristique représente la masse, principalement musculaire, mais pas uniquement, d’un personnage. Elle sert pour résoudre des actions où la force brute, mais aussi la résistance physique sont les facteurs principaux.
+Un personnage massif n’est pas forcément grand, mais il a une certaine carrure, une présence physique importante.
+inversement, un personnage avec une faible MA est probablement maigre, mince, peu athlétique.
+\section{Vitesse (VIT)}
+La vitesse quantifie la vitesse d’action, mais aussi de réaction d’un personnage : ses réflexes, sa vitesse de mouvement. Elle sert énormément lors des scènes d’action, quand le temps est un facteur critique.
+Un personnage vif saura réagir au quart de tour en cas de crise, à l’inverse d’un personnage plus lent.
+\section{Sociabilité (SOC)}
+La sociabilité représente autant  l’aisance du personnage à interagir avec les autres que son goût pour cela.
+Un personnage peu sociable aura peut-être tendance à briser certaines conventions, ou à avoir du mal à approcher les autres.. A l’inverse, un personnage très sociable aura un contact facile avec les autres, et passera facilement pour quelqu’un de sympathique.
+\section{Habileté (HAB)}
+L’habileté est la capacité d’un personnage à maîtriser ses actions : précision du geste, contrôle des actions, coordination, équilibre….
+Un personnage peu habile donne souvent l’impression d’être maladroit, un peu lourdaud, là où un personnage dont c’est le point fort a des mouvements soigneusement contrôlés, et un bon sens de l’équilibre.
+\section{Intuition (INT)}
+L’intuition mesure l’instinct d’un personnage, et surtout, la fiabilité de celui-ci ainsi que sa capacité d’adaptation.
+Un personnage avec une mauvaise intuition sera probablement peu observateur, et aura des difficultés à s’adapter à de nouvelles situations. Inversement, un personnage avec une bonne intuition jugera facilement d’une situation ou de son interlocuteur, et n’aura probablement aucun mal pour s’adapter si les choses évoluent rapidement.
+\section{Réflexion (REF)}
+Logique, mémoire, raisonnement
+\section{Concentration (CON)}
+Capacité à focaliser ses pensées, à les maîtriser.
+\section{Chance (CHA)}
+La façon dont le destin favorise le personnage.
+\chapter{Valeurs annexes}
+Les valeurs annexes sont des valeurs calculées depuis les caractéristiques.
+\section{Bonus de dégâts (BD):}
+Valeur fixe ajoutée à tous les jets de dégâts en mêlée du personnage. On le calcule avec : (MA+HAB)/2 (arrondi au supérieur).
+\section{Endurance(END) :}
+L’endurance sert à mesurer la résistance du personnage à l’effort. On la calcule avec (MA+CON)/2 (arrondi au supérieur).
+\section{Jauge de fatigue :}
+Il s’agit d’une représentation de l’état de fatigue du personnage. Pour gérer cela, on compare le score de points de fatigue à un ensemble de seuils, décrits plus en détail dans la section fatigue.
+\section{Seuils de blessure :}
+cf section blessure
+
+\chapter{Compétences}
+Les compétences () sont des compétences à domaine : chaque domaine est considéré comme une compétence à part.
+Il est possible d’effectuer un test d’une compétence proche avec l’accord du MJ (et un malus au test).
+Tenter d’effectuer un test sans aucune formation (aucun point) est toujours accompagné d’un malus de -2.
+Les compétences marquées d’un astérisque * nécessitent une formation : il est impossible de tenter un test sans avoir au moins un point dans cette compétence.
+
+
+\section{Combat}
+Le détails de l’utilisation des compétences de combat se trouve dans la section combat de ce livre.
+\subsection*{Arme()}
+La compétence offensive en combat. Les domaines servent aux différents types d’armes : lames, couteaux, hast, contondantes, lance, bouclier…
+Si l’on est pas (ou mal)  formé à une arme, il est toujours possible de tenter un test en utilisant à la place de la valeur de cette arme la moitié de la meilleure valeur de la compétence arme.
+Comment s’utilise la compétence arme?
+Un test d’arme+VIT est l’action d’attaque classique en mêlée. On peut également réaliser un test d’arme+REF(2) pour analyser le niveau global d’un combattant (son score de compétence).
+\subsection*{Visée()}
+La compétence offensive pour les armes de trait : arcs, frondes et arbalètes.
+Les domaines sont arcs, frondes et arbalètes.
+Comment s’utilise la compétence viser?
+Un personnage tirant avec une arme de trait effectue un test de viser+HAB. Les descriptions des armes et de leur mécanisme se fait dans la section sur l’équipement.
+\subsection*{Lancer}
+“L’art” de jeter un projectile à la main vers une cible plus ou moins lointaine. Sert à lancer des couteaux, des haches, des pierres des javelots, des sagaies….Le lancer “assisté” (par exemple d’un propulseur avec une sagaie) est également utilisé avec cette compétence. 
+Comment s’utilise la compétence lancer?
+La compétence lancer s’utilise de la même façon que viser.
+\subsection*{défense}
+La défense permet d’éviter de subir une attaque, que ce soit en mêlée ou à distance.
+Comment s’utilise la compétence défense?
+Les tests de défense+VIT sont utilisés pour se protéger des attaques ennemies. 
+\subsection*{Corps à corps}
+Compétence de combat à main nue. Elle représente autant la capacité à mettre un coup que réaliser une projection ou saisir efficacement un adversaire.
+Comment s’utilise la compétence corps à corps?
+On peut réaliser un test de Corps à corps +VIT pour mettre un coup ou saisir un adversaire. On peut également réaliser un test de Corps à corps+MA pour réaliser une clé, une projection, ….
+\section{Déplacement}
+Plus de détails sur les compétence s de déplacement peut être trouvé dans la section sur l’aventure, dans la partie sur les voyages.
+\subsection*{équitation}
+L’équitation est la capacité à gérer sa monture, mais aussi à en effectuer les soins de base. Elle permet de diriger sa monture, ou de la maîtriser dans des situations délicates, quand celle-ci s’emballe ou panique. Se déplacer à cheval est souvent la marque de la noblesse ou des gens aisés, ne serait-ce qu’en raison du coût élevé d’entretien de la monture.
+Comment s’utilise la compétence équitation?
+Un cheval a trois allures différentes, qui correspondent pour la monture et son cavalier à des efforts et des vitesses de déplacement différentes:
+\begin{itemize}
+\item Au pas, un cheval se déplace à 5km/h, au prix d’un effort faible pour lui et son cavalier.
+\item Au trot (ou à l’amble), le cheval se déplace à 14 km/h, pour un effort moyen pour lui-même et son cavalier
+\item Au galop, la vitesse varie entre 21 et 30 km/h suivant le cheval, qui subit un effort important. Son cavalier subit lui un effort moyen pendant ce temps.
+\end{itemize}
+
+Le test du cheval pour résister est un test d’athlétisme+END.
+Un test d’équitation+HAB permet de limiter les effets en terme de fatigue d’un voyage à cheval, mais aussi diriger une monture dans un espace délicat (forêt ou rue avec des passants), notamment à grande vitesse. La difficulté du test pour la fatigue se trouve dans la section aventure, pour diriger la monture, la difficulté est fixée par le MJ. En cas d’échec, le personnage peut percuter un obstacle, se retrouver désarçonné….
+Un test d’équitation+INT peut être demandé par le MJ si la monture risque de s’emballer ou de s’effrayer, afin de la maîtriser. La difficulté du test est fixée par le MJ, suivant la situation.
+Enfin, un test d’équitation + HAB peut également servir à s’occuper de manière basique de sa monture. La difficulté du test est alors de 1.
+\subsection*{natation}
+C’est le fait de savoir nager, et éventuellement résister aux courants. La plupart des gens sont capables de flotter sur quelques temps même sans formation, mais se déplacer efficacement requiert un peu de pratique. Elle peut servir pour tout personnage qui s’attendrait à devoir nager, que ce soit sur les côtes, en mer, ou en cas de chute dans une rivière.
+Comment s’utilise la compétence natation?
+Par défaut, une personne nage à 3km/h, soit environ 4m par round de combat.
+Un test de natation + HAB est utilisé pour nager rapidement ou diminuer la fatigue infligée par cette activité. Pour l’endurance, la difficulté du test se trouve dans la section aventures. Pour la natation rapide, chaque réussite permet d’ajouter 1 mètre à la distance parcourue par round. La natation est normalement un effort normal, mais en cas de courant, de matériel lourd ou de sprint, c’est un effort important.
+Un test de natation+MA sert à nager malgré un équipement lourd ou dans des courants importants.
+\subsection*{escalade}
+C’est l’art de grimper sur une surface proche de la verticale : mur, arbre, palissade, falaise…. Elle peut servir à des personnages en exploration ou dans une zone urbaine par exemple, deux situations dans lesquelles des obstacles important peuvent bloquer le groupe. La plupart des gens n’en ont toutefois pas l’usage, à l’exception des ramoneurs et de forestiers dans certains cas.
+Comment s’utilise la compétence escalade ?
+Par défaut, la plupart des personnage n’ont pas de vitesse d’escalade. Ils peuvent toutefois grimper à chaque round d’une distance égale au nombre de réussites d’un test d’escalade+HAB, en mètre.
+Si aucune réussite n’est obtenue sur un tel test, il y a un risque de chute : le personnage effectue alors un jet de CHA. Si il n’a aucune réussite sur ce second test, il tombe, et subit alors les dégâts de chute adaptés.
+Suivant la difficulté de la surface, le MJ peut infliger un malus au test d’escalade.
+Enfin, l’escalade fait gagner un point de fatigue par round, à moins de réussir un test d’escalade de difficulté 5 supplémentaire, auquel cas, il s’agit tout de même d’un effort important.
+Différents Bonus ou malus peuvent être appliqués suivant la nature de la surface escaladée. Pour cela, on peut se référer à la table \ref{tableEscalade}.
+\begin{table*}
+\caption{ Surfaces d'escalade :}
+\label{tableEscalade}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Surface} & \textbf{Malus} \\
+   Mur en pierre & -1 à -3 suivant la qualité de construction\\
+   Arbre, facile & pas de malus, voire un bonus\\
+   Arbre, peu de branches & -1\\
+   Falaise, facile & pas de malus\\
+   Falaise, verticale & -1 à -2\\
+   Falaise, dévers & -2 à -3\\
+\end{tabular}
+\end{center}
+\end{table*}
+
+Enfin, un personnage escaladant une paroi subit un malus de -1 par tranche de 5 kilos d’équipements.
+\subsection*{Gymnastique}
+L’art d’effectuer des mouvements étranges, comme des sauts (longueur ou hauteur).
+\subsection*{athlétisme}
+L’athlétisme est la capacité d’un personnage à se déplacer sur le sol grâce à ses jambes, et ce, à différentes allures : la marche, la course, le sprint. La quasi-totalité des personnages peuvent avoir besoin de cette compétence, ne serait-ce que pour se déplacer : à moins d’être suffisamment riche pour disposer d’une monture ou de payer un autre moyen de transport, le personnage devra, à un moment ou un autre, marcher. Par ailleurs, un personnage peut être amené à s’enfuir, ou à en poursuivre un autre. Dans ces cas-là, la course à pied est le premier recours.
+Comment s’utilise la compétence athlétisme ?
+En premier lieu, un test d’athlétisme+END permet de limiter les effets d’un déplacement en terme de fatigue.
+
+\subsection*{attelage}
+Direction d’un véhicule hippomobile (oui c’est un mot)
+\subsection*{navigation}
+Gestion d’une embarcation, mais aussi réalisation de noeuds efficaces, ….
+\subsection*{orientation}
+Savoir où l’on se situe et comment retrouver son chemin.
+\section{Social}
+\subsection*{négociation}
+Obtenir quelque chose de l’autre partie.
+\subsection*{intimidation}
+Obtenir quelque chose de l’autre partie… Sans demander gentiment.
+\subsection*{mensonge}
+Raconter quelque chose de faux à l’autre partie. De manière crédible, on l’espère.
+\subsection*{Discussion}
+garder une discussion intéressante, changer de sujet. Peut servir de “défense sociale”.
+\subsection*{Sympathiser}
+Discuter sympathiquement avec l’autre partie, que ce soit dans un but purement platonique ou non.
+\subsection*{Art()}
+Représente les capacités dans une forme d’art n’étant pas musicale. Un art créant quelque chose de physique sera plus du ressort de la compétence artisan. Les domaines sont variés : poésie, danse, jonglage….
+\subsection*{Jeu()}
+Le talent dans les jeux de hasard et de stratégie. Permet de briller en société, de mettre du beurre dans les épinards, ou plus probablement de finir ruiné par quelqu’un qui y a un meilleur talent… Ou une meilleure technique de triche. Les domaines sont les différents types de jeu. Comme pour la compétence arme, on peut toujours tenter un jet avec la moitié du meilleur score.
+\subsection*{Musique()}
+Jouer, que ce soit pour soi ou pour un public. Les domaines correspondent aux types d’instruments : voix, bois, cordes, cuivres, percussions, …
+\subsection*{Commandement}
+Donner des ordres, et être suivi.
+\section{Aventure}
+\subsection*{Discrétion}
+L’art de se dissimuler.
+\subsection*{Crochetage }
+C’est la capacité à ouvrir une porte verrouillée sans disposer de la clé. Les usages sont généralement répréhensibles.
+\subsection*{Chasse}
+Suivre une piste, interpréter des indices, identifier une empreinte.
+\subsection*{Perception}
+Remarquer que quelque chose est étrange/un mouvement.
+\subsection*{Fouille}
+Trouver quelque chose par une recherche poussée de la zone.
+\subsection*{Artisanat()}
+Produire un objet : couvert, arme, oeuvre d’art, ….. Peut nécessiter du matériel, et nécessite des matériaux. Les domaines sont les différents artisanats existant: forge, poterie, peinture, gravure, sculpture, verrerie, bricolage, armurerie, cuisine, tannerie….
+\subsection*{Escamotage}
+Faire disparaître un objet sans être remarqué. Peut, suivant le système judiciaire en cours, causer la perte du membre utilisé pour l’opération.
+\subsection*{Contact animal ()}
+Approcher, s’occuper de et maîtriser un animal. Les domaines sont ici des types d’animaux : félins, canidés, bétail, volaille, rapaces, équidés, ....
+\subsection*{Survie}
+Faire un feu, vider un animal, trouver un bon endroit pour le bivouac, ….
+\subsection*{Premiers soins}
+S’occuper d’une blessure récente de manière à stabiliser le blessé. Nécessite des bandages (plus ou moins improvisés) et potentiellement une aiguille et du fil.
+\subsection*{Chirurgie* }
+Extraire une flèche, ressouder correctement un os, mais aussi extraire une dent, trépaner un patient amputer un membre… Nécessite des outils barbares pour être utilisé (un couteau peut parfois suffire, mais n’est pas forcément adapté à la tâche). Oui, réaliser une amputation avec pour seul outil une hache est compliqué (il faut au moins un couteau en plus…).
+\subsection*{Herboristerie}
+Connaître les utilités et les dangers des plantes, savoir où les récolter, quand les récolter, comment les récolter, ainsi que réaliser certains "remèdes de grand-mères".
+
+\section{Savoirs}
+\subsection*{Connaissances()*}
+Ensemble des savoirs détaillés sur un sujet, typiquement appris auprès d’un maître ou d’une université. Les domaines sont aussi nombreux que divers : arithmétique, astrologie, astronomie, théurgie, droit, zoologie, théologie….
+\subsection*{Culture générale()}
+Ensemble des connaissances pratiques et des généralités obtenues par l’expérience sur un sujet. Les domaines sont par exemple : ville, région, organisation, ….
+\subsection*{Gestion()}
+Organiser, planifier, que ce soit dans un but mercantile ou par exemple de la logistique. Les domaines sont les différents champs d’application : commerce, logistique, organisation.  Comme pour la compétence arme, on peut toujours tenter un jet avec la moitié du meilleur score.
+\subsection*{Langue()}
+Chaque domaine de la compétence langue est une langue différente de l’univers de jeu, que le personnage peut comprendre.
+Un test de cette compétence n’est pas demandé dans la plupart des cas, mais peut être demandé pour comprendre un accent particulièrement prononcé, ou un discours complexe.
+\subsection*{Médecine*}
+Savoir identifier une maladie, connaissances en anatomie. Permet d'établir un diagnostic, qui permettrait potentiellement de mieux orienter un traitement. Le diagnostic réalisé grâce à cette compétence permet potentiellement de ne pas se limiter aux symptômes, mais peut-être bien de trouver la source du mal qui affecte le patient (si les connaissances médicales du lieu et de l'époque le permettent).
+\section{Magie}
+\subsection*{Sorcellerie*}
+Cette compétence couvre la sorcellerie : forme de magie assez ancienne et primitive. Elle recouvre des éléments divers, tels que l'envoûtement, le lien magique, la création d'amulettes, ou encore la divination.
+\subsection*{Enchantement()*}
+L'enchentement est une forme de magie plus spectaculaire, mais aussi plus coûteuse pour celui qui la lance. Elle comprend les manipulations élémentaires, la télékinésie, et d'autres techniques magiques avancées.
+\subsection*{Symbolisme}
+Le symbolisme est la compétence permettant de déchiffrer les symboles magiques des rituels, ou de trouver les bons symboles à utiliser pour ses propres rituels.
+
+Ces symboles obéissent à des règles parfois obscures et mal comprises, qui fait que leur choix tient plus de l'art que de la science.
+\subsection*{Théurgie}
+Détection des phénomènes magiques (équivalent magique de la perception et de la fouille).
+\section{Religion}
+\subsection*{Liturgie*}
+Ensemble des règles du culte d’une religion. cf règles de religion.
+\subsection*{Rites*}
+Prières personnelles, afin de demander une réponse à une divinité.
+\subsection*{Volonté}
+Compétence permettant à un personnage de lutter contre certaines entités extérieures.
+\part{Règles détaillées}
+
+\chapter{L'aventure}
+\section{Fatigue}
+\subsection*{Etats de fatigue - jauge de fatigue}
+Il y  a 7 états de fatigue, avec des effets différents :
+
+\begin{itemize}
+
+\item{reposé} : le personnage frais et dispo, pas d’effet particulier.
+\item{échauffé} : l’effort a commencé, mais pour le moment, sans aucun problème.
+\item{essoufflé} : les premières difficultés commencent à apparaître. Malus de -1 à tous les tests.
+\item{fatigué} : la fatigue commence à se faire sentir, et à diminuer l’efficacité du personnage : -2 à tous les tests.
+\item{exténué} : le personnage est amené dans ses derniers retranchements. Malus de -4 à tous les tests.
+\item{terrassé} : le personnage est au-delà de ses limites, et le paiera très cher le lendemain. Malus de -6 à tous les tests, et commencera le lendemain avec un niveau de fatigue plus important : sans autre problème, le personnage passera la prochaine journée à l’état échauffé.
+\item{coma} : Le personnage tombe dans l’inconscience après ses efforts trop importants.
+\end{itemize}
+Le personnage progresse dans ces états en fonction du nombre de points de fatigue gagnés aux cours des efforts entrepris.
+Une fois le seuil Ec franchi, le personnage est échauffé. 
+Le calcul des différents seuil se trouve dans la table \ref{tableSeuilsFatigue}.
+
+\begin{table}
+\caption{ Seuils de fatigue :}
+\label{tableSeuilsFatigue}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Seuil} & \textbf{valeur} \\
+   Échauffé & END/2(arrondi au supérieur)  \\
+   Essoufflé & END  \\
+   Fatigué & END+3 \\
+   Exténué & END+7 \\
+   Terrassé & END+10 \\
+   Coma & END+12 \\
+\end{tabular}
+\end{center}
+\end{table}
+\subsection*{Efforts - gagner des points de fatigue}
+Il y a plusieurs moyens de gagner des points de fatigue.
+En premier lieu, chaque round de combat entraîne le gain d’un point de fatigue automatiquement. Il est toutefois possible pour un personnage de récupérer des points de fatigue en y consacrant un round complet. Auquel cas le personnage regagne un nombre de point de fatigue égal à sa valeur d’END, mais ne peut pas diminuer son état de fatigue.
+En plus de ces efforts brefs, il est possible de gagner des points de fatigue avec des efforts prolongés.
+Suivant la difficulté des efforts, un personnage gagne un point de fatigue après une certaine durée. Il est également possible de réduire la difficulté d’un effort en réussissant un test d’END+compétence, avec la compétence adaptée à l’effort. La difficulté de ce test est indiqué dans la table \ref{tableDiffFatigue}. Un effort faible réduit n’est pas annulé, mais a une durée de 1h pour gagner un point de fatigue.
+\begin{table*}
+\caption{ Réduire un effort :}
+\label{tableDiffFatigue}
+\begin{center}
+\begin{tabular}{cccc}
+\textbf{Effort} & \textbf{Durée} & \textbf{Difficulté} &\textbf{exemple} \\
+   faible & 30 minutes & 2  & marche à pied, pas\\
+   normal & 1 minute & 4  & course tranquille, pas de course\\
+   important & 5 secondes & 6 & course rapide, pas de charge\\
+\end{tabular}
+\end{center}
+\end{table*}
+
+\section{Environnement}
+\subsection*{Chute :}
+dégâts = hauteur (en m)+ 1 par tranche de 10kg de poids porté - nombre de réussite sur un test de HAB+gymnastique. Si le personnage n’est pas en état d’effectuer un test, il subit un nombre de dégâts égal à la hauteur (dégâts contondants, répartis sur les deux jambes, l'armure ne permet pas de réduire cela).
+\subsection*{Flammes :}
+Suivant la source, un personnage peut subir enflammé(n). A chaque tour, un personnage enflammé subit une attaque avec une valeur de dégâts de n. Ces dégâts sont résistés avec l'armure contondante.
+
+A titre d’exemples, un feu de camp dans lequel on marcherait infligerait enflammé (1), là ou du feu grégeois serait plus proche d’enflammé(4).
+La plupart des feux seront en fait de force 1. Un véritable brasier aura une force de 2 à 3. Si le personnage ou son équipement prend feu, on augmente cette valeur de 1.
+
+
+Un personnage peut réduire les flammes avec un test de HAB+VIT (on diminue les dégâts du nombre de réussite). Si la valeur atteint 0, les flammes ont été éteinte avec succès (il est aussi possible d’éteindre les flammes sur quelqu’un d’autre).
+\chapter{Blessures, soins et guérison}
+\section{Blessures}
+On distingue, suivant leur degré de gravité, 5 nivaux de blessures:
+\begin{itemize}
+\item \'Egratignure : blessure bénigne, sans aucune conséquence directe. Peut éventuellement laisser une cicatrice (suivant les premiers secours apportés). Attention toutefois, dans certains milieux, c'est l'infection qui guette.
+\item blessure légère : une blessure sans grande conséquence, mais qui se révèle handicapante, souvent par la douleur qu'elle cause. Le blessé subit un malus de -2 à tous ses tests réalisés avec cette zone si c'est un membre. Le torse et le ventre infligent quand à eux un malus de -1 à tous les tests. Une blessure même légère à la tête peut se révéler problématique : cicatrice hideuse, traumatisme crânien léger (qui peut entrainer perte de conscience jusqu'à quelques heures après le choc, mais ne devrait pas avoir de séquelles sur le long terme),dents déchaussées, perte d'un bout d'oreille ou de nez...
+\item Blessure grave : Les premières blessures à réellement menacer la survie du personnage : fracture, organe touché, muscle lourdement endommagé.... Une telle blessure fait risquer une hémorragie quelque soit la zone touchée. Les membres ne sont plus utilisables, le ventre risque fort de s'infecter en cas de blessure ouverte, ou des dommages internes graves en cas de blessure interne (problèmes de digestion au mieux, foie et reins au pire). Le torse implique un poumon perforé ou une côte brisée (ou les deux), qui inflige un malus de -4 à toutes les actions après la fin du tour. Une blessure à la tête de ce type est très grave : traumatisme crânien moyen (perte de conscience quasiment sûre, avec potentielles séquelles mineures), oreille détruite, œil atteint (peut-être sauvable par chirurgie), mâchoire démise, dents dévastées....
+\item blessure dévastatrice : danger vital pour le blessé : fracture ouverte, plaie très importante, organe gravement touché (non-fonctionnel). Potentielles séquelles à log terme pour le personnage, en particulier sur un coup à la tête. Tout les coups de ce niveau cause une hémorragie. Un membre n'est pas utilisable, une blessure au torse implique de gros dégâts au niveau du poumon, ce qui empêche toute action violente après la fin du tour. Une blessure au ventre implique un organe non-fonctionnel : intestin perforé (la gangrène guette alors en quelques heures), rein détruit, foie éclaté.... Les coups à la tête voient un œil perdu, une gorge tranchée (hémorragie grave), ou un traumatisme crânien majeur (perte de connaissance quasi-immédiate, gros risque de séquelles, y compris sur le long terme).
+\item blessure mortelle Le personnage n'a aucune chance de survivre à ce coup : crâne enfoncé, blessure au cœur, artère tranchée....
+\end{itemize}
+
+Un coup inflige une blessure si après les éventuelles réductions d'armure, il dépasse le seuil associé à ce niveau de blessure. On peut se référer à la table \ref{tableSeuilsBlessures}
+
+\begin{table}
+\caption{Seuils de blessure}
+\label{tableSeuilsBlessures}
+\begin{tabular}{cc}
+\textbf{Seuil} & \textbf{valeur} \\
+   égratignure & pas de seuil \\
+   blessure légère & 1 \\
+   blessure grave & 2 \\
+   dévastatrice & 4 \\
+   mortelle & 6 \\
+\end{tabular}
+\end{table}
+
+Pour les blessures à la tête, on ajoute 2 à la valeur de seuil. Pour les blessures au torse, on ajoute 1.
+\subsection*{Hémorragie}
+Une hémorragie commence à un score dépendant de la blessure ou maladie l'ayant causé, et augmente celui-ci d'un point toutes les minutes. Quand la valeur arrive à MA+CON, le personnage tombe inconscient. A deux fois cette valeur, il est mort.
+\subsection*{\^Etre sonné}
+Un personnage peut être sonné de plusieurs façons, mais le plus souvent suite à un choc violent à la tête, ou une chute rude sur le sol (par exemple à la suite d'une projection au corps à corps.
+
+Un personnage peut tenter de résister à cela via un test de CON+MA, si il échoue, il est considéré comme sonné, et subit un malus de -3 à toutes ses actions.
+\section{Maladies, infections et poisons}
+%Chaque maladie : un vecteur, une difficulté pour résister à l'infection, puis les règles détaillées de chacune. La difficulté d'une même maladie peut varier suivant la souche (décision du MJ, ne devrait pas changer de plus de 1).
+%Résistance réalisée avec MA+CHA.
+Une maladie, une infection ou un poison se définissent de la même façon dans S\& A. Chacune se définissent en termes mécaniques par un vecteur, une contagion, un temps d'incubation et des effets.
+
+Le vecteur est le moyen de tomber malade (ou d'être infecté, ou de subir les effets d'un poison). Pour le paludisme par exemple, cela serait la piqûre de moustiques infectés. Le MJ peut décider de la probabilité d'un personnage d'être mis en contact avec la maladie avec un test de chance, ou par décision.
+
+La contagion, c'est la difficulté du test visant à résister à l'infection initiale. On réalise ce test avec MA+CHA. Pour une même maladie, il peut exister différentes souches, qui auront des contagions légèrement différentes (plus ou moins 1 point).
+%pas de mention du fait que l'exposition régulière à une souche augmente la résistance
+
+Le temps d'incubation, c'est le temps nécessaire avant de subir les premiers effets.
+
+Les effets, c'est l'ensemble des conséquences de la maladie qui se déclenchent après le temps d'incubation.
+
+\subsection*{Exemples de maladie}
+\paragraph{La grippe (difficulté 2)} :incubation 2 jours. Vecteur : présence auprès d'une personne infectée (contagieuse pendant le temps d'incubation?). premier jour : -1 à touts les tests (douleurs musculaires). Les jours suivants : 3 niveaux de fatigue automatiques. Dure par défaut 5 jours - le nombre de réussites au test initial.
+\paragraph{La gangrène (difficulté 4):} vecteur : une blessure non cicatrisée qui s'infecte. Chaque jour, un point de blessure cumulatif est infligé. A partir du début, malus de -2 à tous les tests avec le membre infecté (à tout si c'est la tête ou le torse). Un test de chirurgie, de médecine ou d'apothicaire difficile (4) peut permettre de stopper l'infection à ce stade (attention, la blessure pourrait à nouveau s'infecter, un seul test de chaque type autorisé). Une fois qu'une blessure légère est infligée, le membre devient invalide et le patient subit de grosses fièvres (2 niveaux de fatigue). A ce moment, il faut un test de chirurgie difficile(4) pour amputer le membre ou très difficile (5) pour ne pas tout couper. Attention, une amputation est une blessure grave et présente des risques d'hémorragie.
+%\section{Séquelles des blessures}
+%Pertinence ?
+\section{Prodiguer des soins}
+Une fois des blessures subies, un personnage peut espérer récupérer de celles-ci. Pour cela, il faut du temps, et idéalement un suivi médical.
+
+En premier lieu, la récupération naturelle, qui sert de base pour le calcul pour toute forme de soins, correspond à ce qui se passe si la blessure évolue naturellement dans de bonnes conditions. Elle part du principe que la blessure est saine et peut cicatriser. Les temps peuvent être trouvés dans le tableau \ref{recuperationNaturelle}.
+\begin{table*}
+\caption{Récupération naturelle}
+\label{recuperationNaturelle}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{gravité de la blessure}&\textbf{durée de récupération}\\
+égratignure & 2 jours\\
+blessure légère& 1 semaine\\
+blessure grave& 2 semaines\\
+blessure catastrophique& 1 mois\\
+blessure mortelle & pas de récupération
+\end{tabular}
+\end{center}
+\end{table*}
+
+Les malus infligés par la blessure diminuent au cours de la récupération.
+
+Par ailleurs, les différentes compétences de médecine peuvent être utilisées pour influencer le temps de récupération 
+\begin{itemize}
+\item premiers secours : un test réussi permet de limiter les risques d'infection, et de déclencher immédiatement après le test le processus de récupération naturelle.
+\item herboristerie : un test permet d'améliorer la récupération naturelle, ou de limiter les malus infligés au cours de la récupération. Bonus de récupération : 20%
+\item chirurgie : un test réussi permet de soigner certaines blessures et leur permettre de commencer à récupérer. Sur une blessure normale, cela permet également de réduire légèrement la durée de soin. Type de blessure nécessitant de la chirurgie : fractures déplacées, flèches, blessure interne, infection interne (appendicite par ex). gain max: 10%
+\item Médecine : permet de limiter les risques d'infection, et de gagner un peu de temps de récupération (10%)
+\end{itemize}
+
+\chapter{Stress et folie}
+Face à un évènement traumatisant (blessure grave, scène horrible objectivement ou subjectivement, tuer quelqu'un), le personnage doit réaliser un test de CON+CHA, avec un seuil dépendant de la gravité du traumatisme. Quelques exemples de difficultés sont indiquées dans la table suivante %TODO : exemples de trauma
+
+Si le test est réussi, l'évènement n'a aucune conséquence sur la santé mentale du personnage. Si le test est un échec, on ajoute au personnage un nombre de points de stress égal à la différence entre la difficulté et son nombre de réussite.
+
+On compare ensuite le nombre de points de stress avec les seuils de stress du personnage. Si un seuil est battu, le personnage subit les effets de cet état de stress. Les seuils de stress sont calculés grâce à la table \ref{TableauSeuilsStress}.
+
+%TODO réfléchir à améliorer, notamment les trauma graves
+\begin{itemize}
+\item stress léger : pas d'effets permanent, problèmes de concentration, vomissement...
+\item stress important : difficulté à dormir (potentiellement sur le long terme), légers changements de personnalité : agressivité, panique, le personnage est en train de craquer.
+\item traumatisme : effets durables sur la personnalité, PTSD, séquelles psychologiques.
+\end{itemize}
+
+Il est possible de baisser le niveau de stress avec du temps de repos, mais aussi des moments de détente : musique, vices, tout ce qui peut calmer le personnage. La religion peut également être une aide ici.
+Si c'est un évènement et non le temps qui est utilisé, le personnage peut réaliser un test de CON et perdre autant de points de stress que son nombre de réussite.
+\begin{table}
+\label{TableauSeuilsStress}
+\caption{Calcul des seuils de stress}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Seuil} & \textbf{Valeur} \\
+seuil léger & CON \\
+seuil important & CON*1.5 \\
+seuil trauma & CON*2 \\
+\end{tabular}
+\end{center}
+\end{table}
+
+\chapter{Relations sociales}
+\section{Contacts}
+Les contacts d’un personnages sont des personnages qui pourraient accepter de lui accorder des faveurs en cas de besoin.
+
+Chaque contact dispose d’un score de service, représentant sa volonté d’aider le personnage.
+
+Pour faire appel à cette aide, un personnage doit réaliser un test de service+SOC, dont la difficulté est déterminée par la table \ref{tableFaveurs}.
+
+\begin{table}
+\caption{ Demander une faveur :}
+\label{tableFaveurs}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Faveur} & \textbf{Difficulté} \\
+   mineure & 2  \\
+   moyenne & 3  \\
+   importante & 4 \\
+   critique & 5\\
+\end{tabular}
+\end{center}
+\end{table}
+\section{Renommée}
+La renommée d’un personnage est une indication de la façon dont il est connu au sein d’une communauté. Il est utilisé pour déterminer l’attitude globale des personnages envers celui-ci. Plus de détails dans la table \ref{tableRenommée}.
+
+
+\begin{table}
+\caption{ Renommée :}
+\label{tableRenommée}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Score} & \textbf{Niveau social équivalent} \\
+   0 & vagabond, prostituée  \\
+   1 & voyageur, habitant pauvre  \\
+   2 & habitant moyen, chevalier errant \\
+   3 & respectable citoyen, bas clergé\\
+   4 & notable, bourgeois \\
+   5 & basse noblesse locale, clergé \\
+   6 & noblesse moyenne \\
+   7 & haute noblesse, haut clergé \\
+   8 & souverain \\
+\end{tabular}
+\end{center}
+\end{table}
+Ce score peut être utilisé dans certains cas (en test simple), pour : 
+\begin{itemize}
+\item{}limiter un problème avec les autorités
+\item{}rechercher quelqu’un en particulier
+\item{}obtenir une audience avec quelqu’un
+\item{}être reconnu par quelqu’un
+\end{itemize}
+
+Au sein d’une communauté dans laquelle ils viennent d’arriver, un groupe de personnage devrait se situer par défaut entre 0 et 2 en renommée, suivant leur apparence (si l’un d’eux a l’air d’un chevalier, on peut imaginer 2, si ils ressemblent à des pouilleux, 0 est plus adapté). Avec le temps, et de bonnes relations avec les habitants, ce score peut s’améliorer.
+
+\chapter{Combats}
+\section{Généralités:}
+Dans un combat, les participants agissent par ordre d’initiative décroissante. L’initiative étant calculée avec 1d6+VIT.
+\section{Combat en mêlée:}
+Pour réaliser une attaque en mêlée, on effectue un test en opposition entre la VIT+arme de l’attaquant et la VIT+défense du défenseur.
+
+    En cas de réussite, l’attaque inflige des dégâts.
+    
+    En cas d’échec, le défenseur peut décider d’effectuer une contre-attaque (dans la limite d’une par tour). Celle-ci ne peut pas déclencher de contre-attaque en retour.
+    
+    En cas d’égalité, l’attaquant calcule les dégâts, et le défenseur peut contre-attaquer simultanément.
+    
+    Il n’est possible d’attaquer en mêlée que si la cible se trouve à bonne distance. Chaque arme est évidemment plus facile à manier à certaines distances. S\&A distingue 4 distances de combat:
+    \begin{itemize}
+    \item{}Le corps à corps correspond à la distance de combat à mains nues, soit environ de 0 à 1m
+\item{}La mêlée est la distance normale de frappe pour les armes à une main : entre 1 et 2m.
+\item{}La distance moyenne est dans un duel la distance à laquelle les deux adversaires se placent pour se jauger. C’est aussi la zone de frappe de bon nombre d’armes à deux main : entre 2 et 3m.
+\item{}Enfin, la distance longue est presque exclusivement une distance d’observation, quoique certaines armes particulièrement longues puissent y être à l’aise : de 3 à 5 m.
+    \end{itemize}
+
+Les éventuels malus dus à la distance dépendant de l’arme utilisée, ils sont listés dans la section équipement du présent manuel.
+\subsection*{Enchainer les parades}
+Pour représenter la difficulté à gérer de nombreuses attaques arrivant dans sa direction, chaque personnage subit un malus cumulatif de -2 pour chaque test de défense après le premier dans le tour. C’est à dire que la seconde défense se fait avec un -2, et la troisième avec -4, etc. Ce malus est également appliqué pour les attaques à distance, sauf si le défenseur utilise un bouclier.
+\subsection*{Le combat à mains nues}
+En plus du combat armé, il est possible d’utiliser des techniques de combat à mains nues.
+Pour infliger un coup, il suffit d’effectuer un test opposé de Corps à corps + VIT, et de continuer comme s’il s’agissait d’une attaque de mêlée normale (les valeurs de dégâts des poings/gantelets/casques/éléments divers sont dans la section équipement).
+On peut également tenter de saisir son adversaire avec un test de Corps à corps+VIT (toujours contre défense+VIT), afin de lui infliger plus tard une projection, une clé….
+On effectue alors un test opposé de Corps à Corps +MA, permettant d’infliger une des situations suivantes à l’adversaire:
+
+\begin{itemize}
+\item{}l’adversaire doit lâcher son arme.
+\item{}L’adversaire se retrouve déplacé d’un mètre dans une direction choisie par l’attaquant.
+\item{}L’adversaire se retrouve jeté au sol.
+\item{}L’adversaire ne peut plus agir avec un membre choisit tant qu’il n’a pas réussi à se débarrasser de la lutte (test opposé de Masse+Corps à corps gagné).
+Quitter la lutte (faire lâcher prise à son adversaire).
+\end{itemize}
+
+\subsection*{être sonné}
+Il y a plusieurs raisons pour lesquelles un personnage pourrait être sonné sur un champ de bataille.
+    En premier lieu, si il se retrouve violemment projeté au sol, et ce qu’elle qu’en soit la raison. Il peut alors réaliser un test Moyen (2) de Concentration+Vitesse pour ne pas être sonné.
+
+Un personnage sonné peut effectuer un test facile (1) de Concentration pour ne plus l’être, et ce, au début de son tour de jeu.
+\subsection*{Modificateurs circonstanciels}
+La table \ref{tableModifCombats} liste une partie des modificateurs classiques sur les jets de combat en mêlée.
+\begin{table*}
+\caption{ Modificateurs courants en combat :}
+\label{tableModifCombats}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Raison} & \textbf{Modificateur} \\
+   attaque de dos & -5 au test de défense  \\
+   attaque de flanc & -2 au test de défense  \\
+   attaque ciblée & -1 au test d'attaque\\
+   viser les faiblesses de l'armure & -3 à l'attaque\\
+   combattre au bouclier & +1 à +5 au test de défense \\
+   combat à deux armes & +1 au test de défense, +2 au test de contre-attaque, nécessite une arme courte en main secondaire\\
+\end{tabular}
+\end{center}
+\end{table*}
+\section{Le combat à distance:}
+Le combat à distance se gère par deux tests simples :
+En premier lieu l’attaquant réalise un test d’arme+HAB. En cas d’échec, le projectile ne touche pas sa cible. La difficulté du test est indiquée dans le tableau \ref{TableauDifficultéTir}. Ce tableau indique les difficultés pour tirer sur une cible humaine, et sans couvert.
+\begin{table*}
+\caption{Difficultés de tir}
+\label{TableauDifficultéTir}
+\begin{center}
+\begin{tabular}{ccc}
+\textbf{Portée} & \textbf{calcul}& \textbf{Difficulté} \\
+   En-dessous de Portée/5 & tir à bout portant & 1  \\
+   jusqu'à portée & tir normal & 2 \\
+jusqu'à portée *2 & tir à portée longue & 3 \\
+jusqu'à portée *3 & tir en cloche & 4 \\
+au-delà de portée *4 & portée extrême & 5
+\end{tabular}
+\end{center}
+\end{table*}
+
+%TODO faire tableau des modificateurs à distance
+En cas de réussite, le défenseur effectue un test de VIT+défense, avec un seuil dépendant du type de tir effectué. Pour cela, on peut se référer à la table \ref{tableDiffContreTirs}.
+
+\begin{table}
+\caption{ Défense contre tirs :}
+\label{tableDiffContreTirs}
+\begin{center}
+\begin{tabular}{cc}
+\textbf{Attaque} & \textbf{Seuil de défense} \\
+   arme de jet (javelots...) & 3\\
+   arme de trait (flèche...) & 4\\
+\end{tabular}
+\end{center}
+\end{table}
+En cas de réussite à ce second test, le projectile est bloqué ou évité par le personnage attaqué, et n’inflige aucun dégât. 
+En cas d’échec, l’attaque inflige des dégâts.
+\section{Infliger des dégâts}
+Pour infliger des dégâts sur une zone spécifique, on fait la différence entre la valeur de dégâts infligée et l'armure de la cible sur cette zone.
+
+Pour une attaque de mêlée, la valeur de dégâts est égale à la VD de l'arme, plus le bonus de dégâts du personnage, plus la marge de réussite du test d'attaque. Dans certains cas, il est également possible d'ajouter la moitié de la distance parcourue dans le round (bonus de charge).
+
+Pour une attaque à distance, la valeur de dégâts est égale à la VD de l'arme, en comptant éventuellement le modificateur dû au projectile utilisé, et en ajoutant la marge de réussite lors du test d'attaque.
+
+Si la valeur de dégâts est supérieure à l'armure, on compare la différence avec les seuils de blessure de la cible, et on applique les effets subis (voir la section sur les blessures et la guérison pour plus de détails.
+\section{Autres actions}
+
+Il est également possible de viser une zone spécifique, au prix d’un malus de -1 à l’attaque.
+
+Avec la plupart des armures, il est possible de viser dans les brèches de celle-ci, en subissant un malus de -3.
+
+\chapter{Magie}
+Il existe deux formes de magie dans S\& A, chacune avec ses propres applications. Elles sont la sorcellerie et l'enchantement. La sorcellerie est souvent vue comme plus primitive, moins spectaculaire que l'enchantement.
+
+En plus de ces deux formes de magie, deux compétences entrent en jeu dans la compréhension et l'utilisation des arts mystiques : la théurgie et le symbolisme. La théurgie permet de détecter la présence de magie prêt de celui qui l'utilise (de la même façon que la perception), le symbolisme permet de comprendre les différents symboles utilisés pour lancer différents sortilèges. Le symbolisme permet ainsi d'essayer de comprendre l'objectif d'un sort d'après ses composantes, ou de faciliter la réalisation d'un de ses propres sortilèges. Pour plus de détails sur ces deux compétences, se référer à la section appropriée, plus haut dans ce livre.
+
+\section{La sorcellerie}
+La sorcellerie regroupe tout un ensemble de magies primitives et anciennes, dont le pouvoir est souvent plus subtil que spectaculaire. En terme de jeu, cela permet de réaliser différentes amulettes, d'envoûter une cible, lier deux éléments, ou encore tenter une divination.
+
+Les rituels de sorcellerie ne causent qu'une fatigue mineure au  sorcier : la moitié de la valeur de puissance de l'effet en point de fatigue.
+Les rituels étant relativement rapides (quelques secondes à une minute), un seul personnage ne peut réaliser qu'un seul test pour chaque rituel. Il est possible d'utiliser les règles de travail en équipe pour améliorer le résultat. Dans ce cas, seul celui qui dirige le rituel (et réalise le test principal) subira de la fatigue.
+\subsection*{Les amulettes}
+De nombreuses amulettes, talismans et autres portes-bonheurs sont fréquemment utilisés par tous. Si la plupart d'entre eux n'ont qu'un effet psychologique, certains sorciers clament que les leurs recèlent un véritable pouvoir.
+
+Une amulette permet de relancer un nombre de dés égal au résultat du test réalisé lors de sa création pour tout les tests défensifs associés à l'amulette. Chaque amulette fournit ce bonus dans un type de cas spécifique : contre la séduction, contre la possession, contre les envoûtements, la divination, les attaques directes, les assassinats, la malchance..... 
+
+Une amulette a également un coût, qui n'influence pas vraiment son efficacité, mais peut révéler de manière évidente sa nature, ou être considérée comme une amulette pauvre, ce qui peut influencer la façon dont les gens perçoivent le porteur.
+
+Si les dés relancés par une amulette ne fournissent aucune réussite, sa qualité baisse d'un niveau. Quand sa qualité atteint 0, l'amulette n'est plus efficace. 
+\subsection*{Envoûtement}
+La raison pour laquelle les sorciers sont craints par beaucoup : leur capacité à maudire ceux qui leur déplaisent, et ce de nombreuses façons différentes.
+
+Un envoûtement impose de relancer un nombre de réussite égal à sa puissance sur tout les tests défensifs du type visé. La puissance d'un envoûtement est égal à la moitié du nombre de réussite lors du test pour lancer l'envoûtement (test de sorcellerie(envoûtement)+CON). Les jets défensifs qu'un envoûtement peut affecter sont les mêmes qu'une amulette.
+
+Un envoûtement ne se dissipe qu'après un contresort réussi contre sa puissance, ou la mort de celui qui l'a lancé. Il est possible également de choisir de lier l'envoûtement à un objet, la mort du lanceur étant alors remplacé par la destruction de l'objet.
+\subsection*{Lien}
+Les sorciers peuvent parfois lier deux éléments entre eux, de façon à les intervertir magiquement : ce qui devait affecter l'un affectera l'autre, et inversement. Cela peut être utilisé pour nuire, mais est le plus souvent utilisé afin de dévier des malédictions.
+
+L'une des cibles est forcément une créature vivante.
+Si la seconde est également une créature vivante, les effets magiques devant affecter l'un affectent l'autre, et réciproquement. Dans le cas où un sortilège n'aurait pas d'effet sur sa nouvelle cible, celle-ci subit en lieu et place des points de fatigue.
+Si la seconde cible est un objet ou une plante, les maléfices affectant la cible principale affecteront l'intégrité de la cible secondaire : un objet se détériorera, une plante dépérira. Un lien vers un objet peut être vu comme une forme différente d'amulette. 
+
+Pour réaliser un lien, il faut un test de sorcellerie(Lien)+CON, avec une difficulté de base de 2, +1 si la cible secondaire est un objet ou une plante, +2 par cible n'étant pas consentante. Il faut que les deux cibles soient à proximité immédiate du rituel lors de l'incantation pour que cela marche.
+\subsection*{Divination}
+Une des formes les plus anciennes de la magie : tenter de percer les secrets du futur. Un test de sorcellerie(divination)+CON de difficulté 2 permet de poser une question précise sur le futur. Pour chaque réussite après la première, le personnage verra un signe différent pouvant répondre à cette question.
+
+Les visions ou signes pourront utiliser lourdement des symboles. ceux-ci (contrairement à la divination religieuse) ne dépendent pas d'un symbolisme religieux, mais des symboles magiques, en accord avec la compétence de symbolisme. Celle-ci peut d'ailleurs être utilisée pour essayer de trouver une interprétation possible.
+\section{L'enchantement}
+Parfois appelé haute magie, et certainement plus spectaculaire que la simple sorcellerie.
+
+Les rituels d'enchantement sont très fatigant pour leur lanceur : pour chaque point de puissance généré par l'enchanteur, celui-ci subit un point de fatigue.
+
+La durée des rituels permet à un seul lanceur de réaliser plusieurs tests, mais il en paiera alors le prix en terme de fatigue.Il est possible pour plusieurs enchanteurs de travailler ensemble. Ils peuvent alors choisir d'avoir un meneur de rituel (règles de travail en équipe, le meneur subit la fatigue), ou de mettre leurs efforts en commun. Dans ce dernier cas, il faut que chaque participant ait des points dans la compétence, et chacun subira la fatigue due à ses propres réussites.
+\subsection*{Manipulation élémentaire}
+%-manipulation élémentaire (terre, feu, air, eau, ....) : permet de manipuler les mouvements d'un type d'élément. La difficulté du tout dépend de la masse à déplacer, de la distance entre celle-ci et le rituel, et certains matériaux (le fer, encore le fer) y résistent naturellement, d'autres y sont très sensibles, comme les cristaux (beaucoup plus rares). Enchantement+CON
+Le plus spectaculaire des rituels d'enchantement. Il permet de modeler un élément à volonté, mais prend du temps et de l'énergie.
+
+La durée et la difficulté du rituel dépend de sa puissance. Le rituel dure un nombre de minutes égale à sa puissance. La puissance est égale au nombre de réussites. Dans sa version la plus courante, ce rituel permet de manipuler 1 mètre cube par point de puissance. 
+
+ Chaque élément est une spécialité différente : enchantement (pyrokinésie) et enchantement(hydrokinésie) sont séparées.
+
+La matière modelée doit être en vue du rituel. 
+
+Il est également possible de manipuler de manière plus fine un élément, mais la quantité de matière affectée n'est plus alors que d'un litre (un cube de 10cm de côté).
+
+Les différents éléments manipulables sont le feu, la terre (et les briques), l'eau, la roche, le métal, le sable(et le verre) et le bois (et les plantes en général).
+
+Attention, cela ne permet pas d'augmenter la quantité de matière, seulement de la modeler. L'exception concerne la manipulation des plantes (dendrokinésie), qui peut être utilisée afin de faire pousser une certaine quantité de matière depuis des plantes existantes.
+
+Les effets exacts en jeu sont à la discrétion du MJ. 
+
+\subsection*{Télékinésie}
+La télékinésie est un des arts de l'enchantement. certains puissants enchanteurs du passé s'en sont servi pour bâtir de grands monuments dit-on.
+
+La puissance du rituel détermine sa durée et la masse déplacée : une minute par point de puissance, et une réussite par point de puissance.
+
+Dans sa version la plus courante, le rituel permet de déplacer lentement 10kg par point de puissance, et ce tant que l'élément déplacé est en vue. Le déplacement est également assez peu précis.
+
+Dans sa version plus précise, l'enchanteur peut manipuler finement ou rapidement 1kg par point de puissance. Cela permet de réaliser une attaque de lancer, ou de réaliser une manipulation fine.
+\subsection*{Condition}
+%-condition : modifie un rituel existant pour lui ajouter une conditions de déclenchement. Lorsque celles-ci sont réalisées, le sort se déclenche, et ce, tant que le réceptacle existe. Un réceptacle est un objet servant de lien entre le lanceur et le sort inactif. Il est possible pour quelqu'un de suivre ce lien. Enchantement+CON
+L'enchantement de condition permet de définir une condition d'activation d'un rituel. 
+
+Cela nécessite en premier lieu le rituel dont les conséquences seront réalisées, d'autre part un élément servant à stocker ce rituel. Les plus courants pour cela sont des bijoux, des sceptres, des cristaux (et notamment toute sorte de pierres précieuses).
+
+Ce rituel augmente la difficulté du précédent, suivant le type de condition demandée. Pour une activation par mot de pouvoir ou activation du porteur, cela augmente de 2 la difficulté. Pour une activation quand une condition est remplie par le porteur (de santé par exemple), la difficulté augmente de 3. Pour une activation par condition extérieure simple (quelqu'un approche par exemple), la difficulté augmente de 3. Pour une activation par condition plus complexe, la difficulté augmente de 4.
+\subsection*{Contresort}
+Le rituel de contresort permet de défaire les efforts d'un enchanteur ou sorcier.
+
+Pour fonctionner, le rituel de contresort doit avoir un score de puissance supérieur à celui de l'effet magique visé.
+
+La difficulté du contresort est égale à sa puissance. La durée du rituel est égale à la puissance divissée par deux en minutes (arrondi au supérieur).
+\chapter{Religion}
+La religion permet à un personnage religieux d'intercéder auprès de sa ou ses divinités afin de profiter de ses faveurs.
+
+Les règles de religion impliquent quatre compétences : théologie, liturgie, rites et volonté.
+
+A titre de remarque, l'efficacité d'un personnage dans ces compétences ne présume en rien de son statut au sein de son église. La foi personnelle n'a bien souvent rien à voir avec la position hiérarchique. 
+
+La théologie est la compétence permettant à un personnage de connaître les détails de sa religion : tout le monde sait à quoi ressemble une cérémonie hebdomadaire, mais chacun ne connaît pas les raisons de chaque symbole et actions réalisées. Cela permet également de connaître les symboles courant de la mythologie, et de tirer des citations des textes en cas de besoin. La quasi-totalité des tests sont réalisés avec la logique.
+\section{Cérémonies}
+L'élément central de la religion, pour la plupart des gens, est constitué par les différentes cérémonies qui rythment la vie des croyants.
+
+Il en existe, dans S\& A, deux sortes : les cérémonies courantes, et les bénédictions.
+
+\subsection*{Cérémonies courantes}
+%cérémonies courantes (équivalent messes dominicales) : facile, même pour beaucoup de monde, une fois/semaine, bonus léger (relance d'un jet dans la semaine). TEST DE LITURGIE+SOC assez simple
+Les cérémonies courantes sont des cérémonies prévisibles, car répétées toutes les semaines. Elles sont principalement une occasion de se rassembler, permettant à une communauté de se rencontrer. Elles permettent évidemment de prier, et de rassurer les âmes troublées.
+
+En terme de jeu, il est possible pour un personnage de bénéficier jusqu'à une fois par semaine du bonus fourni par une cérémonie courante. Une cérémonie permet à chacun de ses participants de relancer un jet complet (réussites et échecs) au cours de la semaine suivante.Pour cela, le principal officiant doit réussir un test normal (2) de liturgie+SOC.
+
+Par ailleurs, en des temps troublés, l'officiant peut décider de rassurer ses ouailles, par un sermon, un discours, des paroles apaisantes.... Cela se réalise grâce à un test de liturgie+SOC, le nombre de réussites étant le nombre de points de stress perdus par chacun des participants.
+\subsection*{Bénédictions}
+%cérémonies de bénédiction : plus difficile, notamment pour beaucoup de monde. Permet une relance d'un test lié à la bénédiction par jour (plus la bénédiction est longue, plus c'est compliqué de la faire fonctionner). =>Peut-être un autre bonus, plus important, ou du moins plus présent? TEST DE LITURGIE + SOC, modifié par le nombre de gens/objets affectés.
+Les bénédictions sont des prières visant à attirer l'attention de la ou des entités vénérée(s) sur un évènement en particulier.
+
+Le nombre de personnes pouvant en profiter est beaucoup plus limité, un officiant ne pouvant affecter avec un test qu'un nombre de personnes égal à sa sociabilité. 
+
+Les personnages en bénéficiant peuvent alors relancer les échecs à un nombre de test égal au nombre de réussites de l'officiant sur un test de SOC+liturgie. Ces tests doivent tous être du même type, défini lors de la cérémonie: "Dieux immortels, protégez-nous de ces hérétiques" pourra fournir un bonus aux tests de défense.
+
+L'officiant pourra subir des malus ou bénéficier de bonus suivant le degré de justification de sa demande : la protection contre des non-croyants au cours d'une guerre de religion sera beaucoup plus facile que la même protection contre des troupes bénies par le supérieur hiérarchique de l'officiant.
+
+%Autre bonus : armes bénies contre certaines entités ?
+\section{Rites}
+%question à poser à une divinité, ou demande spécifique. Malus important en cas de demandes régulières et/ou futiles.
+%Permet d'avoir une vision plus ou moins pertinente (mais très probablement cryptique), ou de recevoir rapidement un signe de la divinité (qu'il faudra sans doute interpréter évidemment, avec un test de théologie). Les symboles courants du culte seront fréquemment utilisés dans ces visions et signes mystiques. TEST DE RITE+CON, modifié par le nombre de question et le temps depuis la dernière.
+Les cérémonies sont des évènements publics, au cours desquels l'officiant attire la bénédiction divine sur l'assemblée. Un rite à l'inverse, est une chose privée au cours de laquelle le personnage demande quelque chose directement à sa/ses divinité(s).
+
+Il s'agit ici de demander un signe, une direction à suivre, en espérant une réponse. En terme de jeu, cela permet au joueur de demander une réponse à une question. La difficulté du test est fixée par le MJ en fonction de la difficulté de la requête. 
+Suivant la requête, le personnage recevra ensuite un signe divin ou recevra des visions.
+
+Un signe divin peut être la présence d'un animal lié à la divinité à un endroit, ou un symbole plus commun, mais que le personnage saura interpréter comme étant plus qu'une coïncidence.
+
+Des visions pourront donner au personnage quelques indices sur l'avenir. Plus encore qu'un signe divin, ces visions risquent d'être cryptiques, et nécessiteront sans doute une interprétation (possiblement avec l'aide d'un test de théologie pour obtenir la signification des symboles utilisés).
+
+Dans les deux cas, le MJ est encouragé à utiliser des symboles liés à la religion du personnage pour les descriptions.
+\section{Imposer sa volonté}
+Certaines entités peuvent être invoquées avec les bons éléments, ou peuvent d'elles-même apparaître et certaines peuvent tenter de posséder, partiellement ou complètement un hôte. D'autres se contentent de se manifester, mais cela peut être un problème en soit. 
+
+La volonté permet en fait d'établir  qui prend le pas sur l'autre. Cela permet de réaliser un exorcisme, de maintenir un esprit en échec, de contraindre un démon à servir le personnage...
+
+Le test dans ce cas est un test de CON+volonté opposé. Le vainqueur peut imposer sa volonté sur l'autre et au choix:
+\begin{itemize}
+\item repousser physiquement l'autre sur un nombre de mètre égal à la différence.
+\item sonner l'autre pour un round.
+\item ????
+\end{itemize}
+\chapter{équipements}
+Pour les prix et détails sur les armes et armures, voir les tables liées, en annexe.
+\section{Armes de Mêlée}
+\subsection*{assembler une arme d’hast}
+Une arme d’hast est une arme bâtie autour d’un manche, sur lequel on installe une ou plusieurs têtes : hache, masse, pic, lance, voire une lame à part entière ! Pour créer une telle arme, on commence par sélectionner la longueur de manche voulue : courte (moins de 80 cm), ou longue (jusqu’à 1m50). Puis on choisit la ou les têtes voulues, avec un maximum de trois : une pointe (lame ou lance), et deux latérales : hache, pic ou marteau. Les masses ne sont jamais installées en même temps qu’une autre tête, mais suivent sinon les mêmes règles.
+\subsection*{Couteau}
+Le couteau est à la fois le couvert le plus utile, un outil pratique, et un moyen de se défendre en dernier recours.
+\subsection*{Dague}
+La dague est une spécialisation du couteau pour le combat : elle sera beaucoup moins pratique en tant qu’outils et que couvert, ne serait-ce qu’en raison de sa taille plus importante. En contrepartie, elle est plus effilée et souvent mieux affûtée, ce qui la rend beaucoup plus dangereuse.
+\subsection*{Epée}
+Il existe de très nombreuses formes d’épées, plus ou moins effilées, plus ou moins longues, avec des gardes différentes, …. Il s’agit souvent d’un signe de statut, qui se porte fréquemment même par des civils. Dans un contexte militaire, il s’agit le plus souvent d’une arme secondaire. La principale qualité des épées est de trancher tout autant que perforer.
+\subsection*{Sabre}
+Les sabres sont des lames proches des épées mais étudiées non pas pour perforer, mais bien pour trancher plus efficacement : l’équilibre est différent, la lame est souvent courbe, et il n'y a généralement qu'un seul tranchant. C'est une très bonne arme de cavalerie.
+\subsection*{Hache}
+La hache est à la base un outil servant à couper du bois, et est devenue une arme quand quelqu’un s’est rendu compte qu’il était plus facile de couper un tronc de chair que de bois. Les haches d’armes sont souvent plus légères que les outils, mais la frontière entre les deux mondes reste souvent assez floue. 
+\subsection*{Marteau de guerre}
+Le marteau de guerre est une autre arme ayant évoluée depuis un outil. Il s’agit donc d’une tête relativement fine, faite pour infliger de graves dégâts au travers d’une cotte de maille par exemple.
+\subsection*{Manche d’arme d’hast}
+Comme indiqué précédemment, il existe deux grandes catégories de manches d’arme : les courts et les longs. Les longs, de part le fait d’être tenus à deux mains et de fournir un levier plus important, augmentent de deux les dégâts infligés par leur(s) tête(s). Les portées des têtes sont celles de leur manche.
+\subsection*{Masse}
+une arme extrêmement simple, étant donné qu’il s’agit d’un poids d’acier visant à briser les os de la cible. L’avantage est donc le prix d’une telle arme, qui est rarement élevé.
+\subsection*{Lance}
+La lance est la meilleure amie de l’humanité, et ce depuis ses jours de chasseurs-cueilleurs : elle est simple de fabrication, peu coûteuse, permet de rester loin de sa cible, et est relativement efficace à perforer une armure.
+\subsection*{Pic}
+Le pic est une autre arme spécialisée contre les armures, permettant de concentrer toute la force d’un coup en un seul point. Toutefois, elle a un défaut majeur : le risque de coincer le pic dans la cible ou son armure. C’est une arme que l’on retrouve rarement telle quelle, mais plutôt comme tête arrière sur une hache ou un marteau.
+\subsection*{Bouclier}
+Quel que soit le bouclier utilisé, celui-ci peut également servir à frapper la cible : un grand coup de la tranche d’un bouclier n’est pas une expérience plaisante pour celui qui la subit. Remarque : un bouclier fournit un bonus aux tests de défense (cf les règles de combat).
+\subsection*{Armes improvisées}
+Dans l’urgence et le feu de l’action, bon nombre d’objets du quotidien peuvent devenir des armes : planches, tasses, tabouret, sac, pierre ….
+combat à mains “nues”
+L’homme n’a pas les armes naturelles les plus terrifiantes : pas de griffes, des dents ridicules, et une structure peu adaptées pour frapper. Cela ne l’a jamais empêché de s'entraîner à distribuer des marrons à son prochain. Evidemment, ce genre de chose est plus efficace encore avec des gantelets d’acier. Ou un casque quand l’heure vient d’utiliser sa tête.
+\begin{table*}
+\caption{Armes de mêlée}
+\label{armesmelee}
+
+\begin{tabular}{cccccccccc}
+\textbf{Nom}&\textbf{Catégorie}&\textbf{Attaque}&\textbf{Allonge}&\textbf{VD}&\textbf{Type}&\textbf{Pen}&\textbf{Prix}&\textbf{Poids}&\textbf{Enc}\\
+Couteau & dagues & taille & càc & 1 & T & 0 & a voir & 0.1 & 0.1\\
+Couteau & dagues & estoc & càc & 1 & P & 1 & a voir &0.1&0.1\\
+Dague & dagues & taille & càc & 1 & T & 1 & a voir & 0.1 & 0.1 \\
+Dague & dagues & estoc & càc & 1 & P & 8 & a voir & 0.1 & 0.1 \\
+Dague & dagues & pommeau & càc & 1 & C & 3 & a voir & 0.1 & 0.1 \\
+\'Epée & lames & taille & mêlée & 2 & T & 2 & a voir & 1 & 1 \\
+\'Epée & lames & estoc & mêlée & 1 & P & 5 & a voir & 1 & 1 \\
+\'Epée & lames & pommeau & càc & 2 & C & 2 & a voir & 1 & 1 \\
+Sabre & lames & taille & mêlée & 4 & T & 2 & a voir & 1 & 1 \\
+Sabre & lames & estoc & mêlée & 2 & P & 2 & a voir & 1 & 1 \\
+Sabre & lames & pommeau & càc & 2 & C & 2 & a voir & 1 & 1 \\
+Manche long & hast & taille & mêlée,moyenne & 4 & C & 0 & a voir & 1 & 1 \\
+Manche court & hast & taille & court,mêlée & 2 & C & 0 & a voir & 0.5 & 0.5 \\
+Manche, tous & hast & tête & suivant le manche & 2 & C & 1 & a voir &  & \\
+Lance & hast & tête & suivant le manche & 1 & P & 6 & a voir & 0.1 & 0.5\\
+Hache & hast & tête & suivant le manche & 5 & T & 4 & a voir & 0.1 & 0.5\\
+Masse & hast & tête & suivant le manche & 3 & C & 2 & a voir & 0.1 & 0.5\\
+Marteau & hast & tête & suivant le manche & 2 & C & 6 & a voir & 0.1 & 0.5\\
+Pic & hast & tête & suivant le manche & 2 & P & 8 & a voir & 0.1 & 0.5\\
+Poings & naturelle & coup & càc & 1 & C & 0 & non & 0 & 0\\
+Planche & improvisée & coup & mêlée & 1 & C & 0 & non & 1 & 2\\
+Pierre & improvisée & coup & càc & 2 & C & 0 & non & 1 & 1\\
+Gantelet, acier & naturelle & coup & càc & 2 & C & 0 & a voir & cf armure & cf armure\\
+Bouclier & naturelle & coup & càc,mêlée & 2 & C & 0 & a voir & a voir & a voir\\
+\end{tabular}
+
+\end{table*}
+\section{Armes à distance}
+\begin{table*}
+\caption{Armes à distance}
+\label{armesadistance}
+%TODO
+\end{table*}
+\section{Règles d’armures}
+\subsection*{Les valeurs d'armure}
+Une armure se définit par plusieurs valeurs :  les trois valeurs d’armure : tranchante, perforante et contondante (notée T, P, C). Ce sont ses valeurs qui sont utilisées pour résister aux coups. 
+\subsection*{Cumuler les épaisseurs}
+Il est possible de porter plusieurs épaisseurs d’armure (à partir du moment où on peut physiquement les porter). Typiquement, la maille,  et les pièces gambisonnées peuvent être utilisées en sous-épaisseurs par exemple.
+Une armure portée en sous-couche permet d’ajouter à l’armure principale la moitié de ses valeurs d’armure (arrondies à l’inférieur).
+\section{Plastrons}
+\begin{table*}
+\caption{Plastrons}
+\label{tableplastrons}
+\begin{tabular}{cccccccc}
+\textbf{Nom}&\textbf{couvrant}&\textbf{C}&\textbf{P}&\textbf{T}&\textbf{Poids}&\textbf{Enc}&\textbf{Prix}\\
+ cotte de maille & oui & 15 & 10 & 4 & 10 & 2 \\
+ cotte de plates & non & 16 & 9 & 10 & 10 & 3 \\
+ gambison & oui & 4 & 2 & 6 & 1 & 3 \\
+ cotte d'écailles & non & 14 & 6 & 6 & 10 & 3 \\
+ plastron lamellaire & non & 12 & 6 & 8 & 8 & 3 \\
+ lamellaire avec spallières ou tassettes & non & 13 & 7 & 9 & 10 & 4 \\
+ lamellaire avec spallières et tassettes & non & 14 & 8 & 10 & 12 & 5 \\
+ armure d'anneaux & non & 8 & 2 & 4 & 5 &3 \\
+\end{tabular}
+\end{table*}
+\subsection*{Cotte de maille*}
+Une cotte tombant aux cuisses composées d'un assemblage dense de petits anneaux d'acier. Son poids est un mal nécessaire pour bénéficier de l'excellente protection conférée, notamment contre les coups de taille.
+\subsection*{Gambison*}
+Une tenue matelassée, composée d'au moins une douzaine de couches de tissus, et protégeant surprenamment bien son porteur. Permet également d'atténuer les problème dûs au port d'une armure lourde par-dessus. C'est la base de la tenue de combat, souvent portée toute la journée et même la nuit en campagne.
+\subsection*{Cotte de plates}
+Une innovation récente, qui consiste à installer des plaques d'aciers rivetées sur une cotte en tissu ou en cuir. Ces plaques sont relativement larges et se chevauchent légèrement pour protéger leur porteur.
+\subsection*{lamellaire (avec spallières, avec tassettes)}
+Meilleur marché que nombre d'autres armures lourdes, il s'agit d'une cuirasse rigide constituée de nombreuses lamelles d'acier lacées entre elles. On peut également disposer de spallières et de tassettes assemblées de la même façon.
+anneaux
+Une armure qui a le mérite d'être bon marché, et de protéger correctement son porteur contre les coups de taille. Il s'agit de coudre des anneaux d'acier sur une cotte de tissu ou de cuir afin de bloquer les coups. Très vulnérable aux attaques d'estoc et aux flèches. Peu recommandée sur un champ de bataille.
+\subsection*{Ecailles}
+Armure composée de nombreuses écailles d'acier se chevauchant pour protéger leur porteur. Très efficace contre la plupart des attaques, mais une arme perforante peut se glisser entre les rangs d'écaille sans grande difficulté.
+\section{Gantelets}
+\begin{table*}
+\caption{Gantelets}
+\label{tablegantelets}
+\begin{tabular}{cccccccc}
+\textbf{Nom}&\textbf{couvrant}&\textbf{C}&\textbf{P}&\textbf{T}&\textbf{Poids}&\textbf{Enc}&\textbf{Prix}\\
+mailles & oui & 15 & 10 & 4 & 1 & 0.5 \\
+gambison & oui & 4 & 2 & 6 & 0.5 & 0.5 \\
+plates & non & 16 & 12 & 12 &1 & 1.5 \\
+lamellaires & non & 12 & 6 & 8 & 0.5 & 0.5 \\
+lamellaires avec gantelet &non & 14 &8 & 10 & 1 & 1\\
+écailles & non & 12 & 4 & 6 & 1 & 0.5 \\
+\end{tabular}
+\end{table*}
+\subsection*{Maille*}
+De la même façon que l'on peut assembler des cottes, on peut également faire des gantelets en maille. Ceux-ci ont une paume le plus souvent en cuir, et protègent les mains et les doigts de leur porteur.
+\subsection*{Gambison*}
+Des gantelets matelassés, pour amortir les coups sur les mains et avant-bras. ils sont souvent portés sous une protection plus sérieuse )pour la compléter.
+\subsection*{Plates}
+Un développement récent des gantelets, dans lequel on protège la main et l'avant-bras par des plaques d'acier trempé forgées pour épouser la forme des mains de leur propriétaire.
+\subsection*{Lamellaires}
+Il s'agit de bandes d'acier rivetées sur une structure de tissus ou de cuir, et permettant de protéger correctement les mains et avant-bras sans se ruiner trop.
+\subsection*{Ecailles}
+Un assemblage d'écailles fines pour protéger le porteur. Comme pour les cottes d'écailles, les gantelets sont moins efficaces face aux attaques perforantes.
+\section{Chausses}
+\begin{table*}
+\caption{Chausses}
+\label{tablechausses}
+\begin{tabular}{cccccccc}
+\textbf{Nom}&\textbf{couvrant}&\textbf{C}&\textbf{P}&\textbf{T}&\textbf{Poids}&\textbf{Enc}&\textbf{Prix}\\
+mailles & non & 15 & 8 & 4 & 1 & 1 \\
+mailles complètes & oui & 15 & 10 & 4 & 1.5 & 1.5 \\
+chausses gambisonnées & oui & 4 & 2 & 6 & 1 & 0.5 \\
+lamellaire & non & 12 & 6 & 8 & 1 & 1 \\
+écailles & non & 12 & 4 & 6 & 1 & 1 \\
+bottes épaisses & non & 1 & 0 & 2 & 1 & 1 \\
+\end{tabular}
+\end{table*}
+\subsection*{Maille (et chausses complètes *)}
+Une des dernières pièces achetées par les combattant, les chausses de mailles rendent les jambes pratiquement immunisées aux coups de taille et à la plupart des attaques en réalité. Des chausses complètes permettent de limiter les emplacements vulnérables de l'armure, notamment au niveau de l'aine.
+\subsection*{Gambison*}
+Des chausses matelassées pour amortir les coups visant les jambes. Souvent portées sous d'autres chausses plus efficaces.
+\subsection*{Lamellaire}
+Comme pour les gantelets, des bandes d'acier permettent de protéger le porteur à un coût relativement abordable, mais au prix de quelques failles.
+\subsection*{Ecailles}
+Il est possible de protéger également ses jambes avec des écailles d'acier, à la manière de chausses de maille. Toutefois, le même défaut demeure : une arme effilée peut trouver sa route entre les écailles.
+\subsection*{Bottes épaisses}
+A défaut d'une véritable protection, il est possible de compter sur une bonne paire de botte pour limiter l'efficacité d'un coup sur les jambes.
+
+\section{Heaumes}
+\begin{table*}
+\caption{Heaumes}
+\label{tableheaumes}
+\begin{tabular}{cccccccc}
+\textbf{Nom}&\textbf{couvrant}&\textbf{C}&\textbf{P}&\textbf{T}&\textbf{Poids}&\textbf{Enc}&\textbf{Prix}\\
+grand heaume & non & 15 & 14 & 12 & 3 & 4 \\
+casque conique & non & 7 & 3 & 5 & 1 & 2 \\
+casque à nasal & non & 8 & 4 & 5 & 1.5 & 1.5 \\
+casque à lunette & non & 9& 5 & 5 & 2 & 1.5 \\
+casque à ventail & non & 10 & 10 & 6 & 2 & 2 \\
+casque à visière & non & 11 & 12& 6 & 2 & 3 \\
+cervelière & non & 6 & 3 & 5 & 1 & 1.5 \\
+chapel de fer & non & 8 & 3 & 5 & 2 & 3 \\
+coiffe de mailles & oui & 12 & 7& 4 & 2 & 1.5 \\
+coiffe de maille avec ventail & oui & 12 & 9& 4 & 2.5 & 2 \\
+heaume lamellaire & non & 8 & 3& 6 & 2 &1.5 \\
+heaume lamellaire intégral & oui & 14 & 9& 10 & 3 & 3.5 \\
+cal gambisonné & oui & 4 & 2& 6 & 0.5 & 1 \\
+\end{tabular}
+\end{table*}
+\subsection*{Coiffe de maille (et ventail)}
+ (* si portée avec une protection de la face quelconque : visière, casque lamellaire intégral, grand heaume, ....)
+Une protection efficace, bien que coûteuse : une coiffe de maille protégeant le crâne dans son ensemble, ainsi que le cou et la nuque. L'addition d'un ventail protège également la majorité du visage des coups.
+\subsection*{Casque lamellaire (et casque lamellaire complet*)}
+Utilisation de la structure lamellaire (lamelles d'acier lacées entre elles) pour obtenir un casque relativement basique, mais plutôt efficace et meilleur marché. Les versions intégrales couvrent la totalité du crâne et protègent la face avec des lamelles montant jusqu'aux yeux.
+\subsection*{Casque conique (et nasal, lunettes, ventail, visière complète)}
+Casque de forme plutôt basique : un simple cône d'acier doublé de tissus pour protéger le sommet du crâne. De nombreuses améliorations existent cependant : avec nasal pour protéger le nez et une partie du visage des coups, notamment de taille, à lunette pour améliorer la protection des yeux, à ventail pour couvrir la face d'une sorte de voile de maille, et enfin à visière complète quand le ventail ne suffit plus et que l'on souhaite protéger complètement la face.
+\subsection*{Casque intégral, ou grand heaume*}
+Le heaume le plus cher, mais aussi le plus protecteur, peut se porter par-dessus une cervelière, un cal et une coiffe de maille en cas de besoin.
+cal matelassé
+(* si portée avec une protection de la face quelconque : visière, casque lamellaire intégral, grand heaume, ....)
+La protection la plus élémentaire, visant à amortir les coups, et qui vient souvent en renfort de pièces plus robustes.
+\subsection*{Cervelière}
+Un simple bol d'acier permettant de protéger à moindre frais le sommet du crâne. Rarement employée seule.
+\subsection*{Chapel de fer}
+Un casque simple, robuste, et relativement bon marché, sous la forme d'un bol à larges bords en acier. On en retrouve fréquemment chez les soldats, même les plus pauvres.
+\section{Autres équipements}
+\section{Services}
+
+\part{Création de personnages}
+\chapter{Résumé}
+Un personnage pour De Sang et d’Acier est créée en sélectionnant un certain nombre de packages, correspondant à son histoire. Alternativement, on peut bâtir l’histoire d’un personnage en choisissant parmi les packages.
+Plus précisément, voici la liste des étapes à suivre:
+
+%La première étape consiste à choisir une espèce pour le personnage.
+Il faut choisir en premier lieu un package d’enfance, correspondant au milieu dans lequel le personnage a été élevé (entre sa naissance et ses 8 ans environ).
+On sélectionne ensuite un package de formation, correspondant aux enseignements reçus par le personnage, généralement entre 8 et 16 ans.
+Le dernier package à choisir est celui de profession, correspondant à l’activité professionnelle entreprise après la formation.
+Une phase de personnalisation est ensuite effectuée, au cours de laquelle on peut acheter d’autres points de compétences et de caractéristiques.
+L’équipement du personnage est ensuite géré.
+On finit avec le calcul de certaines valeurs, ainsi que la sélection de contacts.
+\chapter{Packages}
+\section{Enfance}
+\subsection*{Bas-fonds}
+Le personnage est né dans les milieux les plus pauvres d’une ville, et a très tôt commencé à faire les poches de passant, parfois travaillant dans des bandes de gamins, qualifiés de tire-laines.
+effets : HAB 2; VIT 1;INT 1; SOC 1;escamotage 3; perception 1; discrétion 1; mensonge 1; discussion 1; culture générale (Une ville au choix) 2; défense 1; athlétisme 2; escalade 1; gymnastique.
+\subsection*{Camp militaire}
+Le personnage a suivi toute sa jeunesse diverses armées dans le cortège d’individus qui gravitent autour des campagnes : artisans, arnaqueurs, prostitué(e)s, mystiques, …. Il a peut-être été la mascotte officieuse des soldats, étant peut-être l’enfant de l’un d’eux.
+Effets : VIT 1; MA 1; SOC 1; HAB 1; mensonge 1; jeu (au choix) 2; défense 1; corps à corps 1; culture générale (une culture au choix) 1; culture générale (soldats) 3;  athlétisme 2; contact animal (au choix) 1; discrétion 1; gestion (logistique) 1; commandement 1; perception 2; premiers soins 1.
+\subsection*{élevé par le temple}
+Le personnage a été recueilli par une organisation religieuse, qui l’a élevé dans ses préceptes :une enfance de calme, d’apprentissage et de prières. A moins qu’il ne vienne d’une famille de religieux.
+Effets : SOC 1; CON 2; CHA 1; INT 1; REF 1; liturgie 2; négociation 2; discussion 1; culture générale (une religion) 3; culture générale (ville ou région au choix) 1; connaissance (théologie au choix) 2, herboristerie ou premiers secours ou rites 1.
+\subsection*{forêt}
+Le personnage a été élevé dans ou à proximité immédiate d’une forêt importante, où il a probablement joué toute son enfance, et y a appris quelques compétences utiles.
+Effets  : MA 2; HAB 1; INT 1; survie 2; chasse 2; culture générale (région au choix) 2; culture générale (forêts) 2; culture générale (faune ou flore) 2; viser (arc ou fronde) 1; athlétisme 2; escalade 2; orientation 2 ; perception 1; discrétion 1.
+\subsection*{itinérance}
+Pour une raison ou une autre, la famille du personnage était constamment sur les routes, ce qui a eu une grande influence sur le personnage, habitué à voyager et à découvrir de nouvelles personnes.
+Effets : SOC 2; CON 1; HAB 2; musique (au choix) ou gestion (au choix) 3; sympathiser 2; négociation 2; attelage ou athlétisme 2; culture gé(culture) 2; perception 2; contact animal(équidés) ou discussion 1.
+\subsection*{orphelin}
+Le personnage a perdu sa famille très jeune, et a plus ou moins dû se débrouiller seul, ou avec peu d’aide, généralement la charité des passants.
+Effets : SOC 1; HAB 1; INT 2; perception 1; fouille 2; négociation 2; discussion 2; orientation 2; escamotage 1; athlétisme 1; survie 1; mensonge 1; culture générale (région ou ville au choix) 3; sympathiser 2.
+\subsection*{montagnes}
+Le personnage a été élevé en montagne, zone qu’il a exploré de fond en comble, en faisant attention toutefois aux bêtes nombreuses qui peuvent y exister.
+Effets : MA 2; HAB 1; INT 1; CON 1; survie 1; culture générale (région au choix) 2; culture générale (montagnes) 2; contact animal (bétail) 2; athlétisme 2;  escalade 2; orientation 1; perception 2; arme (bâton) ou viser (fronde) 1; arme(couteau) 1.
+\subsection*{noblesse}
+Le personnage est né au sein de la noblesse, et a été élevé dans l’optique de diriger et de régner plus tard.
+Effets : SOC2; VIT 1;MA 2; REF 1; culture générale (noblesse) 2; culture générale (royaume au choix) 2; défense 1; négociation 1; commandement 2; connaissance (politique) 2; discussion 2; gestion(domaine) 1; connaissance (héraldique) 2. 
+\subsection*{Nomades}
+Le personnage est né au sein d’une communauté nomade, et a probablement appris à monter à cheval avant de savoir marcher, et à chasser avant d’atteindre son dixième hiver.
+Effets : MA 1; HAB 2; INT 1; equitation 2; survie 2; culture gé (région au choix) 4; orientation 2; contact animal (équidés) 2; contact animal (bétail) 1; viser (arc) 2; perception 1; chasse 2;
+\subsection*{ferme}
+le personnage a passé son enfance dans une ferme, au milieu des animaux, aidant parfois aux travaux de la maison et des champs.
+Effets : MA 1; INT 1; HAB 1; CHA 1; athlétisme 2; contact animal (au choix) 2;  culture générale (région au choix) 2; culture générale (fermes) 2; discussion 1; sympathiser 1; perception 1; orientation 1; négociation 2; musique (au choix) 1; survie 1; fouille 1; artisanat (bricolage) 1.
+\subsection*{talents spéciaux}
+L’enfance du personnage n’est pas vraiment heureuse : ayant découvert très tôt une affinité pour des pouvoirs mystiques, il a été confronté aux attitudes parfois agressives envers ce genre de capacités.
+Effets : CON 2; REF 1; INT 1; sorcellerie ou enchantement(au choix) 2; discrétion 2; défense 2; théurgie 2; culture générale (région ou ville au choix)2; perception 1; culture générale(magie) 2; symbolisme 1; mensonge 2; discussion 1; athlétisme 1.
+\subsection*{tribu}
+Le personnage est né au sein d’une communauté où le niveau technologique était plus faible. Cela l’a sans doute endurci par rapport aux autres personnages.
+Effets : MA 2; VIT 1; INT 1; athlétisme 2; corps à corps 2; défense 2; chasse 1; perception 2; survie 2; culture générale (région au choix) 2; escalade ou natation 1; négociation 1; contact animal (au choix) 2.
+\subsection*{urbain}
+l’enfance du personnage s’est déroulée en ville, à courir dans les rues et s’attirer des problèmes divers avec les habitants.
+Effets : VIT 1; SOC 1; INT 1; REF 1; HAB 1; artisanat( au choix) ou gestion (commerce) 1; culture générale (ville au choix) 3; culture générale (royaume au choix) 1; athlétisme 1; orientation 1; perception 1; escalade 1; négociation 1; sympathiser 2; intimidation 1; mensonge 1; escamotage 1.
+\subsection*{village côtier}
+Le personnage est né dans un village du bord de mer, et son enfance s’est déroulée toujours en direction des étendues aquatiques.
+Effets : HAB 2; INT 1; MA 1; natation 2; navigation 3; orientation 2; athlétisme 1; culture générale (région au choix) 3; culture générale (mer) 3; arme (couteau) 1; gymnastique 2; survie 1; escalade 1.
+
+\section{Formation}
+\subsection*{aide agricole}
+Le personnage a vécu parmis les plus méprisés des paysans : ceux qui n’ont pas de terres à cultiver, et servent ainsi de bras sur les exploitation des autres.
+Effets: MA 2; HAB 1; SOC 1; CON 1; INT 1; culture gé (agriculture) 2; arme (hast) 1; défense 2; corps à corps 1; négociation 1; discussion 2; sympathiser 2; intimider 1; culture gé (région au choix) 4; fouille 1; athlétisme 2.
+\subsection*{apprenti}
+Le personnage a été formé sous l’aile d’un artisan, dans l’objectif de le devenir un jour également. A cette époque, son aide était probablement limitée aux tâches les plus pénibles et répétitives, mais il a appris les bases.
+Effets : HAB 2; MA 1; REF 2; SOC 1; artisanat (au choix) 3; artisanat (au choix) 2; négociation 3; sympathiser 2; perception 1; défense 2; arme (lames ou haches) 2; corps à corps 1; culture générale (ville ou région au choix) 2, Connaissance (corporations) 3; culture générale (culture au choix) 1.
+\subsection*{berger}
+Le personnage a passé son adolescence à garder le bétail dans les pâturages. Une activité plutôt tranquille, sauf quand des prédateurs rôdent.
+Effets : MA 1; HAB 2; INT 2; CON 1; contact animal (bétail) 3; artisanat( gravure) 1; arme (couteau) 1; viser (fronde) ou arme (bâton) ou lancer 2; athlétisme 2; perception 3; défense 2; culture générale (faune) 3; culture générale (région au choix) 1; musique (au choix) 2; négociation 1; discussion 1.
+\subsection*{caïd}
+Le personnage a servi de muscle à un groupe criminel. Un quotidien de brutalité et de violence, qui l’a considérablement endurci.
+Effets : SOC 2; MA 2; REF 1; VIT 1; arme (contondantes ou couteaux) 2; corps à corps 3; défense 2; intimidation 3; mensonge 2; athlétisme 2; athlétisme 1; connaissances (milieux criminels) 3; connaissance (droit) 1; perception 2; gestion (organisation) 1.
+\subsection*{chasseur}
+Le personnage a traqué du gibier, légalement ou non, et ce depuis un jeune âge. Il a appris dans la nature à se débrouiller seul.
+Effets : HAB 2; INT 2; REF 1; MA 1; chasse 2; survie 3; viser (au choix) ou lancer 3; culture générale (région) 2; culture générale (faune) 2; artisanat (trappeur) 2; orientation 2; athlétisme 2; arme (couteau) 1; natation 1; escalade 1; discrétion 2; perception ou contact animal (canidés) 1.
+\subsection*{colporteur}
+Le personnage a été marchand ambulant, passant d’un village à l’autre pour vendre ses marchandises.
+Effets: 
+\subsection*{coursier}
+L’adolescence du personnage a consisté à transporter des messages, que ce soit d’une ville à l’autre, ou en ville, d’une personne à l’autre.
+Effets : MA 1; CON 2; SOC 1; INT 1; VIT 1; athlétisme ou équitation 3; culture générale (ville ou région au choix) 4; négociation 2; discussion 1; sympathiser 1; orientation 2; arme (bâton) ou corps à corps 2; défense 2; survie 3 ou intimidation 2 et mensonge 1; natation ou discrétion 2.
+\subsection*{disciple}
+Le personnage a étudié la magie auprès d’un maître, apprenant en copiant les réalisations de celui-ci jusqu’à suffisamment comprendre par lui-même.
+Effets : CON 2; REF 2; HAB 1; CHA 1; SOC 1; occulte(au choix) ou shamanisme ou kinésie(au choix) 3; sorcellerie ou enchatement (au choix) 2; théurgie 1; symbolisme 2; fouille 2; perception 1; connaissances (magie) 2; connaissances (au choix) 2; négociation 1.
+\subsection*{écuyer}
+Un homme d’arme a besoin d’aide pour revêtir son armure, s’occuper de son matériel, et de manière générale pour l’assister dans son quotidien. Tel était le rôle du personnage, qui espérait suivre un jour la même route que son mentor.
+Effets : VIT 2; MA 2; REF 1; arme(lames) 3; arme (hast) 2; corps à corps 2; défense 3; connaissances (politique) 2; connaissances (tactique) 2; commandement 2; athlétisme 1; chasse 1; equitation 2; arme(couteau) 2; gestion (logistique) 2; intimidation 1; discussion 1.
+\subsection*{estafette}
+Sur un champ de bataille, la communication est vitale, et celle-ci est le plus souvent effectuée par des jeunes gens, comme le personnage lors de son adolescence. Des tâches équivalentes sont celles des pages assignés aux officiers, pour garder les chevaux par exemple.
+Effets : VIT 2; INT 2; HAB 1; SOC 1; equitation 2; athlétisme 2; contact animal(équidés)2; arme(au choix) 2; défense 3; corps à corps 1; négociation 2; discussion 1; commandement 3; connaissance (tactique) 1; gestion(logistique)3; arme(couteaux) 2.
+\subsection*{étudiant}
+Le personnage a eu la chance d’aller étudier dans une des universités du monde, où il a pu y apprendre certaines des disciplines : arts libéraux, théologie, théurgie, médecine et droit.
+Effets:REF 2; CON 2; INT ou HAB 1; SOC 1; Connaissances (au choix) ou art(au choix) ou chirurgie 4; Connaissances (au choix) ou art(au choix) ou chirurgie ou théologie 3; culture générale (ville au choix) 2; discussion 3; mensonge 2; arme (lames) 1; défense 2; corps à corps 1; sympathiser 2; négociation 2; fouille 2; culture générale (monde) 2.
+\subsection*{héritier}
+Le personnage a été formé dans le seul but d’hériter de la condition de ses parents, et de diriger leur domaine.
+Effets : SOC 2; REF 2; HAB 2; négociation 3; discussion 3; intimidation 2; gestion (organisation) 3; mensonge 2; art (dance) ou musique (au choix) 2; connaissances(politique)3; connaissance (héraldique)1; perception 1; artisanat(broderie) u arme (lames) 1; défense 1.
+\subsection*{jongleur}
+Le personnage a passé l’adolescence avec une troupe d’artiste, apprenant au fur et à mesure à gérer ses propres tours pour la joie du public.
+Effets : SOC 2; HAB 2; CON 1; REF 1; art(au choix) ou musique (au choix) 3; art (au choix) ou musique (au choix) 2; perception 2; athlétisme ou attelage 2; arme (couteaux ou bâton) ou lancer 2; culture générale (culture au choix) 2; culture générale (région au choix) 2; négociation 2; mensonge 1; sympathiser 3; défense 1.
+\subsection*{matelot}
+Le personnage s’est embarqué sur un navire, de pêche ou de guerre avec le plus bas rang possible : matelot. Une vie de corvée, mais surtout l’opportunité d’apprendre les subtilités de la navigation.
+Effets : HAB 2; CON 1; MA 1; INT 1; VIT 1; navigation 2; natation 2; culture générale (mer au choix) 3; connaissance (mers) 3; escalade 3; arme (couteaux) 2; corps à corps 2; lancer 1; intimidation 1; perception 2; défense 1.
+\subsection*{novice}
+Dans l’idée de devenir moine ou d’être ordonné prêtre, le personnage a étudié les préceptes de sa religion.
+Effets :SOC 2; INT 1; CON 2; REF 1; liturgie 3; rites 2 ou gestion(organisation) 2; connaissance (théologie au choix) 3; culture générale (religion au choix) 2; négociation 2; discussion 1; sympathiser 3; herboristerie 2 ou volonté 2 ou culture générale (ville au choix) 4; musique (chant) 2; connaissances (histoire) 1; arme (bâtons) ou premiers soins 1; défense 1. 
+\subsection*{page}
+Relativement jeune, le personnage a servi la noblesse en tant que page. il a probablement servi lors de situations officielles, où il a apprit à reconnaître les différentes familles.
+Effets : SOC 2; VIT 1; HAB 1; CON 1; REF 1; négociation 3; mensonge 2; gestion (organisation ou logistique) 2; sympathiser 1; athlétisme 2; discrétion 2; connaissances (héraldique ou commerce) 3; connaissances (protocole) 2; connaissances (politique) 1; discussion 3; orientation 1; intimidation 1.
+\subsection*{vendeur}
+Le personnage a tenu une boutique, peut-être l’entreprise familiale, à moins qu’il n’ait réussi à être embauché par quelqu’un.
+Effets : SOC 3; HAB 1; INT 1; REF 2; négociation  3; discussion 1; sympathiser 2; défense 1; mensonge 2; culture générale (ville ou région au choix) 3; connaissances (économie ou corporations) 1; perception  2; gestion (commerce) 2.
+\subsection*{voleur}
+Le personnage a dû apprendre à dérober à autrui de quoi survivre. Une “profession” dangereuse dans laquelle nombre de candidats y perdent une main voire la vie.
+Effets : HAB 3; VIT 2; INT 1; CON 1; discrétion 2; escamotage 2; crochetage 2; perception 2; fouille 2; athlétisme 1; arme (couteaux) 1; défense 1; connaissance (milieux criminels) 2; mensonge 1.
+
+\section{Profession}
+\subsection*{arnaqueur}
+Le personnage gagne sa vie en créant de jolis mensonges dans lesquels d’autres personnes tombent ensuite.
+Effets : SOC 3; INT 2; REF 1; mensonge 3; discussion 2; sympathiser 3; jeu (au choix) 2; connaissance (milieux criminels) 2; connaissance (droit) 2; perception 3; escamotage 2; défense 2; corps à corps 1.
+\subsection*{bandit}
+Le personnage s’est mis, plus ou moins volontairement hors-la-loi, que ce soit en attaquant des voyageurs, en servant un groupe criminel ou en se rebellant contre son seigneur.
+Effets : MA 1; VIT 2; HAB 2; INT 1; arme (au choix) 2; viser (au choix) ou arme (au choix) 2; survie 2; discrétion 1; culture générale (région au choix) 2; intimidation 2; mensonge 1; perception 1; fouille 2; athlétisme 1; chasse 1; orientation 2.
+\subsection*{bretteur}
+Le personnage est un duelliste, un spécialiste du combat à un contre un. Il pourrait toutefois être mis en difficulté dans un combat moins équitable.
+Effets : VIT 3; HAB 2; MA 1; CON 1; arme (au choix) 3; défense 3; arme (au choix) 2; mensonge 2; négociation 2; perception 2; athlétisme ou équitation 1; corps à corps 1; premiers soins 1; sympathiser 1; escamotage 1.
+\subsection*{bucheron}
+La vie en forêt, l’exercice physique,  le maniement de la hache, tels sont les caractéristiques de la profession du personnage.
+Effets :MA 3; HAB 2; INT 2; CON 1; arme (hache) 3; défense 1; athlétisme 2; intimidation 1; perception 2; arme (couteau) 1; survie 1; culture générale (forêts) 3; culture générale (région au choix) 1; chasse 1; orientation 2.
+\subsection*{chasseur de primes}
+Le personnage est basiquement un tueur à gage, à moins qu’on ne le paie pour ramener une cible vivante. Ce n’est jamais une profession respectée, même quand on ne travaille pas pour le crime organisé, mais cela paie bien dans tout les cas…. Quand on est doué.
+Effets : INT 2; HAB 1; VIT 2; REF 1; perception 2; fouille 2; chasse 1; arme (au choix) ou viser (au choix) 3; arme (au choix)2; défense 2; intimidation 2; mensonge 1; connaissances (milieux criminels ) 2; connaissances (droit) 2; discrétion 1; négociation 1; survie 1.
+\subsection*{chef de bande}
+Le personnage dirige des activités criminelles, idéalement sans se salir les mains lui-même. Après tout, c’est à ça que servent les autres. 
+Effets :MA 2; VIT 2; INT 1; SOC 2; REF 1; arme (au choix) 2; corps à corps 2; défense 2; intimidation 3; connaissances (milieux criminels) 3 et connaissances (droit) 1 ou connaissances (tactiques) 2 et commandement 1; négociation 1; commandement 1; mensonge 2; gestion (organisation ou logistique) 1.
+\subsection*{commerçant}
+Le personnage gère un négoce, que celui-ci soit simplement d’une ville à une autre, ou sur les océans aux quatre coins du monde.
+Effets :SOC 3; REF 2; CHA 2; gestion (commerciale) 3; négociation 3; discussion 1; connaissances (économie) 4; culture générale (monde )2; connaissances (corporations) 2; mensonge 2; sympathiser 1; défense 1; perception 2; attelage 1 ou navigation 1 ou gestion (organisation) 1.  
+
+\subsection*{compagnon}
+Quand un apprenti est jugé apte par sa corporation et/ou son maître, il peut passer les épreuves pour devenir compagnon, et ainsi prendre ses propres commandes. Hors des corporations, le système est proche, même si cela arrive le plus souvent lorsque le maître arrête l’activité.
+Effets : HAB 3; SOC 2; REF 1; CON 2; artisanat (au choix) 3 ou chirurgie 3; artisanat (au choix) ou chirurgie 2; gestion (commercial) 3; culture générale (ville ou région au choix) 2; négociation 2; commandement 1; perception 1; fouille 1; discussion 1; connaissances (corporations) 2.
+\subsection*{dresseur}
+De très nombreux animaux sont utilisés pour différentes tâches : chasse, bât, …. Et certains nécessitent d’être dressés par des professionnels, qui se doublent bien souvent d’éleveur.
+Effets : INT 2; HAB 1; VIT 1; REF 2; contact animal (au choix) 3; contact animal (au choix) 2; connaissance (faune) 3; culture générale (ville ou région au choix) 1; perception 2; défense 1; corps à corps 1; athlétisme ou équitation 2; négociation 2; chasse ou discussion 3; premiers soins 2.
+\subsection*{éclaireur}
+Toute armée a besoin d’yeux pour savoir où aller et où se trouve l’ennemi. Ces hommes (et femmes) partent au-devant des troupes, et comptent sur leur discrétion, leur mobilité et leur perception pour revenir vivants.
+Effets : HAB 3; VIT 1; INT 2; discrétion 3; perception 3; viser (au choix) ou lancer 2; arme (au choix) 2; défense 3; chasse 2; fouille 2; orientation 2; athlétisme ou équitation 1. 
+\subsection*{enchanteur}
+Individus souvent excentriques, mais à l’avis respecté des puissants, les mages sont des conseillers, des éminences grises, et parfois, des outils précieux grâce à leur maîtrise des éléments.
+Effets :CON 2; REF 3; SOC 2; enchantement (au choix) 3; enchantement (au choix) 1; théurgie 2; connaissances (magie) 3; culture générale (région ou ville au choix) 2; connaissances (au choix) 1; défense 1; discussion 2; symbolisme 2.
+\subsection*{érudit}
+Le personnage est un érudit, avec des connaissances solides dans de très nombreux domaines.
+Effets : REF 3; CON 2; INT 1; connaissances(au choix) 3; connaissances (au choix) ou médecine 3; connaissances (au choix) 2; négociation 2; discussion 2; art(dessin ou peinture) ou gestion (organisation) 2; perception 1; herboristerie 2 ou connaissances (anatomie) 4; mensonge 1; langue (au choix) 2; fouille 1; langue (au choix) 2.
+\subsection*{espion}
+La politique, comme la guerre est l’art de la tromperie. certains l’ont bien compris et de nombreux états et gouvernements, mais aussi des seigneurs du monde entier emploient des agents, des espions,qui se comportent en temps normal comme si de rien était, mais envoient de temps en temps des messages là où leur loyauté va réellement.
+Effets : REF 2; SOC 2; INT 1; HAB 1; CHA 1; mensonge 3; escamotage 2; langue (au choix) 2; culture générale (culture au choix) 2; perception 3; discussion 2; discrétion 2; négociation 1; fouille 2; sympathiser 1.
+\subsection*{forestier}
+De nombreuses ressources peuvent être exploitées depuis les forêts : le bois bien sûr, mais aussi les fourrures et le gibier. Ce sont ces dernières qui font vivre le personnage.
+Effets :HAB 2; INT 2; MA 2; chasse 3; discrétion 2; perception 2; culture générale (région au choix) 2; connaissances (faune) 2; arme (couteaux) 2; viser (au choix) 2; survie 2; athlétisme 1; artisanat (pièges) 2; artisanat (dépeçage) 2.
+\subsection*{garde}
+Garde, milice, toute ville dispose d’un groupe de personne maintenant l’ordre. Certains sont corrompus, d’autre intègres, certains sont payés par un seigneur, d’autres par les corporations : tous savent à peu près se battre et se débrouiller dans les rues sombres de leur ville.
+Effets :SOC 1; MA 1; VIT 2; INT 2; arme(hast) 2; arme (bâtons) 2; corps à corps 2; défense 3; connaissance (droit) 1;connaissances(milieux criminels) 2; culture générale (ville ou région) 3; intimidation 2; négociation 1; commandement 1; athlétisme 1; fouille 2; perception 1.
+\subsection*{guerrier}
+Là où les armées féodales sont basées sur des troupes lourdes (les hommes d’arme), soutenus par les piétons et tireurs, d’autres possibilités existent ou ont existé. Ces possibilités sont regroupés généralement sous le nom de guerrier, souvent plus polyvalents.
+Effets :MA 2; VIT 2; INT 1; HAB 1; arme (au choix) 2; arme (au choix) ou viser (au choix) ou lancer 2; défense 3; corps à corps 2; survie 1; athlétisme ou équitation 2; intimidation 1; perception 1; orientation 1; culture générale (région au choix) 3; connaissances (tactique) 1; contact animal(au choix) ou fouille 2; commandement 1. 
+\subsection*{homme d’arme}
+Chevalier est un titre de noblesse, homme d‘arme est un rôle sur le champ de bataille. Tous ne sont pas nobles par ailleurs, certains étant de simples soldats, qui, au fil du temps ont réussi à s’enrichir et payer leur matériel. Un point commun toutefois : ils comptent obtenir sinon la gloire, au moins la richesse en campagne, et ont les moyens de leurs ambitions.
+Effets : VIT 3; MA 2; HAB 1; INT 1; arme (au choix) 3; arme (au choix) 2; équitation ou athlétisme 2; corps à corps 2; défense 3; connaissance(tactique) 2; culture générale (militaire) 2; intimidation 1; commandement 2; gestion (logistique) 1.
+\subsection*{lutteur}
+La lutte est un des plus vieux sports existant avec la course à pied, et des tournois et compétitions se déroulent fréquemment, pour la plus grande joie du public.
+Effets : MA 3; VIT 2; INT 1; HAB 2; Corps à corps 3; défense 3; intimidation 2; perception 1; culture générale (ville ou région) 2; premiers soins 1; arme (au choix) 1; escamotage 1; négociation 1; athlétisme 1; connaissances (milieux criminels ou corporations) 2.
+
+\subsection*{marin}
+Une vie en mer, des voyages extraordinaires, des tempêtes, des embruns, des coups de soleil….. La vie de marin est souvent pénible, et offre parfois des intérêts, à ceux qui reviennent au port.
+Effets : HAB 2; MA 1; INT 2; SOC 1; navigation 3; natation 2; arme (couteaux) 2; corps à corps 2; intimidation 1; discussion 1; gestion(organisation) ou artisanat (charpenterie) ou chirurgie 2; escalade 2; perception 1; défense 2; culture générale (mer au choix) 2; connaissances (mers) 2.
+\subsection*{moine}
+Les moines se retirent dans des monastères afin de s’éloigner des considérations terrestres et se rapprocher de leur(s) divinité(s). Le calme y règne généralement, même si la politique interne peut parfois y amener un certain trouble, d’autant que certains monastères règnent sur de vastes domaines.
+Effets :CON 3; REF 2; CHA 1; HAB 1; connaissance (théologie au choix) 4;  rites 3; gestion (organisation) 2; herboristerie ou liturgie 2; art (enluminure ou gravure) ou musique (chant) ou volonté 3; premiers soins 2; culture générale(monde) 1; discussion 2; connaissances (au choix) 2; connaissances (histoire) 3.
+\subsection*{piéton}
+Les piétons forment la colonne vertébrale des armées : le mur d’armes d’hast et de boucliers qui bloque l’ennemi en position. Toutefois, si la bataille est l’objectif, la majeure partie du temps est passée à marcher, à bivouaquer, à attendre, et à piller. Piller en particulier est apprécié par les troupes.
+Effets : VIT 3; MA 2; HAB 1; INT 1; arme (hast ou bouclier) 3; défense 3; corps à corps 1; culture générale (militaire) 2; intimidation 2; arme (au choix) 2; fouille 3; athlétisme 2; arme (au choix) ou premiers soins ou survie 1.
+\subsection*{prêtre}
+Chaque religion a ses prêtres, qui intercèdent auprès de leur(s) divinité(s) pour leurs ouailles. Ils agissent également bien souvent en tant que soutien spirituel auprès de leur congrégation.
+Effets :SOC 3 ; CON 2; INT 2; liturgie 3; connaissances (théologie au choix) 2; gestion (organisation) 2; culture générale (ville ou région au choix) 2; herboristerie ou premiers soins 2; discussion 3; négociation ou intimidation 2; sympathiser 2; perception 2.
+\subsection*{prostitué(e)}
+Le plus vieux métiers du monde, du moins selon la légende. Pratiqué partout et à toutes les époques, quelle que soit sa légalité, il s’agit souvent d’une carrière qui n’apporte aucun respect, mais parfois un peu de richesse voire de luxe. 
+Effets : SOC 3; HAB 2; INT 1; sympathiser 3; négociation 2; discussion 3; art (au choix) ou musique (au choix) 2; culture générale (ville ou région au choix); connaissances (politique ou corporations) 3; culture générale (culture au choix) 1; mensonge 3; perception 1.
+\subsection*{seigneur}
+Tout domaine a son seigneur, qui rend la justice, perçoit l’impôt et le protège. Suivant le domaine, c’est une vie de faste, ou une situation à peine meilleure que celle des paysans.
+Effets : REF 2; INT 2; HAB 1; CON 1; gestion (organisation ou logistique) 3; gestion (organisation ou logistique) 2; culture générale (région au choix) 3; connaissances (politique) 3; négociation 3; discussion 2; intimidation 1; équitation 2; perception 1; arme (au choix) 1; défense 2.
+\subsection*{shaman}
+Les esprits parlent à certaines personnes, qui parfois, y répondent. Ces individus, que l'on les qualifie de shamans ou de druides ont souvent un rôle à mi chemin entre le sorcier et le prêtre.
+Effets : CON 3; INT 1; SOC 2; CHA 1; sorcellerie 3; négociation 2; intimidation 1; connaissances (magie ou entités) 2; culture générale (région au choix) 2: théurgie 2; liturgie ou chirurgie 2; perception 1; premiers soins 1; herboristerie 2; volonté 1, symbolisme 1.
+\subsection*{sorcier}
+Fréquemment trouvés dans les villages, les sorciers ont une affinité pour la magie, et notamment ce qui est qualifié de mineur : la réalisation d’amulette, de charmes et de filtres.
+Effets : CON 2; REF 3; INT 1; HAB 1; CHA 1; sorcellerie 3; symbolisme 2; négociation 2; herboristerie 3; premiers soins 2; théurgie 1; connaissances (magie) 2; culture générale (région au choix) 2; perception 1; défense 1; contact animal (au choix) ou fouille 1.
+\subsection*{tireur}
+Le troisième élément des armées féodales : les tireurs, quelle que soit leurs armes de prédilection, leur rôle est de forcer les troupes ennemies à baisser la tête pour ne pas mourir sous une pluie de projectiles. Ils sont souvent mieux payés que les piétons, en raison du coût de leur équipement, mais ça ne les empêche pas de causer autant de troubles.
+Effets : MA 2; HAB 3; VIT 1; viser (au choix) ou lancer 3; athlétisme 2; défense 2; arme (au choix) 2; culture générale (militaire) 2; fouille 2; intimidation 1; mensonge 2; survie 1; discrétion 2; perception 2.
+\subsection*{trouvère}
+La demande de musiciens et amuseurs est toujours présente, que ce soit pour les banquets de la noblesse, les fêtes populaires ou les salles des auberges
+Effets :SOC 3; HAB 2; CHA 1; INT 1; art(au choix) ou musique (au choix) 2; musique (au choix) 3; connaissances (mythes \& légendes)3; culture générale (culture au choix) 3; négociation 2; sympathiser 2; mensonge 2; arme (au choix) 1; défense 2; perception 1.
+
+\chapter{Personnalisation}
+A la création, chaque personnage reçoit 50 points d’expérience. Ceux-ci peuvent être dépensés immédiatement de plusieurs manières:
+acheter des points de caractéristiques, au prix de 5 fois le score visé (en augmentant de 1 à chaque fois).
+acheter des compétences de savoir, au prix du score visé (en augmentant de 1 à chaque fois).
+acheter d’autres compétences, au prix de deux fois le score visé (en augmentant de 1 à chaque fois).
+acheter des avantages, jusqu’à 25 points.
+disposer de fonds supplémentaires pour s’équiper, à raison d’une livre (500g) d’argent par exemple.
+Il est possible également de gagner des points d’expérience en prenant des désavantages, et ce jusqu’à 25 points.
+\section{Avantages}
+Le coût de chaque avantage est indiqué entre parenthèses.
+\subsection*{Grand(15)}
+Le personnage est considéré comme d’une catégorie de taille plus grande.
+\subsection*{Noble(10) }
+Le personnage appartient à la noblesse, et est reconnu comme tel. Il bénéficie des privilèges associés.
+\subsection*{Robuste (8):}
+Le personnage a +2 sur tout ses tests de résistance aux maladies, poisons et infections.
+\subsection*{Talent avec les animaux (5)}
+Le personnage gagne +2 sur tous ses tests de contact animal, équitation et attelage.
+\subsection*{Beau (10)}
+Le personnage gagne +2 à tous ses tests de sympathiser et +1 à tous ses autres jets de compétences sociales si la cible pourrait être sous le charme. Ces bonus peuvent devenir un malus face à un personnage jaloux de cette beauté.
+\subsection*{Mémoire parfaite (4) }
+Le personnage réussit automatiquement les tests de mémoire demandés.
+\subsection*{lettré (4) } 
+Le personnage sait lire et écrire, quoique l'orthographe ne soit pas toujours la même d'une personne à l'autre. On partira le plus souvent du principe selon lequel le personnage peut écrire dans toutes les langues qu'il parle, à partir du moment où celles-ci ont des formes écrites.
+\subsection*{protecteur (8) }
+Le personnage est aidé par quelqu'un de puissant, qui peut, parfois, l'aider. Attention ce genre de service n'est pas forcément gratuit.
+\subsection*{Monsieur tout le monde (3) }
+Le personnage est d'apparence assez banale, et les tests de mémoire pour se souvenir de lui s'effectuent avec un malus de -2.
+\subsection*{camarades (5) }
+Le personnage fait partie d'une organisation, comme une corporation par exemple. Il en tire les bénéfices, mais doit également payer des taxes supplémentaires par exemple.
+\subsection*{pied marin (3) }
+Le personnage ne subit jamais de malus dû au mal de mer ou au fait de se déplacer sur le pont d'un navire, sauf dans les mers les plus extrêmes.
+\subsection*{bonne cicatrisation (5) }
+Le personnage guérit 25\% plus vite de ses blessures. Cumulatif avec toutes les réductions de temps de guérison.
+\subsection*{prudent (10) }
+Le personnage n'est jamais totalement pris par surprise, et peut donc toujours agir dans ce cas, il peut également toujours tenter un test de perception pour repérer un problème.
+\section{Désavantages}
+Le gain en points d’expérience pour chaque désavantage est indiqué entre parenthèses.
+\subsection*{athée (10) }
+Le personnage ne peut jamais bénéficier des avantages ou désavantages des cérémonies religieuses, bénédictions et malédictions.
+\subsection*{recherché (5 à 15) }
+Le personnage est recherché par une faction, uniquement par ses membres pour 5 points, avec une petite prime pour 10, et avec une prime importante pour 15.
+\subsection*{laid/défiguré (5) } 
+Malus de -2 sur les tests de sympathiser effectués pour séduire, et malus de 1 sur les autres tests de sympathiser. incompatible avec beau.
+\subsection*{maladif (10) }
+Le personnage a un malus de -2 pour tout les tests visant à résister au poison, aux maladies, aux infections, .... Incompatible avec robuste.
+\subsection*{fanatique(10) }
+Le personnage est un fondamentaliste religieux, ce qui signifie que tout ce qui va contre sa religion sera perçu de manière très négative.
+\subsection*{code (10) } 
+Le personnage perd un point d'expérience à chaque fois qu'il transgresse un code de conduite qu'il s'est fixé, ou un serment prêté.
+\subsection*{vendetta (5 à 10) }
+Le personnage est en conflit avec un autre ou avec une famille, pour une raison ou une autre. En réalité cette raison importe peu, ce qui compte, c'est que cette histoire finira dans le sang tôt ou tard.
+\subsection*{mauvaise réputation (6) } 
+Le personnage a deux points de réputation de moins que la normale dans une ville ou région spécifique. Quoiqu'il ait fait (si même il fait quelque chose), les gens de là-bas ne l'apprécient guère.
+\subsection*{impulsif(6) :}
+Le personnage a tendance à foncer tête baissée dans les ennuis, ce qui pourrait un jour lui valoir de gros problèmes. Quand confronté à un choix dont l'une des possibilités est l'option directe, le personnage doit réussir un test de concentration (3) ou choisir cette dernière automatiquement.
+\subsection*{addiction (2 à 15 points) }
+Le personnage ne peut se passer d'une substance spécifique, typiquement l'alcool, mais parfois les sucreries, ou d'autres cas plus rares. Le personnage doit prendre régulièrement une dose de cette substance, ou subir des malus à tous ses tests. Pour la fréquence : 1 fois/semaine 1 points, 1 fois/jour 3 points, 3 fois/jour ou plus, 5 points. Pour le malus encouru : -1 pour 1 point, -3 pour 3 points, -5 pour 5 points. Attention, cela n'immunise pas aux effets de la substance prise.
+
+\part{Univers}
+
+\chapter{L'Alianais}
+L'Alianais est une frontière encore sauvage, une terre de découvertes et d'aventures. Il s'agit d'une jeune principauté, dont les contours ne sont pas toujours bien définis, et qui cherche à en repousser constamment les limites.
+
+Les plus anciens habitants de la région sont les Hiran, des tribus fières, qui vivaient déjà là au cours des siècles auparavant. Ils furent progressivement chassés de la région par la pressions des Asceliens : en bordure de ce puissant royaume, des groupes se formèrent, pour échapper au servage ou à la loi, et établirent de petites communautés en terre hirane. Si toutes ne survécurent pas aux raids, certaines s'agrandirent, jusqu'à devenir des villes à part entière, avant de former une principauté.
+
+Entre les raids hirans et les ambitions de certains nobles Asceliens, la vie là-bas est souvent liée à la guerre, et les Alianais ont appris à se défendre avant même d'être un seul peuple.
+\section{Histoire de la principauté}
+L'Alianais est né quand des individus ont quitté la frontière ascelienne pour s'y installer, au risque de se faire attaquer par les tribus hiranes. On y trouvait des cerfs en fuite, des brigands, des second ou troisièmes fils sans espoirs d'hériter, des prostituées cherchant à changer de vie, d'authentiques aventuriers.... Les plus anciennes des communautés fondées par ces colons ont environ trois siècles.
+
+Ces communautés, petites à la base, se sont multipliées à la faveur d'instabilité politique et de crises diverses. Devant les risques, elles se sont fortifiées, et ont étendu leur emprise sur ces terres peu connue, petit à petit. 
+
+Il y a un siècle, face à un rassemblement majeur des Hirans, ces communautés jusque là divisées s'unirent sous la bannière d'un chef local, Yves de Savère. Celui-ci mena les colons contre les tribus, et après une campagne brutale, réussit à conclure la paix. Celle-ci a jusqu'ici été globalement respectée, même si des raids se lancent souvent de part et d'autre de la frontière, aux limites assez floues.
+
+L'unité pour la première fois obtenue fut maintenue, les chefs des différentes localités élisant Yves I prince de l'Alianais, et établissant la première assemblée des bannerets. Celle-ci se rassemblant à la mort du prince pour élire le suivant parmi ses rangs. Les bannerets, à l'origine chefs militaires des colons, devinrent alors la noblesse héréditaire de la région.
+
+Devant la naissance de cette nouvelle principauté, les royaumes voisins d'Ascelie et de Venerie se montrèrent au départ hostiles, chacun revendiquant la souveraineté sur la région. Si ils pensaient au départ que cette principauté s'effondrerait d'elle-même, certains tentèrent également de s'en emparer par les armes, comme le duc d'Andren
+
+La relative jeunesse de sa noblesse fait que les royaumes voisins les considèrent comme au mieux des parvenus, et au pire de simples paysans jouant aux nobles. Cela n'a pas empêché quelques alliances d'être scellée par mariage, le plus souvent entre des familles de petite noblesse étrangère et des bannerets. Quelques bannerets, notamment des zones les plus frontalières, sont également liés aux Hirans par le sang, et interviennent dans les luttes entre tribus, tout comme ceux-ci interviennent dans les luttes entre familles.
+
+Le prince actuel est Alexandre II "le bon", qui règne depuis la capitale, Brigaud, depuis maintenant 3 ans. Il semble consacrer une bonne part de son énergie à apaiser certains de ses bannerets les plus vindicatifs, arbitrant fréquemment les conflits entre familles.
+\section{Les Alianais}
+\section{Lieux d'intérêts}
+\section{Personnes d'intérêts}
+\section{Aventures en Alianais}
+\chapter{L'Eglise des Triarches}
+\section{Histoire}
+\section{Préceptes}
+\section{L'Eglise en Alianais}
+\chapter{L'Ascelie}
+\section{Un ancien royaume}
+\section{Les Asceliens}
+\section{Un royaume agité}
+
+\chapter{Les Hiran}
+\section{Les tribues frontalières}
+\section{Les tribues sauvages}
+\section{Croyances et superstitions}
+\section{La guerre}
+\part*{Annexe}
+\tableofcontents
+
+
+\end{document}
