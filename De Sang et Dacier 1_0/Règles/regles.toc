@@ -124,21 +124,21 @@
 \contentsline {paragraph}{Exemples:}{17}
 \contentsline {subsection}{\numberline {3.5.5}Jeu()}{17}
 \contentsline {paragraph}{Description:}{17}
-\contentsline {paragraph}{Exemples:}{17}
-\contentsline {paragraph}{Domaines:}{17}
-\contentsline {subsection}{\numberline {3.5.6}Passe-passe}{17}
-\contentsline {paragraph}{Description:}{17}
-\contentsline {paragraph}{Exemples:}{17}
-\contentsline {subsection}{\numberline {3.5.7}Pistage}{17}
-\contentsline {paragraph}{Description:}{17}
-\contentsline {paragraph}{Exemples:}{17}
-\contentsline {subsection}{\numberline {3.5.8}Premiers soins}{17}
-\contentsline {paragraph}{Description:}{17}
-\contentsline {paragraph}{Exemples:}{17}
-\contentsline {subsection}{\numberline {3.5.9}Profession()}{17}
-\contentsline {paragraph}{Description:}{17}
-\contentsline {paragraph}{Exemples:}{17}
-\contentsline {paragraph}{Domaines:}{17}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {paragraph}{Domaines:}{18}
+\contentsline {subsection}{\numberline {3.5.6}Passe-passe}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.5.7}Pistage}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.5.8}Premiers soins}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.5.9}Profession()}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {paragraph}{Domaines:}{18}
 \contentsline {section}{\numberline {3.6}Social}{18}
 \contentsline {subsection}{\numberline {3.6.1}Art()}{18}
 \contentsline {paragraph}{Description:}{18}
@@ -149,19 +149,26 @@
 \contentsline {paragraph}{Exemples:}{18}
 \contentsline {subsection}{\numberline {3.6.3}Commandement}{18}
 \contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
-\contentsline {subsection}{\numberline {3.6.4}Discussion}{18}
-\contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
-\contentsline {subsection}{\numberline {3.6.5}Intimidation}{18}
-\contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
-\contentsline {subsection}{\numberline {3.6.6}Mensonge}{18}
-\contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
-\contentsline {subsection}{\numberline {3.6.7}Manipulation}{18}
-\contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
-\contentsline {subsection}{\numberline {3.6.8}N\IeC {\'e}gociation}{18}
-\contentsline {paragraph}{Description:}{18}
-\contentsline {paragraph}{Exemples:}{18}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.4}Discussion}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.5}\IeC {\'E}ducation}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.6}Intimidation}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.7}Mensonge}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.8}Manipulation}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.9}N\IeC {\'e}gociation}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
+\contentsline {chapter}{\numberline {4}Social}{21}
+\contentsline {chapter}{\numberline {5}Aventure}{23}
+\contentsline {chapter}{\numberline {6}Mysticisme}{25}
+\contentsline {chapter}{\numberline {7}Combat}{27}
