@@ -3,95 +3,165 @@
 \contentsline {section}{\numberline {1.1}D\IeC {\'e}s utilis\IeC {\'e}s}{9}
 \contentsline {section}{\numberline {1.2}Tests simples}{9}
 \contentsline {section}{\numberline {1.3}Tests en opposition}{9}
-\contentsline {section}{\numberline {1.4}Tests \IeC {\'e}tendus}{9}
-\contentsline {section}{\numberline {1.5}Notion de ma\IeC {\^\i }trise}{10}
-\contentsline {section}{\numberline {1.6}Travailler en \IeC {\'e}quipe}{10}
+\contentsline {section}{\numberline {1.4}Tests li\IeC {\'e}s}{9}
+\contentsline {section}{\numberline {1.5}Tests en \IeC {\'e}quipe}{10}
+\contentsline {section}{\numberline {1.6}Tests \IeC {\'e}tendus}{10}
 \contentsline {section}{\numberline {1.7}Acheter des r\IeC {\'e}ussites}{10}
-\contentsline {chapter}{\numberline {2}Caract\IeC {\'e}ristiques}{11}
-\contentsline {section}{\numberline {2.1}Masse (MA)}{11}
-\contentsline {section}{\numberline {2.2}Vitesse (VIT)}{11}
-\contentsline {section}{\numberline {2.3}Sociabilit\IeC {\'e} (SOC)}{11}
-\contentsline {section}{\numberline {2.4}Habilet\IeC {\'e} (HAB)}{11}
-\contentsline {section}{\numberline {2.5}Intuition (INT)}{11}
-\contentsline {section}{\numberline {2.6}R\IeC {\'e}flexion (REF)}{11}
-\contentsline {section}{\numberline {2.7}Concentration (CON)}{11}
-\contentsline {section}{\numberline {2.8}Chance (CHA)}{12}
-\contentsline {chapter}{\numberline {3}Valeurs annexes}{13}
-\contentsline {section}{\numberline {3.1}Bonus de d\IeC {\'e}g\IeC {\^a}ts (BD):}{13}
-\contentsline {section}{\numberline {3.2}Endurance(END) :}{13}
-\contentsline {section}{\numberline {3.3}Jauge de fatigue :}{13}
-\contentsline {section}{\numberline {3.4}Seuils de blessure :}{13}
-\contentsline {chapter}{\numberline {4}Comp\IeC {\'e}tences}{15}
-\contentsline {section}{\numberline {4.1}Combat}{15}
-\contentsline {section}{\numberline {4.2}D\IeC {\'e}placement}{16}
-\contentsline {section}{\numberline {4.3}Social}{17}
-\contentsline {section}{\numberline {4.4}Aventure}{18}
-\contentsline {section}{\numberline {4.5}Savoirs}{19}
-\contentsline {section}{\numberline {4.6}Magie}{19}
-\contentsline {section}{\numberline {4.7}Religion}{19}
-\contentsline {part}{II\hspace {1em}R\IeC {\`e}gles d\IeC {\'e}taill\IeC {\'e}es}{21}
-\contentsline {chapter}{\numberline {5}L'aventure}{23}
-\contentsline {section}{\numberline {5.1}Fatigue}{23}
-\contentsline {section}{\numberline {5.2}Environnement}{24}
-\contentsline {chapter}{\numberline {6}Blessures, soins et gu\IeC {\'e}rison}{25}
-\contentsline {section}{\numberline {6.1}Blessures}{25}
-\contentsline {section}{\numberline {6.2}Maladies, infections et poisons}{26}
-\contentsline {paragraph}{La grippe (difficult\IeC {\'e} 2)}{26}
-\contentsline {paragraph}{La gangr\IeC {\`e}ne (difficult\IeC {\'e} 4):}{26}
-\contentsline {section}{\numberline {6.3}Prodiguer des soins}{26}
-\contentsline {chapter}{\numberline {7}Stress et folie}{29}
-\contentsline {chapter}{\numberline {8}Relations sociales}{31}
-\contentsline {section}{\numberline {8.1}Contacts}{31}
-\contentsline {section}{\numberline {8.2}Renomm\IeC {\'e}e}{31}
-\contentsline {chapter}{\numberline {9}Combats}{33}
-\contentsline {section}{\numberline {9.1}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s:}{33}
-\contentsline {section}{\numberline {9.2}Combat en m\IeC {\^e}l\IeC {\'e}e:}{33}
-\contentsline {section}{\numberline {9.3}Le combat \IeC {\`a} distance:}{34}
-\contentsline {section}{\numberline {9.4}Infliger des d\IeC {\'e}g\IeC {\^a}ts}{34}
-\contentsline {section}{\numberline {9.5}Autres actions}{34}
-\contentsline {chapter}{\numberline {10}Magie}{37}
-\contentsline {section}{\numberline {10.1}La sorcellerie}{37}
-\contentsline {section}{\numberline {10.2}L'enchantement}{38}
-\contentsline {chapter}{\numberline {11}Religion}{41}
-\contentsline {section}{\numberline {11.1}C\IeC {\'e}r\IeC {\'e}monies}{41}
-\contentsline {section}{\numberline {11.2}Rites}{42}
-\contentsline {section}{\numberline {11.3}Imposer sa volont\IeC {\'e}}{42}
-\contentsline {chapter}{\numberline {12}\IeC {\'e}quipements}{43}
-\contentsline {section}{\numberline {12.1}Armes de M\IeC {\^e}l\IeC {\'e}e}{43}
-\contentsline {section}{\numberline {12.2}Armes \IeC {\`a} distance}{44}
-\contentsline {section}{\numberline {12.3}R\IeC {\`e}gles d\IeC {\textquoteright }armures}{44}
-\contentsline {section}{\numberline {12.4}Plastrons}{44}
-\contentsline {section}{\numberline {12.5}Gantelets}{46}
-\contentsline {section}{\numberline {12.6}Chausses}{46}
-\contentsline {section}{\numberline {12.7}Heaumes}{47}
-\contentsline {section}{\numberline {12.8}Autres \IeC {\'e}quipements}{48}
-\contentsline {section}{\numberline {12.9}Services}{48}
-\contentsline {part}{III\hspace {1em}Cr\IeC {\'e}ation de personnages}{49}
-\contentsline {chapter}{\numberline {13}R\IeC {\'e}sum\IeC {\'e}}{51}
-\contentsline {chapter}{\numberline {14}Packages}{53}
-\contentsline {section}{\numberline {14.1}Enfance}{53}
-\contentsline {section}{\numberline {14.2}Formation}{55}
-\contentsline {section}{\numberline {14.3}Profession}{57}
-\contentsline {chapter}{\numberline {15}Personnalisation}{61}
-\contentsline {section}{\numberline {15.1}Avantages}{61}
-\contentsline {section}{\numberline {15.2}D\IeC {\'e}savantages}{62}
-\contentsline {part}{IV\hspace {1em}Univers}{65}
-\contentsline {chapter}{\numberline {16}L'Alianais}{67}
-\contentsline {section}{\numberline {16.1}Histoire de la principaut\IeC {\'e}}{67}
-\contentsline {section}{\numberline {16.2}Les Alianais}{68}
-\contentsline {section}{\numberline {16.3}Lieux d'int\IeC {\'e}r\IeC {\^e}ts}{68}
-\contentsline {section}{\numberline {16.4}Personnes d'int\IeC {\'e}r\IeC {\^e}ts}{68}
-\contentsline {section}{\numberline {16.5}Aventures en Alianais}{68}
-\contentsline {chapter}{\numberline {17}L'Eglise des Triarches}{69}
-\contentsline {section}{\numberline {17.1}Histoire}{69}
-\contentsline {section}{\numberline {17.2}Pr\IeC {\'e}ceptes}{69}
-\contentsline {section}{\numberline {17.3}L'Eglise en Alianais}{69}
-\contentsline {chapter}{\numberline {18}L'Ascelie}{71}
-\contentsline {section}{\numberline {18.1}Un ancien royaume}{71}
-\contentsline {section}{\numberline {18.2}Les Asceliens}{71}
-\contentsline {section}{\numberline {18.3}Un royaume agit\IeC {\'e}}{71}
-\contentsline {chapter}{\numberline {19}Les Hiran}{73}
-\contentsline {section}{\numberline {19.1}Les tribues frontali\IeC {\`e}res}{73}
-\contentsline {section}{\numberline {19.2}Les tribues sauvages}{73}
-\contentsline {section}{\numberline {19.3}Croyances et superstitions}{73}
-\contentsline {section}{\numberline {19.4}La guerre}{73}
+\contentsline {chapter}{\numberline {2}Attributs}{11}
+\contentsline {section}{\numberline {2.1}Les Attributs principaux}{11}
+\contentsline {subsection}{\numberline {2.1.1}Agressivit\IeC {\'e}, AGR}{11}
+\contentsline {subsection}{\numberline {2.1.2}Caract\IeC {\`e}re, CAR}{11}
+\contentsline {subsection}{\numberline {2.1.3}Coordination, COO}{11}
+\contentsline {subsection}{\numberline {2.1.4}Empathie, EMP}{11}
+\contentsline {subsection}{\numberline {2.1.5}Logique, LOG}{12}
+\contentsline {subsection}{\numberline {2.1.6}R\IeC {\'e}silience, RES}{12}
+\contentsline {subsection}{\numberline {2.1.7}Vigilance, VIG}{12}
+\contentsline {section}{\numberline {2.2}Attributs secondaire}{12}
+\contentsline {subsection}{\numberline {2.2.1}Forme, FOR}{12}
+\contentsline {subsection}{\numberline {2.2.2}M\IeC {\'e}moire, MEM}{12}
+\contentsline {subsection}{\numberline {2.2.3}Destin, DES}{12}
+\contentsline {chapter}{\numberline {3}Comp\IeC {\'e}tences}{13}
+\contentsline {section}{\numberline {3.1}Combat}{13}
+\contentsline {subsection}{\numberline {3.1.1}Arme blanche()}{13}
+\contentsline {paragraph}{Description:}{13}
+\contentsline {paragraph}{Exemples:}{13}
+\contentsline {paragraph}{Domaines:}{13}
+\contentsline {subsection}{\numberline {3.1.2}Arme de jet()}{13}
+\contentsline {paragraph}{Description:}{13}
+\contentsline {paragraph}{Exemples:}{13}
+\contentsline {paragraph}{Domaines:}{13}
+\contentsline {subsection}{\numberline {3.1.3}Arme de traits()}{13}
+\contentsline {paragraph}{Description:}{13}
+\contentsline {paragraph}{Exemples:}{13}
+\contentsline {paragraph}{Domaines:}{13}
+\contentsline {subsection}{\numberline {3.1.4}Corps \IeC {\`a} corps}{13}
+\contentsline {paragraph}{Description:}{13}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.1.5}D\IeC {\'e}fense}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.1.6}Poignarder}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {section}{\numberline {3.2}D\IeC {\'e}placements}{14}
+\contentsline {subsection}{\numberline {3.2.1}Athl\IeC {\'e}tisme}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.2.2}Attelage}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.2.3}Discr\IeC {\'e}tion}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.2.4}Escalade}{14}
+\contentsline {paragraph}{Description:}{14}
+\contentsline {paragraph}{Exemples:}{14}
+\contentsline {subsection}{\numberline {3.2.5}\IeC {\'E}quitation}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {subsection}{\numberline {3.2.6}Natation}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {subsection}{\numberline {3.2.7}Navigation}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {section}{\numberline {3.3}\IeC {\'E}rudition}{15}
+\contentsline {subsection}{\numberline {3.3.1}Connaissance()}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {paragraph}{Domaines:}{15}
+\contentsline {subsection}{\numberline {3.3.2}Culture g\IeC {\'e}n\IeC {\'e}rale()}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {paragraph}{Domaines:}{15}
+\contentsline {subsection}{\numberline {3.3.3}Herboristerie}{15}
+\contentsline {paragraph}{Description:}{15}
+\contentsline {paragraph}{Exemples:}{15}
+\contentsline {subsection}{\numberline {3.3.4}Organisation}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {subsection}{\numberline {3.3.5}Lecture}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {subsection}{\numberline {3.3.6}M\IeC {\'e}decine}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {subsection}{\numberline {3.3.7}Langue()}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {paragraph}{Domaines:}{16}
+\contentsline {section}{\numberline {3.4}Mysticisme}{16}
+\contentsline {subsection}{\numberline {3.4.1}Divination}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {subsection}{\numberline {3.4.2}Liturgie}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {subsection}{\numberline {3.4.3}Pri\IeC {\`e}res()}{16}
+\contentsline {paragraph}{Description:}{16}
+\contentsline {paragraph}{Exemples:}{16}
+\contentsline {paragraph}{Domaines:}{17}
+\contentsline {subsection}{\numberline {3.4.4}Sorcellerie()}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {paragraph}{Domaines:}{17}
+\contentsline {subsection}{\numberline {3.4.5}Symbolisme}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {section}{\numberline {3.5}Savoirs-faire}{17}
+\contentsline {subsection}{\numberline {3.5.1}Chirurgie}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.2}Crochetage}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.3}Dressage()}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {paragraph}{Domaines:}{17}
+\contentsline {subsection}{\numberline {3.5.4}Fouille}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.5}Jeu()}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {paragraph}{Domaines:}{17}
+\contentsline {subsection}{\numberline {3.5.6}Passe-passe}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.7}Pistage}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.8}Premiers soins}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {subsection}{\numberline {3.5.9}Profession()}{17}
+\contentsline {paragraph}{Description:}{17}
+\contentsline {paragraph}{Exemples:}{17}
+\contentsline {paragraph}{Domaines:}{17}
+\contentsline {section}{\numberline {3.6}Social}{18}
+\contentsline {subsection}{\numberline {3.6.1}Art()}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {paragraph}{Domaines:}{18}
+\contentsline {subsection}{\numberline {3.6.2}Calme}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.3}Commandement}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.4}Discussion}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.5}Intimidation}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.6}Mensonge}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.7}Manipulation}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
+\contentsline {subsection}{\numberline {3.6.8}N\IeC {\'e}gociation}{18}
+\contentsline {paragraph}{Description:}{18}
+\contentsline {paragraph}{Exemples:}{18}
