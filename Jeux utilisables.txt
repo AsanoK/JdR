@@ -1,16 +1,14 @@
-Systèmes:
+SystÃ¨mes:
 -Only War : film de guerre, action, sombre, warhammer 40000
 -Black Crusade: sombre, warhammer 40000, mal
 -Symbaroum: exploration, med fan, sombre
 -Shadowrun ? : cyberpunk, sombre
--Star Wars : action, space opéra
+-Star Wars : action, space opÃ©ra
 -Eclipse Phase : espionnage,  hard SF, horreur
--De Sang et d'Acier : med fan, réaliste
+-De Sang et d'Acier : med fan, rÃ©aliste
 -L'anneau unique : SdA, exploration, ambiance
 -DD5 : combat, exploration, med fan
--trône de fer : combat, intrigue, med fan
+-trÃ´ne de fer : combat, intrigue, med fan
 -warhammer : med fan, sombre, combat, aventures
--starfinder : space opéra, action
-
-
-
+-starfinder : space opÃ©ra, action
+-Coriolis: space opÃ©ra, mystÃ¨res, intrigues
