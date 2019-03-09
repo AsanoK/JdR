@@ -284,6 +284,27 @@ Les compétences d'érudition sont les compétences les plus intellectuelles d'u
 \section{Voyages et déplacements}
 \section{Statuts}
 Un statut est une jauge représentant un problème que subit le personnage. Les plus courant sont les blessures, le stress et la fatigue, mais des personnages peuvent également rencontrer la faim, la soif, les maladies....
+
+Mécaniquement, chacune de ces jauges prend la forme de trois lignes et d'un certain nombres de colonnes (suivant le statut suivi par cette jauge). Chaque colonne est associé à un seuil. Quand le MJ demande d'ajouter un statut avec une valeur, on regarde quel est le plus grand seuil dépassé, et on fait un marquage partiel sur une des lignes de la colonne associée. 
+
+Un personnage calcule pour chacun de ses statuts quel est la colonne la plus à droite qu'il a atteinte pour déterminer son statut global sur cette jauge, et les conséquences en terme de malus, etc.
+
+Trois marquages sur la même colonne sont remplacés par un marquage sur la colonne suivante(le plus partiel possible parmi les trois).
+
+Il y a trois types de marquages possibles :
+\begin{itemize}
+\item Marquage partiel : indiquez-le d'un simple trait dans la case, il indique que la cause du problème est toujours présente.
+\item Marquage complet : indiquez-le d'un croix dans la case; il indique que le problème est en train d'être régler.
+\item Marquage passé : indiquez-le en noircissant la case; il indique que le problème est résolu, mais qu'il pourrait toujours être un problème dans la futur. Ce marquage ne compte pas dans le compte du malus global, mais peut se cumuler avec d'autres pour former un statut à une colonne suivante. Ce type de statut diminue en intensité avec le temps .
+\end{itemize}
+
+A titre d'exemple, une blessure avec un marquage partiel est une blessure ouverte, non traitée et non cicatrisée, qui pourrait facilement s'infecter ou s'aggraver. Après quelques soins, elle devient un marquage complet : elle fait toujours souffrir, mais n'est plus un danger. Lors de la cicatrisation, elle est en marquage passé, ne représentant plus qu'une gêne.
+\subsection{Blessures}
+Il y a 5 seuils de blessures : superficielle, légère, grave, critique, létale.
+
+Une blessure superficielle ne dérange pas vraiment celui qui l'a subie, mais plusieurs peuvent se révéler être un problème. De même, sous certaine conditions, elle peut s'infecter. Une blessure légère peut poser des problèmes pour certaines tâches physiques, mais guère plus. Une blessure grave commence à gêner sérieusement les mouvements et la douleur peut être un problème pour se concentrer. Une blessure critique commence à devenir réellement très dangereuse. Une blessure létale est un risque sérieux pour la vie de celui qui la subit. (seuils :2,4,6,8,10)
+\subsection{Fatigue}
+\subsection{Stress}
 \chapter{Mysticisme}
 %TODO
 \section{Divination}
