@@ -227,12 +227,15 @@ Les compétences d'érudition sont les compétences les plus intellectuelles d'u
 \paragraph{Exemples:}Lancer un chien sur une piste nécessite un test de Dressage(chiens)+LOG, quand calmer un faucon agité est un test de Dressage(oiseaux)+EMP.
 \paragraph{Domaines:}chiens, oiseaux, équidés, bétail, ours;
 \subsection{Fouille}
-\paragraph{Description:}La fouille est la compétence utilisée pour chercher spécifiquement quelque chose : trouver un objet dans une salle, ou chercher quelqu'un dans une foule. C'est une compétence appréciée dans la profession d'aventurier.
-\paragraph{Exemples:}Chercher des armes sur un personnage est un test de COO+fouille, trouver une note dans une chambre d'auberge est un test de LOG+fouille. Enfin, chercher à remarquer quelqu'un dans une foule est un test de VIG+fouille.
+\paragraph{Description:}La fouille est la compétence utilisée pour chercher spécifiquement quelque chose : trouver un objet dans une salle, des détails dans un document.... C'est une compétence appréciée dans la profession d'aventurier.
+\paragraph{Exemples:}Chercher des armes sur un personnage est un test de COO+fouille, trouver une note dans une chambre d'auberge est un test de LOG+fouille. 
 \subsection{Jeu()}
-\paragraph{Description:}Depuis l'aube de l'humanité, de nombreux jeux permettent de se détendre et de s'occuper : dés, adresse, stratégie, les possibilités sont nombreuses, et souvent, paris et enjeux suivent.On peut noter que les cartes sont peu courante, étant fragiles et chères.
+\paragraph{Description:}Depuis l'aube de l'humanité, de nombreux jeux permettent de se détendre et de s'occuper : dés, adresse, stratégie, les possibilités sont nombreuses, et souvent, paris et enjeux suivent. On peut noter que les cartes sont peu courante, étant fragiles et chères.
 \paragraph{Exemples:}Pour déterminer le vainqueur d'une partie d'échecs, on peut réaliser un test de jeu(stratégie)+LOG, de même pour gagner dans une partie de dés, même s'il peut être plus facile de tricher, avec un test de COO+jeu(dés)
 \paragraph{Domaines:}par type de jeu : stratégie, adresse, dés...
+\subsection{Observation}%Jauger
+\paragraph{Description:}L'observation est la capacité d'un personnage à trouver des éléments utiles de loin (par opposition à une fouille, plus proche). Est utilisé de manière active : il faut que le personnage fasse l'effort de chercher. Pour une utilisation passive, on utilisera un test pur de VIG le plus souvent.
+\paragraph{Exemples:}EMP+Observation permet d'essayer de deviner quelques éléments sur ce que pense un autre personnage : détecter un menteur, trouver que quelqu'un est apeuré.... VIG+Observation peut être utilisé pour chercher quelqu'un dans une foule par exemple, ou remarquer un mouvement suspect dans une forêt.
 \subsection{Passe-passe}
 \paragraph{Description:}La compétence passe-passe représente la capacité de certains personnages à manipuler finement et très rapidement leurs mains, souvent pour tromper leur monde.
 \paragraph{Exemples:}Un test de passe-passe+COO peut servir à subtiliser discrètement une bourse en vue, ou dissimuler une arme à un garde. Alternativement, il est possible de tenter un test identique pour réaliser un tour de prestidigitation.
@@ -277,6 +280,7 @@ Les compétences d'érudition sont les compétences les plus intellectuelles d'u
 \paragraph{Description:}Négocier est la compétence recouvrant le fait de convaincre directement, par divers arguments un personnage de quelque chose.
 \paragraph{Exemples:}Pour obtenir un prix plus bas sur un achat, c'est un test de négociation+CAR; De même pour obtenir l'autorisation d'un seigneur d'enquêter sur ses terres à propos d'un criminel.
 
+
 \chapter{Social}
 %TODO
 \chapter{Aventure}
@@ -302,9 +306,42 @@ A titre d'exemple, une blessure avec un marquage partiel est une blessure ouvert
 \subsection{Blessures}
 Il y a 5 seuils de blessures : superficielle, légère, grave, critique, létale.
 
-Une blessure superficielle ne dérange pas vraiment celui qui l'a subie, mais plusieurs peuvent se révéler être un problème. De même, sous certaine conditions, elle peut s'infecter. Une blessure légère peut poser des problèmes pour certaines tâches physiques, mais guère plus. Une blessure grave commence à gêner sérieusement les mouvements et la douleur peut être un problème pour se concentrer. Une blessure critique commence à devenir réellement très dangereuse. Une blessure létale est un risque sérieux pour la vie de celui qui la subit. (seuils :2,4,6,8,10)
+Une blessure superficielle est comme on nom l'indique, globalement inoffensive : simple égratignure, ou plaie très légère, un bleu, une ecchymose... Aucun malus n'est lié au fait d'en subir, mais elles peuvent s'accumuler, s'infecter....  Ce seuil est, pour un humain normal, égal à 2.
+
+Les blessures légères sont un peu plus importantes, mais restent peu dangereuses : plaies ouvertes nécessitant quelques points de sutures, ecchymose importante...; Les tests physiques subissent un malus de -1. Le seuil est de 4 pour un humain.
+
+Les blessures graves commencent à gêner celui qui les subit : articulation foulée, muscle perforé, os fêlé.... Les tests physiques impliquant la zone blessé subissent un malus de -3, tous les autres tests subissent un malus de -1. Le seuil est à 6 pour un humain.
+
+Une blessure critique commence à devenir franchement inquiétante, et peut avoir des conséquences sur un long moment : fracture, plaie importante (hémorragique peut-être), début de traumatisme crânien, amputation d'un doigt, organe touché..... Les tests avec la zone touchée subissent un malus de -4, tous les autres tests un malus de -3. Le seuil est de 8
+
+Une blessure létale est un vrai danger à court terme pour la survie du personnage : amputation, traumatisme crânien gave, plaie ouverte ayant touchée les intestins, poumons perforés..... Le malus est de -6 pour les tests liés à la zone touchée, -4 pour tous les autres.
+
 \subsection{Fatigue}
+Il y a cinq niveaux de fatigue : échauffé, essoufflé, fatigué, exténué, abattu.
+
+Échauffé correspond à un niveau de fatigue qui n'est pas gênant : le personnage est encore en pleine forme, mais cela peut se cumuler pour devenir plus gênant. Le seuil d'échauffement est de RES.
+
+Essoufflé est un état dans lequel le personnage commence à ressentir des effets légers après son effort : ses gestes ne sont plus aussi précis, vifs ou efficaces. Ce niveau de fatigue est associé à un malus de 1 aux tests physiques. Le seuil est égal à $RES\times 1,5$ (arrondi au supérieur)
+
+Un personnage fatigué vient par exemple de sortir d'une activité physique plutôt intense, et commence à ressentir les effets dans toutes ses activités. Le personnage subit un malus de -1 à tous ses tests, -2 pour les tests physiques. Le seuil est égal à $RES\times 2$.
+
+Un personnage exténué souffre vraiment de ses efforts : il n'a pas plus d'énergie à dédier à penser qu'à autre chose, et le moindre mouvement deviens délicat. Le personnage subit un malus de -4 à tous ses tests. Le seuil est égal à $RES\times 2+2$.
+
+Un personnage abattu n'est plus très loin du malaise, et pourrait s'écrouler sur un coup de vent trop prononcé. Le seuil est égal à $RES\times 2+4$. Le personnage subit un malus de -6 à tout ses tests.
+
+1 heure de marche relativement rapide correspond à 1 point de fatigue, de même qu'un round de combat intense (en mêlée).
 \subsection{Stress}
+Il y a 5 niveaux de stress : calme, stressé, anxieux, angoissé, paniqué
+
+Un personnage calme est encore en pleine maîtrise de ses moyens, malgré des éléments de stress légers. Le seuil est égal à $CAR\div2$ (arrondi à l'inférieur).
+
+Un personnage stressé est toujours efficace, avec une très légère pression, qui diminue légèrement son efficacité. Il subit un malus de -1 à ses tests mentaux. Le seuil est égal à CAR.
+
+Un personnage anxieux commence à subit réellement la pression : il est moins efficace, plus tendu que d'habitude. Il subit un malus de -2 sur tout ses tests mentaux. Le seuil est de CAR*2.
+
+L'angoisse est le moment où la pression commence à devenir trop forte : les réactions se font beaucoup moins réfléchie, alors que le personnage réagit de manière beaucoup plus épidermique. Il subit un malus de -4 à tout ses tests mentaux, et -2 aux autres tests. Le seuil est de CAR*3.
+
+Une fois paniqué, le personnage n'agit plus vraiment de manière rationnelle : les réactions ne font plus nécessairement sens, et dérivent souvent des réactions primaires de fuite/combat : fuite éperdue, besoin de se cacher ou au contraire, agression violente. Le personnage n'est plus très loin de passer momentanément sous contrôle du MJ. Le seuil est CAR*4. Le personnage subit un malus de -6 à tout ses tests mentaux, et -3 aux autres tests.
 \chapter{Mysticisme}
 %TODO
 \section{Divination}

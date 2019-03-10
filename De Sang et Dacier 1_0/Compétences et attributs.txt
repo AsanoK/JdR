@@ -41,6 +41,7 @@ crochetage
 dressage()
 fouille
 jeu()
+observation
 passe-passe
 pistage
 premiers soins

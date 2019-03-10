@@ -168,13 +168,16 @@
 \contentsline {subsection}{\numberline {3.6.9}N\IeC {\'e}gociation}{19}
 \contentsline {paragraph}{Description:}{19}
 \contentsline {paragraph}{Exemples:}{19}
+\contentsline {subsection}{\numberline {3.6.10}Observation}{19}
+\contentsline {paragraph}{Description:}{19}
+\contentsline {paragraph}{Exemples:}{19}
 \contentsline {chapter}{\numberline {4}Social}{21}
 \contentsline {chapter}{\numberline {5}Aventure}{23}
 \contentsline {section}{\numberline {5.1}Voyages et d\IeC {\'e}placements}{23}
 \contentsline {section}{\numberline {5.2}Statuts}{23}
 \contentsline {subsection}{\numberline {5.2.1}Blessures}{23}
-\contentsline {subsection}{\numberline {5.2.2}Fatigue}{23}
-\contentsline {subsection}{\numberline {5.2.3}Stress}{23}
+\contentsline {subsection}{\numberline {5.2.2}Fatigue}{24}
+\contentsline {subsection}{\numberline {5.2.3}Stress}{24}
 \contentsline {chapter}{\numberline {6}Mysticisme}{25}
 \contentsline {section}{\numberline {6.1}Divination}{25}
 \contentsline {section}{\numberline {6.2}Liturgie}{25}
