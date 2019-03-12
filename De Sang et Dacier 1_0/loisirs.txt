@@ -1,0 +1,11 @@
+LOISIRS
+-chasse
+-musique
+-art
+-artisanat
+-jeu
+-lutte
+-discussion
+-entrainement au combat
+-court
+-danse
