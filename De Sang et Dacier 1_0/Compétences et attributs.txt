@@ -22,7 +22,7 @@ navigation
 Erudition
 connnaissances()
 culture générale()
-herboristerie()
+herboristerie
 organisation
 lecture
 médecine

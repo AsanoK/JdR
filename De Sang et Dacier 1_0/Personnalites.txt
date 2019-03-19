@@ -12,7 +12,7 @@ Calme(COO)
 AGR:1 ;CAR:2 ;COO:3 ;EMP:3 ;LOG:2 ;RES: ;VIG:1 .
 
 Méfiant(VIG)
-AGR: ;CAR:3 ;COO:1 ;EMP:2 ;LOG:2 ;RES:1 ;VIG:3 .
+AGR:2 ;CAR:3 ;COO:1 ;EMP:2 ;LOG:2 ;RES:1 ;VIG:3 .
 
 Réfléchi(LOG)
 AGR:1 ;CAR:1 ;COO:2 ;EMP:2 ;LOG:3 ;RES:2 ;VIG:3 .
