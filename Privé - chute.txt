@@ -1,13 +1,50 @@
 Structure et chronologie
-D-21 : lib�ration des TITANS dans le cyberconflit USA-RPC
+D-21 : libération des TITANS dans le cyberconflit USA-RPC
 D-14 : contamination exsurgente des TITANs
-D-7 : premiers projets ill�gaux men�s par les TITANs
-D-5 : crise humanitaire en Inde, risque majeur de famine suite � un probl�me de programmation de nanofabricateurs; la soci�t� Imprint refuse tout commentaire
-D-4 : Une base militaire Russe en Prusse est attaqu�e par un groupe terroriste inconnu, le Kremlin voit la f�d�ration nord-africaine derri�re ces actions, afin de destabiliser le jeu des pouvoirs en Europe.
-D-3 : le cyberconflit USA-RPC risque de s'embraser quand le porte-a�ronef L-2 est touch� par un tir inconnu dans le port de Zhanjiang. La RPC annonce l'implication d'un sous-marin am�ricain. Le Pentagone d�ment toute implication. La Russie annonce avoir abattu un a�ronef inconnu dans son espace a�rien. Les r�seaux commencent � avoir quelques probl�mes mineurs
-D : De nouvelles �meutes dans les quartiers LowSecurity au Kenya.L'arm�e est envoy�e pour calmer les �meutiers. Les �meutes auraient pour cause des rumeurs de disparitions dans les LS. Etat d'urgence dans plusieurs pays.
-D+1: frappes de d�capitations visant le Kremlin, les USA et la RPC, entre autres. Premi�res offensives TITANs ouvertes, les arm�es nationales se battent contre elles-m�mes. Les r�seaux tombent rapidement
-D+2 : premi�res images de cr�atures exsurgentes, d�but des op�rations contre les grandes villes. Les gouvernements n'ont plus d'influence ou presque. Certains pays annoncent une �vacuation de leurs habitants sous forme de sauvegarde. Retour de quelques r�seaux.
-D+3 : les combats continuent dans les grandes villes, face � de nouvelles horreurs, les �vacuations massives commencent l� o� cela est possible. l'ONU annonce une �vacuation g�n�rale
-D+4 : la r�sistance continue, Chicago est ras� par une bombe � antimati�re plant�e par des forces sp�ciales am�ricaines.
-D+5 : chute de l'ascensceur orbital apr�s plusieurs jours d'�pres combats
+D-7 : premiers projets illégaux menés par les TITANs
+D-5 : crise humanitaire en Inde, risque majeur de famine suite à un problème de programmation de nanofabricateurs; la société Imprint refuse tout commentaire
+D-4 : Une base militaire Russe en Prusse est attaquée par un groupe terroriste inconnu, le Kremlin voit la fédération nord-africaine derrière ces actions, afin de destabiliser le jeu des pouvoirs en Europe.
+D-3 : le cyberconflit USA-RPC risque de s'embraser quand le porte-aéronef L-2 est touché par un tir inconnu dans le port de Zhanjiang. La RPC annonce l'implication d'un sous-marin américain. Le Pentagone dément toute implication. La Russie annonce avoir abattu un aéronef inconnu dans son espace aérien. Les réseaux commencent à avoir quelques problèmes mineurs
+D : De nouvelles émeutes dans les quartiers LowSecurity au Kenya.L'armée est envoyée pour calmer les émeutiers. Les émeutes auraient pour cause des rumeurs de disparitions dans les LS. Etat d'urgence dans plusieurs pays.
+D+1: frappes de décapitations visant le Kremlin, les USA et la RPC, entre autres. Premières offensives TITANs ouvertes, les armées nationales se battent contre elles-mêmes. Les réseaux tombent rapidement
+D+2 : premières images de créatures exsurgentes, début des opérations contre les grandes villes. Les gouvernements n'ont plus d'influence ou presque. Certains pays annoncent une évacuation de leurs habitants sous forme de sauvegarde. Retour de quelques réseaux.
+D+3 : les combats continuent dans les grandes villes, face à de nouvelles horreurs, les évacuations massives commencent là où cela est possible. l'ONU annonce une évacuation générale
+D+4 : la résistance continue, Chicago est rasé par une bombe à antimatière plantée par des forces spéciales américaines.
+D+5 : chute de l'ascensceur orbital après plusieurs jours d'âpres combats
+
+NOTE IMPORTANTE : il faut que les personnages restent dans le centre de Nairobi au moins pendant les premiers jours, sans essayer de partir.
+
+
+Structure scénaristique:
+Jour -1 (D-1) : les personnages sont à Nairobi, près de l'ascenseur orbital, pour diverses raisons, potentiellement de business sur Terre. Les dernières semaines ont vu de très gros regains de tensions su le globe. Les réseaux sociaux sont légèrement instables par moment. Une fuite de documents confidentiels du Pentagone sur le réseau provoque une vague de réponse indignée devant certaines des révélations sur les projets américains. La RPC se déclare outrée de l'ingérence américaine dans ses affaires, et rompt le canal diplomatique. La Russie se déclare elle "pas surprise" de ces révélations, mais "néanmoins déçue" de l'attitude américaine de mépris pour le droit international et fustige les opérations d'influence dans le monde entier. La guerre civile indienne continue toujours depuis la mort d'un représentant de l'opposition conservatrice.
+Le centre-ville de Nairobi passe en état d'alerte, après l'annonce de violentes émeutes dans les quartiers LS (Low Security, les bidonvilles autour de la ville). Il n'y a pas de paniques en ville, mais on peut sentir la tension monter. Au vu des évènements, et à la mi-journée, le gouvernement annonce l'état d'urgence dans la nuit.
+
+Jour 0: la situation empire rapidement au Kenya : les émeutes ne semblent pas s'arrêter dans les LS, l'armée y étant déployée pour rétablir l'ordre rapidement. Au vu des tensions internationales, des unités militaires gouvernementales et des PMCs sont plus visibles en ville, pour assurer la sécurité du gouvernement ou des entreprises.
+Le Kremlin annonce dans la journée avoir abattu un aéronef inconnu dans son espace aérien, déclarant "Nous trouverons l'origine de cette incursion, la Fédération de Russie ne tolèrera pas une telle violation de sa souveraineté".
+Pour les PJs, c'est une journée enecore relativement normale, peut-être quelques interactions avec des forces de sécurité diverses, et une impression de tension en ville. Leurs affaires se concluent ou avancent tout de même.
+
+Jour 1(D+1): La nouvelle tombe dans la journée : la maison blanche a été la cible d'une attaque d'origine inconnue. De même, des témoignages de Pekin indiquent plusieurs explosions dans le quartier gouvernemental. Au milieu de journée, les chaînes d'informations annoncent que le Kremlin est occupé par des forces armées Russe qui semblent combattre un adversaire pour le moment non-identifié, amis potentiellement lié  à l'aéronef toujours mystérieux.
+Au Kenya, un couvre-feu global est annoncé. Des coups de feu sont annoncés au centre-ville, entre les rumeurs de coups d'état, d'insurrection armée, ou de règlement de compte.
+Cette journée est le début du chaos pour les PJs : certaines factions font parler les armes ouvertement alors que le chaos arrive en ville. Les Pjs devraient être regroupés pour l'occasion d'une manière ou d'une autre (proto-firewall ?). Les premières actions à entreprendre ne seront sans doute pas très claires, la survie sera le plus important.
+
+Jour 2 (D+2)
+Ce jour est le premier jour où l'humanité se rend compte de sa chute.
+De manière globale, les forces TITANs commencent à agir de manière ouverte, tout en continuant de semer le chaos dans les forces gouvernementales grâce à leur maîtrise des réseaux. Ceux-ci tombent en rade de manière très régulière au cours de la journée. Les premiers rapports sur le virus exsurgent sont de même annoncés (mais pas forcéement répandus, et surtout pas compris). 
+A Nairobi, c'est la panique totale, avec une ruée vers l'ascenseur orbital ou les points "sûrs". Les troupes sont sur les nerfs, reçoivent de fausses informations via des channels sécurisés, voire sont infectées par le virus.
+Pour les PJs, leur décision va influer la suite du scénario : tenter quelque chose, ou essayer de rejoindre un point sûr, ou l'ascenseur orbital ? De toute manière, il va falloir gérer les foules paniquées, les troupes au mieux désorientées, les forces de sécurité en pleine paranoia, et les premiers drones chasseurs de tête....
+
+Jour3 
+La position des joueurs va être précaire face à plusieurs assauts exsurgent ou "tirs fratricides" humains, déclenchés par une action TITAN. Les rapports sont alarmistes, la bataille du point de Lagrange L3 démarre en orbite. L'ONU annonce un abandon de la terre face à cet ennemi inconnu : l'évacuation totale est annoncée, chacun essaie à tout prix de quitter la planète.
+Des Pjs retranchés dans un point sûr vont être attaqués toute la journée par différents types de problèmes. Leur survie sera en jeu rapidement, face à ses menaces, même si les pires ne sont pas encore lancés.
+Des personnages arrivés à l'aéroport vont devoir faire face à la panique et au pire de l'humanité. Il leur faudra survivre à tout ceci, voire peut-être essayer d'avoir une place à bord. Présence des ultimistes.
+Des PJs tentant quelque chose de précis vont devoir faire face aux même problèmes que ceux retranchés, mais si ils deviennent menaçant, seront arrêtés par un fork TITAN (et donc annihilés, body and soul).
+Des PJs se déplaçant seront harcelés par des créatures exsurgentes mineurs, qui seront viles et très dangereuses, mais pas encore de trop gros calibre
+
+Jour 4
+Chicago est rasé par une explosion d'antimatière.
+Cette nouvelle intervient au début de la journée sur les réseaux, qui respirent un peu.
+Des PJs retranchés vont devoir faire face aux pires créatures exsurgentes, et mourront très probablement. Des personnage mobiles pourront peut-être échapper à ces créatures, mais devront encore trouver un moyen d'évacuation.
+Des PJs à l'ascenseur devraient pouvoir otenir une place dans celui-ci, alors que différentes unités défendent les alentours des terminaux. Dans le pire des cas, les ultimistes les tuent pour monter leur pile.
+
+Jour 5
+Les PJs devraient être évacués ou mort à ce moment, c'est la chute de l'ascenseur orbital, de la Terre, et d'une bonne part des habitats humains du système. Ellipse vers AF-10.
