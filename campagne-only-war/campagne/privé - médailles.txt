@@ -1,0 +1,10 @@
+L'aigle de saut : décernée pour trois/cinq/dix sauts opérationnels réalisée, elle indique un statut de vétéran parmis les forces parachutistes impériales. Prend la forme d'un aigle de cuivre/argent/or suivant la classe de la médaille. 
+3eme classe : +5 aux tests de sauts
+2nde classe :+10 aux test de navigation (aeronautica)
+1ere classe : Bonus de +5 aux tests de volonté pour résister à la peur (pas au pilonnage)
+
+croix d'Achilus : décernée pour bravoure face à l'ennemi sur le champ de bataille, elle est parfois surnommée "l'argenterie" en raison de son nombre d'occurence dans les troupes expérimentées. La nomination doit se faire par deux officiers ayant un rang suffisant.
+croix 2nde classe :1 nomination, fournit un bonus de +10 face au pilonnage
+croix 1ère classe:2 nominations, fournit également 1 blessure supplémentaire et +5 aux tests de logistique.
+croix de héros de Jericho: 3 nominations, fournit également un bonus de +10 pour toute interaction avec des membres de la croisade, et +10 aux tests de logistique.
+
