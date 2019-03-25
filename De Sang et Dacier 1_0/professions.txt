@@ -11,7 +11,7 @@ PROFESSIONS
 -troubadour
 -marin
 -prostitué(e)
--muscle
+-brute
 -herboriste
 -prêtre
 -sorcier
@@ -24,6 +24,11 @@ PROFESSIONS
 -chef de bande
 -guérisseur *
 -forestier *
+-guerrier
+-mineur
+-éleveur
+-fermier
+-esclave
 7 caracs, 30 à 35 compétences, équipements
 
 Homme d'arme:
