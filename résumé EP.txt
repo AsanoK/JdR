@@ -1,0 +1,19 @@
+BASES
+tests au pourcentage (jet inférieur)
+difficultés de -30 à +30 pour un bonus/malus, jamais plus de 60 d'écart
+33 et + avec une réussite : réussite exceptionnelle
+66 et - avec un échec : échec total
+critiques sur un jet "double", critiques plus importants que les effets exceptionnels (à garder ?)
+un jet par défaut se fait sans malus, mais sans succès critiques
+teamwork : bonus pour chaque personne supplémentaire participant au test
+opposition : en cas de doute, celui qui a fait le plus haut jet gagne
+par tour de jeu : 1 action complexe ou tâche et une action rapide. La première action peut être remplacée par deux actions rapides. + actions automatiques comme les mouvements de base.
+Il est possible de presser ou de prendre son temps certains tests (en particulier les tâches): 1 minute par round en prise de temps fait gagner +10; 25% de réduction du temps fait perdre -10.
+POOLS
+1 point par test max, la flex peut être utilisée sur tous les tests
+insight : mental, prise d'initiative, action supp ou récupérer un indice
+moxie : social; ignorer un trauma, récupérer de la réput, obtenir un indice, controler une infection (psi) ou ignorer une gaffe joueur
+vigor : physique; récupérer l'init, gagner une action ou ignorer une blessure
+Permet d'ajouter +20 au test, d'ignorer tous les modifs (avant test), d'inverser dizaines et unités, upgrade un succès en exceptionnel ou réduire un échec critique
+recharge courte : 2/jour, 1d6 points au total, 10 minutes
+recharge longue : 1/jour, 4(8)h, tous les points
