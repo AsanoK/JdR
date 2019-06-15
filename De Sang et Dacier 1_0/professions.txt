@@ -34,7 +34,7 @@ PROFESSIONS
 Homme d'arme:
 AGR 2; COO +1; RES +2; CAR +1; VIG +1;
 arme blanche(au choix) 5, arme blanche (couteaux) 3, poignarder 3, défense 4, athlétisme ou équitation 3, connaissance (guerre) 4, connaissance (héraldique) 3, culture générale (région au choix) 3, organisation 1, jeu (au choix) ou art(au choix) 2, commandement 3, intimidation 2, observation 1, fouille 1, arme blanche ou arme de traits ou arme de jet (au choix) 2
-arme à une main et bouclier, armure de maille avec casque, cheval de selle, dague, vêtements robustes de bonne qualité, fontes de selle
+arme à une main et bouclier, armure de maille avec casque, cheval de selle, dague, vêtements robustes de bonne qualité, fontes de selle %TODO : ajouter CàC
 FOR +2
 
 Serviteur

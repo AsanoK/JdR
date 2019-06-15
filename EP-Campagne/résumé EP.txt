@@ -6,7 +6,7 @@ difficultés de -30 à +30 pour un bonus/malus, jamais plus de 60 d'écart
 critiques sur un jet "double", critiques plus importants que les effets exceptionnels (à garder ?)
 un jet par défaut se fait sans malus, mais sans succès critiques
 teamwork : bonus pour chaque personne supplémentaire participant au test
-opposition : en cas de doute, celui qui a fait le plus haut jet gagne
+opposition : en cas de doute, un critique gagne, puis celui qui a fait le plus haut jet
 par tour de jeu : 1 action complexe ou tâche et une action rapide. La première action peut être remplacée par deux actions rapides. + actions automatiques comme les mouvements de base.
 Il est possible de presser ou de prendre son temps certains tests (en particulier les tâches): 1 minute par round en prise de temps fait gagner +10; 25% de réduction du temps fait perdre -10.
 POOLS
@@ -17,3 +17,34 @@ vigor : physique; récupérer l'init, gagner une action ou ignorer une blessure
 Permet d'ajouter +20 au test, d'ignorer tous les modifs (avant test), d'inverser dizaines et unités, upgrade un succès en exceptionnel ou réduire un échec critique
 recharge courte : 2/jour, 1d6 points au total, 10 minutes
 recharge longue : 1/jour, 4(8)h, tous les points
+
+COMBAT
+1:déclarer l'attaque
+2:déclarer la défense (fray/2 contre une attaque à distance; défense totale +30)
+3:modificateurs
+4:test opposé : l'attaquant doit réussir et son adversaire rater. Si les deux réussissent, on regarde d'abord les critiques, puis le plus haut résultat des dés. Effets des crit et supérieurs p 203
+6: dégâts, voir l'arme
+7 : déterminer quelle armure s'applique, la soustraire aux dégâts
+8: appliquer les dégats bruts, comparer à la durabilité
+9:déterminer les blessures, comparer aux seuils existant
+modificateurs à distance p205 à 207
+blessures : -10 à tous et -1 à l'init, cumulatif; test de SOM quand on subit pour le pas être mis au sol; 2 blessures simultanées peuvent rendre inconscient (p234)
+
+Soins p236; soin mental p 237-238
+
+SOCIAL:
+attaques sociales contre WIL
+experiences stressantes (et la SV associée), p223
+
+DOWNTIME:
+acquérir du matos
+changer de motivation
+prendre ses responsabilités
+gérer sa rep
+mod son morph
+s'entrainer
+
+HACKING:
+règles détaillées p258
+sniffing : récupérer les comms (écouter aux portes)
+spoofing : se faire passer pour une comm sniffée

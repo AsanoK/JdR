@@ -216,6 +216,10 @@ Les compétences d'érudition sont les compétences les plus intellectuelles d'u
 \paragraph{Exemples:}Pour interpréter les symboles d'un rêve, ou trouver ce qui pourrait le mieux symboliser son adversaire, on réalise un test de LOG+symbolisme.
 
 \section{Savoirs-faire}
+\subsection{Bivouac}
+\paragraph{Description:}
+La compétence de bivouac permet de s'occuper des éléments indispensables d'un campement : y manger, y dormir, et ce le mieux possible. Un test raté ne veut pas forcément dire que tout est perdu, mais peut-être que le repas sera moins bon, et le sommeil moins réparateur. Cela permet à des aventuriers de mieux négocier les périples qui les attendent.
+\paragraph{Exemples:} Pour limiter l'effet du froid sur un campement, un test de LOG+bivouac peut être demandé. Pour démarrer un feu au milieu d'une averse très dense, c'est un test de COO+bivouac. Créer un abri décent avant la nuit est également un test de COO+bivouac.
 \subsection{Chirurgie}
 \paragraph{Description:}La chirurgie est la capacité à réaliser une opération sur un patient. Il est utile de rappeler qu'il n'existe par nécessairement d'anesthésiant efficaces ou sans risques, attacher un patient peut être pertinent, comme disposer de solides assistants. On peut aussi noter que les compétences sont souvent communes avec celles de dentiste, et plus surprenamment, de barbier.
 \paragraph{Exemples:}Retirer une flèche de chasse de la cuisse d'un personnage nécessite un test de Chirurgie+COO. De même pour extraire une dent cariée.
@@ -279,7 +283,8 @@ Les compétences d'érudition sont les compétences les plus intellectuelles d'u
 \subsection{Négociation}
 \paragraph{Description:}Négocier est la compétence recouvrant le fait de convaincre directement, par divers arguments un personnage de quelque chose.
 \paragraph{Exemples:}Pour obtenir un prix plus bas sur un achat, c'est un test de négociation+CAR; De même pour obtenir l'autorisation d'un seigneur d'enquêter sur ses terres à propos d'un criminel.
-
+\chapter{Création de personnages}
+%TODO
 
 \chapter{Social}
 %TODO
@@ -343,12 +348,44 @@ L'angoisse est le moment où la pression commence à devenir trop forte : les r�
 
 Une fois paniqué, le personnage n'agit plus vraiment de manière rationnelle : les réactions ne font plus nécessairement sens, et dérivent souvent des réactions primaires de fuite/combat : fuite éperdue, besoin de se cacher ou au contraire, agression violente. Le personnage n'est plus très loin de passer momentanément sous contrôle du MJ. Le seuil est CAR*4. Le personnage subit un malus de -6 à tout ses tests mentaux, et -3 aux autres tests.
 \chapter{Mysticisme}
-%TODO
-\section{Divination}
-\section{Liturgie}
-\section{Prières}
-\section{Sorcellerie}
+Le mysticisme est l'ensemble des forces que l'humanité ne comprend que peu ou pas : elles sont souvent l’apanage d'un petit nombre, qui en tire une grande influence. On y regroupe la magie, ou sorcellerie, ainsi que la religion, qu'elle qu'elle soit.
 
+\section{Symbolisme}
+
+De manière générale, le mysticisme parle la langue des symboles : la magie est réputée fonctionner par associations, et les dieux sont notoires dans leur envoi de signes peu explicites, comme le vol d'oiseaux sacrés.
+
+Les symboles utilisés dépendent grandement de la culture dans laquelle on se place, ainsi que de l'individu qui les utilise. Il est conseillé au MJ de disposer d'une table de symboles pour les cultures amenées à utiliser du mysticisme dans la partie, de manière à pouvoir les utiliser.
+
+Quelques listes de symboles courants : les runes, avec leurs significations, les animaux et ce qu'ils évoquent, les phénomènes météorologiques( ou des formes de nuages), des formes de fumées plus ou moins codifiées, ou encore certaines caractéristiques vues dans les entrailles d'animaux.
+
+Un test de symbolisme+LOG réussi permet de définir le lien entre un symbole et la situation actuelle, un échec donne une interprétation erronée au personnage.
+\section{Divination}
+Cette discipline permet à celui qui la maîtrise d'avoir un aperçu de l'avenir, bien que souvent flou et imprécis, voir ouvert à l'interprétation. Certains n'y voient qu'une arnaque, d'autres y croient dur comme fer. Le fait est que certaines prophéties se réalisent, parfois à cause de la croyance en elle d'ailleurs.
+
+En terme mécanique, cette compétence permet aux joueurs de réaliser une chose importante : poser une question au MJ sur ce qui s'est passé, ce qui se passe, ou se qui se passera. La réponse du MJ doit être en symboles, qui peuvent ensuite être décryptés grâce à la compétence symbolisme.
+
+Poser une question nécessite une cérémonie ou un rituel adapté (voir avec le MJ). Le test principal est un test de divination+COO, afin de voir si le rituel a été réalisé correctement. Ce test est modifié par plusieurs éléments : l'éloignement dans le temps et dans l'espace de ce que l'on cherche, la généralité de la question posée, et la qualité des symboles utilisés pour le rituel. Les modificateurs se retrouvent dans la table \ref{tableModifDivination}, et s'appliquent au nombre de dés du test. Le degré de généralité de la réponse dépend du nombre de réussite(cf table \ref{tableDiffDivination}): pour chaque réussite, le MJ peut répondre avec un symbole supplémentaire. les symboles peuvent être utilisés en succession ou en même temps, suivant les besoins.
+
+\caption{ Modificateurs aux tests de divination :}
+\label{tableModifDivination}
+\begin{center}
+\begin{tabular}{cccc}
+\textbf{Modificateur} & \textbf{éloignement temporel} & \textbf{éloignement spatial}\\
+   -1  & au même moment & au même endroit\\
+   0  & dans la même semaine & quelques centaines de mètres \\
+   +1 & dans le même mois & quelques kilomètres ou lieu inconnu\\
+   +2 & dans la même année & quelques dizaines de kilomètres\\
+   +3 & plus loin dans le temps & plus loin dans l'espace
+\end{tabular}
+\end{center}
+\end{table*}
+
+\section{Liturgie}
+%cérémonies pour attirer la faveur divine sur ses participants
+\section{Prières}
+%prières pour invoquer une faveur spécifique ou une défaveur sur quelqu'un
+\section{Sorcellerie}
+%malédictions et enchantements
 \chapter{Combat}
 %TODO : finir les détails, les dégâts notamment
 \section{Échanges de coups}
@@ -394,6 +431,7 @@ En cas de réussite au test.....
 \section{Dépasser le duel : batailles, sièges, escarmouches}
 \subsection{Le combat de masse}
 \subsection{Le cas des sièges}
+
 
 
 \part*{Annexes}
