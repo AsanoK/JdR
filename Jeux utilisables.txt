@@ -1,15 +1,15 @@
-Systèmes:
--Only War : film de guerre, action, sombre, warhammer 40000
--Black Crusade: sombre, warhammer 40000, mal
--Symbaroum: exploration, med fan, sombre
--Shadowrun : cyberpunk, sombre
--Star Wars : action, space opéra
--Eclipse Phase : espionnage,  hard SF, horreur
--De Sang et d'Acier : med fan, réaliste
--L'anneau unique : SdA, exploration, ambiance
--DD5 : combat, exploration, med fan
--trône de fer : combat, intrigue, med fan
--warhammer : med fan, sombre, combat, aventures
--starfinder : space opéra, action
--Coriolis: space opéra, mystères, intrigues
--MASH : slice of life, guerre de Cor�e
+Systèmes :
+-D&D5 : ambiance héroique,exploration, aventures, med-fan
+-dungeon World : ambiance héroique,exploration, aventures, med-fan
+-MASH : sombre, film de guerre, urgences
+-Night Witches : sombre, émotions, film de guerre
+-Anneau unique : exploration, voyage, calme, med-fan
+-Star Wars : exploration, SF, aventures
+-Stars without numbers : SF, politique, aventures
+-Coriolis : exploration, SF, politique
+-aSoIaF : politique, med-fan, guerre, management
+-Dark Heresy : enquêtes, sombre, action
+-Black crusade : guerre, mal, action, sombre
+-Shadowrun/the sprawl : cyberpunk, enquêtes, action
+-L5A : politique, action, mysticisme, med-fan
+-Symbaroum : exploration, med-fan sombre
