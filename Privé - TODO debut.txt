@@ -1,20 +1,15 @@
-Description des actions à entreprendre et des éléments à réaliser ou demander avant le démarrage d'une campagne :
+Description des actions Ã  entreprendre et des Ã©lÃ©ments Ã  rÃ©aliser ou demander avant le dÃ©marrage d'une campagne :
 
--Séance -1:Définir le thème global de la campagne, son univers, le ton utilisé, les bornes éventuelles à ne pas dépasser avec le groupe. Présenter l'univers à ce moment
--Planifier la campagne : scène importantes, structure et découpage (structure narrative globale, pas encore le détails).
--Séance 0:Mise en place des personnages (avec les joueurs) : historique, présentation (comment le personnage se décrit, et comment les personnages se connaissent), et tout autre élément nécessaire. La création des personnages peut être réalisée à cette étape, ou avant la séance 1.
--Mise en place de l'introduction, et de la première partie de la campagne : détails narratifs(scénarii), PNJs importants (surtout si ils sont amenés à rester une bonne part de la campagne), thèmes musicaux majeurs, cartes....
--Séance 1 : début de la campagne proprement dite. Les joueurs devraient ici déjà connaître le setting (sauf si le scénario implique de le découvrir), et devraient se rencontrer si ce n'est pas déjà le cas.
--La mise en place des parties suivantes de la campagne peut se faire au fur et à mesure, de façon à rebondir facilement sur ce qui a été réalisé par les joueurs (et ce qui ne l'a pas été).
+-SÃ©ance -1:DÃ©finir le thÃ¨me global de la campagne, son univers, le ton utilisÃ©, les bornes Ã©ventuelles Ã  ne pas dÃ©passer avec le groupe. PrÃ©senter l'univers Ã  ce moment
+-Planifier la campagne : scÃ¨ne importantes, structure et dÃ©coupage (structure narrative globale, pas encore le dÃ©tails).
+-SÃ©ance 0:Mise en place des personnages (avec les joueurs) : historique, prÃ©sentation (comment le personnage se dÃ©crit, et comment les personnages se connaissent), et tout autre Ã©lÃ©ment nÃ©cessaire. La crÃ©ation des personnages peut Ãªtre rÃ©alisÃ©e Ã  cette Ã©tape, ou avant la sÃ©ance 1.
+-Mise en place de l'introduction, et de la premiÃ¨re partie de la campagne : dÃ©tails narratifs(scÃ©narii), PNJs importants (surtout si ils sont amenÃ©s Ã  rester une bonne part de la campagne), thÃ¨mes musicaux majeurs, cartes....
+-SÃ©ance 1 : dÃ©but de la campagne proprement dite. Les joueurs devraient ici dÃ©jÃ  connaÃ®tre le setting (sauf si le scÃ©nario implique de le dÃ©couvrir), et devraient se rencontrer si ce n'est pas dÃ©jÃ  le cas.
+-La mise en place des parties suivantes de la campagne peut se faire au fur et Ã  mesure, de faÃ§on Ã  rebondir facilement sur ce qui a Ã©tÃ© rÃ©alisÃ© par les joueurs (et ce qui ne l'a pas Ã©tÃ©).
 
-Règles à suivre lors de l'écriture:
-1.L'ambiance gagne les joueurs, plus que la structure narrative.
-2.Travailler du petit au grand, puis du grand au petit, et répéter jusqu'à la session ou satisfaction.
-3.Prendre le temps de poser l'ambiance, ne pas traîner le scénario en longueur.
-4.Les règles importent moins que la fluidité de narration.
-5.Setting, setting, setting : cela sert toujours, ne serait-ce qu'à l'ambiance et l'improvisation.
-6.L'improvisation est plus confortable préparée à l'avance.
-7.Détailler les arcs utiles : ce que les joueurs ne feront pas ne sert pas.
-8.L'ambiance voulue doit être définie dès le début de la campagne. On peut s'en écarter, à condition d'y revenir.
-9.Préparer les joueurs et personnages améliore permet de mieux partager l'expérience.
-10.Les outils visuels et auditifs doivent servir le sujet, pas la satisfaction de celui qui les sélectionne.
+Ã‰lÃ©ments Ã  mettre en place avec les joueurs
+-Que voulez-vous jouer comme type de campagne?
+-Quel ton pour la campagne ?
+-Quelles sont les limites ? (gore, sÃ©duction, PvP, horreur...)
+-Quelle est la logistique ?
+-Que faire en cas d'absence d'un joueur ?
