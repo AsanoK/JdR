@@ -7,6 +7,7 @@
 -types d'habitats : stations astéroïdes, planètes habitées. Problème : il faut soit qu'un habitat ait la population suffisante pour s'autogérer (dépendant beaucoup du niveau tech, mais un niveau élevé suppose une population capable de l'entretenir, donc des spécialistes, qui ne forment normalement qu'une petite portion des effectifs). Un habitat plus grand, bien que beaucoup plus rare, est plus crédible. Autre option : un petit habitat est gérable s'il est suffisamment en contact avec d'autres. On peut ainsi imaginer une série de petits habitats très liés car proches les uns des autres, en particulier sur le plan techno-économique.
 
 -niveau technologique : suffisamment proche pour être compréhensible, suffisamment lointain pour justifier les différences de cultures, de technologies (trouver des idées de tech, et réfléchir à leurs effets). Ne pas trop réléchir en terme d'armes et d'armures, mais plus les techno du quotidien : comms, industrie et "aides à la décision". Certaines techno peuvent avoir des conséquences au niveau socio-politique.
+->tech "critiques"(importantes en termes de conséquences) : clonage (et incubation artificielle), IAG, techno énergétiques, systèmes de survie, génétique et médecine, nanotech, cybernétique, matériaux...
 
 
 

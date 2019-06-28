@@ -1,0 +1,30 @@
+cahier des charges :
+-simplicité des mécaniques de bases, sur lesquelles se basent massivement les modules avancés.
+-interactivité du joueur avec le résultat de son action (il doit pouvoit l'influer)
+-mécanique aléatoire à définir.
+-capacité pour le MJ d'improviser des éléments de règles(blocstats) à la volée.
+-support pour plusieurs types de settings. Une ambiance commune toutefois : un certain réalisme dans le fonctionnement ("gritty"), facilement sombre donc. Pas ici un cadre très héroique, les personnages sont d'un niveau "humain"(jusqu'à un point).
+->peut-être un méta-système global, adapté suivant les besoins : très générique, capable de supporter plusieurs modules annexes, et d'être modifié à la volée. On déinira alors les grands concepts de règles, certains ne seront pas forcément implémentés (ou peu), dans la version "générique" du jeu. Le vocabulaire et les systèmes de base, avec les concepts de fonctionnements.
+
+Concepts:
+-possibilité de dépenser des points de caractéristiques pour influer sur les jets. Les points sont récupérés au cours de repos. Peu de pools, qui ont des effets quand ils descendent trop bas.
+-Système de prise de risque, permettant d'augmenter la difficulté d'un jet (avant de le réaliser), pour augmenter les gains (augmenter de n points avec succès doit rapporter plus de n en différence par rapport à un jet normal).
+-Systèmes de conséquences narratives : une réussite ou un  échec peut amener des conséquences assez diverses, en bien en mal, dans un domaine ou un autre. Plus facile dans un jeu à scope limité (comme night witches).
+-dans sa version de base, calibré pour des interactions entre humanoides plus que pour quoi que ce soit d'autre. Les modules devraient gérer les autres cas.
+
+Applications:
+-Med-fan
+-SF (space opéra)
+-
+
+Modules possibles:
+-guerre et domaines
+-suivants, factions et intrigues
+-magie spectaculaire*
+-technologies avancées
+-mysticisme, occultisme
+-bêtes et exploration
+-créatures extraordinaires, boss*
+-véhicules
+
+*augmente le niveau des PJs pour aller dans des campagnes plus épiques. Changement d'ambiance pour aller vers un thème plus héroique, moins sombre.
