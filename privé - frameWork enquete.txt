@@ -1,0 +1,30 @@
+Définitions:
+-Fait : réalité, déterminée par le MJ à l'avance. Exemple : les cultistes ont infiltré l'usine par ses ouvriers les plus bas.
+-mission : enquête confiée aux personnages
+-Indices : éléments à découvrir trahissant un fait. Exemple : certains ouvriers semblent ne discuter qu'entre eux.
+-Information : Faits, tel que perçu par les PJs. Exemple : certains des ouvriers sont des cultistes.
+
+
+Planifier une enquête requiert donc les étapes suivantes:
+1.Déterminer les faits, ce sur quoi les PJs enquêtent
+2.déterminer quels indices ces faits peuvent laisser : témoins, preuves matérielles, présence directe.... Et comment remonter aux faits depuis ces indices.
+3.envisager les moyens d'exploiter ces indices pour les PJs : déduction joueurs, tests, contacts....
+4.Ajouter d'éventuelles fausses pistes : faits+indices supplémentaires, normalement moins nombreux.
+5.A la fin de l'enquête, la remontée de l'information peut également être importante.
+
+Exemple classique : le meurtre
+1.-La femme de Mr Dupont avait un amant
+-Mr Dupont a appris l'existence de cet amant
+-Mr Dupont a tué sa femme et son amant dans une ruelle. Il a enterré sa femme dans les bois et a jeté l'amant dans le fleuve voisin.
+-Les personnages sont envoyés enquêtés sur le meutre de l'amant dont on a trouvé le corps
+2.Indices (par lieux, pourraient être triés autrement)
+-Corps : blessures (test de médecine pour avoir une idée), saletés (une analyse pour remonter la trace du corps), 
+-Lieu du meurtre : tâches de sang (2 individus) mal nettoyées, un gant de Mr Dupont. Un témoin peut avoir une vague description du meurtrier et de sa voiture, mais n'aura pas l'info des deux corps
+-Au travail de l'amant : pas de problèmes apparents au travail; indices suggérant une amante.
+-Chez Mr Dupont : Lettres de l'amant à la femme. Aucune trace de la femme, mais rien n'indique une fuite.
+-Voiture de Mr Dupont : voiture fraichement nettoyée, intérieur et extérieur. Carte de la forêt dans la boite à gants.
+-la forêt : terre fraichement retournée, tenue de la femme.
+Les Pjs peuvent remonter depuis le corps au lieu du meurtre et au travail de l'amant. Du lieu du meurtre, il peuvent avoir une idée contre Mr Dupont. Du travail de l'Amant et de la maison de Mr Dupont, ils peuvent découvrir la liaison. La voiture peut être trouvée dans plusieurs cas, et mène potentiellement au corps de la femme, dans la forêt.
+3. Les indices sur les corps viendront sans doute de médecine légale; Les autres nécessitent d'être trouvés et interprétés par les joueurs (avec peut-être quelques tests en cas de problèmes). Les témoins, suspects, etc seront à interroger.
+4.Après découverte du lieu du crime, et un début de portrait robot, d'autres enquêteurs peuvent mener à un criminel notoire, arrêté le jour même. Il nie cette attaque, mais se montre surtout très peu coopératif. On peut créer plusieurs indices de son innocence de ce crime, tout en l'incriminant pour d'autres agressions, ailleurs en ville. Fouille de chez lui par exemple.
+5.Pour une enquête de Police, la seule importance de la remontée d'information serait pour leurs supérieurs de les évaluer en fonction de l'impression de complétude et d'efficacité de l'enquête, idéalement avec peu de moyens nécessaires.
