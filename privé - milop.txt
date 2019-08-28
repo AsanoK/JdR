@@ -1,6 +1,6 @@
 
 Structure de mise en place:
-1. définir le théâtre : lieu, ambiance, situation des factions en présence
+1. définir le théâtre : lieu, ambiance, situation des factions en présence. Définir ce que les factions savent de la situation globale
 2. Définir les objectifs locaux des factions
 3. Définir les ordres de missions donnés aux PJs : ils devraient aller dans le sens des objectifs des factions.
 4. Déterminer le nombre, les positions et actions des troupes adverses dans la zone.
@@ -8,7 +8,7 @@ Structure de mise en place:
 6. Création de la structure de déroulement de la mission en fonction des troupes adverses.
 
 Exemple : Percée
-1. Zone de front type 1ere guerre, les deux factions sont enterrées dans des tranchées, et s'épuisent mutuellement dans des assauts peu pertinents.
+1. Zone de front type 1ere guerre, les deux factions sont enterrées dans des tranchées, et s'épuisent mutuellement dans des assauts peu pertinents. Les deux factions connaissent bien la première ligne, ont peu d'idées de la profondeur adverse. La faction adverse n'a pas détectée les rassemblements de troupes et pense le front stable et calme. La faction des PJs n'a pas détecté la troisième ligne défensive et son statut de point de repli.
 2. La faction des PJs prévoit une offensive surprise pour percer le front. Tout doit être préparé dans le plus grand secret. L'adversaire au contraire, considère la zone comme calme et sans grand espoir de percer, est dans une défense assez passive/routinière.
 3. Les PJs vont avoir comme objectif de participer au premier échelon d'assaut : ils doivent s'infiltrer dans le no ma's land sous couvert d'artillerie et progresser le plus loin possible dans les lignes défensives adverses, en évitant les zones les mieux fortifiées, qui seront réduites par les unités suivantes.
 4.Première ligne avec des sentinelles permanentes et des troupes de qualité assez médiocre. Seconde ligne avec des unités fraiches. Troisième ligne/arrière avec des unités venant d'être relevées en première ligne, en cours de réarmement et réapprovisionnement.

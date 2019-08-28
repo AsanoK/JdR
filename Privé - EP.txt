@@ -1,0 +1,84 @@
+Première mission : les personnages sont activés pour aller enquêter sur des opérations de la SLC. Il s'agirait d'espionner une de leur cellule pour obtenir des informations sur un nom de code précis. Découverte de cette organisation, et d'au moins un PNJ pertinent en son sein. Si les PJs obtiennent une information pertinente à ce sujet, aller au 3, si ils obtiennent des informations sur l'opération, aller au 4; Sans information, aller au 5
+
+
+
+Setting : les persos sont déployés sur Locus, la plupart vivant dans la région. 
+
+Le briefing leur est proposé dans un module d'habitation du spar 23, par un morphe spare, qui leur délivre le discours suivant:
+"Je ne suis pas du genre à juger les gens, surtout ici, mais on a eu des informations plutôt inquiétantes sur certains nouveaux venus dans le coin. Des trucs que la station laisse passer avec une mauvaise réputation, mais que notre organisation commune se doit de surveiller.
+Plus précisément, la CLS (church of luminous saints) s'est récemment installé dans une paire de vieux modules de la station, et a commencé à prêcher pour sa paroisse. Le parlement local a démoli leur rep, mais ils sont toujours là. La rumeur veut que ces gars là soient empêtrés dans de la recherche de trucs TITANS, mais à la limite, c'est pas ce qui nous inquiète ici.
+En l'occurence, un agent a intercepté certaines communications vers ici, parlant d'un "code Damoclès", avec un haut niveau de cryptage. Cela a éveillé la curiosité du serveur, qui vous envoie pour enquêter sur ces gars là. Votre opération sera donc de récupérer plus d'informations sur ce code damoclès, et tout autre élément que vous trouveriez en route sur eux sera bienvenu. Des questions?" 
+Après cela, il peut répondre à quelques questions du mieux qu'il peut, mais n'a que peu d'informations fiables.
+
+
+
+Pater Ezrah
+
+Comme indiqué, les fidèles ont organisé une petite chapelle dans un vieux module d'habitation, qui leur sert de base d'opérations. Ils y stockent peu de choses, du moins de manière visible, mais la majeure partie du module est hors-limite pour les non-initiés. La congrégation est dirigée par un type à l'allure sympathique dans un morphe bouncer, aux habitudes ascétiques, et aux augmentations visibles. Il parle calmement et de façon mesurée pour conseiller ses ouailles. Il a pour habitude d'aider l'habitat en dispatchant des fidèles pour participer à l'entretien ou à la milice, ce qui emonte un peu la rep de sa congrégation.
+
+
+n°433 : leur proxy pour le moment (nom de code)
+
+
+
+Lily Eskerya
+Une jeune femme marquée par la chute et ses horreurs, qui dirige souvent les fidèles dans leurs campagnes de dénonciation des "démons" et des menaces contre l'âme des infidèles. Sa réputation est au plus bas, mais elle profite des ressources de l'organisation. Elle est impliquée jusqu'au cou dans le code Damoclès, étant chargée par Warhol de trouver toutes les informations disponibles sur les vaisseaux de la zone (en fait tous les vaisseaux sur lesquelles elle pourrait trouver des infos).
+
+
+
+Code damoclès
+
+Le code damoclès est un protocole de l'église, visant à s'emparer d'un vaisseau dans l'extérieur du système pour l'utiliser en tant que base principale du culte. pour le moment l'opération en est à la phase 1 : récupération de données sur les vaisseaux et choix d'une cible.
+Indices du protocole Damoclès:
+-questions posées par des membres de la secte à ceux qui ont des moyens d'observation spatiale
+-evocati ont été questionnés par Eskerya quand à leurs infos
+-mise en place d'un nouveau système radar au niveau de la chapelle
+-recrutement d'un extérieur spécialiste en capteurs, pour travailler sur plusieurs projets dans le système.
+-entrainement d'evocati à la prise de contrôle de vaisseau
+-récupération de licences pour un jeu en VR d'abordages spatiaux et d'un simulateur de contrôle. Mikhail a vendu le simulateur.
+
+
+
+La chapelle
+
+La chapelle est un vieux module d'hab retapé par le culte, et disposant de vraies décorations physiques, sur lesquels plusieurs sectateurs peuvent être vus en train de travailler. La pièce centrale est une version reliée du livre de Moab. Hors de la salle principale accessible au public, on trouve un petit serveur, une cache d'arme (moyennes), et les quartiers de membres importants de l'organisation. Le second module sert de stockage, de zone de production, et d'entrainement des membres : si l'endoctrination se fait à la chapelle, les "evocati" s'entrainent ici pour protéger la congrégation.
+
+
+
+Organisation en défense et autres agents sur Locus:
+
+-Les gardiens, groupe de sécurité de la CLS. Sur Locus, un seul d'entre eux est actif : Wei Miller, et il est surtout occupé avec les adversaires directs (le parlement de corbeaux notamment). Ses alertes sont des recherches très précises sur @-rep, ou une mention de "damocles", bien qu'il ne sache pas de quoi il s'agisse. Il enquêtera également sur toute personne impliquée dans un problème physique.
+
+-le SCI dispose de deux agents dans l'habitat. Le premier, Hernan Gonsalvez est un geneHacker freelance, il suit les différents groupes passant sur Locus, et notamment les éventuels ennemis de la république. La seconde est Faith Entreri, qui cherche spécifiquement des informations sur une potentielle cellule terroriste sur Locus (visant la république).
+
+
+indices de la SCI :
+-Faith a réussi à se dissimuler lors de sa première visite.
+-Faith est rentré une seconde fois, par des canaux quasi-officiels, et a recommencé à espionner Mikhail (c'est sa piste d'origine). Le réseau de Mikhail est infiltré.
+-Faith enquête discrètement sur son corps, elle a trouvé la clinique par laquelle est la passée. Elle cherche maintenant des traces de son corps, et pose des questions sur les incidents dans la station.
+-Faith a pris contact avec certains criminels de Locus pour l'aider.
+
+Wei Miller : une des nombreuses pauvres âmes qui n'a pas survécu à la chute. Réinstancié depuis une sauvegarde, il ressent énormément cette perte, et a été trouvé sur Mars par la CLS. Il profite de son affectations aux gardiens pour essayer d'obtenir des informations sur ce qui s'est passé sur Terre. Il est dans un morphe métallique assez basique.
+
+
+Hernan Gonsalvez : officiellement un genhacker freelance sur Locus, qui fait sa réputation sur des algues, et a pour hobby des petites créatures étranges et parfois mignones. En réalité un agent du SCI, chargé de collecter de manière passive des renseignements sur les ennemis de la république. Il voue une haine farouche aux IAs qu'il considère comme la raison des problèmes de la transhumanité. Il tolère vaguement les surévolués, du moins, pour un Jovien.
+
+
+Faith Entreri: Agent spéciale du SCI, elle est chargée d'enquêter sur des informations d'actions terroristes pouvant viser la république. Elle est courant de la présence de Gonsalvez, mais n'ira pas le contacter sans besoin urgent. Elle est dans un bouncer modifié (avec certains implants militaires joviens, aucune pile), et pour le moment, elle a suivi la trace d'un importateur d'armes, qui l'a menée sur Locus. elle observe la station, et notamment la CLS, qui a récupéré une partie de son arsenal par cet importateur. Elle a été tuée en tentant d'enlever certains personnages; depuis, elle est revenue, cette fois plus prudemment et a relancé une enquête.
+Les PJs savent qu'elle est arrivée d'une banlieue louche de Mars.
+
+
+
+Mikhail abramovitch : un trafiquant d'arme faisant pas mal affaire dans la région de jupiter. Un cynique de premier ordre. 
+
+Gros jet de Morgane sur de la G-rep pour obtenir des infos sur CLS : obtention d'armes via un importateur d'arme louche, Mikhail Abramovitch.
+ 
+
+faveur mineure dépenée J1 par morgane
+
+
+SUITES POTENTIELLES:
+-Bazaars de Mars :
+Les personnages sont envoyés enquêter sur leur mystérieuse assaillante, ainsi que les activités de la CLS sur Mars. Travail de contre-espionnage et d'enquête. Il devrait être possible de compromettre certains éléments gênant de la secte, en révélant le projet "Initiative Damoclès". En défense : le SCI avec son agent sur place qui pourrait remarquer qu'on suit ses traces; les forces de l'ordre, qui n'aiment pas le désordre et les arrivées illégales sur le territoire martien.
+-Une mystérieuse disparition : une équipe de sentinelle est MIA dans un recoin du système. Afin de limiter les risques de nouveaux problèmes, une seconde équipe est envoyée sur le problème. L'équipe précédente a découvert quelque chose d'intéressant, et a disparu peu après dans une zone non-explorée d'un asteroide. Travail d'enquête et d'exploration. Défenses : forces de l'ordre locales, qui veulent être seuls sur leur juridiction; risque de créatures TITAN
+
