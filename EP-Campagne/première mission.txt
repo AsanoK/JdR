@@ -1,4 +1,4 @@
-Première mission : les personnages sont activés pour aller enquêter sur des opérations de la SLC. Il s'agirait d'espionner une de leur cellule pour obtenir des informations sur un nom de code précis. Découverte de cette organisation, et d'au moins un PNJ pertinent en son sein. Si les PJs obtiennent une information pertinente à ce sujet, aller au 3, si ils obtiennent des informations sur l'opération, aller au 4; Sans information, aller au 5
+﻿Première mission : les personnages sont activés pour aller enquêter sur des opérations de la SLC. Il s'agirait d'espionner une de leur cellule pour obtenir des informations sur un nom de code précis. Découverte de cette organisation, et d'au moins un PNJ pertinent en son sein. Si les PJs obtiennent une information pertinente à ce sujet, aller au 3, si ils obtiennent des informations sur l'opération, aller au 4; Sans information, aller au 5
 
 Setting : les persos sont déployés sur Locus, la plupart vivant dans la région. Le briefing leur est proposé dans un module d'habitation du spar 23, par un morphe spare, qui leur délivre le discours suivant:
 "Je ne suis pas du genre à juger les gens, surtout ici, mais on a eu des informations plutôt inquiétantes sur certains nouveaux venus dans le coin. Des trucs que la station laisse passer avec une mauvaise réputation, mais que notre organisation commune se doit de surveiller.
@@ -30,3 +30,21 @@ Mikhail abramovitch : un trafiquant d'arme faisant pas mal affaire dans la régi
 
 Gros jet de Morgane sur de la G-rep pour obtenir des infos sur CLS : obtention d'armes via un importateur d'arme louche, Mikhail Abramovitch.
  faveur mineure dépenée J1 par morgane
+
+
+informations : 
+-objectifs de l'initiative Damoclès
+-présence d'un agent du SCI
+
+indices Damoclès:
+-achat d'un logiciel d'apprentissage au pilotage et la navigation spatiale au près de Mikhail
+-nouveau système de comm/vision sur l'habitat
+-liste des vaiseaux avec leurs caracs et des notes spécifiques sur chacun d'eux.
+-enquête de la secte sur l'attaque de deux des leurs
+-embauche d'un spécialiste senseurs, par des moyens peu détournées
+
+Indices SCI
+-enquête de Faith pour suivre sa propre piste
+-questions de Hernan sur les agissement du groupe de joueurs
+-histoire d'Hernan avec des trous
+-religion chrétienne d'Hernan
