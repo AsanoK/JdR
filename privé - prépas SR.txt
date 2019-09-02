@@ -1,0 +1,11 @@
+PLOT
+PREMIER SCENAR
+LIEUX GÉNÉRIQUES
++Salle de jeu illégale : dans un bidonville, chaché sous certaines des constructions miteuses. Il faut qu'une sentinelle à l'entrée prévienne pour qu'on y mène les personnages, passant par une trappe dissimulée. La salle de jeu en elle-même est un lieu enfumé et plutôt sombre. A l'arrière, on trouve un bureau, relié à d'autres batiments de la zone. Le bureau est là où le chef du gang accueille ses invités, en leur proposant de profiter des vices accessibles : boisson, drogues....
++boutique louche : le rideau est fermé, mais on peut l'ouvrir comme une porte. On y trouve des caisses en plastique de toute taille, avec un simple numéro posé au pochoir sur le côté. Le patron termine un deal avec une silhouette encapuchonnée avant de permettre aux gardes de laisser approcher les personnages. Si la requête semble plutôt longue, il propose de partager un thé sur une des caisses.
++Au Sultanat: Dans une ancienne villa Ottomane, récemment rénovée pour accueillir un public jeune et occidentalisé. Le thème est légèrement oriental, les consommations sont elles tout à fait modernes. La sécurité est très discrète, les videurs essayant de ne pas accepter sur les lieux les potentiels trouble fête, quelques soient leurs connections. Des salles discrètes sont réservables, et on dit que les sujets politiques y sont très souvent abordés en toute discrétion, et loin des oreilles des autorités.
+PNJS GÉNÉRIQUES
++Adour Gabrielyan : un ancien mercenaire arménien, reconverti dans la contrebande dans la région de Constantinople. Il a une barbe blanche et des habits de son caucase natal. Un soutien assumé de plusieurs insurrections anti-turque, il est lié à plusieurs groupes criminels pour qui il travaille en freelance. C'est une bonne option pour entrer ou quitter la ville en toute discrétion.
++Abdul Kemal : Un turque spécialiste du trafic d'informations. Il est difficile d'obtenir une entrevue directe avec lui, mais des hommes à lui peuvent être trouvés. Il est accusé par plusieurs groupes criminels de collaborer avec la Polis, mais cela ne semble pas pour le moment trop perturber son business.
+RENCONTRES ALÉATOIRES
++
