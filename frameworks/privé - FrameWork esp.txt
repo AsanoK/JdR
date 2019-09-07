@@ -1,0 +1,37 @@
+Définitions:
+-faction: ensemble d'individus participant à des opérations d'espionnage ou de contre-espionnage.
+-défenseur: faction essayant de réaliser du contre-espionnage (souvent faction "à domicile"). Plusieurs factions peuvent être défenseurs, voire toutes les factions peuvent l'être (notamment sur terrain neutre)
+-attaquant: Faction essayant de se procurer des renseignements.
+-indice: élément donnant des informations, qui pourront être transformé en renseignement plus ou moins précis.
+-informations: objectif de l'opération, les informations qu'il est possible de trouver au cours de la mission.
+-renseignement: réunion des informations obtenues, et des analyses qu'il est possible d'en faire, tel que remonté dans la faction.
+-red flags : éléments utilisables par une faction défensive comme indicateur d'une possible action d'espionnage
+-alertes : niveau de prudence d'une organisation en matière de contre-espionnage. Un haut niveau d'alerte mènera l'organisation à suivre beaucoup plus attentivement ses red flags et à en utiliser certains peut-être plus complexes. Inversement une organisation avec une alerte basse pourrait se limiter à l'utilisation de red flags de manière passive, sans déclencher d'enquêtes, de missions....
+
+étapes de création d'une mission de renseignement:
+1. Détermination des factions et objectifs de la/des factions offensives
+2. Détermination des informations qu'il est possible d'obtenir. 
+3. Détermination des indices liés à ces informations: type, lieu, comment les obtenir, les exploiter...
+4. Détermination des factions défensives, de leurs red flags, de leur niveau d'alerte, et de leurs réactions à ces alertes.
+5. Détermination des indices que peut laisser les factions non-officielles dans leurs opérations.
+6. Déterminer le rôle des PJs dans l'histoire, leur accroche de départs, etc.
+
+La place des joueurs peut varier, auquel cas, les indices qu'ils laisseront seront en fonction de leurs actions. Toutefois, les anticiper peut aider à planifier les réactions des autres factions.
+
+Exemple : Surveillance inquisitoriale
+1.Un groupe de renégats est l'organisation offensive, cherchant des failles à exploiter pour déclencher une rebellion armée.
+2. Ce qui peut être utile pour lancer une insurrection:
+-mécontentement dans la sous-ruche : disparitions et conflits non résolus mènent à un climat de peur qu'il serait possible d'exploiter
+-corruption(financière) de plusieurs membres des FDP, qui pourraient fournir de l'équipement
+-corruption(morale) d'une faction noble, potentiel soutien.
+3. Les indices utilisables
+-Conflits et tensions dans la sous-ruche; violences dans les bas-fonds (plus que d'habitude), les forces de l'ordre peuvent être attaquées par des groupes qui les considèrent comme incapable de résoudre les problèmes.
+-Disparition de matériels, train de vie des officiers étrange, bon armement au marché noir, trafic interplanétaire, problèmes résolus en sous-main, népotisme....
+-Train de vie dissolu, rumeurs étranges courant sur leurs compte, mais jamais de preuves. Liens avec des trafiquants et/ou hérétiques notoires, qu'il serait possible de remonter.
+4.Les factions défensives sont plusieurs:
+-l'Arbites et forces de l'ordre locales, qui déclenchent des enquêtes de routine sur leur juridiction en cas de crimes/découvertes d'éléments inquiétant. Les red flags des forces de bases sont des signalisation de crimes, qui déclenchent des enquêtes plus ou moins importantes. Les red flags de l'Arbites sont des mouvements de rebellions, données statistiques sur la violence, ou des alertes lancées par les forces de l'ordre locales.
+-L'inquisition, qui déclenchera des enquêtes détaillées sur les cas suspicieux et pourra mener du contre-espionnage actif une fois son niveau d'alerte suffisamment haut. Ses red falgs sont des alertes de l'Arbites et des forces de l'ordre locales (et des informateurs dans leurs rangs), des informateurs à différents emplacements, et toute information donnée par d'autres enquêtes inquisitoriales.
+5. -Les hérétiques peuvent laisser des témoignages de leurs prises de contact, des morts, des symboles rituels, des objets maudits. Par ailleurs, les effets de leurs actions peuvent être vus : hausse de la violence contre les autorités, diminution du moral de la zone, etc.
+-L'inquisition laissera des traces à chaque utilisation de son autorité officielle, ou contact franc avec une autre administration. Les cadavres laissés derrière elle peuvent aussi être des pistes. Enfin, les prises de contact peuvent être notées.
+6.Les PJs sont acolytes de l'inquisition, appelés pour enquêter sur la recrudescence de violence dans les bas-fonds. Si leur enquête ne va pas assez vite, d'autres indices de l'action des hérétiques apparaitront : meutres rituels. Leur premier objectif est de vérifier l'influence hérétique, le second est le cas échéant, de neutraliser les responsables.
+Si les PJs sont les hérétiques, il va leur falloir trouver et exploiter les leviers permettant de déclencher une insurrection massive, en passant outre les enquêtes lancées contre eux ainsi que les autres factions des bas-fonds.
