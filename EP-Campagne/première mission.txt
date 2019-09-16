@@ -14,6 +14,13 @@ Une jeune femme marquée par la chute et ses horreurs, qui dirige souvent les fi
 
 Code damoclès
 Le code damoclès est un protocole de l'église, visant à s'emparer d'un vaisseau dans l'extérieur du système pour l'utiliser en tant que base principale du culte. pour le moment l'opération en est à la phase 1 : récupération de données sur les vaisseaux et choix d'une cible.
+Indices du protocole Damoclès:
+-questions posées par des membres de la secte à ceux qui ont des moyens d'observation spatiale
+-evocati ont été questionnés par Eskerya quand à leurs infos
+-mise en place d'un nouveau système radar au niveau de la chapelle
+-recrutement d'un extérieur spécialiste en capteurs, pour travailler sur plusieurs projets dans le système.
+-entrainement d'evocati à la prise de contrôle de vaisseau
+-récupération de licences pour un jeu en VR d'abordages spatiaux et d'un simulateur de contrôle. Mikhail a vendu le simulateur.
 
 La chapelle
 La chapelle est un vieux module d'hab retapé par le culte, et disposant de vraies décorations physiques, sur lesquels plusieurs sectateurs peuvent être vus en train de travailler. La pièce centrale est une version reliée du livre de Moab. Hors de la salle principale accessible au public, on trouve un petit serveur, une cache d'arme (moyennes), et les quartiers de membres importants de l'organisation. Le second module sert de stockage, de zone de production, et d'entrainement des membres : si l'endoctrination se fait à la chapelle, les "sanctii" s'entrainent ici pour protéger la congrégation.
@@ -21,9 +28,16 @@ La chapelle est un vieux module d'hab retapé par le culte, et disposant de vrai
 Organisation en défense et autres agents sur Locus:
 -Les gardiens, groupe de sécurité de la CLS. Sur Locus, un seul d'entre eux est actif : Wei Miller, et il est surtout occupé avec les adversaires directs (le parlement de corbeaux notamment). Ses alertes sont des recherches très précises sur @-rep, ou une mention de "damocles", bien qu'il ne sache pas de quoi il s'agisse. Il enquêtera également sur toute personne impliquée dans un problème physique.
 -le SCI dispose de deux agents dans l'habitat. Le premier, Hernan Gonsalvez est un geneHacker freelance, il suit les différents groupes passant sur Locus, et notamment les éventuels ennemis de la république. La seconde est Faith Entreri, qui cherche spécifiquement des informations sur une potentielle cellule terroriste sur Locus (visant la république).
+indices de la SCI :
+-Faith a réussi à se dissimuler lors de sa première visite.
+-Faith est rentré une seconde fois, par des canaux quasi-officiels, et a recommencé à espionner Mikhail (c'est sa piste d'origine). Le réseau de Mikhail est infiltré.
+-Faith enquête discrètement sur son corps, elle a trouvé la clinique par laquelle est la passée. Elle cherche maintenant des traces de son corps, et pose des questions sur les incidents dans la station.
+-Faith a pris contact avec certains criminels de Locus pour l'aider.
 
 Wei Miller : une des nombreuses pauvres âmes qui n'a pas survécu à la chute. Réinstancié depuis une sauvegarde, il ressent énormément cette perte, et a été trouvé sur Mars par la CLS. Il profite de son affectations aux gardiens pour essayer d'obtenir des informations sur ce qui s'est passé sur Terre. Il est dans un morphe métallique assez basique.
 Hernan Gonsalvez : officiellement un genhacker freelance sur Locus, qui fait sa réputation sur des algues, et a pour hobby des petites créatures étranges et parfois mignones. En réalité un agent du SCI, chargé de collecter de manière passive des renseignements sur les ennemis de la république. Il voue une haine farouche aux IAs qu'il considère comme la raison des problèmes de la transhumanité. Il tolère vaguement les surévolués, du moins, pour un Jovien.
+
+
 Faith Entreri:Agent spéciale du SCI, elle est chargée d'enquêter sur des informations d'actions terroristes pouvant viser la république. Elle est courant de la présence de Gonsalvez, mais n'ira pas le contacter sans besoin urgent. Elle est dans un bouncer tout à fait inremarquable, et pour le moment, elle a suivi la trace d'un importateur d'armes, qui l'a menée sur Locus. elle observe la station, et notamment la CLS, qui a récupéré une partie de son arsenal par cet importateur. TODO : générer son profil, elle suit le groupe après leur contact avec Mikhail, et peut tenter d'infiltrer leur réseau. endurance : 18, 1 blessure subie
 
 Mikhail abramovitch : un trafiquant d'arme faisant pas mal affaire dans la région de jupiter. Un cynique de premier ordre. 
@@ -36,15 +50,7 @@ informations :
 -objectifs de l'initiative Damoclès
 -présence d'un agent du SCI
 
-indices Damoclès:
--achat d'un logiciel d'apprentissage au pilotage et la navigation spatiale au près de Mikhail
--nouveau système de comm/vision sur l'habitat
--liste des vaiseaux avec leurs caracs et des notes spécifiques sur chacun d'eux.
--enquête de la secte sur l'attaque de deux des leurs
--embauche d'un spécialiste senseurs, par des moyens peu détournées
 
-Indices SCI
--enquête de Faith pour suivre sa propre piste
--questions de Hernan sur les agissement du groupe de joueurs
--histoire d'Hernan avec des trous
--religion chrétienne d'Hernan
+
+Alarme déclenchée par le gars au moment où il a été drogué; les evocati préparent une opération militaire contre la cible du coup. 5 fantassins en arrivée violente, menés par lily. L'opération sera menée avec l'accord des miliciens pour lutter contre une agression contre un membre de la secte.
+Leur hacker tente de masquer l'avancée via capteurs.
