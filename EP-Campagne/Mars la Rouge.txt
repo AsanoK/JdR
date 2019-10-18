@@ -1,0 +1,24 @@
+Lieu : mars (Noctis?)
+Cible : Faith Entreri (nom non connu au départ)
+Objectifs : primaire:identifier cette menace, vérifier ses motivations et objectifs. secondaires : vérification de routine sur certaines alertes.
+Adversaires et obstacles : Forces de police, Oversight, renseignement naval
+Annexes: Lutte en toile de fond entre Barsoomiens et forces de l'ordre.
+
+Indices sur Faith
+-emplacement de farcasting
+-contacts et temps passé là-bas
+-retour après les PJs
+-existence de ses sources/ son réseau
+-actions du renseignement de la junte pour la couvrir
+
+Alertes Police : 
+-crimes évidents
+-informateurs trouvent un comportement suspect
+
+Alertes Oversight:
+-actions "louches" avec collecte d'infos sensibles ou approche de lieux sécurisés
+
+Alertes Junte:
+-enquête sur agent
+-questions posées à leurs sources
+-approche d'activité Firewall connue
