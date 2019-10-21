@@ -1,11 +1,11 @@
 Employeur:
-Mr johnson (Hissan al Heleni), un employé de Renraku EU, devenu johnson après plusieurs années dans les ressources humaines du département de sécurité. Son ambition est de monter le plus haut possible; il espère réaliser cela en gérant correctement un bon coup, en faisant monter en compétences des équipes des runners efficace. Il observe les runners avec un intérêt clinique, pas tant impressioné par leurs capacités martiales que par leurs autres talents. Il attend une certaine loyauté de la part des "consultants spéciaux".
+Mr johnson (Hissan al Heleni), un employé de Renraku ME(Middle East), devenu johnson après plusieurs années dans les ressources humaines du département de sécurité. Son ambition est de monter le plus haut possible; il espère réaliser cela en gérant correctement un bon coup, en faisant monter en compétences des équipes des runners efficace. Il observe les runners avec un intérêt clinique, pas tant impressioné par leurs capacités martiales que par leurs autres talents. Il attend une certaine loyauté de la part des "consultants spéciaux".
 
 Rencontre :
 La rencontre se déroule dans 
 Cible :
 Un stock d'armes diverses a été volée par un gang inconnu. Renraku souhaiterait récupérer cette cargaison (plusieurs caisses plastiques). Il faudrait donc que les runners trouvent ceux qui ont commis le vol, pour leur reprendre ensuite la cargaison. 
-Ces armes ont été volées par un gang des bidonvilles asiatiques, la milice du 24 avril, un groupe d'arméniens qui se bat fréquemment avec les loups gris. Ils sont aussi en contact avec les vory, mais sans avoir de liens forts.
+Ces armes ont été volées par un gang des bidonvilles asiatiques, la milice du 24-4, un groupe d'arméniens qui se bat fréquemment avec les loups gris. Ils sont aussi en contact avec les vory, mais sans avoir de liens forts.
 
 Indices:
 Ces fusils ne sont pas très courants, tout comme les explosifs; leur présence sur le marché risque de faire un peu de bruit.
@@ -23,3 +23,6 @@ le kosovar : message à un marchand d'arme, pour savoir si il a eu connaissance d
 3 personnes du groupe sur les quais, 2 en train d'enquêter près du container avec les gardes qui les "escortent"/vérifient ce qu'ils font.
 Le nain est a contacter un de ses contacts et prévoie un autre truc le lendemain matin.
 *voir durée entre deux repas de la goule
++trouver un jeton pour Timur, officier de Polis
++Risque de dégénérer côté européen
++trouver un jeton pour Ornek Balbay

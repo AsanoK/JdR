@@ -54,3 +54,13 @@ informations :
 
 Alarme déclenchée par le gars au moment où il a été drogué; les evocati préparent une opération militaire contre la cible du coup. 5 fantassins en arrivée violente, menés par lily. L'opération sera menée avec l'accord des miliciens pour lutter contre une agression contre un membre de la secte.
 Leur hacker tente de masquer l'avancée via capteurs.
+
+
+
+
+informations données à Firewall:
++copie d'eskerya et d'Aled
++description de Damocles (activités de surveillance menées par la secte) + senseurs, etc
++identités des membres de la secte sur Locus (et infos diverses)
++Mikhail Abramovitch
++attaque par un truc inconnu, avec des implants joviens, remontée jusqu'à Mars (une clinique)
