@@ -1,0 +1,17 @@
+Test basique
+Pour un test, on lance (attribut+compétence)d6, les 5 et 6 sont des succès. Pour déterminer la réussite d'un test, il faut comparer le nombre de succès avec la difficulté du test (déterminée par le MJ)
+La marge de réussite ou d'échec est définie par (nombre de succès)-(difficulté du test)
+
+Test en opposition
+Chacun des participants réalise un test simple, mais au lieu de comparer le nombre de succès à un seuil fixe, on le compare au nombre de réussite de l'opposition.
+Sert à representer une opposition directe, comme lors d'un combat, une négociation, une tentative d'infiltration...
+
+Tests liés
+Plusieurs tests peuvent être liés (un résultat influence le suivant). Dans ce cas, la marge de réussite du premier test est un bonus au nombre de dé du test suivant dans la liste.
+Représente les tests de soutine, annexes, comme par exemple le déguisement pour renforcer un test de bluff.
+Cela peut également représenter un travail en équipe, avec un personnage réalisant le test principal, avec le soutien des autres.
+
+Dés d'action
+Au cours de l'histoire, un personnage sera amené (à la discrétion du MJ) à lancer un dé d'action. Celui est un d6. Sur 1 ou 2, il y a une conséquence négative ou neutre, sur 5 à 6 une conséquence positive ou neutre, et rien du tout sur 3 ou 4. Le dé d'action est lancé en parallèle d'un test.
+Ce dé représente le risque ou la chance que lors de la réalisation de ce test, quelque chose d'extérieur se produise.
+Par exemple, on peut être déséquilibré par une attaque, même réussie; une tentative d'infiltration échouée peut malgré tout faire tomber celui qui la réalise sur un élément intéressant ou utile. Une recherche dans une bibliothèque peut amener à découvrir des informations annexes, qui pourraient se révéler intéressantes ou utiles; des questions délicates peuvent être entendues par quelqu'un qui passerait....

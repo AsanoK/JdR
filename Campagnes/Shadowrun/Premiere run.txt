@@ -15,7 +15,7 @@ Complication:
 Les armes volées sont utilisées par le gang qui s'en est emparé, qui sont donc lourdement équipé. Ils essaient de revendre les explosifs, mais utiliseront les armes lourdes contre les runners.
 
 salaire :
-3500 nuyen par personne + bonus de 500 en cas d'efficacité/rapidité. Bonus éventuel en cas de "message" passé.
+3500 nuyen par personne + bonus de 500 en cas d'efficacité/rapidité. Bonus éventuel en cas de "message" passé. total final : 4200
 
 Legwork :
 réunion le lendemain après-midi chez Berisha

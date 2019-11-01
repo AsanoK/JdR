@@ -8,8 +8,8 @@ adversaires et obstacles : Les créatures transformées, forces de sécurité europé
 Uksem Ag Bey: Genhacker, spécialisé dans les algues et planctons. Travaille sur Europe sur des problèmes de production alimentaire adaptée aux pressions colossales. Egalement une sentinelle de Firewall, chargé de surveiller d'éventuels problèmes ici. Enquêtait juste avant sa disparition sur des signaux étranges près de fermes profondes (fausse piste).
 
 Indices Uksem
--données stockées dans un ecto, indiquant qu'il allait vérifier ce qui avait provoqué des signaux étranges près de fermes profondes
--historique de recherche sur un ecto brûlé, indiquant "station de recherche Amundsen" (là où se trouvent les infectés).
+-données stockées dans un ecto, indiquant qu'il allait vérifier ce qui avait provoqué des signaux étranges près de fermes profondes => trouvée, avec la localisation
+-historique de recherche sur un ecto brûlé, indiquant "station de recherche Amundsen" (là où se trouvent les infectés) => trouvée, avec la localisation.
 -données de l'habitat montrant son morphe selkie passer un des sas proche du plafond océanique. Une vérification précise peut donner l'indication qu'il semble étrange sur certains détails.
 -étrange substance chimique, contenant de nombreuses nanites TITAN pouvant transformer leurs hôtes en gelée aussi (après avoir réécrit son esprit).
 
@@ -21,3 +21,5 @@ Indices faille de Thésée : étrange boite noire, comme liquide; technologie TITAN
 
 Indice culte :
 -signal en lui-même relativement aléatoire en apparence.
+
+Arrêt : le groupe quitte le logement d'Uksem avec les infos et un échantillon
