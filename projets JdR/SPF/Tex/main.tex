@@ -1,0 +1,165 @@
+\documentclass[twocolumn]{report}
+\usepackage[utf8]{inputenc}
+
+\title{Sous une pluie de feu}
+\author{Antoine ROBIN }
+\date{}
+\newcommand{\nomjeu}{\textit{Sous une pluie de feu }}
+\begin{document}
+
+\maketitle
+\tableofcontents
+\chapter*{Introduction}
+
+\chapter{Règles de base}
+\section{Test de base}
+Un test de base se définit par deux valeurs : son seuil de réussite, et le score utilisé.
+
+Pour réaliser un test on lance un nombre de d10 égal au score du test. Les dés obtenant 8, 9 ou 10 sont considérés comme des succès, les dés obtenant 1 sont des échecs. Un test est considéré comme réussi si le nombre de succès est supérieur ou égal au seuil de réussite. Si le test n'est pas réussi, le MJ gagne un point d'intensité (PI) à utiliser plus tard (voir la section sur les actions du MJ pour leur utilisation).
+
+Le plus souvent, le score d'un test se calcule en faisant la somme d'une caractéristique et d'une compétence, ou, plus rarement, de deux caractéristiques. La caractéristique employée est celle qui sera pénalisée en cas d'échec. Un joueur peut décider de limiter son implication dans un test, en réduisant le score d'attribut utilisé jusqu'à un minimum de 1 (cela peut permettre de réduire les risques d'échec).
+
+Normalement, un test se réalise par un seul personnage, et correspond à une activité relativement brève.
+
+%conséquences des échecs.
+Lorsqu'un test est effectué, on compte le nombre d'échecs obtenus. Si celui-ci est supérieur ou égal à la valeur de l'attribut utilisé, alors on réduit de 1 la valeur de l'attribut (un attribut ne peut pas descendre en dessous de 1). Si un attribut à 1 devait descendre, le MJ gagne un PI.
+
+\section{Épreuves}
+Une épreuve est un obstacle complexe à franchir pour que l'unité accomplisse sa mission. Réussie ou échouée, elle a des conséquences, tout comme la façon dont elle est réalisée.
+
+\subsection{Fonctionnement et structure}
+Une épreuve se compose de plusieurs éléments distincts:
+\begin{itemize}
+    \item L'objectif de l'épreuve
+    \item Les conséquences de l'épreuve
+    \item Les contraintes de l'épreuve
+    \item Les objectifs secondaires
+    \item Les autres actions
+\end{itemize}
+L'objectif principal de l'épreuve est l'action que doivent réussir les personnages : mécaniquement, réussir un certain nombre de tests spécifiques, atteindre une certaine marge de réussite, infliger suffisamment de dégâts, survivre suffisamment longtemps.... Suivant l'obstacle, le MJ peut définir de nombreux objectifs à atteindre.
+
+Les conséquences de l'épreuve décrivent ce qui se passe dans le cas où celle-ci est réussie, mais aussi dans le cas contraire. Si besoin, on peut aussi définir des cas entre ces deux extrêmes. Cela va des épreuves suivantes, aux conséquences sur la mission globale, à ce qui se passe pour l'unité. Il est important de prendre en compte le fait que les personnages peuvent décider dans certains cas de se replier plutôt que de continuer l'épreuve en cours (généralement, un échec).
+
+Les contraintes de l'épreuve, optionnelles, viennent modifier la donne : arrêt de l'épreuve après un certain nombre de tours, effets d'épreuves précédentes, conséquences supplémentaires en cas d'échec à certains tests, gain de PI automatique....
+
+Les objectifs secondaires sont des actions à accomplir en parallèle de l'épreuve principale. Ils peuvent influencer le résultat final, mais ne constituent pas le but premier. par exemple, une unité peut avoir comme objectif principal de prendre une position, et comme objectif secondaire de s'emparer de documents, qui peuvent expliquer comment est défendu la position (et se trouvent ailleurs).
+
+Les autres actions sont les tests qui n'influent pas directement sur les objectifs principaux et secondaires, mais qui peuvent fournir des bonus aux tests, ou être demandés par les joueurs : manoeuvrer pour tendre une embuscade à une unité adverse afin de l'engager plus facilement, soigner ou évacuer les blessés de l'unité, ouvrir une brèche dans une fortification ou un mur, se jeter à couvert.... 
+\subsection{Exemples d'épreuve}
+\subsubsection{Tenir la position}
+%mission de défense de position classique, face à une troupe adverse soutenue de blindés
+L'unité est chargée de tenir une position fortifiée. Alors qu'elle est sur la position, une offensive majeure adverse est déclenchée. L'unité doit tenir sa position, sinon le reste de la ligne défensive pourrait être menacé par cette offensive.
+\begin{enumerate}
+    \item Objectif principal : Les personnages de l'unité doivent infliger suffisamment de dégâts au moral adverse pour déclencher une déroute. 
+    \item Conséquences: En cas de victoire, l'assaut est repoussé, avec des suites à définir par le MJ. En cas de défaite ou de repli, l'unité doit se dégager d'une situation épineuse, avec les forces adverses sur ses talons. 
+    \item Contraintes: L'arrivée de renforts adverses pour soutenir l'assaut principal permet au MJ de gagner un PI par tour de jeu.
+    \item Objectifs secondaires : Des personnages réussissant à capturer un officier adverse, ou à récupérer des documents sur celui-ci pourraient gagner une meilleur compréhension du plan adverse. %TODO : bonus ?
+    \item Autres actions: En plus des actions de base, les personnages peuvent envisager de %TODO après définition des actions de base en combat.
+\end{enumerate}
+\subsubsection{Sniper !}
+% localiser et éliminer/faire fuir un sniper adverse, dans une zone de guerre
+\begin{enumerate}
+    \item Objectif principal :
+    \item Conséquences:
+    \item Contraintes:
+    \item Objectifs secondaires :
+    \item Autres actions:
+\end{enumerate}
+\subsubsection{Retrouver ses petits}
+% en manque de matériel critique, l'unité doit se débrouiller pour en obtenir auprès de la logistique, qui n'est pas très coopérative.
+\begin{enumerate}
+    \item Objectif principal :
+    \item Conséquences:
+    \item Contraintes:
+    \item Objectifs secondaires :
+    \item Autres actions:
+\end{enumerate}
+\section{Caractéristiques d'un personnage}
+Un personnage se définit en premier lieu par 6 caractéristiques, ou attributs. 
+\begin{itemize}
+    \item Endurance
+    \item Moral
+    \item Patience
+    \item Chance
+    \item Réflexion
+    \item Sociabilité
+\end{itemize}
+Ces attributs correspondent à l'énergie qu'un personnage peut déployer sur un sujet, mais cette énergie peut s'épuiser avec le temps et l'utilisation.
+
+Il est possible de récupérer des points d'attributs perdus. %TODO
+\section{Compétences}
+\begin{itemize}
+    \item Tir (par type d'armes) : capacité à tirer de manière précise sur une cible avec une arme à distance
+    \item Mêlée : permet de neutraliser un adversaire en combat rapproché : à main nue ou avec une arme de mêlée
+    \item Infiltration : se déplacer furtivement ou profiter d'un bon camouflage
+    \item Observation : la capacité à remarquer des éléments pertinents et importants
+    \item Interrogation : Le fait d'obtenir d'un autre des informations utiles. Les techniques vont des questions pièges à la torture claire. Attention, ces dernières techniques ne sont pas toujours très fiables, et peuvent causer des problèmes sur le long terme à ceux qui les subisent comme ceux qui les mettent en oeuvre.
+    \item Couverture : rester efficacement derrière un couvert, afin d'éviter les tirs. Permet de se protéger face à des adversaires hostiles. Nécessite un couvert potentiel.
+    \item Connaissances techniques (par spécialité : guerre électronique, démolition, chirurgie, mécanique....) : regroupe l'ensemble des compétences et connaissances nécessaires pour faire fonctionner des outils spécifiques ou accomplir des tâches techniques.
+    \item Pilotage/conduite (par type de véhicule/monture) : permet de conduire ou piloter efficacement un véhicule.
+    \item Administratif : Naviguer dans les formulaires, les demande, mais aussi les protocoles et grades. Une compétence parfois plus utile que prévue.
+    \item Conviction : changer le point de vue de quelqu'un sur un sujet.
+    \item Premiers soins : apporter les premiers soins à quelqu'un, le maintenir en vie en attendant que des soins puissent être apportés
+    \item Athlétisme : recouvre en fait la plupart des activités physiques courantes : course, escalade, natation....
+    \item Survie : la capacité à se débrouiller avec peu de choses pour survivre : gérer le climat, trouver un refuge, faire un feu.....
+    \item Psy : utiliser des pouvoirs psys (dépend du setting, voir avec le MJ s'il est OK à ce sujet).
+    \item Labeur : regroupe certaines des corvées et tâches épuisantes qui peuvent faire partie de la vie militaire : creuser des trucs(tranchées, latrines), empiler des machins (barricades)....
+    \item armurerie : le fait de savoir entretenir son matériel, permettant d'éviter de trop avoir de problèmes (voire de résoudre les plus faciles). Ne couvre que le matériel individuel relativement basique (défini par le MJ). Correspond plus à savoir démonter, nettoyer et remonter du matériel qu'à comprendre son fonctionnement détaillé (ce n'est pas de la réparation).
+\end{itemize}
+\section{Combats}
+
+\section{Actions du MJ}
+Les actions du MJ lui permettent de dépenser ses PI afin de créer de la tension, de raconter une histoire plus complexe, et de représenter les risques et problèmes pouvant arriver sur une zone de conflit.
+
+Le MJ ne devrait pas se sentir limité par ce système d'action, pouvant choisir de simplement l'ignorer si il le souhaite. Il existe pour fournir des idées et fournir une structure sur laquelle se baser, mais est totalement optionnel pour qui souhaite s'en passer.
+\subsection{Déclencher une attaque}
+Les personnages de \nomjeu peuvent être blessés de très nombreuses façons dans une zone de guerre, parfois de manière injuste et arbitraire, parfois car ils se jettent volontairement dans le pire des combats.
+
+Afin de représenter ceci, le MJ peut décider, à tout moment, d'effectuer un test d'attaque. Idéalement, les personnages les plus exposés devraient recevoir en priorité ces tests, mais ce n'est pas une règle absolue.
+
+Le MJ calcule son score d'attaque de la manière suivante : le nombre de PI dépensés pour déclarer l'attaque, plus le score d'attaque de l'unité adverse. Il effectue donc son test avec ce score.
+
+Le personnage attaqué effectue en retour un test de chance, éventuellement modifié par le résultat d'un test de couverture réalisé précédemment.
+
+Si le MJ l'emporte, le personnage subit un niveau de blessure. Dans le cas contraire, le personnage n'est pas affecté par l'assaut.
+\subsection{Déclencher un évènements}
+Un évènement est une action du MJ permettant d'approfondir le jeu, sans nécessairement demander de test. Cela sert principalement à ajouter de la profondeur aux PNJs, mais aussi à simuler certaines des difficultés qui peuvent apparaître lors d'une campagne militaire. Un évènement peut n'avoir que des conséquences narratives, ou donner l'idée d'une épreuve complète. Les évènements n'ont pas vocation à servir la trame principale d'un scénario, mais d'ajouter de la profondeur, par des interactions supplémentaires, ou des trames annexes, voire optionnelles.
+
+Pour déclencher un évènement, le MJ peut simplement dépenser un PI et décrire son évènement.
+
+Quelques exemples d'évènements:
+\begin{itemize}
+    \item Un PNJ de l'unité est accusé d'un trafic ou d'un crime. Même si les personnages n'influent pas cette intrigue, celle-ci pourra influencer la vie de l'unité.
+    \item Une panne se produit sur un système, comme un transport, ou une fuite dans les réserves d'eau. Les problèmes peuvent aller de l'inconfort au vrai danger, nécessitant une épreuve pour être résolu.
+    \item Le temps se gâte rapidement. Sans forcément de conséquences mécaniques.
+    \item Le courrier arrive ! Les personnages reçoivent au cours d'une pause des nouvelles de leurs familles et amis.
+    \item Visite d'un gradé. Pour une raison ou une autre, un officier haut placé, ou peut-être un politicien, a décidé de venir inspecter l'unité. Les officiers veulent que tout soit présentable, et cette inspection peut prendre du temps.
+    \item Les personnages sont abordés par des civils. Leurs raisons peuvent être variées : demande d'assistance, propositions à faire, encouragements.....
+\end{itemize}
+
+\chapter{Règles avancées}
+\section{Équipements}
+\subsection{Armement}
+\subsection{Protections}
+\subsection{Outils}
+\section{Règles avancées du MJ}
+\chapter{Environnements proposés}
+\section{Seconde guerre mondiale}
+%description de certaines possibilités de la seconde guerre mondiale, avec comme exemple
+\section{Seconde guerre mondiale alternative}
+%siège de Leningrad, avec des pouvoirs psys
+\section{Science-fiction militaire}
+%Basé très légèrement sur "le choix du devoir"
+\section{Autres possibilités}
+%W40k
+%autre setting militaire historique
+%n'importe quel setting moderne, au prix de quelques modifications.
+\chapter{Scénario d'introduction}
+
+\chapter*{Glossaire}
+\begin{description}
+  \item[PI] Point d'intensité; point utilisé par le MJ pour ses actions.
+  \item[Deuxième] 
+  \item[Troisième] Le troisième élément
+\end{description}
+\end{document}

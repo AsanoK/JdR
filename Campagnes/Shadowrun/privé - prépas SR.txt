@@ -2,7 +2,7 @@ PLOT
 PREMIER SCENAR
 FIXER INITIAL
 FACTIONS
-+loups gris : mercenaires chargés du maintien de l'odre dans une partie de la ville. Nationalistes turques, et criminels notoires impliqués dans le trafic d'armes dans la ville. Agressifs et violents, ils sont en lutte avec la plupart des autres groupes criminels.
++loups gris : Mercenaires chargés du maintien de l'odre dans une partie de la ville. Nationalistes turques, et criminels notoires impliqués dans le trafic d'armes dans la ville. Agressifs et violents, ils sont en lutte avec la plupart des autres groupes criminels.
 +Polis : forces de l'ordre, 5 divisions avec différents rôles (patrouilles, enquêtes, interventions, astral et surveillance). Moins violents que les loups gris, ils servent de vitrine à une nouvelle formule de Knight Errant : ils en ont la formation et les financements, mais pas l'image de marque.
 +10000 dagues : compagnie de sécurité, anciennement chargé du maintien de l'ordre dans certaines parties de la ville. Rivaux des loups gris avec lesquels ils sont pour le moment en cessez-le-feu. Opèrent pas mal dans les balkans en ce moment, après avoir réduit leurs opération à Constantinople. Leur chef est un mercenaire d'origine arménienne, porté sur le chrome et la discipline dans les rangs.
 +Corpos : toujours les mêmes, avec leurs objectifs bien précis. Se livrent à une bonne concurrence, mais essaient de maintenir l'indépendance de la ville.
