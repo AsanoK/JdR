@@ -1,4 +1,4 @@
-YAO SU
+﻿YAO SU
 sergent, assez bavard, commère du régiment, relativement au courant des rumeurs.
 hors front : rumeurs du régiment, idées pour la suite, contacts utiles
 front : rumeurs sur l'ennemi, idées sur ce qui se passe
@@ -16,7 +16,7 @@ hors front : pas grand-chose, à part du taf
 sur le front : des remarques quand à la discrétion, asez brèves.
 "fermez-là" "Ennemis, là"
 
-Bai Guo
+Bai Guo - décédé
 Brancardier, assez futé et inventif
 hors front : plans pour faire du blé et tuer le temps
 sur le front : idées intéressantes d'actions
@@ -28,10 +28,20 @@ hors front : suiveur typique, humour noir
 sur le front : humour noir et caustique
 "celui-ci, il nous fera plus chier" "comme à la kermesse"
 
-Zhao Lian
+Zhao Lian - Décédée
 garde de l'escouade, assez optimiste, voire naïve
 hors front : citations du manuel, regards déprimés devant les manigances de certains
 sur le front : idées d'actions dignes du manuel
 "On les charge, et on les butte!" "On leur tire dessus et on avance ensuite?"
 
+Liao Wang
+soutien tir
+nerveux, voire hyperactif
+hors front : bon, je me fais chier, quelqu'un veut jouer?
+sur le front : faudrait pas qu'on vérifie ce truc aussi les gars?
+
+Hong Cao, brancardier
+très confiant de ses capacités, voire trop
+hors front : bon, je sais pas pour vous, mais je pense qu'on devrait pas s'emmerder avec ça...
+sur le front : je vais lui faire bouffer ma pompe! Regardez-moi ça
 

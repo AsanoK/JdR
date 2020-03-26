@@ -1,4 +1,4 @@
-﻿base :
+base :
 Les membres d'une formation doivent rester à 10 mètres les uns des autres. Pour être en rang, il aut être à 10m du chef, et sans obstacle physique.
 Les larbins doivent tous avoir le même profil (sauf exception)
 La Force d'une formation est égaale au nombre de larbins.
