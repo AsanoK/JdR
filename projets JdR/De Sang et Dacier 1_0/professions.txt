@@ -1,0 +1,64 @@
+PROFESSIONS
+-piéton
+-homme d'arme *
+-archer
+-artisan
+-érudit
+-chirurgien
+-serviteur *
+-criminel *
+-jongleur
+-troubadour
+-marin
+-prostitué(e)
+-brute
+-herboriste
+-prêtre
+-sorcier
+-marchand
+-guerrier
+-joueur
+-intendant
+-veneur
+-garde/milicien
+-chef de bande
+-guérisseur *
+-forestier *
+-guerrier
+-mineur
+-éleveur
+-fermier
+-esclave
+7 caracs, 30 à 35 compétences, équipements
+
+Homme d'arme:
+AGR 2; COO +1; RES +2; CAR +1; VIG +1;
+arme blanche(au choix) 5, arme blanche (couteaux) 3, poignarder 3, défense 4, athlétisme ou équitation 3, connaissance (guerre) 4, connaissance (héraldique) 3, culture générale (région au choix) 3, organisation 1, jeu (au choix) ou art(au choix) 2, commandement 3, intimidation 2, observation 1, fouille 1, arme blanche ou arme de traits ou arme de jet (au choix) 2
+arme à une main et bouclier, armure de maille avec casque, cheval de selle, dague, vêtements robustes de bonne qualité, fontes de selle %TODO : ajouter CàC
+FOR +2
+
+Serviteur
+EMP +2; RES +1; CAR +2; VIG +1; LOG +1; COO +1
+négociation 3, discussion 4; manipulation 3, calme 4, profession(au choix) 4, fouille 3, observation 3, discrétion 2, éducation 2, organisation 2, culture générale (région ou ville au choix)3, culture générale (région au choix ou noblesse) 3, passe-passe 1, art (au choix) 1
+couteau, tenue du dimanche, tenue propre, sac
+MEM +1, DES +1
+
+criminel
+COO +2; AGR +1; EMP +1; VIG +2; LOG +1
+poignarder 3, arme blanche (couteau) 2, défense 3, athlétisme 2, discrétion 3, intimidation 3, manipulation 2, culture générale (crime) 3, culture générale (ville) 3, fouille 3, observation 2, passe-passe 2, crochetage 2, mensonge 3, corps à corps 2.
+dague, vêtements robustes, sac
+DES +2
+
+guérisseur
+LOG +2; EMP +2; COO +1; CAR +1; VIG +1
+arme blanche (couteau) 1, herboristerie 4, organisation 2, médicine 3, chirurgie 1, culture générale (région au choix) 4, connaissances (plantes) 4, fouille 1, négociation 2, discussion 3, calme 2, escalade 1, premiers soins 5, observation 2, corps à corps 2.
+couteau, vêtements robustes, sac, herbes médicinales, bandages, aiguille et fil
+MEM +2
+
+forestier
+RES +2; VIG +2; AGR +1; COO +1; CAR +1
+arme blanche (hache) 4, arme blanche (couteau) 2, arme de jet ou de traits (au choix) 3, discrétion 2, athlétisme 4, culture générale (forêts) 4, culture générale (faune) 2, observation 2, pistage 2, profession (bucheron ou chasse) 3, profession (bricolage) 2, défense 2, esacalade ou natation 1, premiers soins 1, intimidation 1, négociation 1, culture générale (région) 2, pistage 2
+hache, couteau, arme de tir et munitions, 1 semaine de ration, matériel de bivouac, gibecière, vêtements épais
+FOR +2
+
+

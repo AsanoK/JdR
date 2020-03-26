@@ -1,0 +1,26 @@
+\contentsline {chapter}{\numberline {1}Règles de base}{3}%
+\contentsline {section}{\numberline {1.1}Test de base}{3}%
+\contentsline {section}{\numberline {1.2}Épreuves}{3}%
+\contentsline {subsection}{\numberline {1.2.1}Fonctionnement et structure}{3}%
+\contentsline {subsection}{\numberline {1.2.2}Exemples d'épreuve}{4}%
+\contentsline {subsubsection}{Tenir la position}{4}%
+\contentsline {subsubsection}{Sniper !}{4}%
+\contentsline {subsubsection}{Retrouver ses petits}{4}%
+\contentsline {section}{\numberline {1.3}Caractéristiques d'un personnage}{4}%
+\contentsline {section}{\numberline {1.4}Compétences}{5}%
+\contentsline {section}{\numberline {1.5}Combats}{5}%
+\contentsline {section}{\numberline {1.6}Actions du MJ}{5}%
+\contentsline {subsection}{\numberline {1.6.1}Déclencher une attaque}{6}%
+\contentsline {subsection}{\numberline {1.6.2}Déclencher un évènements}{6}%
+\contentsline {chapter}{\numberline {2}Règles avancées}{7}%
+\contentsline {section}{\numberline {2.1}Équipements}{7}%
+\contentsline {subsection}{\numberline {2.1.1}Armement}{7}%
+\contentsline {subsection}{\numberline {2.1.2}Protections}{7}%
+\contentsline {subsection}{\numberline {2.1.3}Outils}{7}%
+\contentsline {section}{\numberline {2.2}Règles avancées du MJ}{7}%
+\contentsline {chapter}{\numberline {3}Environnements proposés}{8}%
+\contentsline {section}{\numberline {3.1}Seconde guerre mondiale}{8}%
+\contentsline {section}{\numberline {3.2}Seconde guerre mondiale alternative}{8}%
+\contentsline {section}{\numberline {3.3}Science-fiction militaire}{8}%
+\contentsline {section}{\numberline {3.4}Autres possibilités}{8}%
+\contentsline {chapter}{\numberline {4}Scénario d'introduction}{9}%

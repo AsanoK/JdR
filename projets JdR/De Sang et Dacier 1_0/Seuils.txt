@@ -1,0 +1,25 @@
+Fatigue:echauffement, essouflement, fatigue, exténué, abattu
+
+échauffement : rien de spécial; ROB/2
+essouflement : malus léger aux actions physiques; ROB
+fatigue : malus aux actions physiques, moitié aux actions mentales et sociales;ROB*1.5 
+exténué : malus à toutes les actions;ROB*2
+abattu : malus à toutes les actions, risque de malaise; ROB*3
+1h de marche normal:1; 1h de marche forcée :2; 1h de course : 2 à 3, combat=nb rounds....
+
+Blessures:superficiel, léger,grave, critique, léthal
+superficiel:pas de malus;2
+léger: malus léger aux actions physiques;4
+grave:malus aux actions physiques, moitié aux actions mentales et sociales;6
+critique:malus à toutes les actions;8
+léthal:gros malus à toutes les actions, risque de mort imminente;10
+valeur de dégâts: marge de réussite à l'attaque+VD arme-max((armure-perforation),0)
+A ETUDIER OU TESTER
+
+Stress:calme, pression, stress, anxiété, angoisse
+calme:Pas de problème;CAR/2
+pression:très léger malus aux tests mentaux;CAR
+stress:léger malus aux tests mentaux; CAR*2
+anxiété:malus aux tests mentaux, moitiés aux actions physiques, risque de panique; CAR*3
+angoisse:malus à tous les tests, risque de traumatisme; CAR*4
+Un peu plus au pif pour déterminer les scores....

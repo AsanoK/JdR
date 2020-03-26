@@ -1,0 +1,39 @@
+LOISIRS
+-chasse
+-art *
+-artisanat
+-jeu
+-lutte
+-discussions et érudition
+-récits de voyages *
+-entrainement au combat
+-séduction
+-prières *
+-crimes *
+-détente et repos *
+
+10 à 15 compétences, pas de caracs, équipements, 1 attribut secondaire
+
+art :
+art(au choix)4, discussion 3, négociation 2, observation 1, art (au choix) ou lecture(au choix) 2, calme 2, manipulation 1
+outil de l'art, jolis vêtements
+DES +1
+
+voyages:
+culture générale (région au choix) 4, culture générale (région au choix) 2, langue (au choix)2, discussion 3, art(conte) 2, négiciation 2, observation 3
+1 semaine de provision, vêtements chauds, matériel de bivouac
+MEM ou FOR+1
+
+prières:
+discussion 2, prières 3, liturgie 2, négociation 2, calme 2, connaissances (théologie)2, culture générale (église) 2, symbolisme 1, lecture (au choix) 1
+livre et symbole de prière, jolis vêtements
+DES ou MEM+1
+
+crime
+poignarder 2, arme blanche (couteau) 2, discrétion ou passe-passe 3, athlétisme 2, discrétion ou passe-passe 1, intimidation 1, fouille 2, défense 1, mensonge 1
+DES +1
+dague
+
+détente et repos
+calme 4, discussion 3, profession ou art(au choix) 2, observation 2, culture générale (au choix) 2, négociation 2, manipulation 1
+MEM +1

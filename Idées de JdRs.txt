@@ -1,7 +1,9 @@
--Univers de science fiction, dans lequel plusieurs jeux : enquête et intrigues pour l'un, space opéra militaire pour un autre.
+-Univers de science fiction, dans lequel plusieurs jeux : enquête et intrigues pour l'un, space opéra militaire pour un autre. Ambiance proche saga Vorkosigan : des settings variés, avec des personnalités et des ambiances différentes, des technologies assez variées suivant les lieux, et une bonne part de politique.
 
 -système de jeu dans un contexte 20eme siècle, assez léger sur les mécanismes. Plusieurs jeux liés : espionnage, guerre (avec les aspects psychologiques), résistance....
 
--univers cyberpunk avec un système de jeu dual : police ou crime.
+-univers cyberpunk avec un système de jeu dual : police ou crime. Objectif plus narrativiste, avec une ambiance très glauque.
 
--JdR post-apo, alors que des groupes s'organisent, de plus en plus grands pour non plus survivre, mais vivre dans les ruines. Setting basé sur l'europe plutôt.
+-JdR post-apo, alors que des groupes s'organisent, de plus en plus grands pour non plus survivre, mais vivre dans les ruines. Setting basé sur l'europe plutôt que les USA.
+
+-Carcérôle : jeu dde rôle se déroulant dans un univers pénitencier, quel qu'il soit : prisons américaines, SF, ou encore camps de concentration. Peut-être un système de plug-in pour améliorer la gestion des scénarii de ce genre dans d'autres JdR.

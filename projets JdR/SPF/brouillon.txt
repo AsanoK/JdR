@@ -1,0 +1,10 @@
+arme base:
++1 attribut
++11 compés
+
+arme complet:
++7 compés
+
+spé base
+
+spé complet

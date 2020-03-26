@@ -1,0 +1,15 @@
+Description des actions à entreprendre et des éléments à réaliser ou demander avant le démarrage d'une campagne :
+
+-Séance -1:Définir le thème global de la campagne, son univers, le ton utilisé, les bornes éventuelles à ne pas dépasser avec le groupe. Présenter l'univers à ce moment
+-Planifier la campagne : scène importantes, structure et découpage (structure narrative globale, pas encore le détails).
+-Séance 0:Mise en place des personnages (avec les joueurs) : historique, présentation (comment le personnage se décrit, et comment les personnages se connaissent), et tout autre élément nécessaire. La création des personnages peut être réalisée à cette étape, ou avant la séance 1.
+-Mise en place de l'introduction, et de la première partie de la campagne : détails narratifs(scénarii), PNJs importants (surtout si ils sont amenés à rester une bonne part de la campagne), thèmes musicaux majeurs, cartes....
+-Séance 1 : début de la campagne proprement dite. Les joueurs devraient ici déjà connaître le setting (sauf si le scénario implique de le découvrir), et devraient se rencontrer si ce n'est pas déjà le cas.
+-La mise en place des parties suivantes de la campagne peut se faire au fur et à mesure, de façon à rebondir facilement sur ce qui a été réalisé par les joueurs (et ce qui ne l'a pas été).
+
+Éléments à mettre en place avec les joueurs
+-Que voulez-vous jouer comme type de campagne?
+-Quel ton pour la campagne ?
+-Quelles sont les limites ? (gore, séduction, PvP, horreur...)
+-Quelle est la logistique ?
+-Que faire en cas d'absence d'un joueur ?
