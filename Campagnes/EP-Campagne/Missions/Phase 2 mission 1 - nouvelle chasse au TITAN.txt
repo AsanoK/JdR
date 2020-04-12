@@ -1,0 +1,39 @@
+Synopsis:
+Les personnages doivent chasser une pièce de technologie suspecte récemment sortie de la TQZ de Mars après un affrontement avec les rangers. Le suspect est un contrebandier connu pour régulièrement essayer de ramener divers objets des ruines de Quran, souvent pour des collectionneurs.
+Il s'agit ici d'une oeuvre d'art qui a été révélée dans les galleries d'art de Quran peu avant la chute. Elle est suspecte de part sa nature très technologique : "Silence" par Mohammed al Heleni est en effet une représentation dynamique du bruit de fond de l'univers, par des nanobots spécialement développés pour refléter étrangement les sons sous forme de lumière.
+La rumeur de sa mise en vente s'est rapidement faite dans les galleries privées du système, et une vente est sensée se produire rapidement. leur contact est ici un ancien aristocrate terrien : Guillaume IV de Prusse, descendant des empereurs d'Allemagne, et playboy notoire.
+L'idéal serait de récupérer l'oeuvre avant la vente, sinon dès que possible, avant que le risque ne soit trop important.
+
+Structure : enquête classique, avec la contrainte temporelle, les PJs n'ayant que 5 jours pour réussir à trouver l'oeuvre avant que la vente ne se fasse. Si celle-ci se produit, les problèmes empireront rapidement (on passera de 1 à 2 infectés).
+
+L'infection TITAN est une pomme de discorde, débloquant une variante de contrôle du virus, réécrivant en quelques jours la personnalité de son hôte, qui essaiera ensuite de transmettre la pièce, et de semer le chaos. 
+
+PNJs critiques:
+-Guillaume IV de Prusse : playboy notoire, et contact occasionnel de Firewall, il est très discret en matière de renseignement. Un homme plutôt élégant, très riche, et qui se trouve être beaucoup plus surprenant qu'il n'y parait.
+-Sergio Wu : contrebandier, aventurier, c'est un homme qui se trouve régulièrement dans la TQZ pour y trouver des pièces de collection, qu'il s'agisse d'oeuvres d'art ou de pièces rares datant de la chute; C'est un homme très prudent de tout temps : entre les rangers et les dangers de la TQZ, la paranoia est un mode de vie pour lui. En attendant la vente aux enchères, il reste à l'extérieur des communautés barsoomiennes, loin du système. La ruemeur a été démarrée par lui via son contact à Olympus, qui travaille pour les Triades. Il préfère de très loin les morphes bio.
+-Wong Miao : responsable de certaines opérations de la triade 14K sur Mars, elle a relayé l'information de Sergio, sans avoir de détails sur le lieu où le trouver. Elle servira d'agent pour la vente, en utilisant les ressources de la triade pour s'assurer que tout se passe bien.
+-Rachel Ortega, ranger martienne. Sergent d'une patrouille qui a chassé Sergio lors de son dernier retour. Il a réussi à les perdre, mais il est bien connu de son service. Elle est expériementée, et aide Firewall à terminer ce qu'elle n'a pas pu faire. Elle se refuse par contre à les aider à entrer.
+-Mae eun jung : personne dans la pratique en charge du 'clan' mae, elle déteste ce nom. Elle essaie de s'assurer que tout aille bien pour sa communauté.
+-Aleksy Komar : ancien esclave virtuel d'originie polonaise, échappé pendant la chute. Il vit dans un coin reculé au nord du mont olympe. Il gère une sorte de station service à laquelle les barsoomiens se rendent souvent dans la région. Dans ce scénario, il stocke la marchandise dans un vieux bunker non loin de chez lui.
+
+Phase 1 : une enquête pressante:
+Piste d'origine : contacter Guillaume de Prusse pour avoir des informations plus précise sur cette affaire, ou les rangers martiens, avec le sergent Ortega.
+-Rachel Ortega : informations sur Sergio, et dernier lieu où il a été vu : les abords d'une communauté barsoomienne, le 'clan' Mae. 
+-Guillaume de Prusse : nom de Wong Miao, infomrations sur la vente : lieu et date exacte. Confirmation de l'implication des triades dans l'affaire.
+
+Indices de Mae eun jung: 
+-elle sait que Sergio passe de temps en temps dans sa communauté, mais bon, il a une très bonne rep dans la communauté barsoomienne
+-elle a un doute sur sa localisation
+-elle sait que sergio a contacté deux personnes : une inconnue(Wong), et un ami commun : Aleksy Komar
+-Elle a idée que sergio compte vendre des marchandises illégales, mais ne sais pas à quel point.
+-Elle se méfiera de quelqu'un qui annonce le chercher, en particulier si on parle des autorités.
+
+Indices de Wong miao/triades:
+-Wong a en fait peu d'informations sur ce qui est vendu, à part quelques recherches de son côté.
+-Elle ne sait pas où trouver Sergio
+-Elle déteste les fouineurs, et n'hésitera pas à en faire disparaître un pour gagner du temps.
+-Elle ne compte pas engager la réputation de sa triade sur quelque chose d'aussi trivial qu'une vente aux enchères. Tout foirer devant des gens riches et influents, voilà qui peut coûter cher. Elle veut s'arranger pour que tout se passe bien (ou que rien ne se passe dans le pire des cas).
+
+Sergio:
+-sergio n'a pas conscience d'être infecté
+-sergio est parano : si quoique ce soit ne se passe pas comme prévu, il pensera qu'on lui en veut, et cherchera une autre solution pour transmettre cet objet.

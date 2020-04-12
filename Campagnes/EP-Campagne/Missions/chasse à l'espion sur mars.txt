@@ -20,7 +20,7 @@ Indices sur Faith
 -Walder Omarian est un politicien de Noctis, plutôt bioconservateur, et connait bien "Pharah Etman"(faith), avec qui il s'est entretenu de plusieurs projets de lois. Il ne l'admettra pas, mais il recevait des financements de cette personne, plus que la plupart des lobbyistes.
 -Marc Osberg est un officier de police de bas rang, mais se trouve également être un agent du renseignement jovien sur Mars, responsable d'une petite cellule. Il coordonne leurs efforts pour mapper les technologies et actions des autonomistes. En cas de problème majeur, il peut disparaître en tant que Val "Neon" Mercier au sein d'un groupe de barsoomien qu'il connait bien. travaille en enquête vers le nord de Noctis
 
-Shoshanna Bey est un agent du renseignement, avec un rôle plus politique: elle doit chercher des signes de potentielle trahison au sein des agents. Elle sert également de relai régulièrement entre les contrôleurs et leurs agents. Elle sera difficile à trouver, mais peut se révéler une mine d'or d'informations.
+Shoshanna Bey est un agent du renseignement, avec un rôle plus politique: elle doit chercher des signes de potentielle trahison au sein des agents. Elle sert également de relai régulièrement entre les contrôleurs et leurs agents. Elle sera difficile à trouver, mais peut se révéler une mine d'or d'informations. Elle n'a pas officiellement de travail sur Mars.
 
 Evènements au cours de l'enquête:
 -Retour de Faith sur Mars, les Pjs seront prévenus deux jours plus tard par Wu, qui pourra leur donner l'info.
@@ -48,3 +48,12 @@ Ils finissent en posant des questions aux étudiants sur leur cible.
 Ils ont des informations sur Marc Osberg, et envisagent de commencer à le suivre. Il risque de le remarquer, et de détaler/envoyer un groupe de mercenaires
 Ils ont le nom de Walder Omarian
 Ils ont le nom et l'apparence de 'Milady'
+
+Marc Osberg a été suivi, et s'en est rendu compte, il est en train de disparaître des radars via ses amis barsoomiens du 'clan' Vannier. Si les Pjs essaient de le suivre, ils devraient tomber sur un mur ici, voir tomber dans une embuscade si ils insistent. 
+Milady sera prévenue un peu plus tard, les PJs n'auront qu'une journée pour la trouver également.
+La mission risque de se terminer rapidement sur une impasse, avec toutefois une véritable mine d'informations sur les opérations joviennes dans les environs, ce qui est très suffisant pour Firewall, qui pourra s'attacher à remonter les différents fils révélés.
+
+Marc Osberg s'est enfui via ses contacts chez les barsoomiens, qui ont été contactés par les PJs pour avoir un swarm cat. Si les PJs insistent pour suivre val mercier, personne ne leur donnera quoique ce soit.
+Ils ont été attaqués par deux mercenaires payés par lui pour les occuper/essayer de les gérer.
+Milady est en train de préparer son départ en urgence, travail en cours, devrait rapidment être fait.
+Faith va revenir pour essayer de les suivre ? peut-être dans le scénario suivant, plutôt discrètement : probablement principalement par le réseau.
