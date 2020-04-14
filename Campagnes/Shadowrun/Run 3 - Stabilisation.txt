@@ -1,4 +1,4 @@
-Employeur : Renraku
+﻿Employeur : Renraku
 Objectif : contrer de potentiels actes de terrorisme, avec un groupuscule lié aux loups gris.
 Récompense : 6000 nuyens + 1500 bonus si les préparatifs ont été récupérés.
 
@@ -28,6 +28,6 @@ Les rdv ont lieu dans un tunnel désaffecté de métro, soigneusement gardé par
 Omarian se fait passer pour un simple étudiant en religion, et fait le tour des mosquée côté oriental
 
 Rencontre dans le repaire du groupe terroriste:
--Basaiev va chercher à se replier pour aller chercher des renforts parmi les loups gris, qui arriveront plus tard.
+-Basaiev va chercher à se replier pour aller chercher des renforts parmi les loups gris, qui arriveront plus tard. Il est armé d'un pistolet roomsweper
 -Omarian, en tant qu'ancien vétéran, s'équipera rapidement avant de rejoindre le combat. Il dispose d'une tenue de combat, d'un pistolet mitrailleur, de grenades et d'une hache.
 -Les larbins prennent leurs armes et avancent vers les PJs. Ils disposent d'arme légères (1 fusil à pompe, 1 pistolet mitrailleur, 2 pistolets lourds), une veste légère, et 2 d'entre eux ont des cocktails moltov. Ils sont extrêmement motivés pour lutter contre les infidèles. Les deux gardes ont des fusils à pompe.
