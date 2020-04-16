@@ -4,6 +4,7 @@ La solution la plus évidente serait d'avoir les PJs comme vassaux pendant un ce
 
 Campagne Lastwall
 Principal problème : Tar Baphon, et sa puissance absurde. A moins de se lancer dans une campagne mythique (meh), il faut éviter que les joueurs n'affrontent le tyran qui murmure. Le soucis étant alors de définir l'intérêt final d'une campagne à Lastwall sans le tyran qui murmure comme adversaire.
+-> Peut-être moins pertinent pour une campagne de gestion de royaume. Mais une idée intéressante comme campagne normale.
 
 Campagne Belkzen
 Définir le côté duquel on se trouve, penser les orcs comme des adversaires cohérents, avec leur propre politique. Définir le point de départ et le but final d'une telle campagne.
@@ -13,3 +14,13 @@ Régler le problème des premiers niveaux, définir les objectifs des PJs, des d
 
 Campagne homebrew
 Déterminer les objectifs d'une telle campagne, et bâtir le setting pour aller avec.
+
+Shortlist 1:
+-Belkzen
+-Linnorn
+-Homebrew
+
+Seconde vague de problèmes:
+Belkzen : définir des arcs secondaires, premier jet de structure globale. Valider un point de départ clair. Premiers PNJS
+Linnorn : première structure, plus d'arcs secondaires. Validation du royaume dans lequel ça va se passer. Mieux définir les circonstances du démarrage. 
+homebrew : Définir rapidement un arc principal, des arcs secondaires, et une base solide de background du lieu, sous peine de sortir de shortlist.

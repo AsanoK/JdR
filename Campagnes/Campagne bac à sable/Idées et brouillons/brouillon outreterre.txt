@@ -1,6 +1,9 @@
 Concept:
 Les personnages vont créer, pour une raison ou une autre, une nouvelle communauté en outreterre. Celle-ci va devoir survivre à toutes les épreuves que cet environnement peut infliger.
 
+Premier problème: gestion de la difficulté des premiers niveaux.
+-> Les faire opérer à proximité relative d'une forteresse puissante, ou du moins d'un avant-poste fortifié puissant, et ce, jusqu'àà ce qu'une position viable ait été repérée comme emplacement de communauté viable. Evidemment, un tel emplacement sera à nettoyer en premier lieu de ses précédents occupants.
+
 Arc principal:
 -obtenir quelque chose : un lieu, un objet, ou explorer l'ombreterre.
 

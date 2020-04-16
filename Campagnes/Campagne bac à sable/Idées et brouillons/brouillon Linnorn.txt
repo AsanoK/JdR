@@ -6,7 +6,7 @@ Hagreach ? icemark, southmoor (si pf1), thanelands
 
 Arc principal : Reconquête de l'Irrisen
 
-Principal problème : comment rendre intéressant la chose si un roi doit tuer un Linnorn (ce qui n'arrivera pas avant longtemps, probablement pas avant le niveau 10). Une solution serait de confier en attendant aux PJs un titre de Thane, puis de Jarl
+Principal problème : comment rendre intéressant la chose si un roi doit tuer un Linnorn (ce qui n'arrivera pas avant longtemps, probablement pas avant le niveau 10). Une solution serait de confier en attendant aux PJs un titre de Thane, puis de Jarl, en attendant le niveau 10.
 
 arcs secondaires:
 -devenir un roi de Linnorn. Ce qui implique de tuer ou vaincre une des créatures.
