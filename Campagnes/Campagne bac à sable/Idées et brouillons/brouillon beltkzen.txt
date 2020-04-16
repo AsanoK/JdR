@@ -2,19 +2,17 @@ Concept:
 Les personnages font partie d'une stratégie par les chevaliers de dernier rempart pour mieux tenir face aux orques : ils vont créer des domaines à la frontière entre  et les terres orques.
 Le principal adversaire, évidemment, sera la présence permanente de ces dangereux voisins, qui se battront pour leurs terres avec un certain acharnement.
 
-Problèmes à résoudre:
-Définir précisément de point de départ, et quel serait l'objectif final (et principal arc narratif) de la campagne.
-Si les Pjs sont orques ou demi-orques, on pourrait penser à une unification des tribus sous leur bannière, et un nouvel âge d'or pour cette race violente. Le problème de ce choix est qu'il nécessite au moins un orque/demi-orque, races peu populaires s'il en est.
-Si les PJs ne sont pas orques, on peut penser à deux objectifs : atteindre la paix entre ce nouveau domaine et les orques, possiblement en aidant une unification en un état plus conventionnel, ou les détruire en tant que menace (les plus malades des PJs pourraient argumenter en faveur d'une destruction en tant que peuple...). Dans les deux cas, on peut résume en "pacifier la région", ce que les chevaliers de dernier rempart n'ont pas réussi à faire en plusieurs siècles.... l'arrivée de Tar-Baphon peut éventuellement faire partie de la campagne, avec une possible alliance avec les orques face à une horde de non-morts.
-
 Points de départ possible:
--frontière avec Lastwall, avant le retour du tyran. Problème majeur : les chevaliers ont déjà du mal à tenir cette ligne. Comment un pauvre domaine neuf pourrait-il le faire ?
--route commerciale entre Korvosa et Vigil, juste au nord des mindspin mountains, dans ce cas, probablement avec un soutien de Korvosa, de Janderhoff, ou des chevaliers de Lastwall/ nouvelle croisade. L'objectif serait ici probablement de sécuriser la route ou ancienne route entre Vigil et Korvosa, suivant la Yondabakari puis l'Esk. En particulier en cas d'invasion orque menée par le tyran.
--frontière avec Ustalav, pour servir de buffer ? Peu pertinent, au vu des descriptions d'Ustalav
--frontière avec les terres des seigneurs des mammouths ? Pourquoi, avec qui et comment?
+route commerciale entre Korvosa et Vigil, juste au nord des mindspin mountains, dans ce cas, probablement avec un soutien de Korvosa, de Janderhoff, ou des chevaliers de Lastwall/ nouvelle croisade. L'objectif serait ici probablement de sécuriser la route ou ancienne route entre Vigil et Korvosa, suivant la Yondabakari puis l'Esk, au travers des terres orques.
+
 
 Arc principal
 Sécuriser une paix durable dans la région, potentiellement face à une unification des orques sous une seule bannière.
 
 arcs secondaires
 -découverte d'une cité du Thassilon, avec des habitants toujours actifs.
+-menace, plus ou moins lointaine, du tyran qui murmure.
+
+structure générale:
+
+PNJs critiques:

@@ -2,12 +2,16 @@ Concept:
 Les personnages développent leur communauté dans les terres des rois de Linnorn, devant faire faces à ses nombreux dangers.
 
 Point de départ:
-Hagreach ? icemark, southmoor (si pf1), thanelands
+Hagreach ? icemark, southmoor (si pf1), thanelands. A définir.
+Southmoor : frontière avec l'Irrisen, désorganisation. Apparition du nouveau Thassilon.
+Thaneland : zone classique, avec la capitale des royaumes . Proximité de plusieurs lieux intéressants.
+Les personnages commenceront avec le contrôle d'un village et/ou d'un clan. Comment ce contrôle peut-il tomber sur les PJs ? une possibilité serait que les PJs sauvent le village d'une catastrophe qui emporte le chef précédent. Les villageois leur proposerait ensuite de prendre sa place.
 
-Arc principal : Reconquête de l'Irrisen
-
-Principal problème : comment rendre intéressant la chose si un roi doit tuer un Linnorn (ce qui n'arrivera pas avant longtemps, probablement pas avant le niveau 10). Une solution serait de confier en attendant aux PJs un titre de Thane, puis de Jarl, en attendant le niveau 10.
+Arc principal : Reconquête de l'Irrisen face à l'éternel hiver.
 
 arcs secondaires:
--devenir un roi de Linnorn. Ce qui implique de tuer ou vaincre une des créatures.
+-devenir un roi de Linnorn. Ce qui implique de tuer ou vaincre une des créatures. En attendant, des titres de Thane et de Jarl peuvent être conférés.
 -vaincre un rival, avec lequel les PJs auraient un conflit datant du début de la campagne. Un weregild ou un compte à régler.
+-Un troll, particulièrement malin, rôde dans la région, terrifiant les villages alentours, et menaçant de perturber tous les échanges.
+
+structure générale
