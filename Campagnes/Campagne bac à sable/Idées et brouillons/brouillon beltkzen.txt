@@ -9,9 +9,11 @@ route commerciale entre Korvosa et Vigil, juste au nord des mindspin mountains, 
 Arc principal
 Sécuriser une paix durable dans la région, potentiellement face à une unification des orques sous une seule bannière.
 
-arcs secondaires
--découverte d'une cité du Thassilon, avec des habitants toujours actifs.
--menace, plus ou moins lointaine, du tyran qui murmure.
+arcs secondaires et tertiaires
+-découverte d'une cité du Thassilon, dont les habitants sont toujours là, sortis de stase ou immortels.
+-menace, plus ou moins lointaine, du tyran qui murmure : des agents infiltrés, des groupes de morts-vivants rôdant avec son éveil proche...
+-le consortium Aspis propose un accord, fournissant des revenus intéressant contre leur présence. Evidemment, ils comptent alors avoir leur mot à dire dans ce qui se passe.
+
 
 structure générale:
 
