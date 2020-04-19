@@ -1,4 +1,4 @@
-employeur : Kommene, pour un client inconnu (en fait, leur johnson habituel, mais il ne souhaite pas le faire savoir)
+﻿employeur : Kommene, pour un client inconnu (en fait, leur johnson habituel, mais il ne souhaite pas le faire savoir)
 
 objectif : vol d'un prototype d'implant de contrôle de drone dans une installation d'Iris firmware, une filliale de Renraku technologies.
 Contraintes : aucun dommage collatéraux à l'extérieur de l'installation. L'intérieur est complètement ouvert au feu et aux dommages matériels et humains. Cette clause ne concerne évidemment pas la slef-défense.
@@ -17,3 +17,8 @@ Les riggers ont les compétences et attributs suivants:
 REA 6
 armes auto 5
 pilotage 4
+
+alerte :5
+
+Diellza dervishi : ancienne amie de jashari, embauchée par Renraku
+Najimi securities : corpo sec de renraku
