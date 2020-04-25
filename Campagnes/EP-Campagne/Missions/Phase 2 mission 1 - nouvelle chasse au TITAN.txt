@@ -23,7 +23,6 @@ Piste d'origine : contacter Guillaume de Prusse pour avoir des informations plus
 
 Indices de Mae eun jung: 
 -elle sait que Sergio passe de temps en temps dans sa communauté, mais bon, il a une très bonne rep dans la communauté barsoomienne
--elle a un doute sur sa localisation
 -elle sait que sergio a contacté deux personnes : une inconnue(Wong), et un ami commun : Aleksy Komar
 -Elle a idée que sergio compte vendre des marchandises illégales, mais ne sais pas à quel point.
 -Elle se méfiera de quelqu'un qui annonce le chercher, en particulier si on parle des autorités.
@@ -37,3 +36,11 @@ Indices de Wong miao/triades:
 Sergio:
 -sergio n'a pas conscience d'être infecté
 -sergio est parano : si quoique ce soit ne se passe pas comme prévu, il pensera qu'on lui en veut, et cherchera une autre solution pour transmettre cet objet.
+
+Hideki-sama (hideki ichiro)
+Oyabun du clan yamaguchi, il gère une partie du crime organisé que l'on peut trouver au nord de la TQZ. Et sergio lui doit de l'argent, beaucoup d'argent même. 
+-Il a apprit que sergio était sur un gros coup et fait parler de lui.
+-Il compte envoyer des hommes vérifier où il se trouve et récupérer son argent (un groupe de 4 dont un de ses lieutenant, Kodama saburo.
+-Si les PJs mettent beaucoup de temps à arriver, ils auront déjà retrouvé Sergio, et seront en train de l'interroger pour récupérer les sous d'hideki-sama.
+-Il est sans doute possible de négocier avec Hideki Ichiro, il reste sensé, mais souhaitera une faveur en retour, et attends du respect de la part de ses interlocuteurs.
+-Sa base d'opération est l'agri-dôme d'akashima, situé à la base du mont olympe, contre la façade ouest du volcan.
