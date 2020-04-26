@@ -1,0 +1,45 @@
+Concept : les personnages sont attaqués par les mêmes types qui les ont poursuivi lors de la seconde run. Ils portent des tenues anonymes, et ont des têtes franchement étranges.
+Faits : ces hommes étranges sont le fruit d'un programme militaire lancé lors de la guerre civile turque par la faction d'Amir Usman. Ils sont peu nombreux, mais assez lourdement augmentés. Usman les utilise pour préparer le lancement de son nouveau parti, en récupérant des compétences utiles, et en dégageant les risques potentiels. Ses janissaires les détestent.
+
+Déclenchement : une embuscade est tenudes aux personnages, au moins ceux qui étaient dans l'équipe d'origine.
+2 hommes avec des armes automatiques s'en prennent à chacun des trois dans leurs activités courantes. Le plus sûr serait de s'échapper plutôt que d'affronter ces adversaires dangereux.
+Jashari sera attaqué dans un bar, en mode drive-by
+Highlander chez lui, entrée violente.
+abraham en pleine rue, par deux types avec des armes blanches.
+
+Enquête:
+
+indices des adversaires:
+-équipement de bonne qualité, bien entretenu, et identique
+-tête étrange, possiblement des modifications expérimentales
+
+rumeurs en ville
+-des rumeurs apparaissent depuis quelques mois à leur sujet
+-pas de gros coup, mais pas mal d'opérations à plus petite échelle, parfois assez spectaculaire, ils sont bien entrainés et équipés.
+-les possibilités sur leurs origines, suivant à qui on demande : des specops EVO, des troupes gouvernementales, une unité militaire illégale, un groupe terroriste....
+-plusieurs coups par eux : un appartement dans Galata a été raidé à l'aube, un entrepot a été rasé dans les zones industrielles nord, un convoi de transport de prisonnier a été attaqué, les évadés ont été repris par la polis, mais un des prisonniers a été exécuté en pleine rue.
+-Lors de la guerre civile turque, ils ont été aperçus à plusieurs reprises, travaillant pour un camp inconnu.
+
+Indices de l'appartement:
+-porte détruite
+-stockage bien dissimulé, mais ouvert
+-un second stockage, bien caché également, contient des informations intéressante : l'occupant de l'appartement, un data broker, détenait à l'intérieur
+-la grande partie du matériel de stockage de données a été ravagé dans l'assaut, le reste emporté par la polis pour analyse.
+-d'après la Polis, le locataire, un certain Abdul Kemal, a été retrouvé depuis, dans le port. SOn corps est à la morgue.
+-les voisins ont entedu des bruits sourds en pleine nuit, et quand ils sont sortis, un groupe d'hommes armés escortaient Arkan. Ils portaient des uniformes de la Polis, mais leurs têtes étaient étranges, comme, malades.
+
+Indices du convoi:
+-le rapport de polis indique une demi-douzaine d'attaquants, lourdements armés. Ils ont bloqué le van avec son escorte, avant de sortir les prisonniers, pour en abattre un un peu plus loin.
+-le trajet du convoi était sensé être secret, ils devaient donc être mobiles. 
+-Le type abattu est à la morgue.
+
+Indices de la morgue:
+
+Indices de l'entrepot:
+
+Enquêteur arkan draganovic, division yunislar.
+C'est lui qui est chargé de l'enquête sur l'entrepot et abdul, il a récupéré quelques informations, mais recherche toujours des informations. Il est prêt à travailler avec des runners, mais n'a pas de budget à proposer.
+Lieutenant Samina Vasilis, division sahinler:
+responsable d'une task force des sahinler dédiée à la recherche de ces types après leur attaque sur le convoi, elle ne souhaite pas travailler avec des amateurs, utilissant ses hommes et leurs contacts plutôt que des runners ou draganovic. Elle mène sa propre enquête, visant clairement le poste de capitaine
+
+

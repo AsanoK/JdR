@@ -27,3 +27,10 @@ RENCONTRES ALÉATOIRES
 +Contrôle de Polis : les personnages sont inspectés en détail, en particulier pour vérifier la présence de matériels explosifs ou militaire illégal. Leur SIN est analysé proprement, sans aller trop chercher. Contrôle effectué par une patrouille mobile.
 +Racisme ordinaire : les loups gris sont en train d'interpeler des "suspects" (ukrainiens d'après les jurons) : les tabasser copieusement pour les embarquer. Les ukrainiens en questions sont des petites frappes sans importance, mais cela peut jouer sur la réputation des joueurs.
 +risque d'accident : les PJs circulant doivent s'arrêter brutalement pour éviter de percuter un véhicule de luxe qui ignore les règles de conduite. Il est dirigé par le fils du représentant local de Proteus AG, qui menace rapidement les PJs pour leur incompétence. Il est possible de négocier ou de l'impressioner, mais ce dernier choix peut mener à des représailles. (les PJs ne reconnaissent pas forcément Proteus).
+
+Organisation de la polis:
+-maltihar : patrouilles à pied et vélo
+-Yunislar : patrouille à moto, enquêteurs
+-sahinler : forces spéciales sur nodachi.
+-Hezarfen : rigger, sécurité aérienne et renforts
+-katip : sécurité éveillée.

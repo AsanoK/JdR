@@ -1,0 +1,3 @@
+Concept:
+Les messages trouvés par les PJs ont permis d'identifier une petite station relai comme étant probablement lié à la junte jovienne.
+Les PJs sont donc envoyés avec comme mission d'infiltrer physiquement la station poiur y récupérer les données(si possible), et y placer un mouchard de Firewall. Si l'alarme est déclenchée, le mouchard sera inutile, mais les données resteront l'objectif.
