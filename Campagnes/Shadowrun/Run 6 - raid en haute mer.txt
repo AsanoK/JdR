@@ -1,0 +1,11 @@
+Concept : Les PJs sont embauchés par un nouveau johnson pour un boulot unique : ils ont besoin de quelqu'un pour s'emparer d'un navire dans les eaux internationales en mer noire. Du moins d'une partie très spécifique de sa cargaison : ???
+Petit problème inattendu, du moins pour les PJs: le navire est géré par des loups gris, car leur johnson travaille pour les 10000 dagues.
+
+Indices et autres à trouver:
+-le nom du navire peut rappeler des trucs à ceux qui travaillent dans le milieu du trafic en ville (en particulier d'armes). Auquel cas, ils pourront probablement le relier aux loups gris.
+-le johnson travaille depuis longtemps à Constantinople, et sert de fournisseur aux 10000 dagues principalement. Des gens qui connaissent les 10000 dagues pourront l'identifier sans problème.
+-Le plan du navire se trouve à la capitainerie ou lors de son départ de constantinople vers Rostov.
+
+Défenses du navire : 
+-une demi-douzaine de membres d'équipage, dont un capitaine un peu plus sérieux
+-un esprit de l'eau dans la soute, qui passera par les canalisations du navire pour remonter en cas d'alerte.

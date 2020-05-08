@@ -17,29 +17,36 @@ rumeurs en ville
 -des rumeurs apparaissent depuis quelques mois à leur sujet
 -pas de gros coup, mais pas mal d'opérations à plus petite échelle, parfois assez spectaculaire, ils sont bien entrainés et équipés.
 -les possibilités sur leurs origines, suivant à qui on demande : des specops EVO, des troupes gouvernementales, une unité militaire illégale, un groupe terroriste....
--plusieurs coups par eux : un appartement dans Galata a été raidé à l'aube, un entrepot a été rasé dans les zones industrielles nord, un convoi de transport de prisonnier a été attaqué, les évadés ont été repris par la polis, mais un des prisonniers a été exécuté en pleine rue.
+-plusieurs coups par eux : un appartement dans Galata a été raidé à l'aube, un entrepot a été rasé dans les zones industrielles nord, un convoi de transport de prisonnier a été attaqué, contenant les deux capturés par la Polis avec Jashari. Les deux prisonniers ont été exfiltrés, les autres ont été exécutés en pleine rue.
 -Lors de la guerre civile turque, ils ont été aperçus à plusieurs reprises, travaillant pour un camp inconnu.
 
 Indices de l'appartement:
--porte détruite
--stockage bien dissimulé, mais ouvert
--un second stockage, bien caché également, contient des informations intéressante : l'occupant de l'appartement, un data broker, détenait à l'intérieur
+-porte détruite, au bélier portatif probablement.
+-stockage bien dissimulé, mais ouvert. Petit stockage dans un pied de lit.
+-un second stockage, bien caché également, contient des informations intéressante : l'occupant de l'appartement, un data broker, détenait à l'intérieur des informations sur les janissaires, un groupe proche d'Amir Usman, lui fournissant notamment sa sécurité perosnnelle. Les données contiennent une liste de noms, mais aussi des informations sur certaines de leurs 'bavures', qui semblent avoir été moins improvisées que ne le pensait le public. Contient aussi des informations intéressantes sur un incident Saeder-Krupp en mer noire, ayant mené à la perte d'une de leur plate-forme de forrage.
 -la grande partie du matériel de stockage de données a été ravagé dans l'assaut, le reste emporté par la polis pour analyse.
--d'après la Polis, le locataire, un certain Abdul Kemal, a été retrouvé depuis, dans le port. SOn corps est à la morgue.
--les voisins ont entedu des bruits sourds en pleine nuit, et quand ils sont sortis, un groupe d'hommes armés escortaient Arkan. Ils portaient des uniformes de la Polis, mais leurs têtes étaient étranges, comme, malades.
+-d'après la Polis, le locataire, un certain Abdul Kemal, a été retrouvé depuis, dans le port. Son corps est à la morgue.
+-les voisins ont entendu des bruits sourds en pleine nuit, et quand ils sont sortis, un groupe d'hommes armés escortaient Abdul. Ils portaient des uniformes de la Polis, mais leurs têtes étaient étranges, comme, malades.
 
 Indices du convoi:
 -le rapport de polis indique une demi-douzaine d'attaquants, lourdements armés. Ils ont bloqué le van avec son escorte, avant de sortir les prisonniers, pour en abattre un un peu plus loin.
 -le trajet du convoi était sensé être secret, ils devaient donc être mobiles. 
--Le type abattu est à la morgue.
+-Les types abattus sont à la morgue.
 
 Indices de la morgue:
+-modifications des attaquants très étranges, concept avancé, mais réalisation assez pauvre. Ressemble à un projet militaire pour le légiste.
+-Les prisonniers exécutés l'ont été au couteau de combat, d'un modèle proche ou identique à celui des attaquants. La plupart étaient des gangers sans intérêts, reliés à divers groupes. Un seul se démarque vaguement, un chasseur de prime ayant causé de gros dommages lors d'une collecte, du nom de Xander Konstantinos.
+-Abdul Kemal a été tué d'une balle dans la nuque, après une interrogation brutale : ses assaillants l'ont frappé, puis torturé rapidement. Il porte des tatouages très décoratifs, cachant une couche plus ancienne de tatouages. Un motif est identifiable, une main d'or. La balle a traversé ce que tenait cette main. L'or a été placé chirurgicalement sous la peau, plutôt coûteux pour un signe de gang.
+
 
 Indices de l'entrepot:
+-l'entrepot a été rasé, avec la majeure partie des marchandises contenues
+-le registre indique du matériel agricole, ce qui est cohérent avec ce qui est trouvable dans les ruines
+-l'inventaire des dégâts a commencé, la majeure partie semblant avoir été détruit, un groupe de caisses semble avoir disparu, mais ne sera pas signalé au début de l'enquête des PJs.
 
 Enquêteur arkan draganovic, division yunislar.
-C'est lui qui est chargé de l'enquête sur l'entrepot et abdul, il a récupéré quelques informations, mais recherche toujours des informations. Il est prêt à travailler avec des runners, mais n'a pas de budget à proposer.
+C'est lui qui est chargé de l'enquête sur l'entrepot et abdul, il a récupéré quelques informations, mais recherche toujours des informations. Il est prêt à travailler avec des runners, mais n'a pas de budget à proposer. Il travaille avec Houri sur cette affaire.
 Lieutenant Samina Vasilis, division sahinler:
-responsable d'une task force des sahinler dédiée à la recherche de ces types après leur attaque sur le convoi, elle ne souhaite pas travailler avec des amateurs, utilissant ses hommes et leurs contacts plutôt que des runners ou draganovic. Elle mène sa propre enquête, visant clairement le poste de capitaine
+responsable d'une task force des sahinler dédiée à la recherche de ces types après leur attaque sur le convoi, elle ne souhaite pas travailler avec des amateurs, utilissant ses hommes et leurs contacts plutôt que des runners ou draganovic. Elle mène sa propre enquête, visant clairement le poste de capitaine. Elle va ignorer les demandes d'Arkan, voire essayer de bloquer son enquête de façon non officielle.
 
 
