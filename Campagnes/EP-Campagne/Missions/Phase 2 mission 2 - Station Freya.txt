@@ -1,3 +1,29 @@
-Concept:
-Les messages trouv�s par les PJs ont permis d'identifier une petite station relai comme �tant probablement li� � la junte jovienne.
-Les PJs sont donc envoy�s avec comme mission d'infiltrer physiquement la station poiur y r�cup�rer les donn�es(si possible), et y placer un mouchard de Firewall. Si l'alarme est d�clench�e, le mouchard sera inutile, mais les donn�es resteront l'objectif.
+Concept : 
+Une petite station  de la ceinture d'asteroide ne répond plus aux communications. Firewall craint qu'il ne se soit passé quelque chose, et envoie les sentinelles enquêter. Celles-ci trouvent des tunnels vides et des salles désertées. Quelques traces de sang font craindre le pire.
+Ce qui s'est passé : Un agent d'origine inconnu a introduit un hack basilik dans la station,  transformant ses habitants en marionnettes pour une intelligence alien. Celle-ci les utilise pour des buts étranges : ils ont créé au centre de l'asteroide une sorte de labyrinthe , dans lequel ils errent aujourd'hui, s'affrontant dans l'espoir d'être notés par leur nouvelle 'divinité'. Celle-ci a pris la forme d'une sorte de monolithe noir au coeur du labyrinthe, apprenant de ceux qui le parcourent, et menaçant de contrôler ceux qui arrivent en son centre, comme une pomme de savoir géante.
+
+Habitat: 
+Neo-Trondheim, dans la ceinture d'asteroide, appartenant à une filliale d'Action Directe : Yukon minerals.
+L'agent:
+Un membre de la CLS, décidé à transmettre la bonne parole de MOAB, a en fait transmis un hack basilik. Etait-il au courant de ses actes, ou était-ce un simple accident?
+
+Indices et éléments troublants:
+-une navette est dockée sur la plate-forme principale d'aterissage (vecteur de l'agent). Celle-ci contient peu de chose, à part les logs de passagers, indiquant que celui ou celle qui a demandé à venir ici vient de Locus.
+-Les lieux ont été évacués rapidement : la plupart des systèmes tournent toujours, plus ou moins plantés. Les installations minières notamment, fonctionnent dans le vide. Dans les baraquements, des affaires ont été laissées.
+-Le journal de la station, tenu par son contremaître, n'indique rien de particulier, à part l'arrivée de cette navette pour les dernières journées.
+-Des cadavres ont été coincés dans le recycleur de la station. Deux pour être exact, l'un est celui du pilote de la navette, l'autre est celui d'un neo-octopus. A part cela, il n'y a aucune trace de violence.
+-Une seule chose manque vraiment à part les habitants : une partie du matériel de minage n'est plus là. Une bonne partie même.
+-un pJ qui tenterai de cartographier le labyrinthe s'exposera à une domination de la créature, de part sa compréhension du design contre-nature.
+
+rencontres du labyrinthe:
+1: une combinaison, vide et propre
+2: un cadavre, du moins un squelette. Il est mort avec la visière démolie.
+3: un mineur, marmonant des propos incompréhensibles. Il attaque les joeurs à mains nues pour essayer de les griffer, de les déchiqueter.
+4: un mineur couvert de sang gelé. Il porte les crânes de deux autres, dont les piles sont toujours visibles à la base de la colonne.
+5: Rien du tout, mais l'impression d'être observé est plus présente.
+6: L'agent d'origine, crucifié sur une sorte d'autel étrange de matériaux de récupération. Son visage semble exprimer dans la mort une sorte d'extase malaisante. Sa pile est noircie et brûlée.
+7: Cette portion du labyrinthe semble visuellemnt se tordre de manière impossible. Les autres sens soit ne voient que du néant, soit ne sont pas affectés.
+8: un mineur mort, il semble s'être lui-même arraché les yeux peu avant de décéder.
+9: le tunel rétréci pour former une porte, qui une fois ouverte révèle un mur de pierre solide.
+10 : un essaim de nanobots grave les parois de cette section en boucle, effaçant les gravures précédentes au fur et à mesure.
+11:une sorte de drone étrange est contrôlé par un morphe qui y est greffé. Il attaque le PJ
