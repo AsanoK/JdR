@@ -1,0 +1,10 @@
+Objectif des règles de downtime:
+-permettre la récupération et la préparation de la suite
+-fournir une occasion de discuter un peu avec les PNJs
+-options voulues:
+	* se détendre, dans la mesure du possible (récupération des attributs)
+	* se renseigner sur la suite des évènements ou sur ce qui se passe autour
+	* travailler ses relations avec un PNJ (en lui filant des coups de mains par exemple, pas dispo pour tout le monde) -> suivant le PNJ, peut fournir un bonus sur de futurs tests de dowtime.
+	* essayer de se procurer un élément de matériel supplémentaire pour la suite
+	* 
+-Les règles de downtime ne doivent pas coûter d'attributs, même si il y a des tests demandés.

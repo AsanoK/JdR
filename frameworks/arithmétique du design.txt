@@ -1,0 +1,11 @@
+1- Additions are easier than subtractions.
+
+2- Numbers with bigger differences are easier to compare, and trailing zeroes optimize this.
+
+3- Small numbers are easier to compare than large numbers.
+
+4- Fewer operators is easier than more operators.
+
+5- Precalculation is easier than recalculation or tabulation
+
+6- Tabulation is a nightmare.

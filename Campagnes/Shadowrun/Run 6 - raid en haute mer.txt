@@ -16,6 +16,11 @@ Défenses du navire :
 -une demi-douzaine de membres d'équipage, dont un capitaine un peu plus sérieux. celui-ci est plus lourdement équipé, et surtout, augmenté.
 -un esprit de l'eau dans la soute, qui passera par les canalisations du navire pour remonter en cas d'alerte. Force 3. 
 
+
+Situation et plan :
+Ils prévoient d'attendre devant le navire, de nuit pour l'attaquer. Ils sont en mer non loin, à environ 60km des côtes bulgares. Ils se situent à une trentaine de km du navire.
+
+
 capitaine:
 SR5
 B A R S W L I C Ess

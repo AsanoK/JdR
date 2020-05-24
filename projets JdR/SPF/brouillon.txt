@@ -1,10 +1,8 @@
-arme base:
-+1 attribut
-+11 compés
-
-arme complet:
-+7 compés
-
-spé base
-
-spé complet
+TODO:
+-renommer l'agressivité
+-définir les tags utiles
+-fixer les équipements de la création de perso
+-préparer le downtime
+-scenario d'intro
+-règles de combat avancées
+-règles de camarades
