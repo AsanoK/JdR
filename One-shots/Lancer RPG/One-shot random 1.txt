@@ -1,0 +1,16 @@
+Scenario 1
+La mission consiste à opérer une distraction pendant qu'une autre unité rebelle en profite pour agir. Les forces Karrakines seront probablement assez nombreuses. La cible est un complexe géothermique, au bord de l'énorme gouffre qui traverse la planète jusqu'aux profondeurs de son manteau.
+
+
+Structure:
+Après le briefing, l'unité arrive sur le terrain en s'approchant du complexe. Le déploiement de l'adversaire pour le premier affrontement dépendra de leur capacité à s'avancer sans être repérés. Le premier combat sera un affrontement classique entre l'unité et un groupe d'adversaires : pour n PJs, on aura n-4 escouades d'infanterie, un seeder, 2 assault et un cataphracte (le commandant). Les personnages sont sensés se replier ensuite pour économiser leurs forces. Toutefois, une missile antiaérien abat leur transport, et le repli doit se faire manuellement.
+
+Une cellule locale les contacte pour indiquer qu'ils disposent de données capitales pour la rebellion, et que celles-ci doivent être extraites au plus vite. La rebellion indique qu'une extraction pourra être organisée, mais cela va prendre du temps, et des renforts ennemis se dirigent vers la zone.
+Premier combat classique encore une fois, face à une force mobile de reconnaissance (mission reconnaissance ?). 1 scout, 1 rainmaker, 1 demolisher, 1 cataphract, 1 assaut
+Second combat d'extraction avec les cibles : ils faut extraire l'unité ainsi que les agents de la résistance vers une navette. Le terrain est accidenté, mais jouable. Les troupes adverses sont principalement des mechs de tirs ou de défense :assauts, aegis et seeder (2-2-1?), les renforts sont 2 demolishers, 2 cataphractes et 1 scout.
+
+Jetons:
+PJs
+infanterie, assaut, cataphracte, aegis, seeder, scout, rainmaker, demolisher
+
+Scenario 2:
