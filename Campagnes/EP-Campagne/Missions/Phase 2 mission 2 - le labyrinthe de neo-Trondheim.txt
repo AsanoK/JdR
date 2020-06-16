@@ -7,6 +7,9 @@ Neo-Trondheim, dans la ceinture d'asteroide, appartenant à une filliale d'Actio
 L'agent:
 Un membre de la CLS, décidé à transmettre la bonne parole de MOAB, a en fait transmis un hack basilik. Etait-il au courant de ses actes, ou était-ce un simple accident?
 
+Faits:
+-un agent de la CLS est arrivé sur NT, déjà corrompu. Il a alors partagé le plan du labyrinthe aux mineurs, dont la plupart ont été corrompus, les autres ont été forcés de travailler. Ils ont bâti le complexe sans regard pour leur sécurité ou leur matériel, poussé par le contrôle mental important. Le piège est le labyrinthe lui-même, mais son centre abrite un étrange objet au rôle inconnu.
+
 Indices et éléments troublants:
 -une navette est dockée sur la plate-forme principale d'aterissage (vecteur de l'agent). Celle-ci contient peu de chose, à part les logs de passagers, indiquant que celui ou celle qui a demandé à venir ici vient de Locus.
 -Les lieux ont été évacués rapidement : la plupart des systèmes tournent toujours, plus ou moins plantés. Les installations minières notamment, fonctionnent dans le vide. Dans les baraquements, des affaires ont été laissées.
@@ -21,16 +24,16 @@ rencontres du labyrinthe:
 3: un mineur, marmonant des propos incompréhensibles. Il attaque les joeurs à mains nues pour essayer de les griffer, de les déchiqueter.
 4: un mineur couvert de sang gelé. Il porte les crânes de deux autres, dont les piles sont toujours visibles à la base de la colonne.
 5: Rien du tout, mais l'impression d'être observé est plus présente.
-6: L'agent d'origine, crucifié sur une sorte d'autel étrange de matériaux de récupération. Son visage semble exprimer dans la mort une sorte d'extase malaisante. Sa pile est noircie et brûlée. Des mineurs sont entassés autour de l'autel, sans qu'une cause de mort puisse être déterminée. Un ecto contient des informations sur ses trajets, notamment un passage par Valles New Shanghai puis 'Eden'. Aucun habitat du nom d'Eden ne semble coller avec les descriptions qu'il en fait. Peut-être un nom propre à la CLS ?
+6: L'agent d'origine, crucifié sur une sorte d'autel étrange de matériaux de récupération. Son visage semble exprimer dans la mort une sorte d'extase malaisante. Sa pile est noircie et brûlée. Des mineurs sont entassés autour de l'autel, sans qu'une cause de mort puisse être déterminée. Un ecto contient des informations sur ses trajets, notamment un passage par Valles New Shanghai puis 'Eden'. Aucun habitat du nom d'Eden ne semble coller avec les descriptions qu'il en fait. Peut-être un nom propre à la CLS ? C'est la principale information à obtenir.
 7: Cette portion du labyrinthe semble visuellemnt se tordre de manière impossible. Les autres sens soit ne voient que du néant, soit ne sont pas affectés.
 8: un mineur mort, il semble s'être lui-même arraché les yeux peu avant de décéder.
-9: le tunel rétréci pour former une porte, qui une fois ouverte révèle un mur de pierre solide.
+9: le tunel rétrécit pour former une porte, qui une fois ouverte révèle un mur de pierre solide.
 10 : un essaim de nanobots grave les parois de cette section en boucle, effaçant les gravures précédentes au fur et à mesure. Cela peut ressembler à une carte du labyrinthe, mais peut-être vaut-il mieux ne pas trop s'y attarder.
 11:une sorte de drone étrange est contrôlé par un morphe qui y est greffé. Il attaque les PJs. Compte comme un drone headhunter (p410 du manuel).
 12:le tunnel s'élargit un peu, et tout les sons renvoient des échos beaucoup plus importants que l'espace ne le laisserai supposer.
-13: Le centre du labyrinthe, une pièce parfaitement circulaire, noire comme la suie, contenant en son centre une sorte d'orbe de pierre blanche.
+13: Le centre du labyrinthe, une pièce parfaitement circulaire, noire comme la suie, contenant en son centre une sorte d'orbe de pierre blanche. Celle-ci ne doit pas être touché, sous peine de tenter d'aspirer le morphe vers son centre. En dehors de cela, cet orbe n'est pas actif, du moins pas sans apport énergétique particulier.
 14 : un tunnel, marqué par des brûlures sur le mur. En continuant, on s'aperçoit qu'elles reviennent, toujours. Il faut faire demi-tour pour se retrouver ailleurs dans le labyrinthe.
-
+15 : un cadavre de mineur, dont la combinaison a été ravagée, mais une mini-caméra à proximité permet de récupérer des indices sur ce qui s'est passé. Le mineur n'a pas été corrompu avant longtemps, mais a dû travailler, forcé par ses anciens collègues. Il a documenté plusieurs points, notamment la prise de contrôle de ceux qui ont constaté le plan de la structure. Il répète avant de mourir "le problème réside dans le plan, ne pensez pas à l'agencement du labyrinthe. Fuyez". Il est apparemment devenu fou entre la situation et ue possible influence extérieure, et a détruit sa combinaison contre la paroi avant de décéder.
 
 Notes sur le labyrinthe :
 - les différents individus trouvés dans le labyrinthe ont des traces de poussière de roche sur eux : d'après les cartes géologique de l'astéroïde, cette roche spécifiquement ne se trouve qu'en de rares filons, non loin du centre de l'astéroïde. Cela pourrait permettre de s'orienter plus facilement jusqu'à l'agent (objectif du scénario, à ce moment, les PJs devraient comprendre qu'il faut le quitter au plus vite).
@@ -38,3 +41,12 @@ Notes sur le labyrinthe :
 
 
 Temps pour enquêter : 3 jours avant que Yukon Minerals n'envoie sa propre équipe.
+
+Infos transmises:
+-forte suspicion d'nfection TITAN + signalement de l'agent CLS + identification de la navette + zone de recherche
+
+Trouver quelle excuse a été utilisée pour entrer
+
+Alrun commence à cartographier avec sa muse, en essayant de mapper ce qu'ils ont exploré. Cela aura une influence sur la suite.
+Ils ont l'information sur les cartes géologique
+Début de combat avec un drone chasseur de tête dans un des tunnels. Résultats obtenus : la porte vers le vide, et le drone chasseur de tête
