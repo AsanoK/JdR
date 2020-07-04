@@ -8,6 +8,7 @@ Entre-missions 1:
 Découverte de la ville V, avec ses allées, ses bars.... Les personnages sont stationnés dans une base militaire pendant ce temps. Pas grand-chose de prévu, les personnages vont pouvoir profiter de quelques temps de répits avant la suite.
 
 Affrontement 2 : renseignement militaire
+SI JAMAIS le premier affrontement était trop long, couper court en ne faisaint pas celui-ci et passer directement au numéro 3.
 Les baronnies ont eu vent de troubles potentiels en ville, et les personnages sont chargés d'une opération visant à fouiller une zone suspecte afin d'observer ce qu'il en est. Leur troupe est en effet engagée par des lanciers adverses, ainsi que de l'infanterie. TODO : définir leurs objectifs, trouver une carte adaptée, définir la menace (relativement faible). Mission : reconnaissance. l'objectif caché est une cachette de l'insurection, avec du matériel de comm extra-planétaire. Les troupes adverses sont constituées de 2 assauts, 1 berserker, 1 rainmaker et 1 scout.
 Alors que les PJs rendent compte de cette information à leurs supérieurs et reçoivent l'ordre de revenir vers leur base, les communications sont coupées. Des informations arrivent peu après, au compte-goute : le vaisseau-mère est sous le coup d'une mutinerie/trahison, et de violents combats secouent ses couloirs. Les troupes de marines semblent moins fiables que les forces terrestres, mais ce sont celles-ci qui sont sur le terrain. Et des troupes insurgées arrivent, en masse en fait.
 
@@ -17,9 +18,28 @@ Les PJs reçoivent pour ordre de tenir un point spécifique face à l'arrivée d
 mission : dernier carré, avec une force plus avancée en tech que les précédentes, dans la base des PJs.
 Les forces adverses sont contituées d'1 spectre élite, 1 witch, 3 assauts, 2 berserkers, 1 rainmaker et 1 breacher. La première vague étant constituée des berserkers, d'un assaut, de la witch et du rainmaker. 
 
+'Eclair' : éclair est le commandant de la force de frappe, il s'occupera de briefer l'unité sur son rôle dans l'opération, et notamment son soutien du fer de lance. C'est lui-même un ancien cavalier, qui passe de plus en plus de temps à terre pour gérer de la politique. Il a été nommé à la tête de la cinquième flotte de manière inattendue, peut-être un moyen pour le haut-baron d'ouvrir de nouvelles alliances politiques.
+NPC1:
+Iramar, prêtre d'Asun, une sorte de divinité locale, qui prédisait notamment la fin du roi Solus pour ses nombreux pêchés. Il accueille plutôt bien les arrakines, en proposant de boire une sorte de thé de sa composition. Son dieu parait plutôt bon vivant, et lui-même. Il est généralement de bonne humeur.
+NPC2: 
+Valerios, un marchant de tech et de données. Il est récemment tombé sur des rumeurs d'achats de matériel anticausal par divers négociants hors de la planète. Il est très poli avec tout le monde, et parle plutôt doucement.
+NPC3:
+Issil, une propriétaire de terrains à l'est d'Ikto prime. Elle apprécie l'intervention des baronnies avec un grand cynisme : cela va libérer beaucoup de terrains à construire en ville. Elle n'a pas conscience du tout de ce qui se prépare. Elle est d'un ton très cynique.
+NPC4:
+Irmina, une mercenaire de passage. Elle cherche la compagnie d'autre combattants, les locaux l'évitant soigneusement. Elle ne regrette pas sa neutralité dans le conflit actuel, elle ne pense pas qu'il se résolve rapidement, mais n'en dira pas beaucoup plus 'une intuition'. Elle a un humour plutpot gras, et peut rapidement forcer sur la picole.
+NPC5
+Sym et Sim, deux voyageurs interplanétaires. Apparemment, ils recherchent quelque chose ou quelqu'un qui aurait fui les baronnies. Ils semblent être très d'accord l'un avec l'autre, et parlent de leur mission sans entrer dans les détails. Ils n'apprécient pas l'intervention, car la cible de leurs recherches risque fort de quitter rapidement la zone, à moins que cela ne soit déjà fait...
+
+Musiques:
+OST d'avatar pendant les phases de repos
+OST de pacific rim pendant les phases de combat
 
 A jouer:
 - un noble des baronnies, au commande d'un mécha très mobile, avec des armes variées
 -Un officier des services de renseignement, rattaché à l'unité. Il se spécialise dans les attaques tech et à longue portée
 -Un bricoleur expérimenté, au commandes d'un mécha d'artillerie lourde, prêt à faire règner la mort à longue portée
-- Un soldat de métier, au commande d'un mécha d'assaut conventionnel, et un armement polyvalent
+- Un soldat de métier, au commande d'un mécha lance-missile
+
+Références et notes règles:
+-combat rapide p76
+-pvs PJ : 6 + bail out

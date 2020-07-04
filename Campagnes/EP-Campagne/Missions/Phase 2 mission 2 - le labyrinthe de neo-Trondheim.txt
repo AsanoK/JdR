@@ -25,7 +25,7 @@ rencontres du labyrinthe:
 4: un mineur couvert de sang gelé. Il porte les crânes de deux autres, dont les piles sont toujours visibles à la base de la colonne.
 5: Rien du tout, mais l'impression d'être observé est plus présente.
 6: L'agent d'origine, crucifié sur une sorte d'autel étrange de matériaux de récupération. Son visage semble exprimer dans la mort une sorte d'extase malaisante. Sa pile est noircie et brûlée. Des mineurs sont entassés autour de l'autel, sans qu'une cause de mort puisse être déterminée. Un ecto contient des informations sur ses trajets, notamment un passage par Valles New Shanghai puis 'Eden'. Aucun habitat du nom d'Eden ne semble coller avec les descriptions qu'il en fait. Peut-être un nom propre à la CLS ? C'est la principale information à obtenir.
-7: Cette portion du labyrinthe semble visuellemnt se tordre de manière impossible. Les autres sens soit ne voient que du néant, soit ne sont pas affectés.
+7: Cette portion du labyrinthe semble visuellement se tordre de manière impossible. Les autres sens soit ne voient que du néant, soit ne sont pas affectés.
 8: un mineur mort, il semble s'être lui-même arraché les yeux peu avant de décéder.
 9: le tunel rétrécit pour former une porte, qui une fois ouverte révèle un mur de pierre solide.
 10 : un essaim de nanobots grave les parois de cette section en boucle, effaçant les gravures précédentes au fur et à mesure. Cela peut ressembler à une carte du labyrinthe, mais peut-être vaut-il mieux ne pas trop s'y attarder.
@@ -43,10 +43,18 @@ Notes sur le labyrinthe :
 Temps pour enquêter : 3 jours avant que Yukon Minerals n'envoie sa propre équipe.
 
 Infos transmises:
--forte suspicion d'nfection TITAN + signalement de l'agent CLS + identification de la navette + zone de recherche
+-forte suspicion d'infection TITAN + signalement de l'agent CLS + identification de la navette + zone de recherche
 
 Trouver quelle excuse a été utilisée pour entrer
 
 Alrun commence à cartographier avec sa muse, en essayant de mapper ce qu'ils ont exploré. Cela aura une influence sur la suite.
 Ils ont l'information sur les cartes géologique
-Début de combat avec un drone chasseur de tête dans un des tunnels. Résultats obtenus : la porte vers le vide, et le drone chasseur de tête
+Début de combat avec un drone chasseur de tête dans un des tunnels. 
+
+Résultats obtenus : la porte vers le vide, et le drone chasseur de tête
+DUR : 2/3 blessures
+
+Fin séance 2 :
+arrêt sur image après avoir découvert l'agent de la CLS, crucifiée sur une croix métallique flottant au milieu d'une grande pièce.
+
+Révélation : la fin de campagne pourrai être que certains au sein de Firewall se rendent compte que quelqu'un en interne a volontairment masqué les rapports d'activité de la CLS, le fait de s'en rendre compte déclanchant les évènements de fin de campagne.
