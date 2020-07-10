@@ -1,12 +1,29 @@
-Paladin drakeide
-???
-Chef de guerre orque:
-garde du corps de la magicienne, depuis des années.
-Mage humaine
-Erudite passionnée de l'Empire, en particulier du secret de son effondrement
-roublarde tiefline
-Héritière à son insu de l'empire ed Bael Turath
-gardien elfe
-Un banni des clans elfes
-ranger humaine
-Issue d'une famille de nostalgiques de l'empire.
+Paladin drakeide : Nadarr Khurai
+Nadarr est un paladin de Valara, la déesse des runes, de la civilisation, et Celle Qui voit le temps. Du temps de l'empire, son culte était banni au profit de la déification des empereurs, mais depuis, il a pu apparaître au grand jour. Nadarr a toujours entendu de l'église le fait que la vénération d'un mortel, et les pactes passés avec des puissances maléfiques étaient les causes primaires de la chute de l'empire, mais cela lui semble trop simple comme explication. Après ses années de noviviat, il prit donc les voeux de chevalier du temple, jurant sur l'autel  de Valara de comprende comment une civilisation pouvait s'effondrer aussi rapidment et violemment. Il a rencontré il y a maintenant plusieurs années une jeune mage, Anna Atraxos, qui partage ces interrogations, et celle-ci l'a récemment contacté pour lui indiquer qu'elle venait de trouver un objet, qui pourrait bien être la clé pour trouver des informations.
+C'est un drakéide aux écailles dorées, physiquement imposant, et relativement expansif pour un religieux : il est, sur certains sujets, d'un grand enthousiasme, et sur d'autre, très grave. En particulier, il ne revient pas sur la parole donnée.
+
+Chef de guerre orque: Menadan Atreii
+Aradan sert la famille Atraxos depuis plus de vingt ans. Arrivé dans les royaumes successeurs en tant que mercenaires, il a servit sous Alexandre Atraxos pendant sa campagne de Mérétrie, avant de devenir son garde du corps. Il a ensuite protégé sa maisonnée au cours des 21 dernières années. En particulier, depuis le décès récent du père Atraxos, il protège la plus jeune des filles, Anna, des ennemis familliaux comme de sa propre curiosité. 
+Il est généralement très calme et mesuré dans ses propos et ses actes, en particulier si un Atraxos est présent. Le qualifier de lâche est une des rares choses qui peut l'enrager, et l'amener à chercher une réparation rapide et brutale.
+Il n'est plus tout jeune, mais compte bien continuer à protéger la jeune femme dans son dernier projet en date : essayer d'utiliser une sorte d'amulette pour comprendre la chute de l'empire. Le dernier projet de ce genre impliquait un trajet de plusieurs centaines de mieux au travers des anciennes provinces impériales, cela ne peut pas être plus compliqué, si ?
+
+Mage humaine : Anna Atraxos
+Issue d'une ancienne famille noble de l'empire, Anna est une magicienne passionnée par l'histoire de l'empire, en particulier, par le mystère de sa chute : comment Bael Turath, après des siècles de domination, a-t-il pu s'effondrer en l'espace de quelques semaines ?
+La maison Atraxos est historiquement une famille d'administrateurs impériaux, et diverses branches de la famille sont présentes un peu partout dans les royaumes sucesseurs, parfois à leur tête d'ailleurs. A Atrasis, ils sont influents, mais cette influence est diluée par la dispersion des opinions politiques dans la famille.
+Elle a récemment rencontré une tiefline, qui cherchait à vendre une amulette étrange. Après une rapide enquête, Anna a découvert que cette amulette était probablement un sceau mémoriel, un artefact réservés aux plus nobles familles de l'empire pour y archiver les mémoires de leurs membres les plus illustres. Les dates gravées sur celui-ci indiquent possiblement que les évènements qui y sont enregistrés datent de la toute fin de l'Empire. cela pourrait être la clé de compréhension de cette fin ! Il faut encore comprendre comment activer cette relique, mais cela ne fait pas peur à Anna, qui a commencé à rassembler un groupe d'aventuriers pour trouver les réponses à ces questions. Elle peut parfois être autoritaire (par habitude plus que par méchanceté), mais son principal trait de caractère est sa curiosité, qui peut parfois friser le mépris pour le danger et les convenances.
+
+roublarde tiefline : Kallista
+Kallista est une tiefline, née dans les faubourgs d'Atrasis où ses parents passaient d'un travail difficile et mal payé à un autre.
+Depuis ses quinze ans, et la mort de ses parents, elle vit seule, généralement dans les rues. elle vit principalement de petits boulots, parfois de larcins. Elle a appris à survivre seule, et manie plutôt bien les dagues, même si sa taille suffit souvent à lui éviter trop de problèmes. Le seul souvenir de ses parents était une vieille amulette, le seul objet de valeur qu'ils aient apparemment jamais eu.
+Elle a récemment cherché à vendre cette vieille amulette, ne lui trouvant aucune utilité en tant que souvenir, et ayant besoin d'argent. Un de ses contacts lui indiqua d'aller voir Anna Atraxos, une magicienne noble de la ville. A sa grande surprise, cette amulette semblait avoir plus de valeur que prévu, et la jeune magicienne lui proposa un travail : il s'agissait de l'aider à découvrir les secrets que pouvaient contenir la vieille amulette !
+Kallista est d'un caratère très pragmatique, et préfère généralement limiter les risques qu'elle prend. Ell n'a par contre aucun problème moral avec la violence par exemple : parfois, elle est nécessaire pour survivre.
+
+gardien elfe : Vedran Andrethi
+Amos est un des elfes de cendre, anciennement du clan Andrethi. IL a été banni de son clan après un conflit avec son frère aîné, qui fut tué dans le combat. Il  a survécu pendant des années parmi les autres clans, bien que ceux-ci rechignaient généralement à ce qu'il reste trop longtemps parmi eux. Il a fini par quitter ses terres de cendres pour proposer aux N'wah, aux étrangers, ses services de guide. En effet, il se sent le mieux lorsqu'il parcourt les terres inhospitalières dans lesquelles il est né. Il évite toutefois scrupuleusement les terres de son ancien clan : son bannissement est définitif, et il n'est pas sûr de souhaiter revenir là-bas.
+Il a récemment été contacté par la maison Atraxos, qui aurait potentiellement besoin d'un guide, qui connaisse les anciennes ruines impériales.
+C'est un elfe à l'humour caustique, qui apprécie de passer son temps sur les routes et auprès d'un feu de camp, plus que dans les villes des N'wah, trop affairées, trop occupées pour lui.
+
+ranger humaine : Angelia Valixion
+Les valixion étaient, depuis le temps de l'empire, une famille de soldats, au service de l'empire, puis d'Atrasis. Angelia déroge légèrement à cette règle : plutôt que l'armée, elle préfère le sable de l'arène, et s'est faite une petite réputation dans l'ancienne province. Comme sa famille, elle regrette la chute de l'empire : il y a plus d'opportunités pour qui veut prendre le puvoir, mais il n'y a que rarement de cause à suivre.
+C'est une jeune femme plutôt joyeuse, parfois idéaliste, ce qui peut contraster fortement avec sa profession de combattante.
+Elle a appris récemment que le vieux Menadan, un orque avec lequel elle s'est entrainé plusieurs fois, recherchait des gens capables de se débrouiller avec un arme, potentiellement pour en apprendre plus sur l'empire. Elle a donc quitté son école de gladiature, prenant avec elle quelques souvenirs (essentiellements des objets de famille datant de l'époque impériale) pour accepter ce travail. Elle espère peut-être ajouter quelques objets anciens aux reliques familiales, et au pire, cela ne sera sans doute pas plus dangereux que les arènes de la ville.

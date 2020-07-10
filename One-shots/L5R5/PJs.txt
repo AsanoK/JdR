@@ -1,14 +1,49 @@
-PJ 1 : courtier de la grue
+PJ 1 : courtier de la grue, Daidoji Hisao
 Kohai de Daidoji Teru, style exact à définir, possiblement un maître espion daidoji. Il fait partie du réseau de son senpai. Giri : récupérer le plus d'informations possibles sur les clans adverses, et servir d'adjoint à Teru. 
+Clan : grue, famille : daidoji, école : maître espion daidoji
+aptitude: notoirement efficace
+coup du sort:maladie incurable
+passion: secrets
+défaillance : coeur tendre
+relations : senpai, daidoji Teru
+héritage: bâtard impérial
 
 PJ 2 : yojimbo du scorpion
 Une jeune bushi du scorpion, servant de yojimbo à Bayushi Miya, et est au courant de sa laison avec le seigneur Izumo, mais suppose qu'il s'agit d'une ruse du scorpion. Giri : protéger Bayushi Miya. Ninjô : ???
+clan scorpion, famille bayushi, école des tueurs bayushi
+aptitude : observateur subtil
+coup du sort : réputation de cruauté
+passion : jeux de société
+défaillance : traumatisme de guerre
+relations : yojimbo, bayushi Miya
+héritage: victoire face au Lion
 
 PJ 3 : tireur tsuruchi
 Un tireur de la guêpe, chargé d'escorter la délégation présente ici, et de montrer la présence des bushi du clan.
+clan guêpe, famille tsuruchi, école de rônin
+aptitude : petit
+coup du sort :franc-parler
+passion: pinceau
+défaillance : peur de la mort
+relations : ???
+Héritage : savoir dérobé
 
 PJ 4 : shugenja de la grue
 Expérimentée, elle est envoyée ici pour s'assurer de rumeurs quand à des signes étranges s'étant récemment produits au château, à la demande de son daimyo, qui préfère enquêter trop que trop peu sur ce genre de sujets, en particuliers dans un château contesté par le scorpion. Giri : suivre la piste des évènements étranges. Ninjô :
+clan grue, famille asahina, écoler d'artificiers asahina
+aptitude :sixième sens
+coup du sort :passé peu reluisant
+passion : contes
+défaillance:intolérance : scorpion
+relations
+héritage : fondateur de dynastie
 
 PJ 5: Courtière du scorpion
 Une membre du scorpion, travaillant principalement aux négociations de son clan ici. En réalité la responsable du renseignement pour Taneda, et donc une shinobi de talent. Giri : se procurer les informations les plus utiles possibles. Ninjô :
+clan scorpion, famille shosuro, école des infiltrateurs shosuro
+aptitude : beauté fatale
+coup du sort : malédiction de Benten
+passion : plaisanteries
+défaillance : amour (matérialisme, mais vers une personne)
+relations : amoureuse de Seppun Eiji
+héritage : un oncle est un lâche et est devenu rônin
