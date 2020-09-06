@@ -5,6 +5,11 @@ Objectif des règles de downtime:
 	* se détendre, dans la mesure du possible (récupération des attributs)
 	* se renseigner sur la suite des évènements ou sur ce qui se passe autour
 	* travailler ses relations avec un PNJ (en lui filant des coups de mains par exemple, pas dispo pour tout le monde) -> suivant le PNJ, peut fournir un bonus sur de futurs tests de dowtime.
-	* essayer de se procurer un élément de matériel supplémentaire pour la suite
-	* 
+	* essayer de se procurer un élément de matériel supplémentaire pour la suite : munitions, rations....
+	* Préparer le terrain : fortifier, piéger, agencer le matériel... Peut fournir un bonus à un ou plusieurs tests plus tard.
+	*récupérer un camarade
+	*générer un nouveau PJ.
+
+-Jamais plus d'un test par PJ/période
 -Les règles de downtime ne doivent pas coûter d'attributs, même si il y a des tests demandés.
+-Les périodes de downtime peuvent aller de 1h à 1 journée, suivant les cas.

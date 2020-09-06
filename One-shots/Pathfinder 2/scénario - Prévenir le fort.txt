@@ -1,0 +1,55 @@
+Thèmes et ambiance:
+Désert, rouge (MtG), raids, gobelins,orques, exploration
+
+Arc principal:
+Les personnages vont arriver face à l'avant-garde d'une large tribu d'orques et gobelins se préparant à assiéger le fort voisin. Il leur faudra réussir à devancer cette troupe pour prévenir les défenseurs avant qu'ils ne soient pris par surprise. SCènes importantes : poursuite par des éclaireurs, affrontement avec des tirailleurs. Possiblement un duel avec un chef ou sous-chef.
+
+Arc secondaire :
+Les personnages sont envoyés vérifier une région non loin du fort, car un objet est récemment tombé du ciel. Il faudrait aller vérifier ce qui est tombé. Il s'agit d'une simple météorite, mais cela aura été interprété par la tribu d'orque et gobs comme un présage de leur réussite dans la guerre à venir.
+Vagues quêtes de personnages : duel pour l'un, un proche à sauver pour un autre, faciliter au mieux les défenses pour un troisième....
+
+Structure:
+1) départ du fort vers l'endroit où serait tombé l'objet en question.
+2) Découverte d'une patrouille GS, et vision de la troupe qui les suit.
+3) Poursuite/course contre la montre pour prévenir le fort en avance.
+4) Détours potentiels, avec leurs dangers
+5) affrontement avec un groupe avancé d'orc sur un point stratégique (pont ?)
+6) arrivée au fort, et fin du scénario.
+
+Rencontres:
+-première patrouille de gobelins, avec un orque comme chef
+-potentiellement une patrouille orc qui les aurait rattrapé
+-groupe de pillards orque, près d'une ferme/bâtiment civil
+-avant-garde orque, sur un point important. Il s'agit de les retarder plus que de les vaincre
+
+-> Le scénario devrait les mener au niveau 2 avec cela. 
+
+Setting : zone frontalière à définir, dans une zone aride, pour réutiliser mes décors, ou zone classique tempérée, si je prends le temps de faire des arbres et peut-être une nouvelle plaque de jeu.
+
+Rencontres:
+0)Recontre dans la nature :
+
+1)La patrouille de gobelins:
+Une petite patrouille de 3 gobelins et un commando, non loin de la pierre tombée du ciel. Ils ont été envoyé par le chef Varag mâche-braise pour observer cette étrangeté.
+Une fois vaincu, les personnages peuvent entendre des trompes, et observer un nuage de fumée et de poussière au loin. (xp : 100)
+2)éclaireurs orques:
+En s'approchant de cette vision, les personanegs tombent sur un groupe de fourageurs orques occupés à piller un village. Un guerrier et deux brutes, cherchant de manière chaotique (xp:100)
+3) course poursuite : 
+Une fois les fourageurs tués, un groupe beaucoup plus important remarque les PJs et commence à essayer de les rattraper. Utilisation des règles de poursuite (p156 DMG). 6 obstacles :murets, forêt dense, colline, colline again, forêt again, rivière
+forêts : perception  DC17, survie DC 13, 4 CP
+murets : athlétisme DC13, roublardise DC15
+collines :athlétisme DC13, DC 15 perception
+Discrétion DC 12 pour gagner du terrain, ou athlétisme 15, ou survie 13
+En cas d'échec, un affrontement a lieu contre deux guerriers orques et un chef de guerre (XP : 140 dans les deux cas).
+4)Affrontement sur un pont:
+Les personnages affrontent un pyro gobelin, ainsi que deux gobelins et un guerrier orque (XP : 120) Cela afin de protéger l'approche d'un village, le temps que les paysans ne s'enfuient dans les environs. Si les personnages restent un peu plus longtemps, il va leur falloir combattre une seconde vague, avec un chef de guerre orque et 3 brutes.
+5) Varag mâche-braise:
+Si les personnages tentent d'affronter Varag à un moment, celui-ci est un adversaire redoutable, chef de guerre d'élite, et est protégé par deux guerriers orques : 160 XP
+
+
+PJs:
+-ensorceleuse gobeline des tempête, exilée de sa tribue de la côte. Figurine déjà imprimée
+-Championne elfe de la déesse des runes, des connaissances et de la magie. ashen alfar inquisitor
+-rôdeur humain, avec une haine certaine des orques. Figurine inspirée de the witcher, ou vernon roche?
+-guerrière naine, 'TENIR OU PERIR', elle accompagne un autre membre de l'équipe. dwarf female warrior dans mes stl
+-Un alchimiste skaven, curieux et voyageur. figurine dans mes stl aussi

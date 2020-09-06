@@ -1,0 +1,9 @@
+Chaque personnage a un camarade, qui le suit tout le temps : chargeur d'une arme de soutien, adjudant pour un officier, spotter pour un sniper....
+
+Celui peut être utilisé de deux façons : 
+-Il peut permettre de gagner un bonus de +2 sur un test tant qu'il est opérationnel, avec l'accord du MJ. 
+-Il peut être 'sacrifié' pour subir une attaque à la place du personnage. On calcule l'effet de l'attaque comme si le personnage subissait, mais une éventuelle blessure ou mise hors de combat est infligée au camarade à la place du personnage.
+
+Générer un camarade:
+-Quand on créée un personnage, on créée aussi son camarade, généralement correspondant à son rôle.
+-Si le camarade meurt et doit être remplacé, il est généré aléatoirement ou en accord avec le MJ.

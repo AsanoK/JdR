@@ -14,8 +14,12 @@ Spécifiquement, il s'agira d'un défi de compétences pour essayer d'obtenir pl
 -diplomatie pour obtenir des informations des spécialistes (nécessite une réussite de streetwise) DD15 sans leur offrir des infos sur ce qui sera trouvé, 10 avec
 -arcana pour étudier directement l'objet et ses couches d'enchantement, DD10 pour le premier succès, 15 pour les suivants.
 8 succès avant 3 échecs
-Dans tous les cas, les perosnnages devraient apprendre que la babiole est une forme de clé, liée à l'ancienne religion impériale. il faudrait donc trouver un temple suffisamment important et intact pour faire fonctionner la babiole et donner les réponses. L'un d'eux existe, dans les montagnes d'Isther, suffisamment loin des routes commerciales pour ne pas avoir été pillé. Il se situe au coeur des terres de cendre, et est considéré comme un lieu sacré à ne pas déranger par les elfes.
+8 succès, 2 échecs
+
+Dans tous les cas, les personnages devraient apprendre que la babiole est une forme de clé, liée à l'ancienne religion impériale. il faudrait donc trouver un temple suffisamment important et intact pour faire fonctionner la babiole et donner les réponses. L'un d'eux existe, dans les montagnes d'Isther, suffisamment loin des routes commerciales pour ne pas avoir été pillé. Il se situe au coeur des terres de cendre, et est considéré comme un lieu sacré à ne pas déranger par les elfes.
 La réussite ou l'échec fournit des informations plus ou moins précises sur le fonctionnement de la babiole, et certaines précautions qu'il faudrait prendre avec son utilisation.
+
+
 Scène 2 bis : l'attaque
 Un groupe de mercenaires, probablement payé par un noble de la ville très intéressé par ces mêmes réponses, attaque le groupe, après avoir essayer de leur estorquer la babiole. Le combat se déroule dans une ruelle, en fin de journée, et les passants quittent rapidement les lieux devant l'ambiance qui se dégrade.
 RENCONTRE 1:
@@ -30,9 +34,11 @@ Un second défi de compétences, cette fois-ci pour traverser sans encombre les 
 -endurance DD15, pour rationner efficacement ses ressources au cour de la marche
 -exploration, DD15 pour le premier, 10 pour les suivants, pour trouver puis suivre une ancienne route impériale menant au complexe de temple.
 -discrétion DD10 pour éviter des ennuis sur la route : elfes, scorpions, insectes....
--diplomatie/intimidation DD15 pour convaincre les tribus elfes sur le chemin de les laisser passer sans encombre, de leur forunir des ressources avec les résultats suivants
+-diplomatie/intimidation DD15 pour convaincre les tribus elfes sur le chemin de les laisser passer sans encombre, de leur fournir des ressources avec les résultats suivants
 -nature DD10 pour un natif de la région, 15 pour les autres, pour obtenir des ressources sur place, notamment de la nourriture et de l'eau.
 6 réussite avant 3 échecs pour remporter le défi.
+6 réussite, 0 échecs
+
 En cas de réussite, le voyage se déroulera sans grand problème jusqu'au temple, et bientôt, ses plates-formes en ruine se dressent devant les personnages.
 En cas d'échec, les personnages vont arriver avec des malus au temple, fatigués par leurs épreuves. 
 
@@ -44,6 +50,20 @@ RECONTRE 2 :
 -2 éclaireurs elfes (skirmishers 2, p106 MM), 125XP
 -2 gardes humains (soldier 3 p 162 MM), 150XP
 total : 675 XP, rencontre de niveau 2
+Init:
+roublarde : 23
+gladiatrice :22
+mage : 20
+gardien squelette :18
+orque : 18
+wight : 17
+Drakeide : 13
+gardien : 12
+
+wight à -52/54, 5 ongoing
+champion à 11
+
+
 
 Scène 5 le temple lui-même
 Il faut en premier lieu trouver le moyen d'entrer dans le complexe à proprement parler : les terrassses sont en ruine, mais les souterrains et certains des batiments les plus centraux ont survécus, scellés. Si le premier défi de compétence a été réussi, cela est aisé, le type de sceau étant connu. 
@@ -91,6 +111,7 @@ Que faire ?
 -en manque de combat, rajouter une attaque d'elfes ou de morts-vivants
 -en manque de temps, passer les gardiens finaux du temple
 -en manque d'indices, ajouter des bas-reliefs qui donnent des informations aux joueurs.
+
 
 TODO:
 +définir combat 1 (en ville)

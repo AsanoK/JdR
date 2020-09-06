@@ -2,7 +2,7 @@ Concept:
 Le fils d'amis de Kommenne (un couple corpo assez bien placé), a récemment disparu dans Constantinople, et Kommenne a donc décidé de mettre sur le coup sa meilleure équipe (si ils sont volontaires). La gamine est Amina Valaras, une jeune femme de 19 ans, à qui est promis un bel avenir au sein de Saeder-Krupp.
 L'objectif est donc de ramener saint et sauf la cible, ou une preuve de ce qui lui est arrivé (demi récompense dans ce dernier cas).
 Faits :
--la gamine est parti de la villa de ses parents pour deux raisons : en premier lieu, ses capacités de mage commencent à se développer, et l'idée de travailler pour Saeder-Krupp, dans la tradition familialle, ne l'intéresse pas. A force de cotoyer les ombres (pseudo : ??), elle s'est trouvé une équipe de runners assez irréguliers. Pour sa fugue, elle a rejoint un ami à elle, un minotaure nommé Alexi Metaxas(), qui entre deux runs, 'travaille' dans des cercles de combat underground. Le troisième membre de l'équipe est une infiltratrice sociale, Maria Miliewiscz ('Brigadier'). 
+-la gamine est parti de la villa de ses parents pour deux raisons : en premier lieu, ses capacités de mage commencent à se développer, et l'idée de travailler pour Saeder-Krupp, dans la tradition familialle, ne l'intéresse pas. A force de cotoyer les ombres (pseudo : 'Amazone'), elle s'est trouvé une équipe de runners assez irréguliers. Pour sa fugue, elle a rejoint un ami à elle, un minotaure nommé miran moktar('myrmidon'), qui entre deux runs, 'travaille' dans des cercles de combat underground. Le troisième membre de l'équipe est une infiltratrice sociale, Maria Miliewiscz ('Selene'). 
 -Elle prépare cette fugue depuis un bon moment, étant moins attentive et présente dans sa formation, mais aussi en ayant récupéré un certain équipement chez elle, qu'elle a embarqué avec elle.
 
 Scènes:
@@ -15,7 +15,7 @@ Scènes:
 	-la salle de concert organise des évènements tous les jours, passant la journée à préparer la soirée. Le thème du jour est le rock orque des années 2050, avec une foule de métalleux intéressés. On peut remarquer qu'un videur a l'air d'avoir pris un sale coup, alors que la salle est réputée très calme.
 	-En posant les bonnes questions, et avec une bonne tête de runner, on leur posera la question si ils souhaitent voir la scène secondaire, qui se trouve être une petite arène de combat illégale, dans une ancienne citerne réaménagée.
 	-les personnages, si ils arrivent à l'heure d'ouverture, découvrent donc une petite arène dans laquelle combattent un orque très rapide, ainsi qu'un minotaure. Le combat se termine après quelques minutes par un abandon de l'orque.
-	-la tête d'amina peut dire quelque chose à quelqu'un, mais il n'aura pas de pseudo. par contre, il peut donner l'indication qu'elle doit avoir quelques amis dans les ombres pour être allé ici. Si on pose la questions aux gladiateurs, ceux-ci ne diront rien, mais le minotaure sera en train de mentir. Si la question leur est posée, le minotaure ira rapporter l'information immédiatement à son équipe, et brigadier ira se renseigner rapidement sur eux, possiblement en les contactant directement pour une autre affaire.
+	-la tête d'amina peut dire quelque chose à quelqu'un, mais il n'aura pas de pseudo. par contre, il peut donner l'indication qu'elle doit avoir quelques amis dans les ombres pour être allé ici. Si on pose la questions aux gladiateurs, ceux-ci ne diront rien, mais le minotaure sera en train de mentir. Si la question leur est posée, le minotaure ira rapporter l'information immédiatement à son équipe, et Selene ira se renseigner rapidement sur eux, possiblement en les contactant directement pour une autre affaire.
 	-Si on attends un peu plus à l'arène, la jeune femme passe le plus souvent juste avant la fermeture, pour raccompagner le minotaure. 
 	-l'arène est gérée par la mafia serbe, en particulier par un certain kovac. Celui-ci n'aime pas les problèmes, et menacera de faire vider la place par ses combattants et/ou ses videurs.
 -le squat du 40 rue d'Athènes:
@@ -32,14 +32,16 @@ Objectif narratif:
 Cette run dois servir de contrat un peu temporaire entre d'une part la question politique (run contre Usman) et d'autre part le cas des loups gris, avec lesquels les PJs ont eu pas mal de problèmes récemment. Une sorte de run intermédiaire (après que la run intermédiaire précédente, la piraterie, ait été modifiée par les évènements). 
 Eviter au maximum un contact frontal avec les loups gris, pour éviter une redite des précédents scenarii?
 
-Notes:
--crafter des softwares pour les drones
--test pour obtenir l'archon via Jashari : 8/24, un test par semaine. Jashari passe par son dealer d'arme. Test à 12.
--Batteries : 12/20, un test tout les deux jours. test à 8 par son mécano/fournisseur de drones.
--test pour arme abraham : 19/18, un test par 2 jours, commençant en milieu de mois. Arme obtenue en 8 jours
-Début de cette run environ 2 jours avant la quittance des loyers
--test pour focus chi : 4/12 coût 12000 : 1 test/semaine à 9
+
 
 Fin : 
 -recherche du côté de la compagnie de sécurité : Jashari et highlander
 -recherche du côté de l'école : Abraham et Hawk
+Des infos ont été demandé à pas mal de monde.
+
+Fin séance 2:
+-lieu : l'antichambre
+-Ils ont discuté avec Myrmidon, qui n'a pas pu cacher qu'il connaissait Amina ('amazone'). Il a négocié le temps de se battre dans la soirée pour laisser le temps à Selene d'arriver, et possiblement à amazone aussi.
+-Les deux jeunes femmes vont arriver vers la fin des combats, prévenues de la présence des PJs.
+-Selene va tenter l'approche diplomatique pour essayer de négocier le problème.
+-Si cela ne suffit pas, Amazone pourra utiliser ses pouvoirs, et myrmidon est une brute de premier ordre. Selene sert de soutien/infiltratrice, moins utile dans un combat frontal.

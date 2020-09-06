@@ -1,0 +1,17 @@
+Concept général:
+Jeu de cyberpunk permettant de jouer à un quasi-shadowrun, à un jeu d'infiltration (penser deus ex), ou un jeu d'enquête policière (une ou plusieurs possibilités pourraient sauter).
+Objectif : maximiser le travail en équipe même si toute l'équipe n'est pas physiquement présente sur le lieu d'une opération.
+Jeu basé sur des archétypes, avec des capacités dédiées permettant de surmonter les obstacles différemment. Chaque archétype doit disposer d'actions spécifiques, avec éventuellement des possibilités pour piocher dans les capacités d'autres archétypes. Possiblement plusieurs branches dans chaque archétype pour débloquer de nouvelles capacités.
+Idée à envisager : essayer d'obtenir quelque chose ne nécessitant pas de MJ, avec de l'aléatoire et de la décision commune des joueurs.
+
+Archétypes :
+-sécurité, le combattant principal de l'éqquipe, avec des capacités basées sur des implants, ou de l'armement, et la capacité à neutraliser des gardes rapidement par exemple.
+-Pilote, le mécanicien, capable autant de piloter dans des situations étranges que de réparer du matériel ou saboter une installation.
+-Hacker : the tech guy, fournissant un soutien ou extrayant des informations sur le problème en cours via les réseaux. Capacité de gérer certaines menaces automatisées, de récupérer des informations et de contourner certaines sécurités (portes, grilles électrifiées....).
+-Spotter. L'éclaireur, avec des drones pour repérer les problèmes et analyser les lieux. Capable de trouver des solutions pour éviter certains problèmes (canalisations, échelles de secours...)
+-Agent, le gars furtif, qui s'infiltre physiquement dans une installation sans être vu. Peut simplement éviter d'être vu par des gardes ou éviter les capteurs de défenses automatisées.
+-Arnaqueur, s'infiltre en pleine journée au milieu de ses cibles pour obtenir ce qu'il veut. Peut obtenir des informations via ses contacts, et se sortir de situations épineuses en mentant comme un arracheur de dent.
+-Expert : le scientifique de l'équipe, nécessaire pour analyser de nombreux éléments, que ce soit en mission ou dans un labo. Peut trouver des solutions techniques à certains problème (appuie là, cela devrait désactiver cette grille par sécurité), et fournir des informations sur ce qui se passe.
+-L'enquêteur, un gars polyvalent, capable de combattre un peu (avec la surprise), a des contacts, sait poser les bonnes questions. Peut affronter quelqu'un à la déloyale, trouver des indices spécifiques et relier des points du scénario ensemble.
+-Le survivant, capable de subir plus que les autres. Il peut se battre correctement, explorer des zones dévastées, connait les danger de la polution/radiation... Optionnel ?
+-Médecin. Fournit des soins à son équipe, y compris sur le terrain. Peu de solution pour sortir immédiatement d'une situation compliquée, mais des moyens de gérer les conséquences médicales de celles-ci. Possiblement plus pour du PNJ.

@@ -58,3 +58,6 @@ Fin séance 2 :
 arrêt sur image après avoir découvert l'agent de la CLS, crucifiée sur une croix métallique flottant au milieu d'une grande pièce.
 
 Révélation : la fin de campagne pourrai être que certains au sein de Firewall se rendent compte que quelqu'un en interne a volontairment masqué les rapports d'activité de la CLS, le fait de s'en rendre compte déclanchant les évènements de fin de campagne.
+-> leur proxy se rend compte lors du debrief qu'elle n'a pas reçu les informations précédentes sur l'implication de la CLS, ce qui suppose un gros problème de sécurité au sein de Firewall.
+Les personnages seront contactés plus tard par un autre proxy, faisant partie du serveur de sécurité interne de Firewall, et un vieux contact de 433. Il leur posera des questions sur le déroulement de l'opération et les communications entreprises.
+Tout ceci dépendra uniquement de la survie d'un ou plusieurs membres du groupe.

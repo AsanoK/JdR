@@ -1,0 +1,50 @@
+Thèmes et ambiance:
+Confrontation finale, Eglise TITAN, urgence, étrange, bleu/noir....
+
+Arc principal
+-Mettre en échec le gros problème d'EDEN : Warhol. Celui-ci a été corrompu par une pomme de discorde, et commence à essayer de propager lentement cette corruption. Il faudra remonter la piste de l'agente précédente pour arriver jusqu'à lui. Il essaie de tenter de créer un esprit matriochka sur EDEN, dans un des ponts sécurisé.
+
+arcs secondaires:
+-Grande annonce de la CLS, de la mise en place d'un nouveau projet majeur : EDEN.
+Il s'agit d'un habitat dédié à la secte, qui y invite leurs nouveaux convertis, notamment martiens. Les personnages sont envoyés infiltrer EDEN, de la façon de leur choix : physiquement ou socialement.
+-Infiltration d'EDEN : physique par l'espace, ou sociale en se faisant passer pour des convertis.
+-Contre-espionnage avec les efforts des evocati pour trouver les PJs d'une part, et le renseignement Jovien qui peut soutenir les PJs sur ce point spécifique : Faith est présente, et pourrait contacter les PJs
+
+Expressions et notes sur la CLS:
+- 'Moab guide vos pas'
+- 'Les archanges masquent leur volonté'(au-dessus de moab) 
+- ''
+
+EDEN:
+-docks pour les matériaux pour l'expansion
+-zone commune 'la paroisse', généralement très pratique, avec des zones de travail (pour ceux qui ont des compétences spécifiques), et d'apprentissage (pour les autres).
+-zone cérémonielle ('le temple'), où se déroulent les rituels de la secte.
+-zone de direction ('le conseil'), où se dissiumle l'entrée vers le coeur de l'installation, où Warhol tente de réaliser un esprit matriochka d'après les visions que son infection lui envoie.
+
+
+Structure:
+-infiltration vers EDEN
+-remonter une piste sur EDEN
+-Entrer dans la zone de sécurité 
+-Affronter Warhol sur son terrain, c'est un async avec une bonne sécurité
+
+1. Infiltration vers EDEN:
+-annonce par la secte de la fondation officielle de l'habitat, et d'un effort pour y envoyer les fidèles.
+-Choix de la ou des méthodes d'infiltration.
+-Infiltration physique en navette puis approche en mode furtif
+-infiltration sociale en se faisant recruter en tant que fidèles.
+
+2. Remonter la piste sur EDEN :
+-indice de départ : identité de cette agente, et identifiant de son transport
+-au docks, certaines infos sur l'opération, et son niveau d'autorisation
+-parmi ses connaissances, essentiellement des vétérans de la CLS. Elle faisait partie des membres de longue date, ayant passée 5 illuminations. Mais certains aurtes ont pu discuter avec elle, notamment dans son rôle d'éducatrice sur les écritures sur EDEN. Ils peuvent indiquer que sa dernière mission était effectivement vue comme prioritaire par Warhol lui-même. 
+-Poser des questions à certains endroits peut amener les personnages à être informés directement par Faith, qui a pu se rendre compte que la structure de l'habitat cache quelque chose, possiblement un niveau lié au conseil.
+
+3. La zone de sécurité
+-Il faut soit justifier de son entrée sur place, soit s'y glisser furtivement. La sécurité y est ressérée, et en cas d'échec, c'est l'interrogatoire par les evocati.
+-Une fois arrivé aux quartiers de Warhol, on peut trouver ensuite l'accès vers la zone secrète.
+-affrontement contre Warhol qui travaille sur son grand projet, sa REVELATION.
+
+groupes infiltration:
+Eleis, alrun : sociale
+Aowena, sage, niraja : physique
