@@ -1,0 +1,68 @@
+AMBIANCE:
+-Neige et glace, sel et mers, forêts épaisses et mystérieuses, hautes montagnes et fjords
+-Fourrure, chaud foyer, acier
+-bleu pur
+-musique : Skald, god of war, ensiferum
+
+ARC PRIMAIRE: un nouveau seigneur des mers
+Un dragon bleu a récemment occupé une île battue par les vents et l'a clamé comme son domaine. Un domaine qu'il compte bien étendre à toute la région, en utilisant une variété de serviteurs pour cela : corruption, intimidation ou destruction des communautés présentes dans la région pour qu'elles le servent, ou meurent.
+La communauté des PJs est assez récente, et commence à envisager des raids au-delà des mers pour s'étendre, ainsi que du commerce. Le dragon est une menace à cette ambition. Ce genre d'expéditions a commencé il y a peu, le premier chef de raid est encore en vie, bien que plutôt âgé.
+étape 1 : un raid sur une ville étrangère, puis le retour, avec une escarmouche face au dragon bleu, qui coule le navire.
+étape 2 : retour à la communauté
+étape 3 : premiers serviteurs du dragon
+étape 4 : un traître dans la communauté
+étape 5 : approche du dragon
+étape 6 : l'île du dragon
+
+SCENES MAJEURES
+-Affrontement final contre le dragon bleu dans son antre
+-Première rencontre avec le dragon, par surprise, en bateau. Une rencontre aussi rapide que violente
+-Affrontement naval face à une grande créature aquatique, comme un serpent de mer, ou un kraken
+-Raid subi par la ville des PJs, ou du moins une ville dans laquelle ils sont à ce moment
+-Raid par les PJs sur une communauté adverse, peut-être tombée sous la coupe du dragon.
+-Duel contre un chef ou thane à la botte du dragon, plus ou moins en secret.
+
+ARCS SECONDAIRES
+- Conflit régional :un royaume voisin lance un raid sur la ville, lançant l'assaut à l'aube pour s'emparer de ses richesses. Il faudra les repousser, puis mener un raid de représaille, sur leur ville ou au minimum sur une possession importante.
+-La forge mythique :Pour réaliser un objet magique puissant, les  personnages doivent se mettre en quête d'une forge probablement myhtique et de son forgeron légendaire. Le tout est en fait une métaphore : un lieu spécifique, est décrit dans la chanson, et le 'forgeron légendaire' décrit liste les qualités requises pour utiliser le lieu.
+-Weregild : Un affrontement entre deux familles majeures (et surtout deux thanes) menace au sein de la communauté. Entre coups de mains et jusqu'au meurtre, le conflit est bien ancré. Il faudra sans doute intervenir pour limiter le conflit, ou le régler. Sinon, l'escalade finira sans doute par l'exil d'un camp ou l'autre.
+
+
+ARCS TERTIAIRES:
+-la fille de l'océan :Un navire a fait naufrage sur un rocher des environs. Il pourrait contenir des ressources intéressantes : trésors, informations.... Peut-être même un vaisseau connu et attendu, auquel cas, les PJs sont envoyés à sa recherche.
+-le roi des forêts :une créature ancienne vit dans les forêts profondes de la région. Sa sagesse et sa force sont connues de tous, et chantées par les skaldes. L'affronter ou profiter de ses faveurs pourrait permettre de bâtir une légende.
+-marcher sur des oeufs :un roi voisin demande le droit de lancer des raids en passant par la région. il faudra gérer ses émissaires sans effusions de sang, et possiblement observer ces raids passer (et revenir chargés de ressources)
+- le roi des profondeurs : une créature monstrueuse vivait dans les profondeurs, et en est sorti pour ravager les navires de passage.
+-Les anciennes traditions :Des pêcheurs ramènent de très étranges poissons. Les anciens parlent d'un rituel à réaliser à un vieil autel sur les falaises pour apaiser les divinités des mers, mais est-ce une bonne idée ?
+-Le défi :un dieu lance un défi, publiquement. Celui ou ceux qui parviendront à l'accomplir bénéficieront de ses faveurs.
+
+RENCONTRES: 
+-PRINCIPAL 1: donjon de 3 rencontres, 1 rencontre d'exploration puis rencontre faussée : 5
+-PRINCIPAL 2: 3 rencontres de combat, 2 rencontres d'exploration : 5
+-PRINCIPAL 3: donjon de 4 rencontres, dont un boss, 2 rencontres de combat et 2 rencontres d'exploration : 8
+-PRINCIPAL 4: 2 rencontres sociales, 4 rencontres de combat, 2 rencontres d'exploration : 8
+-PRINCIPAL 5: 3 rencontres d'exploration, 5 de combats :8
+-PRINCIPAL 6: un donjon de 6 rencontres, dont le boss, 2 rencontres d'explorations : 8
+-secondaire 1(conflit régional): donjon de 3 rencontres, 2 explorations, 3 combats :8
+-secondaire 2(forge mythique): 4 explorations, 5 combats, 1 rencontre sociale :10
+-secondaire 3(weregild): 3 rencontres sociales, 3 combats, 1 exploration :7
+-tertiaire 1(fille de l'océan): 2 explorations, 2 combats :4
+-tertiaire 2(roi des forêts): 3 explorations, 1 ou 2 combats : 5
+-tertiaire 3(marcher sur des oeufs): 2 rencontres sociales, 2 combats :4
+-tertiaire 4(roi des profondeurs): 2 explorations, 3 combats :5
+-tertiaire 5(les anciennes traditions): 3 explorations, 3 combats : 6
+-tertiaire 6(le défi): 5 explorations, 2 combats :7
+
+STRUCTURE DETAILLEE:
+niveau 1: principal 1, principal 2
+niveau 2: le défi, marcher sur des oeufs
+niveau 3: principal 3, 2 rencontres de secondaire 2 et 3
+niveau 4: secondaire 1 (5 rencontres), secondaire 3
+niveau 5: fin secondaire 1 (3 rencontres), les anciennes traditions 
+niveau 6: moitié de principal 4, fille de l'océan, continuer secondaire 2
+niveau 7: moitié de principal 4, roi des forêts, continuer secondaire 2
+niveau 8: moitié de principal 5, fin secondaire 2
+niveau 9: moitié de principal 5, roi des profondeurs
+niveau 10: principal 6
+
+Auquel on pourra ajouter les rencontres d'exploration, surtout si les PJs partent fréquemment à la conquête des mers.

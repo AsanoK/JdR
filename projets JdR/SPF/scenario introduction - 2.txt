@@ -1,0 +1,76 @@
+Mots-clés : maison de pavlov, combat urbain, ruines, fumée, explosions, poussière, nuit, horreur.
+Unité : 1er bataillon,42ème régiment de fusilliers, 13ème division des fusilliers de la garde, 62ème armée
+
+officiers:
+Colonel Elin du 42 régiment de gardes
+
+Arc principal:
+l'unité, partie de la 13ème division de fusiliers de la garde, reçoit l'ordre de tenir un bâtiment donnant sur une place de la ville, non loin de la gare n°1 (en couvrant un accès au nord en fait).
+Les assauts allemands vont devenir de plus en plus féroces pour s'en emparer, notamment une fois la gare prise. L'escouade est attachée au QG régimentaire, qui coordonne notamment une partie des affrontements de la gare.
+
+moments clés:
+-réception du matériel, entre le 13 et le 14 septembre
+-traversée de la volga sous les bombes, le 14 au soir
+-affrontements pour nettoyer la zone de débarquement, combat non loin de la maison des spécialistes
+-progression en ville jusqu'au magasin général, où le QG régimentaire s'installe, protégé par un peloton, dont les PJS. 
+-sécurisation des lieux, et rapports des premières lignes comme quoi la gare est tombée, mais les combats sont féroces dans ses alentours : vers l'aube. Le QG du premier bataillon est dans une usine de clous, à proximité immédiate de la gare.
+-contre-offensive allemande sur la position de l'univermag, mal organisée dans un premier temps
+-demi-journée de 'calme', avec la vie qui s'organise dans les ruines
+-assaut allemand mieux organisé sur la position, composé de deux féroces tentatives, soutenue par un canon d'assaut.
+
+Arcs secondaires:
+-civils dans les décombres, qui essaient de survivre
+-problèmes de ravitaillement et de communication, nécessitant d'envoyer des coursiers vers l'arrière, dans des conditions importantes de danger. Il faut de l'eau, de la nourriture, et les ordres.
+-maintient des conditions de travail pour le QG régimentaire, autant que possible, alors que les consigne de Chuikov impliquent de se rapprocher au maximum des forces adverses.
+
+TIMELINE:
+INTRO
+13.09.42 - 1500 : arrivée à l'est de Stalingrad, de l'aurte côté de la Volga. Les fantassins n'ont pas leurs armes de service après la phase de reconstituion qui vient de précéder. La ville en flamme est en vue, et l'ordre est de s'installer dans des positions protégées : un réseau de tranchées et de bunker côté est, partagé avec les artilleurs de plusieurs divisions déjà déployées en ville.
+13.09.42 - 1700 : ordre est donné d'aller voir le quartier-maître du bataillon pour obtenir ses armes. Les premières rumeurs circulent : l'assaut doit être donné demain au travers de la Volga; les allemands ont déjà pris la ville, il va falloir tenir cette rive; la division doit relever la 131ème division de fusilliers, au sud de la ville.....
+14.09.42 - 0930 : Les ordres commencent à être ditribués aux officiers : la troupe doit se préparer à embarquer pour le lendemain. Le 42ème régiment doit être prêt à partir dès ce soir pour servir d'avant-garde, son 1er bataillon servant de première vague, et devant être prêt à partir dès l'après-midi. 
+14.09.42 - 1300: les briefings des officiers sont réalisés, expliquant que le premier bataillon va débarquer dans la soirée pour sécuriser un site de débarquement, et contre-attaquer pour stopper l'avancée des fascistes : il faut reprendre le centre-ville, à commencer par les positions avancées allemandes et la gare, à quelques centaines de mètre de la Volga.
+14.09.42 - 2030 : le bataillon est ordonnée d'avancer vers la VOlga pour embarquer dans les ferry, barques et péniches qui doivent assurrer sa traversée. Les PJs sont sur une grande barque, que dirigent des marins de la flotte de la mer noire. 
+
+PARTIE 1
+14.09.42 - 2130 : ordre est donné de traverser. Celle-ci doit durer environ 30 minutes, et l'unité doit sécuriser la zone de débarquement. La traversée est infernale : les mortiers adverses, mais aussi les mitrailleuses et une paire de stukas visent le convoi. Des PNJs voisins sont blessés par des éclats de shrapnels, et des hommes se jettent dans la Volga car leur embarcation coule.
+14.09.42 - 2200 : débarquement dans la ville de Stalingrad. Premier affrontement entre le peloton des PJs et une unité d'infanterie allemande, avec un nid de mitrailleuse (des grenadiers de la 75ème division d'infanterie, qui ont réussi à arriver à la VOlga).
+COMBAT 1 : tête de pont sur la volga
+
+PARTIE 2
+14.09.42 - 2330 : après les combats autour de la position, l'ordre est donné d'avancer vers la gare pour le bataillon, ordre donné par Zhuikov. Le QG régimentaire va s'installer dans le magasin univermag, escorté par l'unité des PJs. Combat rapide, mais violent pour l'univermag, face à une unité d'infanterie allemande, sans mitrailleuse opérationnelle.
+COMBAT 2 : prise d'univermag par les PJs
+15.09.42 - 0030 : les combats sont terminés ici, et le reste du bataillon peut progresser. L'unité des PJs est assignée à la garde d'univermag, le QG régimentaire souhaitant s'y installer. Ils peuvent passer une bonne partie de la nuit à préparer du mieux qu'ils peuvent leur position dans les décombres et/ou la place rouge.
+15.09.42 - 0500 : le QG régimentaire arrive sur la position, et commence à travailler. La nouvelle arrive vite : le premier bataillon a réussi à s'emparer de la gare, et s'y barricade en cercle. SOn QG est dans une usine de clous de l'autre côté ed la rue par rapport à la gare. Le reste de la division doit débarquer dans la journée, alors que l'artillerie allemande fait rage.
+15.09.42 - 1200 : des chasseurs et bombardiers soviétiques passent au-dessus de la ville, frappant quelques positions allemandes en engageant leurs forces aériennes. Un bombardier soviétique s'écrase de l'autre côté de la place rouge, contre un bâtiment a priori calme. Le pilote est gravement blessé, mais vivant, et peut être sauvé si les PJs vont le chercher. Dans ce cas, cela leur prend quelque temps, et limitera la protection des PJs partis face à la contre-attaque allemande, qui commence peu de temps après (ils seront de l'autre côté de la place rouge). Des tirs peuvent être entendus dans toute la zone, et des coureurs rapportent une offensive allemande. Le QG déduit que l'axe mène les allemands vers eux, et entend des nouvelles de la gare : les combats y sont acharnés, celle-ci ayant déjà été reprise dans la matinée par les deux camps.
+
+PARTIE 3
+15.09.42 - 1230 : assaut allemand contre univermag, avec des troupes qui viennent de se battre pour les bâtiments voisins. Un panzer III soutient l'assaut, aidé par un groupe de sapeurs avec un lance-flammes. 
+COMBAT 3 : premier assaut allemand sur univermag
+15.09.42 - 1400 à 1930 : les forces allemandes se replient et se regroupent dans certains bâtiments de l'autre côté de la rue : les combats y font toujours rage avec les forces soviétiques, certaines contre-attaquant depuis les sous-sols. Les PJs peuvent participer à leurs ennuis, en tirant vers les fenêtres ou en fournissant de l'aide. D'autres peuvent être envoyés en tant que coureurs pour obtenir des ressources, ou transmettre un message au QG de Chukov par exemple. Il faut aussi couvrir les hommes des signaux, qui essaient de déployer des lignes téléphoniques vers le QG.
+15.09.42 - 1930 : avec l'obscurité, les combats continuent, mais des civils sortent aussi des décombres. Ils cherchent pour la plupart de l'eau et de la nourriture, ou des vêtements dans les décombres. Il s'agit notamment d'enfants, orphelins ou non. En plus des préparations éventuelles, le sergent a besoin de monde pour une mission de reconnaissance : il s'agit de savoir ce qui se trouve dans un atelier de maroquinerie de l'autre côté de la rue. Celui-ci est un merdier : des troupes allemandes occupent les deux étages, mais les combles sont tenues par une unité de sapeurs du régiment, qui manoeuvres entre plusieurs bâtiments comme cela, le sous-sol abrite une escouade du NKVD, le rez-de-chaussée étant partagé entre les deux camps, avec des échanges réguliers de tirs et de grenades.
+15.09.42 - 2200 : Les bruits de combat continuent, et si ce n'était pas le cas avant, l'escouade entière va être envoyée mener un raid sur les positions allemandes, avec pour mission de faire des dégâts et si possible, de capturer une 'langue'. Ce dernier point est moins critique pour le lieutenant, mais va faire bien voir les PJs auprès des officiers.
+16.09.42 - 0430 : envoi en mission de ravitaillement pour le QG de régimentaire.
+16.09.42 - 0630 : un groupe d'allemands avance pour attaquer à nouveau univermag. Ils disposent d'un canon quelque part dans les ruines, un Stug est plus loin le long de la rue, et un peloton d'infanterie progresse depuis les ruines pour prendre d'assaut les positions soviétiques.
+16.09.42 - 0930 : la gare est tombée au main des fascistes, le premier bataillon opère un repli de cette position après une nuit de cauchemar.
+TODO : dans la soirée, les forces allemandes montent un assaut beaucoup plus sérieux, et le colonel a reçu l'autorisation de replier son QG à deux rues de là. L'unité va donc devoir opérer sa retraite sous le feu ennemi.
+
+DRAMATIS PERSONAE
+-Lieutenant Gabriel Ivanov : supérieur des PJs (dirige le peloton, ou la compagnie si un PJ est officier). Il va sans doute être la source de la plupart des missions. C'est un vétéran de Rodimtsev,  qui a été formé comme un parachutiste (il porte toujours fièrement son badge de saut). C'est un homme franc, qui ne cache pas au PJs que leurs vies  à tous sont sacrifiables pour atteindre les objectifs militaires, sans pour autant essayer de les sacrifier inutilement.
+-Sergent Mariya Borovichenko femme combattant depuis Kiev avec la 13ème division, et décorée pour sa bravoure au combat, alors qu'il s'agit d'un membre du corps médical. Ses exploits précédents ont déjà été mentionnés dans la presse, et elle a été décorée de l'ordre de Lénine, qu'elle porte toujours sur elle.
+-Vassily Grigoryevich : le quartier-maître du régiment, qui va devoir veiller au ravitaillement de ce QG avancé
+-Klavdiya Nechaeva : la pilote du Yak-1 qui s'écrase de l'autre côté de la place. Si un perosnnage va la chercher, elle n'est que très légèrement blessée, et pourra sans doute voler rapidement. Sinon, elle meurt sans plus de détails. Note historique : la véritable pilote de ce nom est morte le 17 septembre dans un combat aérien dans le secteur de Stalingrad.
+-Colonel Fyodor Alexandrov : le commandant du régiment. Les personnages ne devraient pas énormément le voir, sauf de loin, ou peut-être si le combat dégénère. Il apparait comme un personnage distant et épuisé, en particulier pendant la bataille, où il doit gérer une pression considérable.
+
+NOTE HISTO:
+Univermag est tombée le 22 après que les deux lignes défensives dans les blocs voisins n'aient été repoussés. Peut-être faire durer le combat jusque là? Ou trouver une autre fin de scénario.
+
+Différentes médailles peuvent être données aux membres de l'unité au cours de ce combat:
+-médaille de courage pour acte de bravoure au combat
+-médaille pour mérite au combat, pour avoir été critique à une opération militaire
+-ordre de gloire pour destruction de matériel ou personnel adverse (10-50 prisonniers, 1 à 3 tanks, sauver un commandant, repérer un raid nocturne....)
+-ordre de la bannière rouge pour acte de bravoure exceptionnelle
+-ordre de Lénine pour acte de bravoure incroyable
+-héros de l'union soviétique pour acte de bravoure extraordinaire
+-médaille pour la défense de Stalingrad à tout ceux qui ont participé à la défense de la ville.
+
+

@@ -1,0 +1,34 @@
+Concept :
+inflitration de deux membres de l'équipe dans la station EDEN, en utilisant le matériel de la CLS, en se faisant sans doute passer pour des cultistes.
+
+Route évidente:
+-des affiches RV dans la plupart des stations martiennes appellent chacun à rejoindre la foi qui bâti EDEN. Dans leur secteur, c'est une des congrégations de petite taille, dont le temple est bâti dans un espace des systèmes de maintenance du dôme C-3. Celui-ci est géré par soeur Liao, une femme entousiaste, en particulier au sujet de ce nouveau projet majeur. Elle souhaite elle-même se rendre sur EDEN, pour 'être plus près de MOAB', et 'prouver sa dévotion'.
+
+Quelles sélections pour aller sur EDEN:
+-le personnel qualifié est identifié dès son recrutement par la CLS, et suivant leur spécialité, peuvent être envoyés sur EDEN afin de pourvoir aux besoins grandissant de cet habitat spatial. REcherché : toute expertise en sécurité, en maintenance ou dans des domaines techniques. Pour un travail en sécurité, une fouille plus importante du background est demandée par les Evocati, afin de limiter les risques d'intrusion extérieures.
+-les futurs missionnaires et responsables de la comm sont envoyés en masse sur EDEN pour des 'séminaires de formation', dont l'objectif est d'obtenir les meilleurs arguments pour attirer de nouvelles ouailles dans la lumière. La motivation est ici primordiale, ainsi que la capacité à convaincre. Un prêcheur expérimenté fait le tours des congrégations pour identifier les orateurs les plus doués.
+-des individus sont envoyés de par leurs liens avec certains membres influents de la secte. Pour la congrégation Noctis C-3, un important financier participe aux réunions, et il pourrait potentiellement faire jouer cette influence pour envoyer quelqu'un là-bas (lui-même n'en ayant pas l'envie). Il est peu identifiable, mais le pasteur marque un peu plus de respect pour lui, et ses vêtements sont légèrement différents. Maxim Orlov est un facilitateur travaillant en freelance pour différentes corpo, et il met une bonne part de ses commissions dans la CLS.
+
+Les étapes de sécurité:
+-La sélection : il faut se retrouver sur un des listes de sélection d'accès : trois voies majeures possibles pour se trouver sur une de ces listes
+-L'interrogation : les Evocati conduisent un interrogatoire virtuel des potentiels élus, afin de vérifier si les individus auront accès à la station, et leur statut de sécurité sur place. L'interrogatoire est mené par un agent du service de sécurité interne des Evocati, un officier pour screener un futur evocati, un sous-officier sinon. Un officier sera formé aux techniques de renseignement et mènera un interrogatoire serré. un sous-officier sera moins pointilleux, mais vérifiera tout élément supects.
+-Le passage : au moment du transfert, certains éléments sont surveillés automatiquement, en terme de comportement notamment.
+-Arrivée sur place : suivat les résultats de l'interrogatoire et le niveau d'accès, un suivi peut être organisé sur place. Trois niveaux de sécurité : confiance, vigilance et surveillance. Confiance implique uniquement la surveillance de l'habitat, vigilance implique un suivi à intervale régulier par des agents de la CLS, qui interrogeront l'individus sous prétexte de connaître 'son bien être et intégration au sein d'EDEN'. Surveillance est un nivau actif, avec un suivi électronique à distance de l'individu via son morphe et une intervention régulière d'agents de la CLS, qui viennent poser des questions à l'entourage.
+
+L'interrogatoire (questions possées):
+-identité complète
+-décrivez votre entrée dans notre église
+-que pensez-vous accomplir sur EDEN?
+-Pouvez-vous m'expliquer votre parcours? (attends une réponse sur un éventuel trou de BG, sinon, ira poser des questions)
+Questions additionnelles pour un evocati:
+-acceptez-vous les commandes de notre interprète, Warhol ?
+-Expliquez-nous où avez vous appris vos connaissances en sécurité ?
+-*simulation d'intrusion dans le système, de la contre-propagande de la secte passe, apparemment par un hack*, les evocati surveillent de près la réaction du candidat pour connaître sa loyauté. Cela cesse après quelques instants.
+
+début = milieu de journée
+début de soirée : obtention des faux 'papiers'
+
+-> Alrun niveau confiance
+-> Eleis niveau vigilance
+
+->Prépare leur matériel !

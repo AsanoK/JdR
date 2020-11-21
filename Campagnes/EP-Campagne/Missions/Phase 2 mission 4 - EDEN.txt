@@ -1,0 +1,120 @@
+Thèmes et ambiance:
+Confrontation finale, Eglise TITAN, urgence, étrange, bleu/noir....
+
+Arc principal
+-Mettre en échec le gros problème d'EDEN : Warhol. Celui-ci a été corrompu par une pomme de discorde, et commence à essayer de propager lentement cette corruption. Il faudra remonter la piste de l'agente précédente pour arriver jusqu'à lui. Il essaie de tenter de créer un esprit matriochka sur EDEN, dans un des ponts sécurisé.
+
+arcs secondaires:
+-Grande annonce de la CLS, de la mise en place d'un nouveau projet majeur : EDEN.
+Il s'agit d'un habitat dédié à la secte, qui y invite leurs nouveaux convertis, notamment martiens. Les personnages sont envoyés infiltrer EDEN, de la façon de leur choix : physiquement ou socialement.
+-Infiltration d'EDEN : physique par l'espace, ou sociale en se faisant passer pour des convertis.
+-Contre-espionnage avec les efforts des evocati pour trouver les PJs d'une part, et le renseignement Jovien qui peut soutenir les PJs sur ce point spécifique : Faith est présente, et pourrait contacter les PJs
+
+Expressions et notes sur la CLS:
+- 'Moab guide vos pas'
+- 'Les archanges masquent leur volonté'(au-dessus de moab) 
+- ''
+
+EDEN:
+-docks pour les matériaux pour l'expansion
+-zone commune 'la paroisse', généralement très pratique, avec des zones de travail (pour ceux qui ont des compétences spécifiques), et d'apprentissage (pour les autres).
+-zone cérémonielle ('le temple'), où se déroulent les rituels de la secte.
+-zone de direction ('le conseil'), où se dissiumle l'entrée vers le coeur de l'installation, où Warhol tente de réaliser un esprit matriochka d'après les visions que son infection lui envoie.
+
+
+Structure:
+-infiltration vers EDEN
+-remonter une piste sur EDEN
+-Entrer dans la zone de sécurité 
+-Affronter Warhol sur son terrain, c'est un async avec une bonne sécurité
+
+1. Infiltration vers EDEN:
+-annonce par la secte de la fondation officielle de l'habitat, et d'un effort pour y envoyer les fidèles.
+-Choix de la ou des méthodes d'infiltration.
+-Infiltration physique en navette puis approche en mode furtif
+-infiltration sociale en se faisant recruter en tant que fidèles.
+
+2. Remonter la piste sur EDEN :
+-indice de départ : identité de cette agente, et identifiant de son transport
+-au docks, certaines infos sur l'opération, et son niveau d'autorisation
+-parmi ses connaissances, essentiellement des vétérans de la CLS. Elle faisait partie des membres de longue date, ayant passée 5 illuminations. Mais certains aurtes ont pu discuter avec elle, notamment dans son rôle d'éducatrice sur les écritures sur EDEN. Ils peuvent indiquer que sa dernière mission était effectivement vue comme prioritaire par Warhol lui-même. 
+-Poser des questions à certains endroits peut amener les personnages à être informés directement par Faith, qui a pu se rendre compte que la structure de l'habitat cache quelque chose, possiblement un niveau lié au conseil.
+
+3. La zone de sécurité
+-Il faut soit justifier de son entrée sur place, soit s'y glisser furtivement. La sécurité y est ressérée, et en cas d'échec, c'est l'interrogatoire par les evocati.
+-Une fois arrivé aux quartiers de Warhol, on peut trouver ensuite l'accès vers la zone secrète.
+-affrontement contre Warhol qui travaille sur son grand projet, sa REVELATION.
+
+groupes infiltration:
+Eleis, alrun : sociale; dodo et chloé
+Aowena, sage, niraja : physique; tara, diane, morgane
+
+musique sur EDEN : mélange de w40k et le générique de the expanse en intro
+
+Seconde partie:
+Les personnages commencent tous sur EDEN, ils vont devoir se retrouver rapidement afin de planifier la suite. Le personnage de Chloé va être mis en contact avec les différents niveaux de sécurité, liés au statut et aux différentes bénédictions (ex, sécurité 0>civil 0, mais inférieur à sécurité 2). Le niveau maximum est 7, réparti entre clergé, sécurité et administration. 
+Un message de Firewall leur demandera de remonter la piste de l'agent de neo-Trondheim, afin de savoir d'où le problème vient, et si il est lié à EDEN en général. Identité = ????
+Son vaisseau est parti des docks une semaine plus tôt, avec toutes les autorisations. Celles-ci venaient d'ailleurs d'assez haut, avec un niveau de sécurité élevé.
+En réseau, ses connaissances sont assez bien placées dans la CLS : le vice-responsable de la sécurité, plusieurs des principaux organisateurs de l'habitat font partie de ses contacts. Son rôle est flou, simplement intitulé 'chargé de développement opérationnel'. 
+Pendant leur enquête, ils peuvent être remarqués par Faith, qui pourra les suivre et essayer de les contacter. Elle travaille pour le renseignement Jovien, et peut proposer un accord aux PJs : elle leur fournit des informations sur leur problème, et ils lui fournissent des informations sur ce qui se passe dans cette station.
+Dans tous les cas, des informations sur ses opérations sont dans la zone de sécurité, relativement contrôlée. Spécifiquement, dans le réseau de sécurité, ou en posant la question à certains des contacts de cet agent. Il apparait rapidement que les informations sont classifiées ou inconnues, avec un très haut niveau d'accès, correspondant clairement au cercle intérieur du culte : clergé 6, et la mission neo-trondheim clergé 7(W), indiquant une validation par Warhol lui-même.
+Il va donc falloir aller dans les quartiers de Warhol pour en savoir plus, avec sa sécurité renforcée, et l'accès à une zone hors de tout plan, où Warhol travaille sur ses projets. En l'occurence, il étudie un artefact qui lui a été donné par MOAB : le codex. Celui-ci est évidemment un artefact TITAN, mais le TITAN d'origine est inconnu.
+Evidemment, il prend très mal ce genre d'intrusion dans ses plans, et s'en prend aux PJs, avec ses pouvoirs psy, en plus de son armement plus classique.
+Passes psys : psy stab, mental probe, infection de base à 40, basée sur l'architecte.
+
+
+Session 3 : La fin
+Objectif de séance : terminer l'opération et la campagne.
+Situation à t0 : les personnages viennent d'être abordés par Faith, pour le renseignement Jovien (Renseignement du conseil de sécurité -> RCS). Elle a remarqué leur manège, par un faisceau d'indices. Elle a pu enquêter sur les agissements de la CLS depuis quelques jours, et a pu glâner plusieurs éléments :
+-Warhol semble prendre des décisions spécifiques, la majeure partie des décisions quotidiennes semblente venir d'Eraka Waata plutôt que du bureau du Révérend. Elle pense qui les actions les plus suspectes viennent de Warhol directement, qui a l'air de gérer des trucs en parallèle.
+-Elle pense que les questions pourront y être répondues, mais cela risque de nécessiter de s'infiltrer dans le secteur le mieux protégé de la station. Elle a déjà étudié l'affaire, et peut fournir des informations aux PJs en échange de savoir ce qu'ils obtiennent dans les quartiers de Warhol.
+-Faith cache une information : la flotte jovienne prévoit de lancer au pire des cas une black op pour détruire les éléments les plus menaçants de la secte. Il s'agit de forces de commando marines, dissimulés depuis deux jours en orbite proche.
+
+INFILTRATION:
+secteur 1 : zone de sécurité, essentiellement avec des evocati. Obtenir des uniformes d'evocati peut grandement faciliter cela, et il s'agit principalement de se fondre dans la masse. Demande 4 tests réussis pour être validé. I
+secteur 2 : l'entrée des quartiers de Warhol, protégés par des jeux de capteurs. Déclencher l'alerte à ce stade déclenchera une alarme plus importante, mais il serait peut-être possible de rentrer avant l'arrivée des evocati. Il faudra neutraliser le verrouillage de la porte, les capteurs de mouvement, l'alarme sur ceux-ci et les caméras de surveillance. L'alarme passe par le réseau, les autres éléments doivent être évités ou désactivés.
+L'alerte se déclenche après une dizaine d'échecs, mais le niveau d'alerte monte après 5. Dans ce cas, tous les tests reçoivent un malus de -10.
+
+LE SAINT DES SAINTS
+Quand les personnages arrivent à entrer dans le saint des saints, ils peuvent y découvrir de nombreuses choses:
+-en premier lieu, un certain chaos, avec des sortes de schémas étranges gravés dans les murs, et de nombreux ectos et serveurs en train de tourner en série : une sorte de super calculateur, qui aurait été illégal presque partout dans le système.
+-Warhol lui-même est double : l'un de lui est dans un système de virtuel, l'autre réalise des calculs avec les nombreux appareils.
+-Un schéma à grande échelle d'une sorte de labyrinthe apparait en RV. Attention ,ce schéma peut déclencher une attaque basilisk contre qui essaierait de s'y intéresser de trop près!
+- Quand les personnages avancent dans la pièce, les deux warhol réagissent en même temps, et alternent leurs phrases.
+
+'Ah, les sbires des anciens pouvoirs viennent me rencontrer. Que venez-vous chercher ici ? La connaissance ? la Révélation ? Peu importe, vous ne le comprendriez pas, vos maîtres non plus.
+Vous ne pourrez pas arrêter la Révélation de MOAB ! '
+Pendant son discours, ils se rapprochent des PJs, et passent à l'attaque avec une mind probe pour l'un, un pistolet rail pour l'autre.
+
+BLACK OPS
+Alors que le combat s'engage : une alarme se déclenche :'ALERTE : INTRUSION DANS LE SECTEUR ALPHA, EVOCATI A VOS POSTES; RISQUE DE DEPRESSURISATION, LES CROYANTS DOIVENT REJOINDRE LEURS ABRIS AU PLUS VITE'. Cela révèle l'incursion des marines Jovien, qui commencent leur offensive. Dans les tours suivants, l'alarme continue, annonçant une dépressurisation dans certains secteurs. Faith demande ses informations.
+
+Une fois le combat terminé, il faudrait que les personnages évacuent rapidement au milieu d'une station partant en flamme : trois options pour cela : se ruer vers une navette pour évacuer à pleine vitesse, ou prendre l'egocaster dans le saint des saint, ou prendre l'egocaster général.
+Pour aller à la navette, il y a un affrontement face à un duo de marines, qui sont en train de progresser vers le secteur de sécurité. Ensuite, il faudra éviter les tirs antivaisseaux légers d'une batterie positionnée en orbite.
+Pour aller dans l'egocaster de Warhol, il faudra réussir un test de perception pour le remarquer, puis duper les cultistes à l'arrivée, ou se souvenir des codes d'accès d'un egocaster (test à définir)
+Enfin, pour emprunter l'autre egocaster, il faudra affronter 3 evocati qui ont pris une position défensive, et hacker le pont pour le convaincre de fonctionner.
+Les différents combats peuvent potentiellement être évités avec quelques tests, et en subissant des tirs de l'adversaire.
+
+Une fois que les personnages ont évacué, la campagne se finit sur un fondu au noir. Si ils sont en vie, Faith leur envoie une photo souvenir d'elle en uniforme, et un merci un peu moqueur.
+
+PROFILS:
+-Warhol : teste à 65 en défense, à 75 en attaque, avec des pouvoirs psys : 
+Passes psys : psy stab, mental probe, infection de base à 40, basée sur l'architecte.
+-evocati : testent à 60 en général, armés de pistolets mitrailleurs(machine pistol), armures légères (6c/8e)
+-marines : testent à 70 en général, armés de pistolets mitrailleurs (submachine gun) et d'armures lourdes (16c/12e)
+
+noms random :
+Sahele Kury : connard lambda
+Osman Salib : resp des docks (administration 5)
+Celesta Duarte : agente de la CLS sur neo-trondheim (clergé 6)
+Irene Jensen : responsable des evocati (securité 6)
+Eraka Waata : messager de Warhol(clergé 6)
+Tomas Beran : pilote de la navette Saphire (administration 3)
+Xavier Tsao :
+Yousef Gayung :
+Amira Valali :
+
+18h de rotation journalière de l'asteroïde
+
+
+mdp : 'les fils de MOAB reprendront les cieux'; 'loué soit ce jour'

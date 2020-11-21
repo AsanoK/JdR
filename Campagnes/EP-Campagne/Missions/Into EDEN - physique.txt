@@ -1,0 +1,16 @@
+début = milieu de journée
+début de soirée : obtention des faux 'papiers'
+milieu de matiné : départ pour EDEN
+
+Infiltration en plusieurs phases :
+-préparation, essayer d'aller rapidement : choix des morphes et de l'équipement additionnel, faux papiers ?
+-navette, avec Vel comme capitaine. Elle aura besoin d'aide pour activement gérer les capteurs afin de limiter la détection à longue portée. En cas de problème à ce niveau, 2 PA pour la défense
+-Sortie spatiale, avec l'approche de l'astéroïde depuis la navette, puis l'avancée vers le dôme en évitant les capteurs qui balaient la zone. Saut = une étape, zone extérieure = deux étapes, avec une partie purement automatisée, et une zone de travail.
+-Entrer dans le dôme, en passant les systèmes de sécurité protégeant les sas, ou en forant un trou non loin des systèmes de maintenance par exemple. Ou en se cachant parmi des gens ou du matériel se rendant à l'intérieur.
+-Passer un poste de contrôle des Evocati à l'intérieur, pour être relativement tranquille.
+
+-> Si la défense passe à 10 PA, l'état d'alerte est déclenché, ce qui va augmenter fortement le nombre d'evocati en vigilance, mais simplifiera sans doute la tâche à ceux qu sont à l'intérieur.
+
+Tokens : drones, evocati, Vel, navette de transport
+
+PA : 4

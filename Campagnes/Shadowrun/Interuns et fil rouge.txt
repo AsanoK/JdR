@@ -1,9 +1,9 @@
 Notes:
 -crafter des softwares pour les drones
 -test pour obtenir l'archon via Jashari : 10/24, un test par semaine. Jashari passe par son dealer d'arme. Test à 12.
--Batteries : 16/20, un test tout les deux jours. test à 8 par son mécano/fournisseur de drones.
+-Batteries : 19/20, un test tout les deux jours. test à 8 par son mécano/fournisseur de drones.
 Début de cette run environ 2 jours avant la quittance des loyers
--test pour focus chi : 6/12 coût 12000 : 1 test/semaine à 9
+-test pour focus chi : 10/12 coût 12000 : 1 test/semaine à 9
 Date actuelle : 
 un mardi 9.
 
@@ -18,11 +18,38 @@ Ce meeting va être dérangé par un groupe anarchiste, qui essaie de déstabili
 
 Dalia Nicolau:
 Une trafiquante d'armes en tout genre, qui opère avec le soutien des loups gris. Elle a acheté ces explosifs à des membres de l'armée turque, qu'elle a fait passer en ville par les souterrains.
-Elle les a vendu au capitaine Egemen, et pourra, si convaincue, en fournir une description relativement détaillée. Elle a noté qu'il ne correspondait pas à ses cleints habituels : ni runners, ni criminels de base. Et ces explosifs étaient une commande spécifique, pas un article habituellement disponible. Ce client lui a aussi acheté pas d'armes légères.
+Elle les a vendu au capitaine Egemen, et pourra, si convaincue, en fournir une description relativement détaillée. Elle a noté qu'il ne correspondait pas à ses clients habituels : ni runners, ni criminels de base. Et ces explosifs étaient une commande spécifique, pas un article habituellement disponible. Ce client lui a aussi acheté pas d'armes légères.
 Elle est très sympathique et commerçante, jusqu'à ce qu'on se comporte mal, là, elle se comporte comme de la mafia (elle bosse après tout, pour les loups gris). Elle ne lâchera certaines infos que contrainte et forcée (ou en fouillant ses affaires).
+
 
 Structure de la fin de campagne:
 -enquête sur ce fil rouge
 -mini-run pour obtenir du stuff, contre Ares
 -suite de l'enquête pour en savoir plus sur Al-Fasid.
 -run finale contre Al Fasid.
+
+Init:
+adverse : 17
+abraham :12
+highlander :15
+jashari :25
+hawk : 17
+
+coffres : 7/8 réussites
+
+sabre de janissaire pour highlander
++pas mal de documents, y compris ceux du coffre, ainsi que des photos du parti. Une analyse détaillée des éléments indiqués permettrait à Houri ou Draganovic de remonter la piste jusqu'à une base militaire abandonnée dans la partie asiatique. Il s'agit d'un ancien PC AA, soigneusement enterré pour assurer sa protection. Les rapports de la marine ukrainienne indique que les troupes présentes se sont rendues, et que le complexe a été abandonné et les entrées bouchées.
+Il faudrait rechercher un moyen d'y entrer.
+A l'intérieur, une dizaine des membres de l'unité Al Fasid peuvent se trouver, lourdement équipés en bien entrainés. Une partie d'entre eux pourraient bien aller chercher les PJs auparavant, ce qui diminuera leur nombre effectif. Après le meurtre, 3 servent de gardes à Usman, en tenue de combat lourde.
++montres de valeur du capitaine : environ 12000 nuyens
+
+Suite (et fin):
+-petite phase d'enquête pour remonter la piste, avec une proposition de quête secondaire sur le matériel ARES (le laser lourd)
+(-run improvisée pour obtenir un laser lourd ares)
+-se diriger vers le PC AA souterrain, et affronter l'unité Al-Fasid, alors que la ville connait plusieurs nuits d'émeutes.
+
+PROFILS ADVERSES:
+gardes corpo : 12(13) dés de tir, 7(8) en défense, 19 de résistance aux dégâts (dont 15 armures), reste à 10; init = d6+5, 2d6+8 avec du jazz
+Al Fasid : 15 dés de tir, 10 dés en défense, 25 de résistance, init = 3d6+9; reste à 10 dés.
+
+

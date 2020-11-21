@@ -1,0 +1,73 @@
+AMBIANCE:
+-Neige et glace, sel et mers, forêts épaisses et mystérieuses, hautes montagnes et fjords
+-Fourrure, chaud foyer, acier
+-bleu pur
+-musique : Skald, god of war, ensiferum
+
+ARC PRIMAIRE: un nouveau seigneur des mers
+Un dragon bleu a récemment occupé une île battue par les vents et l'a clamé comme son domaine. Un domaine qu'il compte bien étendre à toute la région, en utilisant une variété de serviteurs pour cela : corruption, intimidation ou destruction des communautés présentes dans la région pour qu'elles le servent, ou meurent.
+La communauté des PJs est assez récente, et commence à envisager des raids au-delà des mers pour s'étendre, ainsi que du commerce. Le dragon est une menace à cette ambition. Ce genre d'expéditions a commencé il y a peu, le premier chef de raid est encore en vie, bien que plutôt âgé.
+SCENES MAJEURES
+-Affrontement final contre le dragon bleu dans son antre
+-Première rencontre avec le dragon, par surprise, en bateau. Une rencontre aussi rapide que violente
+-Affrontement naval face à une grande créature aquatique, comme un serpent de mer, ou un kraken
+-Raid subi par la ville des PJs, ou du moins une ville dans laquelle ils sont à ce moment
+-Raid par les PJs sur une communauté adverse, peut-être tombée sous la coupe du dragon.
+-Duel contre un chef ou thane à la botte du dragon, plus ou moins en secret.
+ARCS SECONDAIRES
+-Un navire a fait naufrage sur un rocher des environs. Il pourrait contenir des ressources intéressantes : trésors, informations.... Peut-être même un vaisseau connu et attendu, auquel cas, les PJs sont envoyés à sa recherche.
+-un chef troll menace les villages des montagnes. Il exige un trbut à mesure de sa puissance. Et la légende veut qu'il brise des troncs à mains nues !
+
+ARCS TERTIAIRES:
+-Une créature ancienne et puissante rôde dans les forêts de la région. les bardes chantent sa puissance. Serait-il possible pour les PJs d'aller en chercher la tête, ou peut-être la sagesse ?
+-un personnage est de la famille du chef de la communauté, et a une potentielle légitimité à prendre sa succession
+-le dragon a déjà attaqué des villages il y a longtemps, et un des PJs en a été la victime. Il a peu de souvenirs de ce moment, mais ceux-ci pourraient revenir en revoyant la bête.
+-un thane propose de l'aide aux PJs. En retour, il espère obtenir leur aide pour un conflit avec un de ses voisins.
+-en parallèle d'un festin et des démonstrations de force qui l'accompagnent, différents skaldes de la région se lance dans une battle de chansons épiques. Le gagnant repartira avec un prix !
+-une créature des mers menace les raids et le commerce, et le jarl propose une récompense à celui ou ceux qui parviendraient à vaincre la créature.
+-une querelle entre deux familles dégénère violemment, et le prix du sang ne fait qu'enfler. Il va falloir réduire l'abcès avant que tout cela ne dégénère.
+-un des PJs a des absences de temps en temps. Que ce passe-t-il pendant ce temps est sujet à conjectures. Il faudrait enquêter pour en savoir plus sur cette étrange condition.
+-Pour réaliser un objet magique puissant, les  personnages doivent se mettre en quête d'une forge probablement myhtique et de son forgeron légendaire. Le tout est en fait une métaphore : un lieu spécifique, est décrit dans la chanson, et le 'forgeron légendaire' décrit liste les qualités requises pour utiliser le lieu.
+-Après s'être alcoolisé lourdement, un guerrier semble avoir été maudit par une sorcière. Il faudrait sans doute aller parlementer avec celle-ci pour lever la malédiction, et encore, mieux vaudrait-il être respectueux de celle-ci. A moins que cette sorcière n'ait été qu'un esprit ou une déesse ? Avec de la malchance, c'est un PJ qui était trop alcoolisé.
+-un voyageur sans nom apparait dans la communauté, et met à l'épreuve les personnages. Après être reparti, certains se demandent si il ne s'agit pas d'un dieu de passage.
+-un roi voisin demande le droit de lancer des raids en passant par la région. il faudra gérer ses émissaires sans effusions de sang, et possiblement observer ces raids passer (et revenir chargés de ressources)
+-un PJ descendrait d'une créature légendaire, peut-être même d'un dieu. Cet héritage pourrait avoir des conséquences en cas de rencontre avec une entité liée à cela.
+-Des pêcheurs ramènent de très étranges poissons. Les anciens parlent d'un rituel à réaliser à un vieil autel sur les falaises pour apaiser les divinités des mers, mais est-ce une bonne idée ?
+-un des personnage est à l'origine un esclave, ramené d'un raid étant plus jeune. Personne ne parle sa langue, jusqu'à ce qu'un nouvel esclave arrive, parlant celle-ci !
+-un PJ semble inspiré par les dieux pour son art(isanat), parfois littéralement. Cela va l'amener à réaliser de grandes choses, mais cela ne se fera pas si facilement.
+
+RENCONTRES: objectif : 90 rencontres environ
+principal 1 : raid et retours : 10 rencontres
+principal 2 : premières incursions : donjon de 5 rencontres, 3 rencontres extérieures :8
+principal 3 : tentative de corruption : 2 sociales, 3 combats, 2 explorations : 7
+principal 4 : secondes incursions : donjon de 4 rencontres, 2 rencontres extérieures. :6
+principal 5: assaut sur le repaire de la bête : donjon de 6 rencontres, 2 rencontres extérieures :8
+exploration :15aine de rencontres avec ou sans combat :15
+secondaire 1 : le roi des montagnes; 2 rencontres extérieures, 3 rencontres de donjon :5
+secondaire 2 : la fille des océans; 3 rencontres de donjon, 1 d'exploration : 4
+secondaire 3 : raid sur la ville; 3 rencontres de donjon, 2 rencontres de combat, 3 rencontres de donjon :8
+tertiaire 1: le roi des forêts; 2 rencontres d'exploration, 1 rencontre de combat ou d'exploration : 3
+tertiaire 2: la forge mythique; 2rencontres de combat, 3 rencontres d'exploration :5
+tertiaire 3: le prix du sang; 3 rencontres sociales, 2 rencontres de combat :5
+tertiaire 4: issu des profondeurs; 1 rencontre de boss, 2 rencontres d'exploration, 2 rencontres de combat : 5
+tertiaire 5 : diplomatie royale ; 2 rencontres sociales, 1 rencontre de combat : 3
+tertiaire 6 : rituels oubliés; 2 rencontres de combat, une rencontre exploration :3
+perso 1: lien divin; 2 rencontres sociales individuelles
+perso 2: héritage; 1 rencontre combat individuelle, 1 sociale : 1
+perso 3: traumatismes draconiques
+perso 4: ancien esclave
+perso 5: maudit par les dieux
+
+total : 78
+
+STRUCTURE DETAILLEE:
+niveau 1: raid et retour (principal 1)
+niveau 2: boss kobold. principal 2, 2 rencontres aléatoires
+niveau 3: secondaire2, tertaire 3, 1 aléatoire.
+niveau 4: boss : roi montagnes; principal 3, tertiaire 5, 1 rencontre aléatoire.
+niveau 5: tertaire 1, tertiaire 6, 4 aléatoires
+niveau 6: boss : chef adverse; principal 4, 4 aléatoires
+niveau 7: secondaire 3, 2 explorations
+niveau 8:boss : issu des profondeurs;tertiaire4, tertiaire 2
+niveau 9: tertiaire 1, 
+niveau 10:boss : roi des mers du nord;

@@ -1,0 +1,93 @@
+AMBIANCE
+-brumes et forêts épaisses
+-montagnes au petit matin
+-vert, bleu
+-Gortoz a ran
+-découvertes, expéditions
+-Avatar (le film de Cameron)
+-witcher III, y compris les phases maritimes en Skellige et la côte de Novigrad
+
+ARC PRINCIPAL
+L'exploration d'une région nouvelle, qu'un navigateur vient de découvrir, et dans laquelle une communauté doit s'implanter. Les personnages servent alors à l'exploration des lieux, et au premier contact avec d'éventuels occupants. En particulier, il faudra gérer la présence de plusieurs entités puissantes dans la région ,qui considèrent les lieux comme leur territoire.
+Parmi ces entités puissantes, un dragon vert, une liche essayant de ranimer son ancien empire, ainsi que de nombreux problèmes plus mineurs.
+
+
+SCENES MAJEURES
+-Arrivée dans le nouveau monde
+-Affrontement avec un dragon qui  y a fait son territoire
+-levée d'une armée de morts et de constructs magiques par un puissant nécromancien ?
+-affrontement avec des locaux
+-découverte de défenses magiques enfermant quelque chose dans la région.
+-découverte de montagnes très raides, voir flottant dans les airs pour certaines (Avatar)
+-sorte de désert, parsemé d'étranges cristaux rouges. Abrite peut-être une créature ou une autre?
+
+ARCS SECONDAIRES
+
+-De nouveaux arrivants dans la colonie se comportent dangereusement, et menace la stabilité de la région. Il s'agit de fanatiques religieux qui poussent à l'affrontement avec les peuples locaux, et appellent à uune plus grande rigueur religieuse dans la colonie. Ils peuvent essayer de gagner du terrain politique, imposer leurs vues rigoriste sur la société de la colonie, et s'en prendre plus ou moins ouvertement aux natifs. Exemple d'intrigues : dénigrer le gouverneur et sa morale, faire fermer tavernes et bordels, contrôler un commerce important, déclencher des incidents avec les natifs, accuser les natifs de troubles....
+-des pirates ! Les vaisseaux ravitaillant la colonie sont attaqués par des pirates implantés plus au sud. CEux-ci pourraient même menacer la colonie. Il peut s'agir de pirates ou d'une autre faction du même continent, basé sur d'autres colonies plus éloignées. Ces pirates peuvent avoir des avant-postes le long de la côte ou sur des îles, et vivent du pillage de navires, mais aussi et surtout de raids contre les natifs. Certains peuvent être des corsaires, d'autres des déserteurs. Il s'agit d'une faction très désunie, avec une multitude de sous-groupes plus ou moins indépendant.
+-les tribus natives peuvent avoir des relations complexes avec une coloie comme celle-ci : certaines seront hostiles, d'autres acceuillantes. Il faudra gérer au mieux ces relations, et les chocs culturels qui peuvent/vont résulter. Les groupes natifs vénèrent un ensemble de divinités, dont certaines viennent de la sombre tapisserie (souvent les plus sombres de la région). Cela peut passer par des mariages entre colons et natifs, des épreuves pour que les PJs soient considérés comme des adultes de la tribu....Le rôle extérieur des PJs peut également leur donner une place de médiateurs dans des conflits inter-tribaux.
+
+ARCS TERTIAIRES
+-un problème interne déchire les colons, ou une maladie. Bref, il faut régler rapidement un problème interne avant que tout ne parte en sucette. Ce problème peut avoir une source magique, être une simple contamination, ou une ancienne malédiction 
+-La rumeur veut que des colons disparaissent en s'approchant d'une forêt proche. Celle-ci est-elle hantée? habitée de dangereuses créatures?? Ou simplement parsemée de ravins difficiles à apercevoir?
+-deux familles de colons ne s'entendent pas, et leurs membres en viennent fréquemment aux mains. Il faudrait résoudre le problème avant que des armes ne soient tirées.
+-un jeune prêtre d'une petite divinité essaie de bâtir un temple pour celle-ci. Il essaie de rassembler des fonds ou des dons, et d'intéresser les colons ainsi que les natifs à sa foi.
+-un vieil autel oublié au bord d'une falaise. Les natifs parlent d'un lieu hanté, ou du moins, maudits. Peut-être un conflit entre deux entités de la grande tapisserie, ou de simples fantômes.
+-un marchand cherche toujours des plumes, qu'il compte revendre un bon prix sur le continent, une source potentielle de revenus supplémentaires pour les PJs
+-un navire a fait naufrage sur la côte. Son contenu est inconnu, mais des créatures mort-vivantes y apparaissent : les habitants parlent d'une malédiction.
+-un temple enfoui sans la jungle abrite une dangereuse créature, que les natifs craignent et respectent à part égale. Ils demandent aux personnages de lui laisser des offrandes. Si celle-ci est suffisante, ils pourraient avoir accès au coeur du temple
+-un personnage est suivi par des assassins, peut-être est-ce son passé, ou un objet qu'il porte. Lui-même ne le sait pas (mémoire?). Une série de rencontres avec ou sans liens avec l'arc principal, possiblement avec l'arc pirate?
+-un PJ a des visions de la région, peut-être envoyées par une divinité, ou quelque chose de plus sombre. Celles-ci peuvent l'aiguiller vers des éléments de l'histoire, mais il faudrait identifier leur origine. Un vieil oracle dans la jungle aurait-il les réponses ?
+-un PJ fait réagir un mécanisme dans un vieux temple, c'est le seul à déclencher une telle réaction. Les natifs murmurent d'une prophécie. Un autre moyen de lier les PJs à l'intrigue principale.
+- un PJ est venu avec un membre de sa famille, qui essaie de magouiller pour devenir riche. La plupart du temps sans grande réussite, et nécessitant l'intervention du PJ. peut lier les PJs à la ville.
+-un comptoir commercial nain s'implante plus au sud, et souhaite mettre en place des relations commerciales avec ses environs. Ils peuvent se heurter aux PJs ou les aider suivant les situations.
+
+ARCS PRECIS: EXEMPLE
+principal1 (dragon):1 boss, après un donjon de 2 rencontres sans combat et 1 avec, un donjon de 5 rencontres (serviteurs) et 3 rencontres avec combat hors donjon :12
+principal2 (liche): donjon final de 7 rencontres + 1 rencontre de boss, 4 rencontres de combat auparavant, et un donjon de 3 rencontres + rencontre de boss :16
+principal3(lieux spécifiques): une quinzaine de rencontres d'exploration : créatures sur leur terrain, ruines à fouiller.... Regroupées en 3 mini-donjons de 3 rencontres et 6 rencontres individuelles
+secondaire 1(fanatiques):au moins 5 rencontres d'influence, 2 rencontres de combat (contre eux ou leurs adversaires), étalés sur 4-5 niveaux au moins : 7
+secondaire 2(pirates): Au moins 5 rencontres de combat, plus deux d'explorations, et un donjon de 4 +1 boss :12
+secondaire 3(natifs): 4 rencontres de combat, 3 épreuves physiques, 3 rencontres sociales : 10
+tertiaire 1(maladie): deux rencontres d'exploration 1 rencontre de combat :3
+tertiaire 2(forêt hantée): deux rencontres d'exploration, deux rencontres de combat, dont 1 boss(drake, hydre?) :4
+tertiaire 3(autel occulte): deux rencontres sans combat, 1 rencontre avec combat :3
+tertiaire 4(naufrage) : mini-donjon de 3, plus une rencontre sans combat :4
+tertiaire 5(offrandes au temple):2 rencontres d'exploration, une rencontre sans combat :3
+tertiaire 6(bâtir un temple) : 3 rencontres sociales ou autre : 3
+rencontres aléatoires : environ 15 rencontres sur l'ensemble de la campagne, dont 10 avec obstacle ou combat :10
+perso 1: un personnage est suivi par des assassins, peut-être est-ce son passé, ou un objet qu'il porte. Lui-même ne le sait pas (mémoire?). Une série de rencontres avec ou sans liens avec l'arc principal, possiblement avec l'arc pirate?
+perso 2: un PJ a des visions de la région, peut-être envoyées par une divinité, ou quelque chose de plus sombre. Celles-ci peuvent l'aiguiller vers des éléments de l'histoire, mais il faudrait identifier leur origine. Un vieil oracle dans la jungle aurait-il les réponses ?
+perso 3: un PJ fait réagir un mécanisme dans un vieux temple, c'est le seul à déclencher une telle réaction. Les natifs murmurent d'une prophécie. Un autre moyen de lier les PJs à l'intrigue principale.
+perso 4: un PJ est venu avec un membre de sa famille, qui essaie de magouiller pour devenir riche. La plupart du temps sans grande réussite, et nécessitant l'intervention du PJ. peut lier les PJs à la ville.
+perso 5: ????
+
+
+objectif : 80 rencontres environ, combat et non-combat
+planifié : 102, on est bon, on peut larguer des arcs tertiaires, voire secondaires en cas de besoin. Toute nouvelle idée servira à proposer plus de choix, les PNJs gérant le reste.
+STRUCTURE DETAILLEE : EXEMPLE
+niveau 1:1 rencontre natif, 4 rencontres aléatoires ou lieux spécifiques et un mini-donjon lieux spécifiques, 2 rencontres tertiaire 2.
+niveau 2: boss :hydre ou drake(tertiaire 2), 2 autres rencontres tertiaires2, une rencontre de combat principal 2, 4 rencontres tertiaire 4, 2 épreuves aléatoires/lieux spécifiques
+niveau 3: 2 rencontres d'influence secondaire 1, 2 rencontres de combat secondaire 2, les trois rencontres tertiaire 1, 1 rencontres aléatoires, 2 rencontres secondaire 2
+niveau 4: boss : amiral pirate (secondaire2), reste de secondaire 2
+niveau 5: 3 rencontres de combat principal 2,5 rencontres donjon principal 1, 1 rencontre hors donjon principal 1,1 rencontre lieux spécifiques
+niveau 6:fanatique ou natif (secondaire 1 ou 3); autres rencontres secondaire 1 (5 rencontres influence +combat), tertiaire 5 (3 rencontres), 2 rencontres secondaire 3
+niveau 7: boss : dragon vert (principal1), et son donjon (3), et 2 autres principal 1, mini-donjon lieux spécifiques (3 rencontres), 1 rencontres aléatoires, 
+niveau 8: boss: liche (principal2) : donjon final (7 rencontres), 2 rencontres de combat
+->On a déjà beaucoup de quêtes additionnelles (tertiaire 6 par exemple, et plusieurs rencontres de principal 1 sont aussi surnuméraires. Attention, les explorations des PJs sont difficiles à prendre précisément en compte. Toutes les quêtes PJs sont aussi à inclure, mais possiblement sans trop d'ajouts de rencontres. A noter aussi, les rencontres ici sont considérées à 100xp de moyenne.
+->Dans la pratique, les différents arcs et leurs positions sont optionnels, d'aurtes pouvant être ajoutés ou modifiés suivant les besoins. Certains peuvent être purement narratifs, si ils sont ignorés par les PJs, auquel cas, les PNJs prendront le relai sur ceux-ci avec probablement de moins bons résultats
+
+CLIMAT REGIONAL
+-option 1 : tropical humide, avec une zone aride. Permet de coller avec un thème caraibesque, de profiter de marais/mangroves. Natifs avec des figurines frostgrave. 
+-option 2 : tempéré façon nord-américain. Permet de coller avec un thème huron/iroquois, d'avoir une période d'hiver plutôt rude, et des mers moins hospitalières.  Thème hivernal important du coup.
+option 1 a beaucoup plus d'arguments pour : un biome magique plus intéressant, des figurines aussi faciles à obtenir, un biome normal plus varié, et un thème maritime plus facile. les quelques figurines trop hivernales pour les colons devront être modifiées ou abandonnées 
+
+Reste à faire:
+-décision sur le type de climat de la région + cartes + types de cultures
+-détailler arcs narratifs personnels
+-travailler précisément sur les moments importants des différents arcs narratifs
+-détails des différents arcs, et butin associé (tables de butin par niveau ?)
+-préparer carte(s) et ce qui se trouve en exploration : lieux et rencontres fixes
+-préparer les tables de rencontres aléatoires
+-préparer le début de campagne avec pas mal de détails., le reste plus tard
+-figurines et décors.

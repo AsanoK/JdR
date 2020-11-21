@@ -1,0 +1,48 @@
+AMBIANCE:
+-soleil, déserts, oasis
+-Temples, statues et décors monumentaux, à la gloire des dieux et des anciens souverains
+-Oiseaux, crocodiles, lézards, insectes
+-Empire imposant
+-pierre et sable, bronze et cuir, soieries et couleurs
+-Blanc/bleu
+-Présence divine
+
+ARC PRINCIPAL
+L'empire est en pleine expansion, le commerce fleurit et les expéditions dans ses recoins les plus reculés se font de plus en plus nombreuses. Les PJs participent à celles-ci pour diverses raisons. Aux frontières de l'empire toutefois, de nombreuses enaces, petites et grandes existent et pourraient se tourner vers l'empire lui-même : aberrations souterraines, royaumes voisins, créatures fantastiques. Des ruines anciennes parsèment le décors de la région et cachent souvent des secrets bien gardés.
+->hexcrawl avec pas mal d'éléments d'histoires à déterminer exactement
+
+SCENES MAJEURES
+-Réveil d'un ancien souverain et de ses troupes
+-attaque d'un dragon ou d'un ver des sables
+-visite dans des temples monumentaux, contruction de l'un d'eux?
+-affrontement pour une caravane marchande.
+
+ARCS SECONDAIRES
+-établissement d'une garnison dans la région par l'empire
+-malédiction divine à résoudre : des fléaux s'abattent sur l'empire.
+-Délégation diplomatique d'une nation voisine, ou dans une nation voisine.
+
+STRUCTURE GENERALE:
+niveau 1: Arrivée dans la région frontalière du sud de l'empire avec une caravane, attaquée par des bandits dans le désert. Choix du lieu d'implantation d'une garnison, créée par une colonne militaire arrivant vers la fin du niveau.
+niveau 2: Exploration de plus de terrain. Un donjon est envisageable à ce moment, première ruine trouvée. Scorpion géant?
+niveau 3:Des caravanes marchandes rapportent des attaques de créatures, il va falloir les protéger de celles-ci.  Le principal adversaire (boss) est une vouivre, prédateur très territorial.
+niveau 4:Les personnages reçoivent comme tâche une délégation diplomatique dans un royaume voisin, il ne faut pas faire de boulettes alors que des meurtres se produisent.
+niveau 5:La garnison est victime d'une sorte de maladie étrange. Les PJs doivent en déterminer l'origine , et résoudre le problème.
+niveau 6: un ancien complexe funéraire s'active à nouveau alors que les morts marchent une fois de plus sous le ciel.
+niveau 7: Un dragon de cuivre rôde dans la région, s'attaquant aux villages et aux patrouilles. Son élimination est un travail de plus pour les PJs
+niveau 8: Des cultistes étranges s'attaquent aux PJS. Une enquête révèle rapidement qu'ils vénrent un esprit du désert bien loin des dieux classiques.
+niveau 9: recherche d'informations sur cet esprits et son culte, un ancien temple pourrait contenir les éléments voulus.
+niveau 10 : l'affrontement commence contre l'ancien esprit du désert, sur son terrain.
+
+ARCS TERTIAIRES
+-une des créatures sacrées d'un temple s'est échappé, et les PJs doivent la récupérer sans lui faire de mal, sous peine de s'attirer les foudres de la divinité, ou de son clergé.
+-les personnages tombent (littéralement?) dans une ancienne tombe. Celle-ci contient des objets indiquant une tombe riche, voire royale. De tels éléments pourraient rendre les PJs riches, ou leur accorder une excellente réputation auprès des descendant du mort.
+-un PJ, d'origine de petite noblesse, trouve des indices de la présence de sa famille dans la région il y a longtemps. Des héritages familiaux, et peut-être une légitimité pour gouverner une future province?
+-On demande aux PJs d'apaiser le désert par une sorte de rituel local. Celui-ci n'inspire pas franchement confiance, mais peut-être est-il innofensif ?
+-un noble impérial souhaite visiter la région, et les personnages doivent l'escorter, ou du moins préparer sa visite sous peu.
+-des soldats de la garnisons ont semé le désordre en étant alcoolisés, et ont détruit du matériel. On demande aux personnages d'enquêter discrètement.
+-un artisan impérial recherche des objets rares pour son travail, et promet une récompense pour des matériaux que les PJs pourraient croiser dans leur périple.
+-une expédition militaire plus au sud aurait besoin d'informations détaillées sur la région. Il faudrait en savoir plus sur les factions en présence et leurs forces militaires.
+-une prêtresse a eu une vision de son dieu, s'unissant à elle. L'Eglise la qualifie d'hérétique, mais pourrait-elle avoir raison? Si c'est le cas, cette Eglise pourrait bien se voir changer intégralement.
+-une partie de chasse est organisée par les officiers de la garnison, qui invitent les PJs à participer. Il s'agit autant de s'entraîner que de montrer sa valeur
+-un PJ est poursuivi par de mystérieux assassins, qui semblent ne pas regarder leurs perte. Il porte une mystérieuse amulette dont les pouvoirs s'éveillent au fil du temps. Peut-être celle-ci est-elle une clé pour comprendre ces assassins?
