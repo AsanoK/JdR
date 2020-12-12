@@ -7,9 +7,20 @@ Objectif des règles de downtime:
 	* travailler ses relations avec un PNJ (en lui filant des coups de mains par exemple, pas dispo pour tout le monde) -> suivant le PNJ, peut fournir un bonus sur de futurs tests de dowtime.
 	* essayer de se procurer un élément de matériel supplémentaire pour la suite : munitions, rations....
 	* Préparer le terrain : fortifier, piéger, agencer le matériel... Peut fournir un bonus à un ou plusieurs tests plus tard.
-	*récupérer un camarade
-	*générer un nouveau PJ.
+	* récupérer un camarade : gratuit
+	* générer un nouveau PJ.
 
 -Jamais plus d'un test par PJ/période
 -Les règles de downtime ne doivent pas coûter d'attributs, même si il y a des tests demandés.
 -Les périodes de downtime peuvent aller de 1h à 1 journée, suivant les cas.
+
+Actions:
+-détente : d'une manière ou d'une autre (alcool, sexe, lecture, musique....), le perosnnage se détend, et récupère 1d6 points d'attributs se faisant.
+-rumeurs : le perosnnage essaie d'obtenir des informations au sein de l'unité sur ce qui va suivre : il récupère différentes rumeurs, en fonction d'un test d'interogation.
+-Coup de main : le personnage donne un coup de main à un PNJ pour un problème ou un autre, ce qui améliore ses relations. Peut nécessiter un test, mais peut aussi fournir un bonus plus tard, notamment à de futures actions de downtime.
+-Ravitaillement : le personnage profite du temps libre pour aller se procurer du matériel ou du ravitaillement. Cela peut impliquer de faire une demande officielle, ou de profiter d'une 'erreur' administrative. Peut nécessiter un test de conviction ou de logistique
+-Se préparer : le personnage prépare la position, en cas de combat futur : mettre le matériel à portée de main, noter des distances utiles, piéger un passage, bloquer une porte..... Suivant l'action, cela peut demander un test de tactique, de labeur, de conn(démolition)....
+-renseignement : le personnage essaie de repérer ce que fait l'adversaire. Les informations qu'il obtient dépende du résultat d'un test d'observation. Suivant la dangerosité de ce qu'il tente, cela peut aussi impliquer un test d'infiltration. Cela permet d'obtenir des informations sur le placement et le nombre d'adversaire, éventuellement sur des préparatifs visibles. 
+-sentinelle : le personnage monte la garde pour anticiper un raid ou une attaque surprise de l'ennemi. La réussite dépend d'un test d'observation, qui, en cas d'attaque réelle, peut aussi correspondre au test pour détecter des adversaires avec le tag dsicret.
+-récupérer un camarade : si le camarade a été 'sacrifié', il peut gratuitement être récupéré : soit en en ayant un autre, soit parce qu'il s'est remis du danger encouru plus tôt. Ne compte pas comme l'action de repos autorisée.
+-un nouvel arrivant : le Joueur introduit un nouevau personnage, pour remplacer un autre hors de combat ou pour changer. Cela coûte l'action de repos du nouveau personnage (il passe du temps à trouver ses repères au sein de cette nouvelle unité).

@@ -1,0 +1,67 @@
+ATTRIBUTS
+Autorité
+Chance
+Combativité
+Endurance
+Sang-froid
+
+COMPETENCES
+Athlétisme
+Conduite (par type de véhicule)
+Connaissances Techniques (par domaine)
+Conviction
+Couverture
+Discipline
+Infiltration
+Interrogation
+Labeur
+Logistique
+Maintenance(par domaine)
+Mêlée
+Observation
+Opération (par outils)
+Orientation
+Premiers soins
+Survie
+Tactiques 
+Tir (par arme)
+
+
+Test : pool de d6, les 5+ sont des succès, il faut dépasser un SR. En cas d'échec, gain de PI ou attaque sur le PJ. Si nb(1) > attribut -> perte d'un point d'attribut.
+Si un attribut arrive à 0, craquage
+
+avantage : relance des 4, pas de nouveaux échecs
+désavantage : relance des 6, nouveaux échecs comptés
+
+combat :on découpe en menaces, avec une dangerosité (base du pool d'attaque), des conséquences
+action 'prise de risque' -> attaque automatique subie, contre un bonus plus important. Les PJs sont répartis sur les menace au début du combat, avec un test de tactique pour modifier cela.
+
+attaque sur un PJ : pool = dangerosité + moitié des PI (dépensés), test opposé contre le test de protection du PJ. En cas de résultat négatif pour le PJ, on lance sur la table des blessures (p19)
+
+Camarades : +2 aux tests de ses trois compétences ou sacrifié pour subir une attaque réussie.
+
+TAGS MENACE:
+Volant : est attaqué avec désavantage + portée minimum adverse = altitude
+Défense(x) : en cas d'attaque, sur x+, celle-ci est ignorée.
+Discret : les PJs doivent réaliser un test d'observation pour détecter la menace
+Portée : portée, en mètres
+tir perforant(x) : augmente la valeur de défense de la cible de x
+tir indirect : pas de ligne de vue nécessaire
+tir de barrage (x) : en cas d'échec, nouvelle conséquence au choix : infliger x malus aux PJs engagés contre cette menace
+
+TAGS ARME:
+utilisation(x) : nb limité d'utilisation
+barrage : aucune dépense de PI en cas d'attaque sur le prochain test d'un PJ
+Indirect : pas de ligne de vue
+défense : comme pour les menaces
+perforante : comme pour les menaces
+incendiaire : avantage contre les milieux confinés
+précise : avantage au tir
+portée (x) : comme adversaire
+imprécise : désavantage lors des tirs
+zone : avantage pour tirer sur des groupes
+piège : test immédiatement, résultats  quand condition remplie
+encombrante : aucun combat rapproché
+gênante : désavantage en combat rapproché
+antiaérien : ignore le trait 'volant' de la cible
+combat rapproché : pas de malus en combat rapproché.
