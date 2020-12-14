@@ -1,0 +1,60 @@
+Concept:
+A shiro no Takamatsu, daidoji Nichiro décide de passer  à l'action : il compte bien semer le chaos, et en profiter pour tuer ou attaquer Seepun Eiji, ce qui lui permettrai de discréditer Kakita Izumo.
+Evènements réels : Nichiro a engagé des ronins pour attirer une patrouille du scorpion, avant de leur tendre une embuscade. Cela doit lui permettre de mettre la suite des évènements (une attaque par ces shinobi ronins contre les invités du château) sur le dos du scorpion : il déshonore ainsi son seigneur, et met le scorpion en défaut.
+
+Scène 1: semer le vent
+A la cour de shiro no Takamatsu, alors que le matin commence tranquillement (description des différentes activités des Pjs ,ainsi que des PNJs qu'ils pourraient croiser), les gardes s'activent : le capitaine Nichiro revient de patrouille. Pour eux, il va falloir s'occuper du matériel, récupérer les dernières nouvelles de la frontière, et possiblement, préparer une nouvelle expédition au-delà des murs, bref, pas mal d'agitation entre serviteurs et gardes.
+Le capitaine et sa patrouille ont l'air particulièrement fatigués et semblent s'être battus. Alors que le seigneur des lieux arrive pour les accueillir, Nichiro jette une bannière du scorpion, brisée, à ses pieds, ainsi qu'un sac à tête, visiblement plein.
+La cour est alors convoquée rapidement, afin de tirer au clair cette histoire. Nichiro renvoie une seconde patrouille sur la frontière, pour s'assurer qu'aucune autre patrouille ne traverse la frontière.
+
+Scène 2 : des évènements inquiétants
+Au milieu de la nuit, une des barraques du château prend feu. 
+Il faut rapidement essayer de :
+-sortir du matériel et des gens de la zone
+-combattre l'incendie avant que celui-ci ne se propage, potentiellement à tout le château.
+-essayer de comprendre ce qui a pu se passer.
+Nichiro n'était pas dans la caserne, mais c'était là où se trouvait son futon. Il sous-entends alors que le scorpion pourrait être derrière tout cela, déjà prêt à frapper dans l'ombre.
+Devant les évènements, Kakita Izumo convoque formellement sa cour en pleine nuit, afin de prendre des décisions. En premier lieu, il demande des explications au clan du scorpion sur ce qui se passe à la frontière. Le scorpion nie évidemment toute implication dans ce qui s'est passé, et en guise de bonne foi, propose de nommer des enquêteurs sur cette affaire, notamment Bayushi Miya et son yojimbo, qui partiraient avec deux membres de la grue.
+Pour l'incident de la nuit, un autre groupe d'enquêteur est nommé, afin de déterminer si cet incendie est un acte hostile (le groupe des PJs est nommé, après négociations entre les différents clans).
+Le barraquement sera refroidi en début de matinée, et l'interrogation des témoins peut attendre jusque là.
+Témoignages:
+-un garde de faction a vu le capitaine passer poser ses affaires dans le barraquement environ une heure avant le début de l'incendie.
+-le capitaine n'était pas dans le barraquement car il devait travailler sur l'itinéraire de la prochaine patrouille. On pourrait remarquer que certaines de ses affaires n'étaient pas dans le barraquement.
+-des serviteurs ont entendu du bruit le long des murailles qui ne correspondait pas aux patrouilles des gardes, mais leur témoignage n'a que peu de valeur. Etant très persuasif, on peut même leur faire penser à mentionner la présence de ronins en ville.
+-un rônin récemment arrivé des terres du scorpion (Ryuko) mentionne qu'il n'a rien vu d'anormal comme des mouvements de troupes. Il admet toutefois qu'il n'a pas spécialement regardé non plus.
+-Un rituel pour communier avec les esprits donnera les infos suivantes : détection de la magie révèle la présence de maho dans le barraquement, ce qui n'arrange pas les tensions. Discuter avec les esprits, via une connaissance spirituelle révèlera que le feu a démarré par une main corrompu, sans être corrompu lui-même, ce qui explique son départ lent. (Nichiro a réalisé un sort de maho sur un des soldats du barraquement. Les esprits peuvent indiquer où son corps se trouve).
+
+Scène 3:
+ambiance tendue à la cour: les suspiscions des uns se heurtent à l'indignation des autres.
+Notamment, certains courtiers de la grue pensent à utiliser les évènements de la veille pour gagner la main haute dans les négociations, et inversement, les membres du scorpion mettent en doute, bien qu'à demi-mot, la version du capitaine, notamment le fait que le combat ait pu avoir lieu de l'autre côté de la frontière.
+cela se passe lors de la seconde journée du scénario. Les personnages peuvent ici recevoir des objectifs personnels de leurs seigneurs pour faire avancer leur cause
+Doji Akyio fait partie des courtiers de la grue les plus agressifs, persuadée d'être ici dans leur bon droit, et comptant bien utiliser cette faute du scorpion pour gagner du terrain. Tsuruchi Emon prend le parti du scorpion dans ce cas, afin de contrer la jeune femme. Akyio n'hésitera pas à faire des remarques juste assez subtiles à un PJ, qui pourraient dégénérer en duel si qui que ce soit dérape.
+Daidoji Teru est légèrement paniqué : aucune information ne montrait ce genre d'intentions au scorpion, ce qui lui a valu une remontrance privée par son seigneur. Il se montre alors plus agressif dans ses actions (objectifs pour un PJs qui travaillerait comme kohai ?) .A l'inverse, Bayushi Taneda essaie de le convaincre ainsi que le seigneur Kakita de la bonne foi de son clan, et passe une bonne part de la journée à discuter avec eux.
+Bayushi Myia est extrêment curieuse, elle soupçonne depuis un certain temps l'endroit où a eu lieu l'affrontement d'être proche de la zone d'un sorcier. Elle n'a aucune certitude, mais demande toutefois congé au seigneur du lieu. Si rien de critique ne s'est produit, cela va être le cas : alors qu'elle signale son départ prochain pour aller vers la zone de conflit, Akyio mentionne que cela pourrait ressembler à de l'espionnage que d'aller là-bas. Evidemment, l'inquisitrice prend très mal la chose, soutenue par l'ensemble du scorpion, qui s'insurge de ce genre d'insinuations entre duex clans qui ne sont pas en guerre. l'affaire se dénouera en duel plus tard, dans la soirée. Le duel ne devrait être qu'au premier sang, sauf si la situation s'envenime trop, auquel cas, un duel à mort est possible.
+Un, voire deux PJs pourraient participer à ce duel, suivant la situation. Dans l'intervale, plusieurs PJs risquent d'être pris à parti dans les conflits sociaux qui peuvent se produire.
+TENSION 1:
+Une partie de shôgi entre Taru et Taneda devient le centre de l'attention pour une heure. Teru multiplie les manoeuvres de test, alors que Taneda joue de manière aussi orthodoxe et calme que possible, sans saisir les feintes des son adversaire. Saisir ces implications nécessite un test, mais sinon, un courtisans de l'un ou l'autre des camps pourrait arriver. Si la bushi bayushi et intéressée, Taneda tombe volontairement dans un piège et propose sa subordonnée comme un adveraire de plus grande valeur. Le mouvement est âprement disputé entre les courtisans
+->Bushi scorpion
+TENSION 2:
+La cloche du petit temple à l'extérieur du château sonne toute seule à une heure anormale. Les esprits de la terre sont agités. Ils sentent l'influence étrange de Nichiro, mais sans arriver à mettre le doigt dessus. Ils clament que la présence de corruption ce matin est la raison de leur trouble. Aucune magie n'a été lancée ici.
+->Shugenja
+TENSION 3:
+Bayushi Taneda cherche à obtenir des informations sur ce que la grue prépare, et ne fait pas confiance à ce capitaine Nichiro. Il demande donc à sa courtière de trouver ce qu'elle peut sur lui. Evidemment, ce genre de tentative pourrait être vu comme de l'espionnage avant une agression, ou pour dissimuler leur méfait.
+->courtière scorpion
+TENSION 4 : Teru a besoin d'en savoir plus sur ce qui se passe, et souhaite comprendre la position de la guêpe. Son kôhai est donc envoyé pour se renseigner sur ce que savent les clans mineurs, et leur position en cas de conflit.
+->courtier grue
+TENSION 5 : Emon est extrêmement irrité par la tournure des évènements : rien ne semblait l'annoncer, et cela pourrait réduite à néant sa position de troisième camp. Il souhaite que son agent se rende au plus vite (à cheval) vers l'endroit de la soit-disant embuscade pour comprendre ce qui a pu se passer. Mais d'autres personnages pourraient se poser des questions.
+->archer guêpe
+TENSION 6 : Dame Kakita est furieuse, car ses précieuses carpes koi ont de gros problèmes avec les cendres dans leur bassin, qui a de plus été partiellement vidé pour combattre le feu. Elle juge le scorpion responsable de cela, et ne manque pas de le faire savoir. Etant la dame du lieu, personne n'osera réellement la contrarier, cela serait un manquement à l'hospitalité. Toutefois, les courtiers peuvent essayer de répondre, en mentionnant par exemple que si les grues faisaient plus attention, il n'y aurait pas eu d'incendie. Cet incident pourrait s'escalader
+TENSION 7: Emon agresse socialement Akyio, sur le fait que cette histoire semble étrange, et que rejeter la faute de l'incendie sur le scorpion lui semble un peu douteux, même en insinuation.
+
+Scène 4 : affrontement nocturne
+->Nichiro lance ses hommes à l'assaut du château, un groupe de bandits et de ronins.
+-> les personnages affrontent des shinobi dans les couloirs, avant de se dresser face à l'instigateur de tout ceci, qui essaie de les tromper le plus longtemps possible. Fin climactique, mais possiblement trop tard pour être efficace.
+Alors que la tension continue à monter dans la soirée, et l'attente d'un duel probable dans la soirée, le château ne se prépare pas à ce qui arrive. Alors que le duel se prépare, l'alarme sonne à nouveau : le château est à nouveau en flamme ! La ruemeur arrive ensuite rapidement : des attaquants inconnus s'attaquent au château. Les PJs reçoivent pour ordre de protéger Seppun Eiji à tout prix, ainsi que les invités de manière générale. 
+les attaquants sont un groupe de rônins, parmi lesquels plusieurs shinobi.
+En premier lieu, un rapide affrontement avec un ou deux rônins qui auraient franchis les défenses, puis une tentative plus furtive par deux à trois shinobi. Enfin, alors que la situation devient de plus en plus chaotique, Nichiro essaie personnellement de les tromper, en essayant de faire évacuer le jeune noble. Eiji n'est pas d'accord, mais peut être convaincu.
+
+DONE : préparer 7 évènements pour la section d'ambiance tendue
+DONE : préparer les quêtes perso des personnages pendant cette même période
+TODO : noter les idées de messages à donner aux joueurs pendant le scénario

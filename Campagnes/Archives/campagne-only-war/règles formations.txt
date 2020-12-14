@@ -1,0 +1,48 @@
+﻿base :
+Les membres d'une formation doivent rester à 10 mètres les uns des autres. Pour être en rang, il aut être à 10m du chef, et sans obstacle physique.
+Les larbins doivent tous avoir le même profil (sauf exception)
+La Force d'une formation est égaale au nombre de larbins.
+deux types de formations : un dirigeant est des larbins, ou une formation de troupes.
+Toutes les actions d'une formation se font via ordres.
+
+attaque avec une formation:
+les attaques sont réparties de manière assez répartie, envers les cibles attaquables.
+
+attaque sur une formation:
+on attaque au plus favorable des cibles disponibles, sauf à viser une cible spécifique. 1 dégât sur un larbin implique sa mort.
+
+réaction: le chef a une réaction par tour. Pour les autres, cela dépend purement des ordres.
+
+peur et suppression:
+le test est réalisé par le chef de la formation. En cas d'échec à un test de peur, la formation se disperse.
+En cas de suppression réussie, l'escouade se replie ou se met à couvert, ne peut réaliser que des demi-actions et ne peut avancer vers la cible tant que le chef ne s'est pas remis.
+
+Formation brisée:
+Si la moitié de la force est abattue en un seul round, test de commandement +20, avec un malus de -5 par point de force perdu. En cas d'écehc, la formation se disperse immédiatement.
+
+reformer une formation :
+un chef de troupe peut tenter de reformer une formation à partir de troupes avec un test de commandement -20
+
+ORDRES:
+manoeuvres:
+-mouvement (demi-action): chaque membre de la formation se déplace de son demi-mouvement.
+-course (action) : chaque membre de la formation cours. -20 pour leur tirer dessus, +10 en mêlée contre eux.
+-désengagement(action) : demi-mouvement, sans attaque gratuite sur les troupes.
+
+attaques:
+-tir de vollée(demi-action) : test de BS avec +5 par point de force. Chaque degré de succès est une touche supplémentaire sur une cible à portée et en vue (max force). Les armes spéciales peuvent se séparer de cela pour attaquer seuls.
+-combat rapproché(demi-action) : test de WS avec +5 par point de force. Chaque degré de succès est une touche supplémentaire sur une cible à portée et en vue (max force). Les armes spéciales peuvent se séparer de cela pour attaquer seuls.
+-charge(action) : mouvement de charge de la formation, puis WS avec +10 +5 par point de force de la formation.
+
+tactiques:
+-avance tactique(action):mouvement complet pour chaque membre de la formation, conservation du couvert au cours du mouvement.
+-tir de suppression(action):test de BS à -10 +5 par force. Pour chaque degré de réussite, une cible  à portée et en vue doit réussir un test de suppression avec un malus de -5 par force. Pour chaque trois degré de réussite, une touche avec l'arme principale.
+-surveillance(action):dès qu'une cible entre dans un champ de tir défini, la formation teste BS -10 +5 par force. En cas de réussite, la cible est touchée. Une touche supplémentaire pour chaque couple de degré de réussite.
+-dispersion(réaction) : test d'agilité avec -5 par force. En cas de réussite, chaque memebre de la fromation bouge de son demi-mouvement. 1 perte de moins sur les attaque de spray et de blast.
+
+règles spécifiques par faction:
+Dominion Sévéran p 131
+orks p 132
+eldars noirs p 133
+kroots p 134
+chaos p 135

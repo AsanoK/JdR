@@ -1,0 +1,26 @@
+﻿employeur : Kommene, pour un client inconnu (en fait, leur johnson habituel, mais il ne souhaite pas le faire savoir)
+
+objectif : vol d'un prototype d'implant de contrôle de drone dans une installation d'Iris firmware, une filliale de Renraku technologies.
+Contraintes : aucun dommage collatéraux à l'extérieur de l'installation. L'intérieur est complètement ouvert au feu et aux dommages matériels et humains. Cette clause ne concerne évidemment pas la slef-défense.
+Paie : départ à 4500 nuyens. 1000 supplémentaires si la sécurité de l'installation est l'objet d'un rapport, remis  avec l'objectif à la fin de run.
+
+Cible:
+Le site de recherche Iris firmware, en réalité un petit site de test du matériel plus qu'une installation de recherche. ici, il doit servir à un test grandeur nature d'une installation de sécurité plus automatisée, ou contrôlée à distance par une équipe de rigger.
+
+Drones déployés :
+-5 drones légers, 3 patrouillent le périmètres, deux sont déployés au moindre signe potentiel détecté, en guise de réponse/enquête. Comptent comme des aztech crawlers avec mitraillette SCK model 100 chargés avec 100 balles choc.
+-2 drones aériens, 1 en vol stationnaire en permanence au-dessus du complexe, le second couvre l'extérieur du périmètre avec une ronde assez longue. Ces deux drones n'ont pas d'armement, mais des bonnes caméra (test à 9 dés par défaut)
+-2 drones lourds sont stockés sur place. 1 dans l'annexe, 1 autre dans la petite salle extérieur du rez-de-chaussée. Ils disposent d'une stoner-Ares M202 avec 300 munitions (en deux chargeurs de 150), et compensent automatiquement le recul. Comptent comme des GM-nissan Doberman.
+-Une équipe de 3 drones d'intervention, basés sur des Ares duellist avec une maniabilité 5, et équipées de boucliers anti-émeutes et de SCK model 100 calibrés en mode léthal, avec trois chargeurs de 30 balles explosives. Si l'alarme est déclenchée, ils arrivent en 10 minutes, descendus en rappel par un Northrup wasp équipé avec un stoner ares. Ils sont dirigés en priorité par les riggers de sécurité.
+
+Les riggers ont les compétences et attributs suivants:
+REA 6
+INT 3
+LOG 4
+armes auto 5
+pilotage 4
+
+alerte :5
+
+Diellza dervishi : ancienne amie de jashari, embauchée par Renraku
+Najimi securities : corpo sec de renraku

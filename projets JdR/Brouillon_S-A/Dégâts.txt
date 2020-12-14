@@ -1,0 +1,11 @@
+Dégâts d'une attaque:
+Marge de réussite de l'attaque + VD de l'arme utilisée contre l'armure de la zone touchée.
+
+Au corps à corps, on ajoute le bonus de dégâts du personnage
+A distance, la valeur de dégâts de l'arme est de toute manière plus importante.
+Chute : valeur égale à la distance de chute?
+brûlure : valeur à improviser
+en flammes (vêtements en flamme ou autre) : valeur de base dépendant ddu feu, augmentant avec le temps (1 par tour), possibilité de réduire cela avec un test.
+
+
+Modification à apporter : Pas de blessure mortelle "immédiate" sur les membres, par contre une hémorragie plus importante (hémorragie 2 à 3).

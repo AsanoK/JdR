@@ -1,0 +1,38 @@
+Concept général:
+Les actions sont résolue grâce à un système de cartes, tirés dans un deck, suivant la situation.
+
+Decks possibles pour un même personnage:
+-action/physique
+-social
+-mental ?
+-perception
+
+Par défaut, un joueur pioche une carte par "tour", qu'il peut utiliser, ou garder. Le fait de piocher d'autres cartes permet de réaliser plus d'action potentiellement.
+
+Actions du joueur:
+tirer une carte
+jouer une carte
+défausser une carte?
+ajouter une carte
+retirer une carte
+
+effets secondaires de cartes:
+faire piocher plus de cartes
+défausser une carte en main
+conséquence secondaire, négative ou positive
+créer des cartes
+
+cartes actions:
+-réussite
+-échec
+-ex-aequo (double touche par exemple)
+-échec et conséquences douleureuses
+-réussite exceptionnelle
+
+cartes sociales:
+-réussite
+-échec
+-concession
+-fâcher
+-contact utile?
+

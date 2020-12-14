@@ -1,0 +1,204 @@
+Mots-clés : maison de pavlov, combat urbain, ruines, fumée, explosions, poussière, nuit, horreur.
+Unité : 1er bataillon,42ème régiment de fusilliers, 13ème division des fusilliers de la garde, 62ème armée
+
+officiers:
+Colonel Elin du 42 régiment de gardes
+
+Arc principal:
+l'unité, partie de la 13ème division de fusiliers de la garde, reçoit l'ordre de tenir un bâtiment donnant sur une place de la ville, non loin de la gare n°1 (en couvrant un accès au nord en fait).
+Les assauts allemands vont devenir de plus en plus féroces pour s'en emparer, notamment une fois la gare prise. L'escouade est attachée au QG régimentaire, qui coordonne notamment une partie des affrontements de la gare.
+
+moments clés:
+-réception du matériel, entre le 13 et le 14 septembre
+-traversée de la volga sous les bombes, le 14 au soir
+-affrontements pour nettoyer la zone de débarquement, combat non loin de la maison des spécialistes
+-progression en ville jusqu'au magasin général, où le QG régimentaire s'installe, protégé par un peloton, dont les PJS. 
+-sécurisation des lieux, et rapports des premières lignes comme quoi la gare est tombée, mais les combats sont féroces dans ses alentours : vers l'aube. Le QG du premier bataillon est dans une usine de clous, à proximité immédiate de la gare.
+-contre-offensive allemande sur la position de l'univermag, mal organisée dans un premier temps
+-demi-journée de 'calme', avec la vie qui s'organise dans les ruines
+-assaut allemand mieux organisé sur la position, composé de deux féroces tentatives, soutenue par un canon d'assaut.
+
+Arcs secondaires:
+-civils dans les décombres, qui essaient de survivre
+-problèmes de ravitaillement et de communication, nécessitant d'envoyer des coursiers vers l'arrière, dans des conditions importantes de danger. Il faut de l'eau, de la nourriture, et les ordres.
+-maintient des conditions de travail pour le QG régimentaire, autant que possible, alors que les consigne de Chuikov impliquent de se rapprocher au maximum des forces adverses.
+
+TIMELINE:
+INTRO
+13.09.42 - 1500 : arrivée à l'est de Stalingrad, de l'aurte côté de la Volga. Les fantassins n'ont pas leurs armes de service après la phase de reconstituion qui vient de précéder. La ville en flamme est en vue, et l'ordre est de s'installer dans des positions protégées : un réseau de tranchées et de bunker côté est, partagé avec les artilleurs de plusieurs divisions déjà déployées en ville.
+13.09.42 - 1700 : ordre est donné d'aller voir le quartier-maître du bataillon pour obtenir ses armes. Les premières rumeurs circulent : l'assaut doit être donné demain au travers de la Volga; les allemands ont déjà pris la ville, il va falloir tenir cette rive; la division doit relever la 131ème division de fusilliers, au sud de la ville.....
+14.09.42 - 0930 : Les ordres commencent à être ditribués aux officiers : la troupe doit se préparer à embarquer pour le lendemain. Le 42ème régiment doit être prêt à partir dès ce soir pour servir d'avant-garde, son 1er bataillon servant de première vague, et devant être prêt à partir dès l'après-midi. 
+14.09.42 - 1300: les briefings des officiers sont réalisés, expliquant que le premier bataillon va débarquer dans la soirée pour sécuriser un site de débarquement, et contre-attaquer pour stopper l'avancée des fascistes : il faut reprendre le centre-ville, à commencer par les positions avancées allemandes et la gare, à quelques centaines de mètre de la Volga.
+14.09.42 - 2030 : le bataillon est ordonnée d'avancer vers la VOlga pour embarquer dans les ferry, barques et péniches qui doivent assurrer sa traversée. Les PJs sont sur une grande barque, que dirigent des marins de la flotte de la mer noire. 
+
+PARTIE 1
+14.09.42 - 2130 : ordre est donné de traverser. Celle-ci doit durer environ 30 minutes, et l'unité doit sécuriser la zone de débarquement. La traversée est infernale : les mortiers adverses, mais aussi les mitrailleuses et une paire de stukas visent le convoi. Des PNJs voisins sont blessés par des éclats de shrapnels, et des hommes se jettent dans la Volga car leur embarcation coule.
+14.09.42 - 2200 : débarquement dans la ville de Stalingrad. Premier affrontement entre le peloton des PJs et une unité d'infanterie allemande, avec un nid de mitrailleuse (des grenadiers de la 75ème division d'infanterie, qui ont réussi à arriver à la VOlga).
+COMBAT 1 : tête de pont sur la volga
+
+PARTIE 2
+14.09.42 - 2330 : après les combats autour de la position, l'ordre est donné d'avancer vers la gare pour le bataillon, ordre donné par Zhuikov. Le QG régimentaire va s'installer dans le magasin univermag, escorté par l'unité des PJs. Combat rapide, mais violent pour l'univermag, face à une unité d'infanterie allemande, sans mitrailleuse opérationnelle.
+COMBAT 2 : prise d'univermag par les PJs
+15.09.42 - 0030 : les combats sont terminés ici, et le reste du bataillon peut progresser. L'unité des PJs est assignée à la garde d'univermag, le QG régimentaire souhaitant s'y installer. Ils peuvent passer une bonne partie de la nuit à préparer du mieux qu'ils peuvent leur position dans les décombres et/ou la place rouge.
+15.09.42 - 0500 : le QG régimentaire arrive sur la position, et commence à travailler. La nouvelle arrive vite : le premier bataillon a réussi à s'emparer de la gare, et s'y barricade en cercle. SOn QG est dans une usine de clous de l'autre côté ed la rue par rapport à la gare. Le reste de la division doit débarquer dans la journée, alors que l'artillerie allemande fait rage.
+15.09.42 - 1200 : des chasseurs et bombardiers soviétiques passent au-dessus de la ville, frappant quelques positions allemandes en engageant leurs forces aériennes. Un bombardier soviétique s'écrase de l'autre côté de la place rouge, contre un bâtiment a priori calme. Le pilote est gravement blessé, mais vivant, et peut être sauvé si les PJs vont le chercher. Dans ce cas, cela leur prend quelque temps, et limitera la protection des PJs partis face à la contre-attaque allemande, qui commence peu de temps après (ils seront de l'autre côté de la place rouge). Des tirs peuvent être entendus dans toute la zone, et des coureurs rapportent une offensive allemande. Le QG déduit que l'axe mène les allemands vers eux, et entend des nouvelles de la gare : les combats y sont acharnés, celle-ci ayant déjà été reprise dans la matinée par les deux camps.
+
+PARTIE 3
+15.09.42 - 1230 : assaut allemand contre univermag, avec des troupes qui viennent de se battre pour les bâtiments voisins. Un panzer III soutient l'assaut, aidé par un groupe de sapeurs avec un lance-flammes. 
+COMBAT 3 : premier assaut allemand sur univermag
+15.09.42 - 1400 à 1930 : les forces allemandes se replient et se regroupent dans certains bâtiments de l'autre côté de la rue : les combats y font toujours rage avec les forces soviétiques, certaines contre-attaquant depuis les sous-sols. Les PJs peuvent participer à leurs ennuis, en tirant vers les fenêtres ou en fournissant de l'aide. D'autres peuvent être envoyés en tant que coureurs pour obtenir des ressources, ou transmettre un message au QG de Chukov par exemple. Il faut aussi couvrir les hommes des signaux, qui essaient de déployer des lignes téléphoniques vers le QG.
+15.09.42 - 1930 : avec l'obscurité, les combats continuent, mais des civils sortent aussi des décombres. Ils cherchent pour la plupart de l'eau et de la nourriture, ou des vêtements dans les décombres. Il s'agit notamment d'enfants, orphelins ou non. En plus des préparations éventuelles, le sergent a besoin de monde pour une mission de reconnaissance : il s'agit de savoir ce qui se trouve dans un atelier de maroquinerie de l'autre côté de la rue. Celui-ci est un merdier : des troupes allemandes occupent les deux étages, mais les combles sont tenues par une unité de sapeurs du régiment, qui manoeuvres entre plusieurs bâtiments comme cela, le sous-sol abrite une escouade du NKVD, le rez-de-chaussée étant partagé entre les deux camps, avec des échanges réguliers de tirs et de grenades.
+15.09.42 - 2200 : Les bruits de combat continuent, et si ce n'était pas le cas avant, l'escouade entière va être envoyée mener un raid sur les positions allemandes, avec pour mission de faire des dégâts et si possible, de capturer une 'langue'. Ce dernier point est moins critique pour le lieutenant, mais va faire bien voir les PJs auprès des officiers.
+16.09.42 - 0430 : envoi en mission de ravitaillement pour le QG de régimentaire.
+16.09.42 - 0630 : un groupe d'allemands avance pour attaquer à nouveau univermag. Ils disposent d'un canon quelque part dans les ruines, un Stug est plus loin le long de la rue, et un peloton d'infanterie progresse depuis les ruines pour prendre d'assaut les positions soviétiques.
+16.09.42 - 0930 : la gare est tombée au main des fascistes, le premier bataillon opère un repli de cette position après une nuit de cauchemar.
+TODO : dans la soirée, les forces allemandes montent un assaut beaucoup plus sérieux, et le colonel a reçu l'autorisation de replier son QG à deux rues de là. L'unité va donc devoir opérer sa retraite sous le feu ennemi.
+
+DRAMATIS PERSONAE
+-Lieutenant Gabriel Ivanov : supérieur des PJs (dirige le peloton, ou la compagnie si un PJ est officier). Il va sans doute être la source de la plupart des missions. C'est un vétéran de Rodimtsev,  qui a été formé comme un parachutiste (il porte toujours fièrement son badge de saut). C'est un homme franc, qui ne cache pas au PJs que leurs vies  à tous sont sacrifiables pour atteindre les objectifs militaires, sans pour autant essayer de les sacrifier inutilement. (uniquement sans PJ officier).
+-Sergent Mariya Borovichenko femme combattant depuis Kiev avec la 13ème division, et décorée pour sa bravoure au combat, alors qu'il s'agit d'un membre du corps médical. Ses exploits précédents ont déjà été mentionnés dans la presse, et elle a été décorée de l'ordre de Lénine, qu'elle porte toujours sur elle.
+-Vassily Grigoryevich : le quartier-maître du régiment, qui avant la bataille doit gérer le fait de fournir leurs armes à tout le monde, et pendant, gère surtout les munitions, et partiellement le reste du ravitaillement.
+-Klavdiya Nechaeva : la pilote du Yak-1 qui s'écrase de l'autre côté de la place. Si un perosnnage va la chercher, elle n'est que très légèrement blessée, et pourra sans doute voler rapidement. Sinon, elle meurt sans plus de détails. Note historique : la véritable pilote de ce nom est morte le 17 septembre dans un combat aérien dans le secteur de Stalingrad.
+-Colonel Ellen : le commandant du régiment. Les personnages ne devraient pas énormément le voir, sauf de loin, ou peut-être si le combat dégénère. Il apparait comme un personnage distant et épuisé, en particulier pendant la bataille, où il doit gérer une pression considérable.
+-Sr lieutenant  Chervyakov : dirige le premier bataillon du 42ème régiment, blessé rapidement, remplacé par le lieutenant Feodseyev à partir du 17
+-lieutenant Feodseyev : dirige le premier bataillon du 17 au 21, avant cela, dirige une compagnie
+-Lt. Anton Dragan : dirige le premier bataillon à partir du 21 septembre au soir, et le repli de l'usine de clous. Dirige la compagnie des PJs (3ème ?)
+-Kozhushko : ordonnance de Dragan, et un des 5 derniers hommes du premier bataillon.
+-sgt Ivaniev, sergent responsable de leur canot de transport.
+-cpt Berejnoï : officier d'état-major auprès de Chuikov.
+NOTE HISTO:
+Univermag est tombée le 22 après que les deux lignes défensives dans les blocs voisins n'aient été repoussés. Peut-être faire durer le combat jusque là? Ou trouver une autre fin de scénario.
+
+Différentes médailles peuvent être données aux membres de l'unité au cours de ce combat:
+-médaille de courage pour acte de bravoure au combat
+-médaille pour mérite au combat, pour avoir été critique à une opération militaire
+-ordre de gloire pour destruction de matériel ou personnel adverse (10-50 prisonniers, 1 à 3 tanks, sauver un commandant, repérer un raid nocturne....)
+-ordre de la bannière rouge pour acte de bravoure exceptionnelle
+-ordre de Lénine pour acte de bravoure incroyable
+-héros de l'union soviétique pour acte de bravoure extraordinaire
+-médaille pour la défense de Stalingrad à tout ceux qui ont participé à la défense de la ville.
+
+
+Nouvelles notes:
+-checker les dates et le contexte de dpart : deux jours de marches, puis offensive le 14 au soir (2100 pour les premières unités)
+-changement d'ordre entre la division et l'armée : permier ordre divisionnaire de sécuriser la zone de débarquement, puis contre-ordre de prendre la gare et d'y déployer une défense en cercle.
+-MG près d'univermag, repris par les soviétique le 14 dans la nuit.
+-un peloton de blindés soutien l'assaut sur la gare.
+-combats pour la gare entre le 14 au soir jusqu'au 17, où les soviétiques en sont chassés pour se battre pour l'usine de clous.
+-Après le repli : le lt Dragan et une centaine d'hommes quittent la fabrique de cloius encerclée depuis plusieurs jours, défendent une bâtiment voisin (3 étages) pendant 5 jours, avant que les 5 derniers du premier bataillon ne se replient vers la Volga. 
+
+Modifications:
+-rendre moins statique le scénario, avec plus de mouvements, de déplacements. Pour mieux coller avec l'histoire : première position et début des combats, une offensive et défense de la gare, repli sur la fabrique de clous, soutien d'un assaut, défense du pâté de maisons de l'usine, repli dans l'usine, évacuation.
+-quelques corrections sur la situation initiale.
+-ajout de notes historiques spécifiques en encarts
+
+
+
+
+
+
+
+
+Il faut donc au maximum préparer des défenses pour la maison qui leur est assignée. Suivant l'inspiration de vos PJs, le lieutenant peut donner des ordres plus ou moins spécifiques quant à ce qu'il faut installer, où et comment. Parmi les possibilités : utiliser des débris pour renforcer les fenêtres, creuser des tranchées dans le bâtiment ou dans les rues voisines (pour assurer la communication vers l'arrière), ouvrir des entrées dans les murs intérieurs ou encore fouiller le bâtiment pour voir si des choses utiles s'y trouvent, comme des récipients où stocker de l'eau. En plus de cela, les PJs, après une longue journée et des combats violents, peuvent souhaiter se reposer quelques heures. Tout ceci peut impliquer des tests de labeur, de tactique, de logistique, d'observation. Rester éveillé plus longtemps pour mieux se préparer est possible, avec un test basé sur l'endurance. Enfin, des sentinelles sont nommées, qui doivent réaliser un test d'endurance+observation (seuil 2).
+
+En cas de réussite à ce test, il ne se passe pas grand-chose, la majeure partie des combats aillant lieux vers la gare. En cas d'échec par contre, il peut y avoir un officier qui tombe sur le personnage endormi, ou un tireur isolé qui tente sa chance contre la sentinelle. En particulier, une sentinelle peu vigilante pourrait bien être désignée volontaire plus tard pour des missions dangereuses, comme le ravitaillement ou la transmission de messages.
+
+Dans tous les cas, le QG régimentaire arrive vers 0500 avec son personnel, composé en tout d'une quarantaine d'hommes et femmes : officiers, spécialistes en communication, coursiers, armuriers, etc. Ils installent rapidement leur matériel sur les bureaux à peu près intacts, pendant qu'une escouade d'ingénieur essaie de mettre en place un bunker au sous-sol avec des troncs acheminés depuis la Volga. Vers 0700 un messager arrive des premières lignes, le premier bataillon tient toujours la gare, mais elle a déjà changé plusieurs fois de mains pendant la nuit, et le QG du bataillon est dans une usine de clous de l'autre côté de la rue du communisme par rapport à la gare, dans un bloc d'habitation voisin. La totalité de leur peloton est déployé dans ce bloc d'habitation, et doit le défendre.
+
+Au cours de la semaine suivante, la situation pour les personnages va être relativement stable, à défaut d'être sans danger : ils sont proches de la ligne de front, mais pas sur les principaux axes d'offensive, au moins jusqu'au 18. Plusieurs évènements peuvent se produire au cours de cette période, à jouer dans l'ordre voulu par le MJ (certains peuvent avoir des dates suggérées).
+
+\begin{enumerate}
+    \item Vers midi, alors que les forces aériennes soviétique sortent pour affronter l'aviation allemande, un avion (un yak-1) s'écrase de l'autre côté de la place rouge. Sa pilote est déjà décédée si un PJ arrive sur les lieux du crash, mais rapporter officiellement son décès, voire ramener son corps peut être bien vu par les officiers. Il s'agit de Klavdiya Nechaeva  (historiquement décédée le 17 septembre dans ce secteur). Y aller peut nécessiter des tests d'infiltration, d'athlétisme et d'observation.
+    \item un groupe de stukas bombarde le secteur pour tenter d'en tuer ou blesser les défenseurs. Certains peuvent avoir été touchés, mais cela va surtout modifier le champ de bataille, avec de nouveaux trous dans les bâtiments et/ou des cratères dans les rues. Cela ne devrait pas nécessiter de tests particuliers, sauf éventuellement de couverture pour les personnages dans le dernier étage ou sur les toits. Par contre, le changement dans la géographie du lieu peut avoir des influences sur le dispositif des PJs.
+    \item Le lieutenant a besoin de savoir si un bâtiment de l'autre côté de Volgodonskaia est occupé par des troupes adverses ou alliées. Si des PJs y vont, c'est une sorte de mille-feuilles mortel : des troupes soviétiques tiennent le sous-sol, une escouade allemande les étages, et un groupe d'ingénieurs soviétique a aménagé des chemins dans les combles du bloc d'immeuble. Avoir ces détails peut déjà être dangereux, notamment avec les tireurs allemands aux fenêtres. Comme toute sortie, cela peut demander des tests de discrétion ou d'athlétisme, ainsi que des tests d'observation pour déterminer où sont des gens (et notamment des menaces potentielles).
+    \item Une escouade allemande est en mission de reconnaissance et peut être repérée dans les bâtiments voisins. Des échanges de tirs peuvent avoir lieu, mais a priori aucun des camps ne cherche trop le combat ici. Cela peut se résoudre avec un combat à petite échelle, ou par quelques tests de compétences.
+    \item Il faudrait creuser des tranchées entre le bâtiment et un bâtiment de l'autre côté de la rue, pour communiquer avec un groupe de soldats soviétiques qui s'y battent. Evidemment, les troupes allemandes ne vont pas forcément laisser faire, et il faudra couvrir ceux qui creusent : des tests de labeurs pour ceux qui creusent, ainsi que de couverture, et des tests de tirs pour les troupes en couverture, possiblement d'observation également pour savoir exactement d'où vient la menace.
+    \item Avec un répit temporaire dans les combats, des civils sortent de leurs abris : combles, sous-sols, pièces isolées.... Comme les soldats, ils ont besoin de nourriture mais aussi d'eau propre. Certains, notamment les enfants peuvent essayer de s'en procurer auprès des soldats, d'en trouver dans les décombres, ou encore d'en voler auprès de l'un ou l'autre des camps. 
+    \item En tant qu'unité en relative bonne forme, on demande aux PJs de lancer un raid nocturne sur les positions allemandes : il faudra s'infiltrer au plus près des troupes adverses pour les prendre par surprise, avant de lancer une attaque en combat rapproché : pelle, fusil, pistolets et grenades sont à l'ordre du jour ! Un tel raid a pour but d'infliger des pertes, de fatiguer l'adversaire, de diminuer son moral, et si possible, de ramener des prisonniers pour interrogatoire par le NKVD (la police politique et service de renseignement). Le principal test sera ici de l'infiltration, potentiellement suivie par un combat rapide mais violent.
+    \item Un groupe de soldats soviétiques arrive en renfort, il s'agit d'un mélange de cadets de l'école d'officiers de la ville et d'anciens marins de la brigade d'infanterie de marine. Ils se battent dans la région depuis le début du mois, en particulier les cadets dont certains ont participé aux combats dans les steppes à l'ouest de la ville. Sans chaîne de commandement claire, ils ont rejoint l'unité la plus proche qu'ils ont pu croiser.
+    \item un groupe de soldat allemand lance un assaut dans la rue voisine, soutenu par un canon un peu plus loin et un groupe d'ingénieurs pour détruire certains murs. C'est un combat qui devrait être relativement rapide, étant peu motivé. Les troupes allemandes peuvent par contre en profiter pour voir où sont positionnés certains des soviétiques et leur tirer dessus.
+    \item Au cours d'une période de calme, un sniper commence à s'en prendre à l'escouade depuis un bâtiment plus loin. Il faudra en premier lieu de repérer sans se faire tuer, puis l'abattre ou le faire fuir.
+    \item Des nouvelles du reste de la division : le 15 ou 16, on apprend que le reste de la division a été envoyé reprendre le mamayev Kurgan, une grande colline plus au nord. Plus tard, les nouvelles sont que les combats au mamayev ont été très violents, mais que le sommet appartient aux hommes et femmes de Rodimtsev !
+    \item Des nouvelles du reste de leur régiment : la gare est tombée le 16, mais la fabrique de clous de l'autre côté de la route tient toujours, mais difficilement.
+    \item Un blessé doit être rapidement évacué vers la Volga. Comme toute sortie, cela est dangereux, d'autant plus quand on est ralenti par un blessé à porter. Les blessés sont si possible transportés de l'autre côté de la Volga pour y être soignés. Du moins, quand les capacités médicales limitées le permettent. Beaucoup meurent malgré tout par manque de soins, de nourriture ou simplement de froid à mesure que les température baissent.
+    \item Le commissaire de la compagnie a survécu ! Et c'est bien dommage, car c'est une plaie notoire. D'autant plus que les derniers ordres ont détruit son autorité, il n'a pas le droit de remettre en cause les ordres des officiers, et est seulement responsable du moral et de la politique. Il considère que son devoir est d'exécuter les traîtres et les lâches, ou de les renvoyer au front avec vigueur. Il trouve que le peloton des PJs devrait passer à l'offensive. Personne ne le regrettera dans la compagnie, si un 'accident' devait se produire.
+\end{enumerate}
+
+En plus de ces évènements spécifiques, l'unité a plusieurs problème à résoudre. En premier lieu, la position qu'ils défendent doit être protégée, afin de neutraliser les tentatives allemandes. Cela peut signifier creuser des tranchées, bâtir des barricades de débris, percer des murs pour passer, mais aussi miner certaines positions. La mise en place de sentinelles pour surveiller les alentours fait partie de cet effort : une sentinelle manquant de vigilance, notamment vers l'aube, peut rater une tentative d'avancée des allemands. Suivant les tâches, cela peut impliquer des tests de labeur, de démolition, de tactique aussi, pour déterminer de bonnes options.
+
+Un autre problème est celui de la simple survie : les rations arrivent mal vers l'avant, de même que l'eau. Cela peut impliquer de rationner la nourriture, de s'en passer pour quelques temps, ou de faire le dangereux trajet vers les quais pour essayer d'obtenir du ravitaillement. L'eau est encore plus problématique, chacun en consommant une grande quantité, mais ne disposant que d'une gourde de taille réduite. D'autant plus que la majeure partie de l'eau dans la ville est contaminées : la poussière, les fumées, les cadavres parfois.... Cela peut également impliquer d'aller chercher du ravitaillement à l'arrière, ou de sécuriser une fontaine encore opérationnelle, que l'ennemi recherche tout autant. A titre indicatif, un soldat consomme facilement 3000 kcalories et deux litres d'eau par jour en situation de combat, et survivre plusieurs jours sans eau est pratiquement impossible, en particulier dans ces conditions de survie. 
+
+
+Un troisième problème qui va se poser va être celui des munitions : dans des conditions de combat aussi intenses que dans les ruines de Stalingrad, les troupes consomment des munitions, en particulier des grenades. Il sera possible de récupérer du matériel sur les corps amis ou ennemis, ou, encore une fois, de tenter le trajet jusqu'à l'arrière. Les trajets de ravitaillement sont les même que pour les rations et l'eau.
+
+Si la défense du lieu est critique à la survie des personnages, le ravitaillement ne devrait pas risquer leur vie : si les personnages ne gèrent pas du tout, ou mal ce problème, n'hésitez pas à leur imposer des malus dûs à la fatigue, mais la logistique devrait arriver à faire passer juste assez de ressources pour éviter leur mort. Un trajet de ravitaillement serait sans doute composé de tests d'athlétisme ou d'infiltration : les premiers permettent d'aller plus vite, mais augmentent le risque de tirs. Un test de logistique peut servir à augmenter la quantité de matériel transporté, ou son utilité sur le terrain : mieux gérer la charge pour les porteurs, et s'assurer de prendre le plus utile.
+\section{L'assaut du 22}
+Dans la nuit du 21 au 22 septembre, les premières neiges tombent sur la région : elle ne  tient pas, mais indique bien que les températures, en particulier la nuit, commencent à diminuer, présageant des conditions infernales de vie et de combat des mois à venir.
+
+Le 22 septembre à l'aube, les troupes allemandes ont rassemblé des réserves pour lancer une nouvelle poussée, visant à déloger les troupes soviétiques de leur position près de la gare. Ils ont rassemblé de nombreux fantassins, mais aussi plusieurs tanks et canons, qu'ils ont préparés la veille. Historiquement, cela est le dernier jour de la tenue de l'usine de clous par le premier bataillon, et un repli sur univermag et la place rouge. Dans ce scénario, ce sera l'heure d'une offensive majeure, et le repli fera sans aucun doute partie des options que devront envisager les PJs.
+
+Ce sera aussi et surtout le premier assaut violent contre la position des PJs : les assauts précédents auront été relativement légers, essentiellement de la reconnaissance en force. La semaine de combats urbains aura toutefois fortement réduit les effectifs du peloton, qui devrait maintenant se réduire à deux escouades au maximum.
+
+Vers 0600, un puissant barrage d'artillerie s'abat sur la position, nécessitant un test de couverture pour tout ceux qui ne se trouvent pas dans le sous-sol. Ce barrage dure jusqu'à 0630, quand l'infanterie allemande avance sur la position. 
+
+La première vague consiste en quatre menaces distinctes:
+\begin{itemize}
+    \item La première est un panzer III, situé un peu plus loin le long de la rue, vers la gare, qui tire sur le rez-de-chaussée et le premier étage avec son canon principal et sa mitrailleuse. dangerosité 4, nécessite 5 réussites pour être battu, et tant qu'il n'est pas battu, les troupes dans les deux étages inférieurs (pas le sous-sol) sont attaquées tout les deux tours par une attaque de dangerosité 5 (un PJ/PNJ à chaque fois). Tags : portée (1200), tir de barrage (3), tir perforant (2), défense (3)
+    \item La seconde est un groupe de pionniers allemands, qui avance avec un lance-flammes et des charges de démolition pour ouvrir le passage au reste des troupes. Dangerosité 2, 4 à courte portée; nécessite 3 réussite pour être repoussés. Après deux tours de table, ils sont à portée courte, et s'ils ne sont pas neutralisés avant la fin du troisième tour de table, ils inflige une attaque de dangerosité 4 à tous les PJs du rez-de-chaussée et du sous-sol. Tags : portée (100), défense (6), discret (2).
+    \item La troisième consiste en un groupe d'assaut constitué d'environ un peloton plein de fantassins allemands, qui essaient de s'approcher rapidement en tirant un peu au fusil, avant de charger en combat rapproché à la grenade et baïonnette pour s'emparer de la position. Dangerosité 3, 5 à courte portée. Ils arrivent à courte portée après 3 tours de table complets. Il faut 6 réussites pour les repousser. Tags : portée (150)
+    \item La quatrième est un groupe de soutien, constitué des mitrailleuses de plusieurs escouades, positionnées dans des nids un peu plus loin, ou aux fenêtres. Elles cherchent à faire baisser la tête aux défenseurs pendant que le reste des troupes avance. Dangerosité 3. Tant qu'ils ne sont pas gérés, infligent les effets d'un tir de barrage (2) à tous les occupants du bâtiment bâtiment. Tags : portée (800), tir de barrage (4).
+\end{itemize}
+
+Si les PJs ne sont pas repoussés ou tués, un officier pourra passer pour les informer que le reste du premier bataillon a dû abandonner l'usine de clous, et qu'il vaut mieux se replier jusqu'à la ligne de défense suivante, au niveau de l'univermag, de l'autre côté de la rue. Les PJs pourront laisser de mauvaises surprises aux allemands, évidemment, et se préparer rapidement avant de se replier du bâtiment dévasté dans lequel ils ont passé une semaine.
+
+
+\section{Pour aller plus loin}
+Le scénario peut terminer ici, avec la détermination du sort futur des personnages toujours en vie. Sinon, cela peut servir de point de départ à une campagne de \nomjeu dans les ruines de Stalingrad : les combats présentés ici n'ont duré qu'une semaine, la bataille elle terminera le 2 février, 4 mois plus tard. 
+
+En premier lieu, si vous préférez terminer ici le scénario, vous pouvez utiliser la table suivante ou déterminer par le moyen de votre choix ce qui arrive aux personnages dans le futur. 
+
+\begin{enumerate}
+   \item Le personnage est fait prisonnier par les allemands, qui ne l'abattent pas immédiatement. Il est envoyé en allemagne dans un des nombreux camps de concentration : privations, humiliations et violence pourront avoir raison de lui, ou il pourrait survivre à ce calvaire et être vu comme un traître en puissance par le NKVD. Certains ont été libérés, puis renvoyés immédiatement au front dans en tant que Strafniki : membre d'un bataillon pénal, assigné aux tâches les plus dangereuses.
+    \item Le personnage meurt lors de la suite de la bataille de Stalingrad. Les lieux pour cela ne manquent pas : une ruelle en ruine, un bâtiment dévasté, ou des lieux plus célèbres, comme la maison de Pavlov, tenue pendant cent jours par des troupes de la 13ème. Vers le mois d'octobre, la majeure partie de la division se bat dans les usines Barrikady, l'usine de tracteurs ou encore la fabrique Lazur. 
+    \item Le personnage meurt plus tard dans la seconde guerre mondiale, mais de manière héroïque, gagnant par ses actes une ou plusieurs récompenses à titre posthume. Parmi les possibilité : détruire de nombreux tanks allemands, prendre une position critique comme un pont et le tenir le temps que des renforts arrivent, mener un raid audacieux dans les lignes adverses, ou bloquer une contre-attaque violente des fascistes.
+    \item Le personnage est blessé au combat, suffisamment pour être mis hors de combat pendant plusieurs mois. Si il revient au front, ce sera pour la fin de la guerre, probablement en 1944. Sinon, il peut être renvoyé à l'arrière pour y entraîner des troupes, travailler dans une usine ou être mis à la retraite, en fonction de ses capacités et de sa blessure.
+    \item Le personnage survit à Stalingrad, mais aussi à la suite des opérations de la seconde guerre mondiale. S'il reste au sein de la 13ème division de la garde, il pourra même finir par participer à la bataille de Berlin, même si avec un rôle moins central qu'au cours de Stalingrad. 
+    \item Le personnage survit à la seconde guerre mondiale en tant que héros décoré : au cours de la suite, il reçoit une récompense importante comme l'ordre de Lénine ou le titre de Héros de l'union soviétique. Il peut espérer de l'avancement ou une retraite confortable dans la vie civile une fois le troisième Reich vaincu.
+\end{enumerate}
+
+Sinon, il est tout à fait possible de continuer au-delà de ce scénario pour rejouer la campagne de Stalingrad ! 
+
+En premier lieu, l'univermag ne tombe pas tout de suite aux mains des allemands, les troupes soviétiques tenant encore quelques temps ce bâtiment avant de se replier.
+
+Un peu plus tard, un peloton, commandé par le lieutenant Pavlov, reprend une maison plus au nord  du centre-ville, devant la place du 9 janvier, derrière les lignes allemandes. Cette maison, connue sous le nom de 'maison de Pavlov' sera tenue cent jours par des troupes soviétiques qui se relaieront pour garder cette position derrière la ligne de front.
+
+Parmi les autres possibilités : continuer le combat urbain en se repliant un peu plus vers la Volga au fur et à mesure, en ajoutant également le combat souterrain, alors que les deux camps tentent de contourner l'autre par les égouts de la ville, survivre au froid qui arrive sur la ville (et se procurer des tenues hivernales, et du combustible), ou se déplacer vers le nord pour se battre dans la grande zone industrielle, qui manquera de tomber au main des allemands vers la fin octobre, mais dans laquelle restera un îlot de résistance soviétique.
+
+Dbut novembre, c'est l'opération Uranus, et l'encerclement des troupes allemandes, qui limiteront dès lors leurs opération offensives pour ne pas être débordées par leurs arrière. Cela ne signifie pas la fin des combats, les troupes soviétiques devant encore reprendre les ruines aux milliers de fascistes, ce qui durera jusqu'au 2 février, quand la dernière poche de résistance se rend.
+\section{Récompenses et médailles}
+Plusieurs récompenses et médailles peuvent être obtenues par des personnages au cours de ce scénario, suivant les actions entreprises par les PJs. Ces médailles peuvent être obtenues par tous après confirmation de l'information par un officier. Évidemment, au cours de la bataille, ce n'est pas une priorité, et il vaut mieux noter le fait d'arme pour le transmettre. Tous les officiers ne recommandent pas leurs hommes de la même façon, à vous de décider quelle(s) médaille(s) vos PJs peuvent recevoir.
+
+La plus haute récompense pour un soldat est celle de héro(ïne)s de l'union soviétique. Elle s'obtient par des actes d'exceptionnelle bravoure, idéalement menant à de grandes destructions dans le camp adverse, ou une victoire soviétique. Elle implique une grande possibilité de sacrifice de soi au cours de la bataille, et est souvent décernée à titre posthume. Est comparable à la Medal Of Honor américaine ou la croix de Victoria Britannique. le sniper Vassily Zaitsev recevra la sienne pour avoir tué environ 200 allemands dont 11 snipers lors de la bataille de Stalingrad, et formé de nombreux snipers soviétiques à rôder dans les ruines (les 'lapereaux', Zatsev voulant dire lièvre).
+
+Vient ensuite l'ordre de Lenine, un peu moins rare, et ancienne plus haute récompense atteignable. Elle est décernée pour des faits exceptionnels : la meilleure tireuse d'élite de l'union soviétique l'a reçu pour ses 309 victimes confirmées, dont plusieurs snipers allemands, l'immense majorité au cours de la bataille d'Odessa. Légèrement en dessous se trouve l'ordre de la bannière rouge.
+
+L'ordre de la guerre patriotique, tout récent, est donné pour des actions de bravoure ayant causé de lourds dommages à l'ennemi : par exemple, détruire 3 chars moyens ou deux chars lourds adverses, ou trois avions pour la première classe. La seconde classe est plus commune, mais nécessite tout de même des dommages importants à l'ennemi. 325000 médailles de première classe et 950000 médailles de seconde classes auront été remises aux membres de l'armée rouge, des partisans et d'unités alliées engagées sur le front de l'est.
+
+L'ordre de gloire est décernée pour des actes de bravoure spécifiques, le premier donnant droit à la seconde classe de l'ordre, le second acte donnant droit à la première classe, et le troisième acte de bravoure donne le titre de 'chevalier' de l'ordre. Pour un fantassin, les actes valables sont par exemple d'être le premier à entrer dans une position adverse en menant l'assaut, sauver les couleurs de l'unité de la capture, détruire 2 tanks avec une arme antichar ou 1 avec des grenades, 10 à 50 adversaires tués, capturer un officier adverse, et quelques autres. Elle vise à récompenser des actes qui ne méritent pas nécessairement une médaille plus importante, mais qui, répétés, sont exceptionnels. Seuls 2656 membres de l'armée rouge recevront le titre de chevalier.
+
+Pour acte de bravoure devant l'ennemi, les personnages peuvent également recevoir la médaille 'pour le courage'. Pour des actes menant à une victoire, même locale, ils peuvent recevoir la médaille 'pour mérite au combat'. Ces deux médailles sont parmi les plus communes, ayant été chacune décernée plusieurs millions de fois lors de la seconde guerre mondiale.
+
+Enfin, le 22 décembre 1942, est décernée à tous les soldats ayant participé à la bataille la 'médaille pour la défense de Stalingrad'.
+\section{Changer de personnage au cours du scénario}
+Au cours de l'affrontement, il est fort possible que certains personnages meurent, ou soient mis hors de combat pendant une longue période et doivent être évacués. Il est toutefois tout à fait possible de jouer un nouveau personnage.
+
+En premier lieu, des réorganisations de l'unité font que de nouvelles têtes issues d'escouades décimées rejoindront sans doute l'escouade. Ils utilisent alors les mêmes règles de création de personnages que les PJs au début du scénario. Alors que l'organisation devient de plus en plus compliquée, et laissée  à l'appréciation des escouades elles-même, d'autres soldats, par exemple des troupes du génie peuvent aussi rejoindre, plus ou moins temporairement l'escouade.
+
+Également, au vu du chaos de l'affrontement, de nombreuses unités se retrouvent sans officiers, voire sans sous-officiers, et peuvent alors être tentées de se mettre sous le commandement d'un groupe de gardes qui aurait gardé une certaine organisation. Parmi les possibilité : les cadets de l'école militaire de Stalingrad, durement touchés par un mois de combat, les troupes de marine dont une brigade a été déployée dans la ville, ou encore les troupes spéciales du NKVD (leurs officiers ne prendront pas leurs ordres d'un militaire, mais les troupes peuvent suivre la garde sur le terrain).
+
+Enfin, il est tout à fait possible que des civils rejoignent l'unité, que ce soit pour les aider, défendre leur ancien lieu d'habitation, ou simplement pour survivre.
+\section{Fiches de personnel}
+\subsection{Militaires de la 13ème division}
+\subsection{Autre personnel militaire}
+\subsection{Civils de Stalingrad}
+\subsection{Remplacer un personnage hors de combat}

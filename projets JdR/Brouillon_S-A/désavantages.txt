@@ -1,0 +1,13 @@
+athée (10) : le personnage ne peut jamais bénéficier des avantages ou désavantages des cérémonies religieuses, bénédictions et malédictions.
+recherché (5 à 15) : le personnage est recherché par une faction, uniquement par ses membres pour 5 points, avec une petite prime pour 10, et avec une prime importante pour 15.
+laid/défiguré (5) : malus de -2 sur les tests de sympathiser effectués pour séduire, et malus de 1 sur les autres tests de sympathiser. incompatible avec beau.
+maladif (10) : le personnage a un malus de -2 pour tout les tests visant à résister au poison, aux maldies, aux infections, .... Incompatible avec robuste.
+fanatique(10) : le personnage est un fondamentaliste religieux, ce qui signifie que tout ce qui va contre sa religion sera perçu de manière très négative.
+code (10) : le personnage perd un point d'expérience à chaque fois qu'il transgresse un code de conduite qu'il s'est fixé, ou un serment prêté.
+vendetta (5 à 10) : le personnage est en conflit avec un autre ou avec une famille, pour une raison ou une autre. En réalité cette raison importe peu, ce qui compte, c'est que cette histoire finira dans le sang tôt ou tard.
+mauvaisse réputation (6) : le personnage a deux points de réputation de moins que la normale dans une ville ou région spécifique. Quoiqu'il ait fait (s'il même il fait quelque chose), les gens de là-bas ne l'apprécient guère.
+couard ---REGLES DE COURAGE---
+impulsif(6) : le personnage a tendance à foncer tête baissée dans les ennuis, ce qui pourrait un jour lui valoir de gros problèmes. Quand confronté à un choix dont l'une des possibilités est l'option directe, le personnage doit réussir un test de volonté (3) ou choisir cette dernière automatiquement.
+addiction (2 à 15 points) : le personnage ne peut se passer d'une substance spécifique, typiquement l'alcool, mais parfois les sucreries, ou d'autres cas plus rares. Le personnage doit prendre régulièrement une dose de cette substance, ou subir des malus à tous ses tests. Pour la fréquence : 1 fois/semaine 1 points, 1 fois/jour 3 points, 3 fois/jour ou plus, 5 points. Pour le malus encouru : -1 pour 1 point, -3 pour 3 points, -5 pour 5 points. Attention, cela n'immunise pas aux effets de la substance prise.
+enceinte ---A FAIRE ??? ---
+

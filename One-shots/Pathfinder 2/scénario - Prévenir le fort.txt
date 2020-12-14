@@ -1,0 +1,59 @@
+Thèmes et ambiance:
+Désert, rouge (MtG), raids, gobelins,orques, exploration
+
+Arc principal:
+Les personnages vont arriver face à l'avant-garde d'une large tribu d'orques et gobelins se préparant à assiéger le fort voisin. Il leur faudra réussir à devancer cette troupe pour prévenir les défenseurs avant qu'ils ne soient pris par surprise. SCènes importantes : poursuite par des éclaireurs, affrontement avec des tirailleurs. Possiblement un duel avec un chef ou sous-chef.
+
+Arc secondaire :
+Les personnages sont envoyés vérifier une région non loin du fort, car un objet est récemment tombé du ciel. Il faudrait aller vérifier ce qui est tombé. Il s'agit d'une simple météorite, mais cela aura été interprété par la tribu d'orque et gobs comme un présage de leur réussite dans la guerre à venir.
+Vagues quêtes de personnages : duel pour l'un, un proche à sauver pour un autre, faciliter au mieux les défenses pour un troisième....
+
+Structure:
+1) départ du fort vers l'endroit où serait tombé l'objet en question.
+2) Découverte d'une patrouille GS, et vision de la troupe qui les suit.
+3) Poursuite/course contre la montre pour prévenir le fort en avance.
+4) Détours potentiels, avec leurs dangers
+5) affrontement avec un groupe avancé d'orc sur un point stratégique (pont ?)
+6) arrivée au fort, et fin du scénario.
+
+-> Le scénario devrait les mener au niveau 2 avec cela, ou très proche dans l'idée.
+
+Setting : zone frontalière à définir, dans une zone aride, pour réutiliser mes décors, ou zone classique tempérée, si je prends le temps de faire des arbres et peut-être une nouvelle plaque de jeu.
+
+Structure :
+-la mission :
+Journée normale à Montgriffon, un messager est arrivé, ....
+Le groupe est appelé par le sénéchal de Montgriffon, qui observe une carte de la région dans le corps de garde. Il indique qu'il souhaite les envoyer en mission : des villageois de Pontorson lui ont envoyé un messager pour signaler que la nuit où les cieux se sont allumés, un grand bruit a été entendu dans la forêt voisine. 'Vous avez plus de chance que mes hommes de comprendre ce qui a pu se passer là-bas'. Les PJs doivent donc y aller, vérifier qu'il n'y a pas de danger, et si possible, sur le retour, vérifier que tout va bien dans les villages d'aubernier et pontorson.
+-L'exploration : Trouver l'endroit est un test de survival DC 15, ou perception DC15 pour réduire à DC10. Cela permet de trouver une zone où les arbres ont été comme soufflés et brûlés, couchés comme par une grande explosion, peut-être le grand bruit que les paysans ont rapportés ? En s'approchant de la clairière aiinsi formée, on découvre qu'une sorte de roche semble être tombé brutalement au milieu des arbres. Etrange.
+-La patrouille de gobelins:
+Alors que les PJs commencent à s'approcher de cette pierre, ils peuvent réaliser un test de eprception DC12 pour entendre un groupe de gobelins s'approchant, qui hurlent rapidement 'Tuez-les, Varag nous récompensera pour ça !'. Ils se ruent ensuite vers les PJs en bondissant par-dessus les obstacles rencontrés.
+Une petite patrouille de 3 gobelins et un commando, non loin de la pierre tombée du ciel. Ils ont été envoyé par le chef Varag mâche-braise pour observer cette étrangeté. (xp : 100)
+-La pierre étrange:
+Une fois le combat calmé, les PJs peuvent étudier avec plus de détails cette pierre étrange.
+-éclaireurs orques:
+En s'approchant de cette vision, les personnages tombent sur un groupe de fourageurs orques occupés à piller un village. Un guerrier et deux brutes, cherchant de manière chaotique (xp:100)
+Ils sont très occupés à briser des coffres et meubles à la recherche de choses à piller, et peuvent potentiellement être surpris lors de leur tentative.
+-course poursuite : 
+Une fois les fourageurs tués, un groupe beaucoup plus important remarque les PJs et commence à essayer de les rattraper. Tambours et cris de guerre de la horde. Utilisation des règles de poursuite (p156 DMG). 6 obstacles :murets, forêt dense, colline, colline again, forêt again, rivière
+forêts : perception  DC17, survie DC 13, 4 CP
+murets : athlétisme DC13, roublardise DC15
+collines :athlétisme DC13, DC 15 perception
+Discrétion DC 12 pour gagner du terrain, ou athlétisme 15, ou survie 13
+En cas d'échec, un affrontement a lieu contre deux guerriers orques et un chef de guerre (XP : 140 dans les deux cas). La poursuite s'arrête si les Pjs sont rattrapés, ou si ils prennent deux obstacles d'avance sur leurs adversaires, ou si ils finissent les obstacles.
+-Affrontement sur un pont:
+Les personnages affrontent un pyro gobelin, ainsi que deux gobelins et un guerrier orque (XP : 120) Cela afin de protéger l'approche de pontorson, le temps que les paysans ne s'enfuient dans les environs. Si les personnages restent un peu plus longtemps, il va leur falloir combattre une seconde vague, avec un chef de guerre orque et 3 brutes.
+-Varag mâche-braise:
+Si les personnages tentent d'affronter Varag à un moment, celui-ci est un adversaire redoutable, chef de guerre d'élite, et est protégé par deux guerriers orques : 160 XP Le reste de ses troupes peut, suivant la façon dont on l'approche, laisser le combat se dérouler normalement.
+XP global du scénario : 460 + quête, montant à 620+quête si ils tuent ou font fuir Varag
+
+
+Modifications à apporter :
+-ajouter au moins une ou deux interactions sociales
+-quêtes personnelles pour les PJs et backgrounds
+
+Loot:
+1 item 2, 2 item 1, 2 consommables 2, 2 consommables 1, 20 gp, le reste pour la suite du niveau (1 item 2, 30 gp et 1 conso 1)
+Détails : 1 élixir de vie mineur, 1 griffe d'ours-hibou*
+1 huile d'efficacité*, 1 bronze bull pendant*
+1 everbuning torch*, 1 snare kit*
+1 chien d'onyx

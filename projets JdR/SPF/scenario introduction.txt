@@ -1,0 +1,53 @@
+Unité : 1er bataillon, 13ème division des fusilliers de la garde, 62ème armée
+Date : 14 septembre 1941, 1700, traversée de la Volga, et engagement des fascistes dans la ville, notamment près de la gare. Une continuation peut se faire avec un switch vers le nord, la maison de Pavlov et mamaiev kurgan (reprise le 16)
+
+Première partie : avancée vers Stalingrad, et traversée de la Volga (jusqu'au 15 matin)
+Seconde partie : Arrivée sur la zone de combat, Mamayev Kurgan et ses environs, mise en place d'une contre-attaque vers le sommet. Dans la journée du 15. Offensives et défenses s'alternent.
+Troisième partie : Repli vers la gare no1, préparation d'un nouvel assaut le 16.
+Quatrième partie : reprise du mont le 16.
+
+Ennemis : vers la gare, 24ème PzDivizion; sur le mont 71 et 75ème divisions d'infanterie
+-> des blindés vers la troisième partie, peu autrement.
+Remplacement des personnages:
+-1ère et seconde partie : des membres de l'unité, avec une spécialité aléatoire.
+-3ème partie : unité aléatoire d'infanterie soviétique, ou de milices ouvrières.
+
+PARTIE 1: AU-DELA DE LA VOLGA
+Au loin, les nuages sont noirs. les soldats les plus pessimistes indiquent qu'ils bougent trop peu et sont trop bas pour être des nuages : il s'agit probablement des feux de la ville.
+Le lieutenant Piotr Udanov rassemble son peloton pour leur donner les nouveaux ordres qui viennent d'arriver, et ne suprendrons personne : après la marche vers la ville de Stalingrad, la soixante-deuxième armée va traverser la Volga pour défendre Stalingrad. Le début de la traversée est prévu pour 1700, les troupes devront être prêtes pour 1100 pour se diriger vers les bateaux.
+Une fois en ville, la compagnie doit progresser au travers des dépôts de pétrole pour aller soutenir les défenseurs du Mamyev Kurgan. Les roupes adverses sont entrées depuis hier en ville, et les combats sont déjà acharnés. 
+Avant de partir, les soldats ont environ 1h, de quoi préparer leurs affaires, éventuellement tenter de récupérer du matériel ou de s'entrainer rapidement.
+La marche en elle-même n'a rien de spécial. l'artillerie divisionnaire est déroutée vers une colline non loin de la ville pour pilonner l'envahisseur sans s'engager dans le terrain urbain. La ville en elle-même brûle monstrueusement, couvrant le ciel d'un épais nauge de cendres, et illuminant le sol de sa lueur infernale. 
+Un raid aérien de l'ennemi déclenche de furieux tirs de ripostes, et force toute l'unité à trouver des couverts (menace 2)
+L'unité est ensuite mise, de manière assez chaotique sur les bacs pour traverser. Une fois l'ordre donnée, les navires avancent, le plus vite possible, alors que l'artillerie ennemie commence à pilonner la traversée (menace 3).
+Lors de la traversée, les troupes peuvent voir l'état de la ville de près : un tas de ruines  fumantes, où le chaos règne en maître. Les navires accostent le long des docks, permettant aux troupes de rapidement arriver au sol. Il est environ 0100, le 15 septembre quand les troupes posent le pied à terre, et passent encore 2h à s'organiser sur place, en évitant les tirs d'artillerie allemande. On peut entendre les vieux moteurs des forces aériennes passer pour harceler les troupes allemandes. A 0300, l'ordre d'avancer est donné pour la compagnie, qui doit aller soutenir les combats au pied du Mamayev, devant le dépôt de locomotives, de l'autre côté de la voie ferrée.
+
+PARTIE 2 : MAMAYEV KURGAN
+La 13ème division sert de renfort et de contre-offensive sur le mamayev, qui menace de tomber à tout moment face à la 75ème infanterie allemande. Il s'agit de s'emparer des anciennes positions soviétiques, prises pendant la nuit et le début de matinée par les allemands.
+En arrivant au dépôt de train, où le QG de la 4/115Bgd a été déplacé en urgence. On informe leurs officiers/sous-officiers qu'il vont devoir monter une contre-offensive, et ont une heure de repos avant de se rassembler pour l'action. 
+Le lieu est apocalyptique, avec des flammes faisant qu'on y voit comme en plein jour. L'assaut doit être lancé pour 0500, sur les positions allemandes. C'est le premier combat des joueurs.
+L'assaut se fait sur des tranchées improvisées par les troupes soviétiques et rapidement occupées par de fantassins allemands. L'accès est plein de débris dus aux nombreux tirs d'artillerie de la veille, et peut se faire relativement discrètement. (épreuve de discrétion : réussir 3 tests difficulté 4, avant d'en rater 2). Les forces allemandes disposent de deux nids de mitrailleurs bien approvisionnés, et ont fortifié une position centrale. Face à la compagnie des joueurs, il y a une compagnie allemande en léger sous-effectif (80% de l'effectif théorique). La menace pour ce combat est de 4, réduite de 1 si un ou l'autre des nids de mitrailleuse est détruit. Il faut réussir 6 tests pour faire se replier les troupes allemandes, dont au moins 3 affrontements de la menace. Après 8 tests tentés, la menace augmente de 1, avec l'arrivée de renforts allemands. Après 15 tests tentés, les troupes allemandes se replient en bon ordre, d'autres compagnies ayant mieux mené leur assaut. 
+
+Les personnages sont ensuite chargés de s'installer dans un des nids de mitrailleuses, pour le défendre contre une probable prochaine offensive. les forces allemandes se regroupent pendant 2h (il devrait être 1100 lors de leur prochaine offenive, mais les joueurs ne le savent pas). Si les troupes allemandes se sont repliées en bon ordre, elles ont pu laissé un piège explosif dans le nid, ce qui peut blesser ou tuer des PJs/PNJs. Les joueurs peuvent ensuite préparer la position à leur guise pour la suite : enlever les corps, préparer des munitions, bâtir de nouvelles fortifications, observer les troupes allemandes, les harceler avec des tirs.... Harceler trop lourdement les troupes allemandes déclenchera une réponse sous la forme de tirs de mortiers.
+
+La seconde offensive est anticipée par un barrage d'artillerie. Vient ensuite une forte concentration de troupes allemandes, qui se rassemblaient à proximité : mitrailleuses, mortiers, et assauts à la grenade et bayonnette. Menace 5, il faut réussir au moins 8 tests pour repousser l'assaut. Après 4 réussite, la menace passe à 4, l'avant-garde allemand tentant moins sauvagement de passer à l'assaut, et les munitions de mitrailleuse commençant à se réduire.
+
+Le combat devrait finir vers 1600, et les forces soviétiques peuvent se reposer quelque peu. Les personnages peuvent être envoyés en reconnaissance sur le flanc gauche, où des batîments en ruine se tiennent. Sinon, ils sont utilisés pour fortifier et préparer leurs positions, parfois sous le feu des allemands, dans des foxholes un peu plus loin, à une soixantaine de mètres.
+
+Le prochain assaut se déroule vers 2200, avec un groupe de sapeurs allemands, qui s'infiltrent le plus près possible, avant d'utiliser leur lance-flammes et leurs charges de démolition pour déclencher l'assaut, suivi par de l'infanterie plus conventionnelle. Menace 5, il faut réussir au moins 6 tests pour repousser l'attaque.
+
+Si lors d'un de ces assauts, les personnages sont repoussés, le capitaine de leur compagnie leur ordonne de repartir à l'assaut, accompagné de plusieurs escouades de soutien, avant que les défenses adverses ne se renforcent. C'est un combat de menace 4, réduit à 3 après 6 tests tentés, il faut 5 réussites pour chasser les forces allemandes.
+
+PARTIE 3 : GARE No1
+
+PARTIE 4 : OBSTINATION SOVIETIQUE
+
+PJs:
+- Caporal Ludmila Pavlova : tireuse d'élite de l'unité, engagée dans la 13ème division depuis de début de la bataille de Kharkov. C'est une jeune femme joyeuse, qui s'est engagée après avoir entendu parler des horreurs que les fascistes ont pu infliger à son pays. Elle a commencé comme coureuse, mais sa précision au fusil a rapidement été noté, et elle est devenue la tireuse d'élite de son escouade. Elle était avant la guerre une ouvrière à Rostov-sur-le-Don, dans une usine d'huile.
+- Soldat de base, origine Khazak, conscrit
+- Sergent expérimenté, auparavant un mineur ukrainien, entré en guerre par nécessité.
+-infirmière, ancienne étudiante à Moscou, entrée dans l'armée par réquisition, motivée maintenant par la disparition de son fiancé au saillant de Rzhev, lors de la contre-offensive de l'hiver.
+-observateur d'artillerie travaillant avant la guerre comme ingénieur agricole dans une ferme d'état non loin  de Sebastopol. Un communiste convaincu venant d'une famille de paysans pauvres.
+
+PNJs :
+-lieutenant Kolomiets : jeune frère d'un officier supérieur de l'armée rouge, il s'est engagé en partie par tradition familliale datant de la période impériale, et en partie pour défendre sa patrie. C'est un officier exigeant, qui demande des résultats de ses hommes, plus que des excuses. 

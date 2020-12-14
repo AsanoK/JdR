@@ -1,0 +1,40 @@
+Les compétences magiques:
+
+-sorcellerie : rituels mineurs.  Permet de réaliser des amulettes, de réaliser une divination, de maudire quelqu'un ou d'affecter son esprit.
+-enchantement: contrôle des éléments (?). Fatigue énormément le lanceur. La plupart des "sorts" sont des mini-rituels. Puissant, mais lent à mettre en place. Elements : feu, terre, air, eau, force, foudre, ombre, lumière.
+-shamanisme : permet de s'adresser à des esprits (divinités mineures), afin qu'ils répondent aux questions, acceptent de fournir une aide.... Proche dans l'idée d'une religion. Types d'esprits : ancêtres, éléments (feu, eau, terre, air)...
+-théurgie : permet de détecter l'usage de la magie, et les éléments affectés par celle-ci.
+-symbolisme : connaissances sur les règles du symbolisme magique, permet d'étudier un rituel/une amulette afin d'en déterminer l'objectif.
+
+La magie peut se réaliser en groupe pour améliorer le score obtenu (règle de travail en équipe?). Le score devant être obtenu pour avoir des gros effets devrait refléter ceci.
+
+Les rituels(tous), profitent de l'utilisation par le lanceur de sorts d'objets symboliques afin de s'aider : si on vise quelqu'un, une partie de son corps ou un objet proche, ou encore un symbole le représentant. Attention toutefois en cas de mauvaix choix de symboles, ceux-ci peuvent changer légèrement l'effet : la cible peut ne pas être la bonne par exemple. Ainsi, si on souhaite visualiser un noble, utiliser son blason comme composant peut produire comme effet de visualiser son chateau, auquel est plus associé le blason.
+En guise de rappel : le fer n'aime pas la magie, la magie n'aime pas le fer.
+Un test de symbolisme+LOG permet de fournir un bonus à un test en ayant les bons symboles utilisés.
+
+SORCELLERIE:
+-Amulettes :permettent de créer un objet étant soit un porte-bonheur, soit une forme de protection. Les protections peuvent être des protections contre la sorcellerie, des protections physiques, des protections contre les entités (possession et influence), contre les maladies.... Chaque amulette permet de disposer de relance (ou d'un bonus?) aux tests pour résister à leur type de problème : une protection physique fournit un bonus aux tests de défense (ne fonctionne que de façon très limitée), une protection contre le mauvais sort fournit un bonus aux tests de chance.... Les amulettes ne fonctionnent qu'un temps avant de se détruire (usure des matériaux), ou un nombre d'utilisation ? test de sorcellerie+? normal
+-envoutement : il est possible pour un sorcier d'envouter une cible. Il est plus facile de faire cela sur une cible proche que sur une cible lointaine. Cela permet d'infliger un malus sur un type de test défensif : face à la séduction, face aux attaques, aux coups du sort, aux autres envoutements. Fonctionne de façon opposée aux amulettes en fait. test de sorcellerie+CON
+-lien : il est possible de lier deux éléments (le plus souvent des êtres vivants). Cela peut fonctionner de plusieurs façon avec les envoûtements : si l'envoûteur connait le lien, il peut l'exploiter, envoûtant un des éléments pour affecter l'autre. Si il l'ignore en revanche, il visera l'un, mais ne touchera que l'autre. L'un des deux au moins doit être un être vivant. Plus l'autre est complexe, plus les possibilités de transfert seront grandes : une plante mourra probablement au premier effet de malédiction, un animal après quelques uns, un homme subira les effets normaux. Un lien puissant peut transmettre de façon limitée des blessures. test de sorcellerie+CON contre ??
+-divination : un rituel de divination, avec des symboles associés aux questions posées, permet de poser des questions quand au futur. Le MJ peut alors y répondre, de façon cryptique et symbolique idéalement. Contrairement aux prières de divination, il n'y a là aucun besoin de symbolismes religieux, il faut des symbolismes "magiques" : l'image est la chose et la chose est son image (un lion peut représenter quelqu'un dont s'est le symbole), l'histoire lie (un élément lié à l'histoire d'un lieu ou d'un personnage peut le représenter)..... Ces symboles ne seront pas toujours connu par le personnage réalisant la divination. test de sorcellerie+CON, un test de symbolisme+LOG peut aider à interpréter certaines visions.
+
+SHAMANISME:
+règles de religion au final ? Regarder du côté du druidisme peut-être.
+
+ENCHANTEMENT:
+Fonctionne par rituels spécifiques, avec des composants obligatoires, et un score à obtenir dans un nombre limité de test par personne participant.
+difficulté, nombre de tests, composants.
+rituels faisables :
+-manipulation élémentaire (terre, feu, air, eau, ....) : permet de manipuler les mouvements d'un type d'élément. La difficulté du tout dépend de la masse à déplacer, de la distance entre celle-ci et le rituel, et certains matériaux (le fer, encore le fer) y résistent naturellement, d'autres y sont très sensibles, comme les cristaux (beaucoup plus rares). Enchantement+CON
+-télékinésie : manipulation d'objets à distance : blocs de roches, armes.... dépend de la finesse de manipulation et de la masse à déplacer. Enchantement+CON, difficulté fixée par la masse.
+-transmutation (animale, végétale ou minérale) : premet de changer un corps en un autre. Il est beaucoup plus facile de le faire au sein d'un même règne (animal, végétal ou minéral), mais même alors ce n'est pas simple. Enchantement+CON contre? pour une cible involontaire
+-condition : modifie un rituel existant pour lui ajouter une conditions de déclenchement. Lorsque celles-ci sont réalisées, le sort se déclenche, et ce, tant que le réceptacle existe. Un réceptacle est un objet servant de lien entre le lanceur et le sort inactif. Il est possible pour quelqu'un de suivre ce lien. Enchantement+CON
+-contresort : permet de défaire une condition, un rituel, un envoûtement..... Bref un effet magique actif. Suivant les cas, il faut le faire en même temps, ou l'on dispose de tout le temps que l'on souhaite. Enchantement+CON faec à compétence+CON du lanceur adverse.
+-nécromancie ? pas fixé pour celui-ci.
+Le système de compétences permet évidemment de cumuler plusieurs types de magie sur un personnage.
+
+Les compétences de magie ont des spécialités par action:
+-sorcellerie : amulettes, envoûtements, liens....
+-enchantement : chaque élément, télékinésie, transmutation, condition, contresort
+Il n'est pas possible de faire un test en magie sans avoir de point de compétences dans ce domaine.
+

@@ -1,0 +1,68 @@
+Concept : Les PJs sont embauchés par un nouveau johnson pour un boulot unique : ils ont besoin de quelqu'un pour s'emparer d'un navire dans les eaux internationales en mer noire.
+ Du moins d'une partie très spécifique de sa cargaison : une caisse de matériel est renforcée et contient une dizaine de Rurhmetal SF-20. Si celle-ci est récupére intacte, le paiement sera complet. Dans le doute, la caisse peut simplement être détruite ou jetée à la mer, pour un demi-paiement.
+Le navire est le Galipoli.
+Petit problème inattendu, du moins pour les PJs: le navire est géré par des loups gris, car leur johnson travaille pour les 10000 dagues. Les loups gris vont rapidement suivre la trace de leur navire une fois celui-ci revenu à Constantinople, et vont essayer de retrouver les PJs.
+
+Paiement : 6000 nuyens pour chaque runner, la moitié si la caisse est juste détruite.
+
+Options : il est possible de s'emparer de la cargaison à terre, mais cela risque d'être plus complexe, à cause des loups gris.
+Indices et autres à trouver:
+-le nom du navire peut rappeler des trucs à ceux qui travaillent dans le milieu du trafic en ville (en particulier d'armes). Auquel cas, ils pourront probablement le relier aux loups gris.
+-le johnson travaille depuis longtemps à Constantinople, et sert de fournisseur aux 10000 dagues principalement. Des gens qui connaissent les 10000 dagues pourront l'identifier sans problème.
+-Le plan du navire se trouve à la capitainerie ou lors de son départ de constantinople vers Rostov.
+-La route de navigation exacte, qui permetrtait de s'emparer de la cargaison en sûreté, est obtenable via la capitainerie, certains loups gris, et d'une poignée de trafiquants liés aux loups gris, presque tous avec des intérêts sur la cargaison.
+
+Défenses du navire : 
+-une demi-douzaine de membres d'équipage, dont un capitaine un peu plus sérieux. celui-ci est plus lourdement équipé, et surtout, augmenté.
+-un esprit de l'eau dans la soute, qui passera par les canalisations du navire pour remonter en cas d'alerte. Force 3. 
+
+
+Situation et plan :
+Ils prévoient d'attendre devant le navire, de nuit pour l'attaquer. Ils sont en mer non loin, à environ 60km des côtes bulgares. Ils se situent à une trentaine de km du navire.
+
+
+capitaine:
+SR5
+B A R S W L I C Ess
+6 4 4(6) 4 3 2 4 2 3
+Initiative: 8(10) + 3d6
+Movement: 8/16/+2
+Condition Monitor: 11
+Limits: Physical 6(7), Mental 4, Social 4
+Armor: 15
+Skills (Dice Pools): Athletics skill group 8, Automatics 10, Dodge
+7, Perception 9, Pistols 9, Stealth skill group 7, Unarmed Combat 8
+Augmentations: Wired reflexes 2
+Gear: Full body armor, AR goggles [Capacity 2, w/ thermographic
+vision, smartlink), Erika Elite commlink (Device Rating 4)
+Weapons:
+Ares Predator V [Heqvy Pistol, Acc 5(7), DV 8P, AP –5, SA RC
+—, 15(c), w/ ADPS rounds, 4 spare clips]
+FN HAR [Assault Rifle, Acc 5(7), DV 11P, AP –3, SA/BF/FA,
+RC 3, 35(c), w/ explosive rounds, 6 spare clips, smartlink,
+gas-vent 3]
+
+simples connards:
+B A R S C I L W Ess Init IP Arm CM
+4 4 4 3 3 4 3 3 6 8 1 14/9 11
+Skills (Dice Pools): Clubs 7, Pistols 8, Dodge 7, Perception 8
+Gear: Armor jacket, commlink (Device Rating 3)
+Weapons:
+IZOM HP–49B [Heavy Pistol, 5P, AP –1, SA, RC -, 12(c), 2 spare
+clips]
+Stun baton [Club, Reach 1, DV 6S(e), AP –half]
+SR5
+B A R S W L I C Ess
+4 4 4 3 3 3 4 3 6
+Initiative: 8 + 1d6
+Movement: 8/16/+2
+Condition Monitor (P/S): 10/10
+Limits: Physical 5, Mental 5, Social 5
+Armor: 12
+Skills (Dice Pools): Clubs 7, Gymnastics 7, Pistols 8, Perception 8,
+Knowledge: Law Enforcement 5
+Gear: Armor jacket, Erika Elite commlink (Device Rating 4)
+Weapons:
+Ares Predator V [Heavy Pistol, Acc 5, DV 8P, AP –1, SA, RC —,
+15(c), 3 spare clips]
+Stun baton [Club, Acc 4, Reach 1, DV 9S(e), AP –5]

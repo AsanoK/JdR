@@ -1,0 +1,518 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 0
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Une fois de plus dans la brèche
+\end_layout
+
+\begin_layout Author
+Antoine ROBIN
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Synopsis de campagne
+\end_layout
+
+\begin_layout Standard
+Comment lancer la campagne?
+\end_layout
+
+\begin_layout Part
+Guide du joueur
+\end_layout
+
+\begin_layout Section
+Quelle va-t-être la zone de jeu?
+\end_layout
+
+\begin_layout Standard
+Au cours de cette campagne, les personnages vont principalement évoluer
+ dans la principauté de Donovod, loin à l'ouest des royaumes d'Emérie, de
+ l'autre côté de la mer Irienne, dans la région connue sous le nom de Rasthénie.
+ 
+\end_layout
+
+\begin_layout Standard
+Au cours des deux derniers siècles la Rasthénie s'est divisée, au fil des
+ héritages, en de nombreuses principautés distinctes en conflit plus ou
+ moins ouvert les unes avec les autres.
+ Donovod est l'une de ces principautés, dirigée depuis la cité du même nom
+ par le prince (
+\begin_inset Quotes eld
+\end_inset
+
+kniaz
+\begin_inset Quotes erd
+\end_inset
+
+) Alexeï Andronov.
+ 
+\end_layout
+
+\begin_layout Standard
+La région toute entière, même si elle est parfois considérée comme la frontière
+ occidentale de la civilisation, profite d'une forte affluence commerciale,
+ notamment dans les grandes cités : les fourrures, le miel, la cire l'ambre,
+ mais aussi le chanvre et le houblon locaux sont échangés contre des métaux,
+ les armes et les chevaux de l'empire Miran.
+ Leurs marchandises sont considérées par bon nombre comme des matériaux
+ de choix pour de nombreux articles de luxe, sentiment renforcé par la difficult
+é à s'en procurer, du fait des distances de trajet.
+\end_layout
+
+\begin_layout Standard
+La région doit compter sur ses troupes de métier, dirigées par des Boyards
+ (sorte de noblesse locale) pour défendre ses frontières contre les clans
+ Khirai, qui tentent souvent des incursions depuis leurs terres glaciales
+ pour piller les villages de Rasthénie.
+ Les villes sont elles généralement sécurisée de part leurs murailles et
+ leurs garnisons importantes.
+\end_layout
+
+\begin_layout Standard
+Au niveau linguistique, le Rast (et ses nombreuses variantes locales) est
+ évidemment le plus courant.
+ Dans quelques principautés, l'eraglaï (la langue des khirai) est utilisée
+ par la noblesse, et parfois par les paysans.
+ Enfin, les trinitain et la quasi-totalité de la noblesse comprend (au minimum)
+ le Miran.
+ La principauté de Donovod parle généralement le Rast, et la majeure partie
+ de nobles parle correctement le Miran et a des rûdiments d'eraglaï.
+\end_layout
+
+\begin_layout Section
+La principauté de Donovod et la ville éponyme
+\end_layout
+
+\begin_layout Section
+Qui sont les personnages?
+\end_layout
+
+\begin_layout Standard
+Les personnages viennent d'horizons divers, mais ont deux points communs
+ : ils connaissent un marchand Emérien, maître Nalom, et ont une raison
+ valable de se joindre à lui et sa caravane vers la ville princière (et
+ frontalière) de Donovod.
+\end_layout
+
+\begin_layout Standard
+Les premiers sont des associés, peut-être récents de maître nalom : amis
+ marchands, nouveau collègue essayant de découvrir les marchés possibles,
+ ou membre de sa famille étant destiné à apprendre auprès de lui.
+ Si il y a (par exemple) un de ses neveux dans la caravane, cela pourrais
+ expliquer pourqquoi il est revenu en Emérie au lieu de rester chez lui.
+\end_layout
+
+\begin_layout Standard
+Un personnage noble pourrais concrétiser un projet de marriage au sein des
+ boyards de la principauté, ou (cela peut être équivalent) négocier une
+ forme d'alliance ou d'entente.
+\end_layout
+
+\begin_layout Standard
+Des personnages religieux (et notamment trinitains), pourraient vouloir
+ évangliser cette région, dans laquelle il reste beaucoup à faire : une
+ bonne partie du peuple vénère toujours ses dieux païens, tout comme quelques
+ boyards.
+\end_layout
+
+\begin_layout Standard
+Il y a des possiblités de personnages originaires de la région : ils pourraient
+ être des gardes, ou des employés de maître Nolam, ces personnages auraient
+ quand à eux l'avantage de déjà connaître la région.
+\end_layout
+
+\begin_layout Standard
+Dans tous les cas, et dans l'anticipation des évènements de la campagne,
+ il pourrait être une bonne idée de savoir se débrouiller un minimum dans
+ une situation d'action, même si ce n'est pas forcément le rôle pricipal
+ du personnage (il y aura nombre de combats auxquels il faudra survivre).
+ 
+\end_layout
+
+\begin_layout Part
+Nouveaux éléments de jeu
+\end_layout
+
+\begin_layout Section
+Nouveaux historiques
+\end_layout
+
+\begin_layout Standard
+nomade
+\end_layout
+
+\begin_layout Standard
+négociant
+\end_layout
+
+\begin_layout Section
+Equipement des steppes et des grandes plaines
+\end_layout
+
+\begin_layout Standard
+chevaux et montures des steppes
+\end_layout
+
+\begin_layout Standard
+armes et armures
+\end_layout
+
+\begin_layout Standard
+équipements divers
+\end_layout
+
+\begin_layout Section
+La guerre
+\end_layout
+
+\begin_layout Standard
+comment ça se passe dans le système féodal
+\end_layout
+
+\begin_layout Standard
+un système de jeu
+\end_layout
+
+\begin_layout Section
+La vie d'assiégé et d'assiégeant
+\end_layout
+
+\begin_layout Standard
+problèmes de l'assiégeant
+\end_layout
+
+\begin_layout Standard
+problèmes de l'assiégé
+\end_layout
+
+\begin_layout Section
+Nouvelles créatures
+\end_layout
+
+\begin_layout Section
+Ecoles de magie
+\end_layout
+
+\begin_layout Part
+La campagne
+\end_layout
+
+\begin_layout Chapter*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Les personnages commencent donc la campagne au sein de la caravane de maître
+ Nalom.
+ C'est un riche marchand Emerien, vivant à Donovod depuis des années.
+ Sa caravane transporte de nombreux articles, relativement précieux : armes
+ et armures d'Emérie, verrerie de Mira, tissus d'Aelir.....
+ En plus de sa coûteuse cargaison, maître Nalom ramène avec lui quelques
+ émissaires des triarques afin d'évangéliser la région avec plus d'efficacité
+ en convertissant ses dirigeant.
+ L'idée serait de développer la foi depuis Donovod pour ensuite la propager
+ aux campagnes environnantes et aux autres principautés.
+\end_layout
+
+\begin_layout Standard
+Au commencement de leurs aventures, les personnages viennent de quitter
+ le port d'Ederast, après avoir traversé la mer Irienne en bateau.
+ Ils n'y sont restés que deux jours, le temps de régler les frais divers
+ et les problèmes avec l'administration locale.
+\end_layout
+
+\begin_layout Standard
+Leur première destination n'est pas Donovod même, mais la vallée de la Khirov.
+ Maître Nalom est en effet un vieil ami du boyard local, qui marie sa fille
+ (possiblement à un PJ noble d'ailleurs).
+\end_layout
+
+\begin_layout Chapter
+Un mariage sous d'étranges augures
+\end_layout
+
+\begin_layout Section
+La caravane de maître Nalom, et leurs hôtes
+\end_layout
+
+\begin_layout Standard
+Au cours de ces quelques semaines, les personnages vont appartenir à la
+ caravane de maître Nalom, vivre avec les personnages qui la compose, et
+ (normalement) aider à la défendre.
+\end_layout
+
+\begin_layout Standard
+La caravane est constituée d'une douzaine de chariot, pour une bonne quarantaine
+ de personnes : les conducteurs, mais aussi les marchands, les gardes, le
+ cuistot et un groupe d'ecclésiastique que le maître de caravane doit introduire
+ auprès du kniaz.
+\end_layout
+
+\begin_layout Standard
+Le rythme est relativement lent, à peine une vingtaine de kilomètres par
+ jour, à supposer que rien ne vienne bloquer la caravane : arbre abattu,
+ attaque, boue, neige, glace, essieu qui se brise.....
+ Au total, il y a un peu moins de (300km) à parcourir avant d'arriver à
+ la Khirov, sans rencontrer de cité importante (ils contournent Donovod
+ par le nord), soit une bonne vingtaine de jours si le temps reste relativement
+ chaud (et que les neiges ne commencent pas).
+ Il leur reste environ un mois avant les festivités.
+\end_layout
+
+\begin_layout Standard
+En plus du responsable de cette expédition, il y a donc un certain nombre
+ de personnages qui pourraient bien discuter avec les personnages :
+\end_layout
+
+\begin_layout Paragraph
+Marko Ordovitch : 
+\end_layout
+
+\begin_layout Standard
+(sergent) des gardes de la caravane, et ancien soldat du boyard Olyanov.
+ Il travaille pour Mr Nalom depuis des années, d'abord en tant que simple
+ garde, puis en tant que responsable depuis deux ans.
+ Il parle fréquemment de ses deux fils, dont le plus âgé devrait suivre
+ ses pas d'ici un an ou deux.
+ Il est beaucoup plus discret sur ses deux filles.
+\end_layout
+
+\begin_layout Paragraph
+Irina Malinenko:
+\end_layout
+
+\begin_layout Standard
+Madame Malinenko est la cuisinière de la caravane, une rude bonne femme,
+ tout à fait capable de se débrouiller, même sans 
+\begin_inset Quotes eld
+\end_inset
+
+son imbécile d'époux
+\begin_inset Quotes erd
+\end_inset
+
+, conducteur de chariot relativement effacé, surtout face à l'exubérance
+ de cette femme.
+ Qu'elle apprécie quelqu'un ou qu'elle le déteste, il y a fort à parier
+ que toute la caravane sera rapidement au courant.
+\end_layout
+
+\begin_layout Paragraph
+Henri de Montbazon :
+\end_layout
+
+\begin_layout Standard
+Le père Henri est l'un des prêtres envoyé par les triarques pour étendre
+ la Foi aux païens de ces régions reculées.
+ Il est lui-même relativement curieux et éduqué, et selon certaines rumeurs
+ (qui pourraient bien être colportées par certains autres membres de la
+ mission ecclésiastique), il aurait des liens de parenté avec le grand argentier
+ d'Emerie.
+ Il est relativement ouvert sur le monde, et tente d'apprendre le Rast,
+ afin de pouvoir communiquer plus facilement avec ses futures ouailles.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Nikolaï Mikhaïlovitch Olyanov:
+\end_layout
+
+\begin_layout Standard
+Boyard à la frontière de la principauté de Donovod.
+\end_layout
+
+\begin_layout Paragraph
+Svetlana Nikolaïeva Olyanov:
+\end_layout
+
+\begin_layout Standard
+Sa fille, qui doit se marier à l'occasion des fêtes du début de l'hiver.
+\end_layout
+
+\begin_layout Paragraph
+Alexandre Fiodorovitch Ryazanov:
+\end_layout
+
+\begin_layout Standard
+Un vassal des Olyanov.
+ Il espérait courtiser Svetlana.
+\end_layout
+
+\begin_layout Section
+La traversée de la principauté
+\end_layout
+
+\begin_layout Standard
+La plupart des personnages devraient découvrir la Rasthénie au cours de
+ ce voyage, mais également les autres membres de la caravane.
+ Le but de leur voyage est pour le moment la vallée de la Khirov, sur laquelle
+ reigne un vieil ami de Nalom, le boyard Olyanov.
+\end_layout
+
+\begin_layout Subsection
+Sur la route
+\end_layout
+
+\begin_layout Standard
+Dans un premier temps, les personnages vont participer à la vie de la caravane.
+ En effet, il y a plusieurs semaines de voyages, il y a donc de nombreuses
+ occasions de discuter avec les autres personnages, mais aussi avec les
+ PNJs qui les accompagnent, et maître Nalom.
+ 
+\end_layout
+
+\begin_layout Standard
+[une soirée typique du campement]
+\end_layout
+
+\begin_layout Standard
+Notamment si les joueurs ne sont pas familier du sytème de combat, il peut
+ être intéressant d'introduire ces règles, par exemple alors que marko profite
+ d'une soirée plutôt calme pour proposer un entrainement aux personnages
+ : il s'entraine avec le personnage qui semble le plus doué, et laisse les
+ autres échanger des coups avec ses hommes.
+\end_layout
+
+\begin_layout Standard
+Au cours de leur trajet, ils peuvent croiser quelques familles, avec leurs
+ affaires sur une charette.
+ Si on leur pose la question, ils disent que pour eux, la frontière n'est
+ pas sûre, les clans nomades se renforcent et forment une menace de plus
+ en plus importante.
+ Nalom balaie les éventuelles discussions : après tout, l'un des boyards
+ des marches est un de ses amis, et dans le pire des cas, les murs de Donovod
+ devraient largement résister à tous ce que ces barbares pourraient leur
+ envoyer.
+ Ces réfugiés ne sont pas nombreux toutefois, et même leur passage n'entame
+ que peu le moral de la caravane, entre découverte de terres inconnues pour
+ les étrangers et retour à la maison pour les Rast.
+\end_layout
+
+\begin_layout Subsection
+La vallée de la Khirov
+\end_layout
+
+\begin_layout Standard
+Après la vingtaine de jours de trajet prévue (un peu plus suivant le temps),
+ la caravane entre dans la vallée de la Khirov.
+ Ils sont rapidement rejoins par un petit groupe de cavaliers, portant une
+ bannière aux couleurs d'un vassal des Olyanov : Alexandre Ryazanov (bannière
+ au cheval d'argent sur champ de gueule).
+ 
+\end_layout
+
+\begin_layout Standard
+C'est un homme d'une bonne vingtaine d'année, mais qui a déjà plusieurs
+ cicatrices visibles.
+ Il s'enquiert de la raison de leur venue, et s'obscurcit un peu quand on
+ mentionne le mariage de Svetlana Olyanova.
+ Son rôle est de garder cete entrée de la vallée, et il propose à la caravane
+ d'être hébergé pour la nuit dans sa demeure.
+ 
+\end_layout
+
+\begin_layout Standard
+Au cours du repas, il leur dresse un portrait peu optimiste de la frontière
+ : les tribues nomades s'enhardissent et les hostilités devraient rapidement
+ recommencer.
+ Bon nombre des boyards pensent à essayer de convaincre le kniaz qu'il est
+ temps de lancer des expéditions préventives contre eux, et de les aider
+ à tenir lesdites frontières si il ne veut pas les sauvages à ses portes.
+ 
+\end_layout
+
+\begin_layout Standard
+Les deux derniers jours de voyage sont consacrés à arriver chez les Olyanov.
+ C'est également à ce moment que tombent les premières neiges.
+ Heureusement, la caravane pourra alors passer d'un village à l'autre pour
+ arriver à son objectif, sans trop souffrir du climat.
+ Cela devrait toutefois leur donner un rapide aperçu des problèmes causés
+ par ceci : chariots bloqués par la neige, températures glaciales, ....
+\end_layout
+
+\begin_layout Standard
+Ce n'est donc qu'une semaine plus tard qu'ils arriveront au fort Olyanov.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,21 @@
+Equitus Transport Truck
+
+The Equitus is a 2.5 ton transport truck, widely used to move munitions near the front lines. Equitus Trucks are rugged, cheap, relatively fast, and easy to use. They are used on nearly every civilized world in the Imperium, in both civilian and military roles. The back of the truck is covered by a simple heavy canvas tarp to keep off the rain and other weather.
+
+ 
+
+Type: Wheeled Vehicle                       Tactical Speed: 20m
+
+Speed: 85 km/hr                                 Maneuverability: +5
+
+Structural Integrity: 15                     Size: Massive
+
+Armor: 14 Front, 12 Side, 10 Rear
+
+Vehicle Traits: Open-topped, Rugged, Wheeled Vehicle
+
+Crew: 1 Driver
+
+Carrying Capacity: 1 passenger in cabin, 14 Guardsmen in rear or 2.5 tons of cargo.
+
+Weapons: None

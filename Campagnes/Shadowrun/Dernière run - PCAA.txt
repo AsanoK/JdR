@@ -1,0 +1,16 @@
+Arrière-plan:
+-nuits d'émeutes urbaines suite à l'assassinat du capitaine Egelen. Culmine par des attaques sur des postes de police.
+-interventions policières face au parti Ottoman pour essayer de calmer le jeu : perquisitions, arrestations ciblées....
+-Osman est dans le PC, pour y diriger les opérations, avec sa meilleure équipe de forces spéciales.
+-Affrontements entre loups gris, globalement du côté 'insurgé', et les 10000 dagues, qui reviennent rapidement des balkans.
+
+La run:
+-Il va commencer par falloir trouver le PC, les policiers ont quelques informations à ce sujet : une autre équipe de runner a obtenu l'emplacement de l'entrée du tunnel d'accès. Une résistance importante est attendue, mais en plein milieu du territoire loup gris, la police aura du mal à intervenir sans déclarer une guerre ouverte.
+-Quelques sentinelles sont à l'entrée du tunnel d'accès, dans la cave d'un immeuble récemment reconstruit.
+-Les tunnels en eux-même n'ont pas de chemn indiqué, mais une recherche importante peut mener les PJs à l'entrée principale.
+-Dans le bunker, il y a une demi-douzaine d'Al Fasid et 4 janissaires. Ces derniers gardent Osman à tout prix quand les premiers cerhchent à repousser l'assaut brutalement.
+
+Unité Al Fasid:
+-14 dés d'attaque à distance, -3 à la défense, VD 11, AP -2, 12 dés d'attaque au contact, VD 6, AP -1, 26 d'armure, 10pvs, lancer de grenades fragmentation à 8 dés, défense 8 dés
+Janissaires:
+-12 dés d'attaque à distance, au fusil de chasse(remington), 14 dés d'attaque au contact, à l'épée monomoléculaire, FOR 4. 10 pvs, 22 d'armures.

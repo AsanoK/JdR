@@ -1,6 +1,0 @@
-monde d'origine: monde post-apocalyptique (3)
-commandement: sanguin (2)
-type de régiment: infanterie légère (2)
-défauts : non
-doctrines : sharpshooter(4)
-kit régimentaire : M36 lasgun(5), jumelles(8), targeter(10), pistolet laser et 2 chargeurs(5), 2 semaines de rations supplémentaires.

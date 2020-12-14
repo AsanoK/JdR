@@ -1,0 +1,56 @@
+Concept: Les personnages sont chargés de récupérer une IA en fuite. Celle-ci a été instanciée dans un nouveau corps sur mars, et se cache. Attention, elle pourrait bien être suivie par d'autres factions !
+
+Lieux:
+Biotechnica
+Congrès de biochimie extraterrestre
+Siège du parti des masses métalliques (P2M)
+Appartement miteux, non loin de la limite de la ville.
+laboratoire Cognitech
+
+Biotechnica:
+-premier lieu de recherche probable de l'IA. C'est dans cette clinique Biotechnica que l'IA en fuite s'est trouvé un corps, apparemment un synthétique.
+-le morphe lui-même a été effacé des archives de la clinique, tout comme les enregistrement des senseurs sur une plage de plusieurs minutes.
+-La clinique nécessite le minimum légal de vérifications pour obtenir un corps : basiquement un numéro d'identification et un compte bancaire. Apparemment, l'IA a réussi à falsifier ces deux éléments.
+-Visuellement, la clinique est plutôt mal entretenue, pas au point d'être non-hygiénique, mais les couleurs sont un peu passées, et les installations ne sont plus toutes jeunes.
+-Au-delà de son business officiel, la proprio et principal opératrice, Janne OHarra fait tourner ses installations pour le crime organisé : triades principalement, mais en vrai, toute personne bien connectée peut se procurer un corps.
+-On peut suivre trois corps synthétiques hors de la zone. Le premier est allé participer dans un congrès de biochimie extraterrestre sous le nom de Mira Svenssen. Le second est allé rejoindre l'organisation du parti des masses métalliques (il s'agit d'un espion du consortium planétaire), sous le nom de Wade . Le dernier, et le bon, est allé vers les quartiers pauvres. Il essaie d'y déjouer toute filature en faisant une boucle pour retomber sur ses suiveurs, et profite de ses capacités d'analyse pour rechercher les têtes connues.
+-En sortant de la clinique, des personnages peu discrets pourraient alerter un agent du renseignement de la flotte, qui profite du darkcast possible ici.
+
+
+Congrès de biochimie extraterrestre
+-Les personnages peuvent y suivre Mira Svenssen, scientifique d'Europe spécialisée dans le rôle de certaines molécules dans la biochimie européenne. Elle vient assister au congrès de manière tout à fait normale. Avec son synthétique, elle peut discuter et étudier pendant toute la durée du congrès, et ne s'arrêtera que pendant environ une heure le temps de recharger ses batteries. 
+-Le congrès dure une journée et demi, et propose en plus de diverses présentations plusieurs ateliers afin de parler méthode de travail. Une soirée principale d'acceuil est organisée, beaucoup de scientifique parlant rapidement travail. 
+-Cela se passe au centre des congrès Katie Bouman, près du centre de la ville. Mira s'y rendra en monorail.
+
+Siège de P2M:
+-Les personnages vont y suivre Anna mikhailova, une emplyée du Parti des Masses Métalliques, un parti politique de gauche prônant une meilleure considération pour les synthétiques, et plus de soutien financier pour les pauvres de Mars. 
+-Anna est un agent double travaillant pour le renseignement de Cognite, qui doit fournir des informations sur les actions du P2M.
+-Elle travaille en tant qu'experte financière afin de gérer au mieux les ressources du parti.
+-En cas d'enquête à son sujet, cela va déclencher une enquête interne du renseignement du parti, qui va rapidement se rendre compte du problème, et essaiera sans doute de contacter les personnages, par le biai de l'agent Rodrigues, un officier de sécurité du P2M
+
+Le quartier de Daewon
+-Quartier au départ principalement peuplé d'ouvriers d'origine coréenne, qui ont participé à la construction des dômes de la ville.
+-l'IA (projet busard), s'y dirige car les logements y sont peu chers, et il a trouvé un emplacement bien réalisé pour briser une filature : le marché couvert, où des centaines de stand de nourriture attirent de nombreux résidents et touristes. Il peut facilement perdre quelqu'un dans les blancs des capteurs, et les ruelles adjacentes lui permettront de s'assurer de ne pas être suivi par la suite.
+-se fait nommer Himiko Hayabusa
+-Il réside dans un petit appartement en sous-sol, où il prépare sa prochaine action, contre le laboratoire de Cognitech. A H+6, il se procure une petite charge explosive et des armes légères. Il prépare son opération jusqu'à H+8.
+-La charge explosive a été obtenue par les triades, et des charges proches ont récemment été utilisées dans des assassinats à la 'voiture piégée' (ici des vélos).
+
+Laboratoire Cognitech
+-Officiellement un laboratoire d'analyse financière, dans la pratique un centre de R&D sur les IA et leur utilisation dans un cadre de cyberwarfare. 
+- à H+8, une explosion va souffler le transformateur électrique du complexe, alors que Busard s'empare des données importante de son projet (et de plusieurs projets jumeaux).
+- les PJs arrivant sur place pourront éveiller les soupçons de Busard ou de la sécurité de cognitech. Dans le premier cas, il essaiera de les espionner, dans le second, ils envisageront de les faire arrêter par la police pour interrogation.
+
+Complication : de par leurs contacts, notamment avec Janne OHarra, les yakuza de l'autre scénario apprennent qu'ils sont là, et souhaitent leur expliquer leur conception de la politesse. Suivant l'opportunité, ils se pointeront avec un groupe de types avec des armes automatiques, ou paieront un tueur à gage (Garuda)
+
+Fin du scénar à H+12, la piste ayant refroidi.
+
+FIn séance 1 : ils toquent à la porte de l'appartement que l'IA loue
+
+Evènements à suivre/dénouement du scénario:
+-arrivée d'un chasseur de prime, payé par les corpos pour retrouver aussi cette IA. Celui-ci essaie de neutraliser plusieurs PJs
+-tentative de fuite de l'IA, qui peut se transformer en course-poursuite, avant de réussir à la convaincre.
+-Fin du scénario avec l'extraction de cette IA par les PJs
+
+
+PVs subis:
+33 (4 blessures)

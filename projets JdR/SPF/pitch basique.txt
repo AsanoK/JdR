@@ -1,0 +1,3 @@
+Sous une Pluie de Feu (SPF) est un jeu permettant de vivre l'histoire d'un film de guerre. Que l'affrontement se déroule dans le assé, ou encore dans le futur, le système, simple et centré sur ce que ressentent les personnages, doit permettre de le jouer.
+Au fil de leur histoire, les personnages vont atteindre leurs limites, mentales ou physiques, ce qui pourra les amener à craquer. 
+Pour le moment, le jeu permet de jouer des fantassins, avec une grande variété de possibilités : du plongeur de combat, au poilu, en passant par des troupes aéroportées.

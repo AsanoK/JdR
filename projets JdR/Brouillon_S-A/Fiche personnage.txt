@@ -1,0 +1,14 @@
+Elements devant être contenus:
+-3 jauges et seuils : santé, stress et fatigue
+-caracs
+-compétences
+-équipement : différentes attaques et armure par zone (système de cartes ?)
+-valeurs sociales
+
+
+proposition de mise en page grossière:
+-1ere page : en haut les caracs, au centre les trois jauges, sur les côtés les compétences
+-2nde page : description de l'armure par zone : 2/3 de page, valeurs sociales et sac à dos sur le dernier tier.
+-armement géré par des cartes/encadrés
+
+

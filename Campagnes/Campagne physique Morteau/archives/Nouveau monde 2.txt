@@ -1,0 +1,52 @@
+AMBIANCE
+-brumes et forêts épaisses
+-montagnes au petit matin
+-vert, bleu
+-Gortoz a ran
+-découvertes, expéditions
+-Avatar (le film de Cameron)
+-witcher, pirates des caraibes?
+
+ARC PRINCIPAL
+L'exploration d'une région nouvelle, qu'un navigateur vient de découvrir, et dans laquelle une communauté doit s'implanter. Les personnages servent alors à l'exploration des lieux, et au premier contact avec d'éventuels occupants. En particulier, il faudra gérer la présence de plusieurs entités puissantes dans la région ,qui considèrent les lieux comme leur territoire.
+
+SCENES MAJEURES
+-Arrivée dans le nouveau monde
+-Affrontement avec un dragon qui  y a fait son territoire
+-levée d'une armée de morts et de constructs magiques par un puissant nécromancien ?
+-affrontement avec des locaux
+-découverte de défenses magiques enfermant quelque chose dans la région.
+-découverte de montagnes très raides, voir flottant dans les airs pour certaines (Avatar)
+
+ARCS SECONDAIRES
+-un problème interne déchire les colons, ou une maladie. Bref, il faut régler rapidement un problème interne avant que tout ne parte en sucette
+-La rumeur veut que des colons disparaissent en s'approchant d'une forêt proche. Celle-ci est-elle hantée? habitée de dangereuses créatures?? Ou simplement parsemée de ravins difficiles à apercevoir?
+-De nouveaux arrivants dans la colonie se comportent dangereusement, et menace la stabilité de la région.
+-des pirates ! Les vaisseaux ravitaillant la colonie sont attaqués par des pirates implantés plus au sud. CEux-ci pourraient même menacer la colonie.
+
+STRUCTURE GENERALE:
+note : la campagne tant basée sur un hex crawl, des divergences importantes peuvent être notée entre la structure théorique et le déroulement réel des opérations.
+niveau 1: arrivée sur cette nouvelle côte, première exploration des environs. Affrontement contre des créatures étranges, comme un ours-hibou. Pendant ce temps, une colonie commence à s'établir à un point choisi.
+niveau 2 : première grande phase d'exploration dans la région. Un premier contact avec des habitants est possible, de même que plus d'affrontements contre la faune locale.
+niveau 3: Des disparitions sont notées dans les forêts voisines, et les PJs peuvent découvrir d'anciennes défenses magiques, ainsi que des locaux vénérant une sorte de divinité des eaux étrange(Cthulhu)
+niveau 4: Arrivée de nouveaux colons, avec des vues religieuses extrêmes. Il va falloir les gérer, mais pour le moment, ils n'ont rien fait de mal. Des morts sont aperçus plus loin dans les forêts, en train d'essayer de détruire les défenses magiques de la région. Des locaux peuvent informer les PJs ce cet état de fait, ou ceux-ci peuvent le voir en exploration. Un raid de pirates morts-vivants est aussi une possibilité.
+niveau 5: Un donjon, une ancienne ville en partie engloutie sous les eaux et occupées par les corps réanimés de ses anciens habitants et de pirates. Le pouvoir qui contrôle ces morts n'est pas là, seul un lieutenant agit comme relai de celui-ci et peut être vaincu. Le lieu peut permettre de comprendre mieux l'histoire de la région : une puissante liche y a vécu la fin d'un ancien empire, et a été enfermée dans les ruines de celui-ci pour ne plus menacer les autres peuples environnant. Un avant-poste de pirates le long des côtes.
+niveau 6: Une délégation des habitants de la région cherche à créer une ambassade permanente, ce qui ne manque pas d'attirer la foudre des nouveaux fanatiques. Prendre parti ou rester neutre et tenter la médiation ? Au milieu de tout cela, une menace de pirates sur la colonie
+niveau 7: Un dragon vert adulte menace la colonie et rôde dans les montagnes de la région. Son antre est dans un réseau de montagnes flottantes difficile à trouver. Si les pirates sont encore là, ils menacent la colonie directement.
+niveau 8: Affrontement contre la liche et ses serviteurs, sur un terrain à définir. Probablement une ancienne cité reprise par la nature.
+
+ARCS TERTIAIRES
+-deux familles de colons ne s'entendent pas, et leurs membres en viennent fréquemment aux mains. Il faudrait résoudre le problème avant que des armes ne soient tirées.
+-un jeune prêtre d'une petite divinité essaie de bâtir un temple pour celle-ci. Il essaie de rassembler des fonds ou des dons, et d'intéresser les colons ainsi que les natifs à sa foi.
+-un premier mariage entre colons et natifs doit avoir lieu. Le gouverneur pense qu'il faudrait trouver un cadeau aux futurs mariés pour encourager ce genre de rapprochements
+-un vieil autel oublié au bord d'une falaise. Les natifs parlent d'un lieu hanté, ou du moins, maudits. Peut-être un conflit entre deux entités de la grande tapisserie, ou de simples fantômes.
+-un marchand cherche toujours des plumes, qu'il compte revendre un bon prix sur le continent, une source potentielle de revenus supplémentaires pour les PJs
+-un navire a fait naufrage sur la côte. Son contenu est inconnu, mais des créatures mort-vivantes y apparaissent : les habitants parlent d'une malédiction.
+-un temple enfoui sans la jungle abrite une dangereuse créature, que les natifs craignent et respectent à part égale. Ils demandent aux personnages de lui laisser des offrandes. Si celle-ci est suffisante, ils pourraient avoir accès au coeur du temple
+-une tribu native fait passer un rite de passage à ses jeunes. Des personnages qui auraient de bonnes relations avec eux sont invités à le passer également pour être considérés comme des membres de la tribu.
+-deux tribus s'affrontent depuis longtemps, mais des évènements récents ont relancé le conflit de manière plus violente. Si les PJs sont appréciés par l'une ou l'autre, il pourraient peut-être servir de médiateurs ?
+-un PJ semble mentionné dans une prophétie locale, ce qui ne manque pas d'attirer une attention étrange. 
+-un PJ commence à être pratiquement divinisé par certains des colons. Ceux-ci deviennent de plus en plus extrêmes, surtout si le PJ n'y réagit pas. Mais en même temps, y réagir violemment pourrait menacer sa réputation en général
+-un PJ est venu avec sa famille sur place, et peut décider de participer à leur succès en affaire, ou non.
+-un PJ est poursuivi par de mystérieux assassins, qui semblent ne pas regarder leurs perte. Il porte une mystérieuse amulette dont les pouvoirs s'éveillent au fil du temps. Peut-être celle-ci est-elle une clé pour comprendre ces assassins?
+-

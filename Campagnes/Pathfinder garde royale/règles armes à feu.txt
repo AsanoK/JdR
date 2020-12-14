@@ -1,0 +1,18 @@
+Deux armes à feu:
+La lance de feu, constituée d'un canon au bout d'un long manche, tirant une charge de shrapnels dans une direction. Mortel à courte portée.
+L'arquebuse, permettant un tir plus précis à longue portée, un ajout plus récent venant des armées Hans.
+
+Lance de feu (seungja)
+price 15 gp; damage d8 P; range Line 35ft; reload 2; bulk 2; hands 2; group martial firearms; traits attached (staff), deadly d10, misfire 
+Peut être utilisé en mêlée comme une masse.
+
+Arquebuse (jochong)
+price 20 gp; damage d10P; range 60ft; reload 2; bulk 2; hands 2; group martial firearms; traits deadly (d10), misfire
+
+Nouveau trait d'arme : misfire
+Lors d'une attaque avec une arme pouvant misfire, si le dé est un 1 naturel, le tir fait long feu et ne part pas. Cela implique de nettoyer l'arme avant de la recharger. Mécaniquement, cela oblige à utiliser l'action 'gérer un long-feu' avant de pouvoir tirer ou recharger.
+Action :
+Gérer un long feu : 1 action
+Si le personnage réussi un test de crafting DD15 ou de lore(armes à feu) DD10, il peut à nouveau recharger celle-ci et tirer avec. Sinon, il faudra retenter cette action.
+
+

@@ -1,0 +1,145 @@
+\contentsline {chapter}{\numberline {1}Côte Carstianne }{5}%
+\contentsline {section}{\numberline {1.1}Découverte par les habitants de Telari }{5}%
+\contentsline {section}{\numberline {1.2}Port-Anastasie }{5}%
+\contentsline {chapter}{\numberline {2}Le continent de Telari }{7}%
+\contentsline {section}{\numberline {2.1}La cité-état de Valburg}{7}%
+\contentsline {section}{\numberline {2.2}Les héritages en Telari }{8}%
+\contentsline {subsection}{\numberline {2.2.1}Humains}{8}%
+\contentsline {subsection}{\numberline {2.2.2}Gnomes}{9}%
+\contentsline {subsection}{\numberline {2.2.3}Nains}{10}%
+\contentsline {subsection}{\numberline {2.2.4}Elfes et demi-elfes}{11}%
+\contentsline {subsection}{\numberline {2.2.5}Gobelins}{12}%
+\contentsline {subsection}{\numberline {2.2.6}Halfelins}{13}%
+\contentsline {subsection}{\numberline {2.2.7}Tiefelins et Aasimar}{14}%
+\contentsline {subsection}{\numberline {2.2.8}Ysoki (hommes-rats)}{15}%
+\contentsline {subsection}{\numberline {2.2.9}Khajit (hommes-chats)}{16}%
+\contentsline {subsection}{\numberline {2.2.10}kobolds}{16}%
+\contentsline {subsection}{\numberline {2.2.11}Hommes-lézard}{17}%
+\contentsline {subsection}{\numberline {2.2.12}tengu (hommes-oiseaux)}{18}%
+\contentsline {subsection}{\numberline {2.2.13}Orques et demi-orques}{19}%
+\contentsline {section}{\numberline {2.3}Les cultures en Telari }{20}%
+\contentsline {subsection}{\numberline {2.3.1}Maciliens}{20}%
+\contentsline {subsection}{\numberline {2.3.2}Scannes}{21}%
+\contentsline {subsection}{\numberline {2.3.3}Harbains}{22}%
+\contentsline {subsection}{\numberline {2.3.4}Sonons}{23}%
+\contentsline {subsection}{\numberline {2.3.5}Locao}{24}%
+\contentsline {subsection}{\numberline {2.3.6}Waranu}{25}%
+\contentsline {section}{\numberline {2.4}La religion}{26}%
+\contentsline {subsection}{\numberline {2.4.1}Dynris, la tisseuse du destin}{26}%
+\contentsline {paragraph}{Édit}{27}%
+\contentsline {paragraph}{Anathème}{27}%
+\contentsline {paragraph}{Alignement des serviteurs}{27}%
+\contentsline {paragraph}{Arme favorite }{27}%
+\contentsline {paragraph}{Canalisation}{27}%
+\contentsline {paragraph}{Compétence}{27}%
+\contentsline {paragraph}{Sorts de clercs}{27}%
+\contentsline {paragraph}{Domaines }{27}%
+\contentsline {subsection}{\numberline {2.4.2}Khimros, aussi appelé Hilous dans le sud du continent}{27}%
+\contentsline {paragraph}{Édit}{27}%
+\contentsline {paragraph}{Anathème}{27}%
+\contentsline {paragraph}{Alignement des serviteurs}{27}%
+\contentsline {paragraph}{Arme favorite }{27}%
+\contentsline {paragraph}{Canalisation}{27}%
+\contentsline {paragraph}{Compétence}{27}%
+\contentsline {paragraph}{Sorts de clercs}{28}%
+\contentsline {paragraph}{Domaines }{28}%
+\contentsline {subsection}{\numberline {2.4.3}Yor, Kuvasis ou Mazotl, la bête}{28}%
+\contentsline {paragraph}{Édit}{28}%
+\contentsline {paragraph}{Anathème}{28}%
+\contentsline {paragraph}{Alignement des serviteurs}{28}%
+\contentsline {paragraph}{Arme favorite }{28}%
+\contentsline {paragraph}{Canalisation}{28}%
+\contentsline {paragraph}{Compétence}{28}%
+\contentsline {paragraph}{Sorts de clercs}{28}%
+\contentsline {paragraph}{Domaines }{28}%
+\contentsline {subsection}{\numberline {2.4.4}Uton, l'ombre}{28}%
+\contentsline {paragraph}{Édit}{29}%
+\contentsline {paragraph}{Anathème}{29}%
+\contentsline {paragraph}{Alignement des serviteurs}{29}%
+\contentsline {paragraph}{Arme favorite }{29}%
+\contentsline {paragraph}{Canalisation}{29}%
+\contentsline {paragraph}{Compétence}{29}%
+\contentsline {paragraph}{Sorts de clercs}{29}%
+\contentsline {paragraph}{Domaines }{29}%
+\contentsline {subsection}{\numberline {2.4.5}Inmes, le dernier-né}{29}%
+\contentsline {paragraph}{Édit}{29}%
+\contentsline {paragraph}{Anathème}{29}%
+\contentsline {paragraph}{Alignement des serviteurs}{29}%
+\contentsline {paragraph}{Arme favorite }{29}%
+\contentsline {paragraph}{Canalisation}{29}%
+\contentsline {paragraph}{Compétence}{30}%
+\contentsline {paragraph}{Sorts de clercs}{30}%
+\contentsline {paragraph}{Domaines }{30}%
+\contentsline {subsection}{\numberline {2.4.6}Urasil ou Byemer, l'implacable}{30}%
+\contentsline {paragraph}{Édit}{30}%
+\contentsline {paragraph}{Anathème}{30}%
+\contentsline {paragraph}{Alignement des serviteurs}{30}%
+\contentsline {paragraph}{Arme favorite }{30}%
+\contentsline {paragraph}{Canalisation}{30}%
+\contentsline {paragraph}{Compétence}{30}%
+\contentsline {paragraph}{Sorts de clercs}{30}%
+\contentsline {paragraph}{Domaines }{30}%
+\contentsline {subsection}{\numberline {2.4.7}Bragta, la nourricière}{30}%
+\contentsline {paragraph}{Édit}{31}%
+\contentsline {paragraph}{Anathème}{31}%
+\contentsline {paragraph}{Alignement des serviteurs}{31}%
+\contentsline {paragraph}{Arme favorite }{31}%
+\contentsline {paragraph}{Canalisation}{31}%
+\contentsline {paragraph}{Compétence}{31}%
+\contentsline {paragraph}{Sorts de clercs}{31}%
+\contentsline {paragraph}{Domaines }{31}%
+\contentsline {subsection}{\numberline {2.4.8}Ione, déesse des profondeurs}{31}%
+\contentsline {paragraph}{Édit}{31}%
+\contentsline {paragraph}{Anathème}{31}%
+\contentsline {paragraph}{Alignement des serviteurs}{31}%
+\contentsline {paragraph}{Arme favorite }{31}%
+\contentsline {paragraph}{Canalisation}{31}%
+\contentsline {paragraph}{Compétence}{31}%
+\contentsline {paragraph}{Sorts de clercs}{31}%
+\contentsline {paragraph}{Domaines }{32}%
+\contentsline {subsection}{\numberline {2.4.9}Eris, protectrice des mortels}{32}%
+\contentsline {paragraph}{Édit}{32}%
+\contentsline {paragraph}{Anathème}{32}%
+\contentsline {paragraph}{Alignement des serviteurs}{32}%
+\contentsline {paragraph}{Arme favorite }{32}%
+\contentsline {paragraph}{Canalisation}{32}%
+\contentsline {paragraph}{Compétence}{32}%
+\contentsline {paragraph}{Sorts de clercs}{32}%
+\contentsline {paragraph}{Domaines }{32}%
+\contentsline {subsection}{\numberline {2.4.10}Itia déesse des messagers}{32}%
+\contentsline {paragraph}{Édit}{32}%
+\contentsline {paragraph}{Anathème}{32}%
+\contentsline {paragraph}{Alignement des serviteurs}{33}%
+\contentsline {paragraph}{Arme favorite }{33}%
+\contentsline {paragraph}{Canalisation}{33}%
+\contentsline {paragraph}{Compétence}{33}%
+\contentsline {paragraph}{Sorts de clercs}{33}%
+\contentsline {paragraph}{Domaines }{33}%
+\contentsline {subsection}{\numberline {2.4.11}Rhaeyar, le chasseur}{33}%
+\contentsline {paragraph}{Édit}{33}%
+\contentsline {paragraph}{Anathème}{33}%
+\contentsline {paragraph}{Alignement des serviteurs}{33}%
+\contentsline {paragraph}{Arme favorite }{33}%
+\contentsline {paragraph}{Canalisation}{33}%
+\contentsline {paragraph}{Compétence}{33}%
+\contentsline {paragraph}{Sorts de clercs}{33}%
+\contentsline {paragraph}{Domaines }{33}%
+\contentsline {chapter}{\numberline {3}Les personnages}{35}%
+\contentsline {section}{\numberline {3.1}Rôles et objectifs}{35}%
+\contentsline {section}{\numberline {3.2}Classes jouables et options de personnages}{35}%
+\contentsline {subsection}{\numberline {3.2.1}Alchimistes}{36}%
+\contentsline {subsection}{\numberline {3.2.2}Barbares}{36}%
+\contentsline {subsection}{\numberline {3.2.3}Bardes}{37}%
+\contentsline {subsection}{\numberline {3.2.4}Champions}{38}%
+\contentsline {subsection}{\numberline {3.2.5}Clercs}{39}%
+\contentsline {subsection}{\numberline {3.2.6}Druides}{40}%
+\contentsline {subsection}{\numberline {3.2.7}Guerriers}{41}%
+\contentsline {subsection}{\numberline {3.2.8}Investigateur}{41}%
+\contentsline {subsection}{\numberline {3.2.9}Moines}{42}%
+\contentsline {subsection}{\numberline {3.2.10}Oracles}{43}%
+\contentsline {subsection}{\numberline {3.2.11}Rangers}{44}%
+\contentsline {subsection}{\numberline {3.2.12}Roublards}{45}%
+\contentsline {subsection}{\numberline {3.2.13}Ensorceleurs}{46}%
+\contentsline {subsection}{\numberline {3.2.14}Bretteurs}{47}%
+\contentsline {subsection}{\numberline {3.2.15}Sorciers}{48}%
+\contentsline {subsection}{\numberline {3.2.16}Mages}{49}%

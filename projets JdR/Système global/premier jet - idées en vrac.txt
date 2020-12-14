@@ -1,0 +1,24 @@
+Liste des concepts :
+-caracs & réserves
+-compétences
+-module combat
+-module social
+-module aventures
+-jet de dé et mécanique de base
+
+Réserve : fatigue, stress : représentant les réserves physiques et  mentales. 
+Un personnage meurt quand sa réserve physique atteint 0 et qu'il subit une blessure, ou qu'il subit deux blessures. Un personnage avec un stress à 0 subit un changement psychologique(problème psy, changement de point de vue...).
+
+Caracs : 
+caracs en opposition, sur plusieurs jauges : augmenter un côté diminue le second. Plus un bonus spécifique sur deux caracs au choix (+1 et +2 respectivement). 
+-aggro vs maîtrise
+-forme vs logique
+-caractère vs empathie
+
+Compétences : à définir suivant les besoins exacts du jeu, devraient inclure des compétences de combat, d'interactions sociales, d'aventures....
+
+Jet de dé/mécanique de base:
+-Système de cartes : on dispose de plusieurs cartes à dépenser, avec un score, et potentiellement des effets secondaires (mécaniques ou narratifs). La dépense de points de réserves permet de jouer plus de cartes. Certains effets correspondent à des cartes mises dans la/les pioches (ex : blessure est une carte inutile)
+-Système à succès classique, certains types de dés pouvant en sus déclencher des effets secondaires (comme pour les dés spéciaux). Difficulté pouvant être soit un nombre de succès, soit des dés de pénalités. Les réserves peuvent permettre de modifier certains jets.
+-dés parallèles : lancer d'un dé pour le résultat du jet, et possibilité de dépenser des réserves pour lancer un ou plusieurs dés en parallèles, pouvant déclencher des effets secondaires (cf aventure)
+

@@ -1,0 +1,21 @@
+Récupération naturelle
+égratignure : 2 jours
+blessure légère: 1 semaine
+blessure grave: 2 semaines
+blessure catastrophique: 1 mois
+blessure mortelle : on n'en récupère pas
+Les malus infligés par la blessure diminuent au cours de la récupération.
+
+effets de soins:
+-premiers secours
+-herboristerie
+-chirurgie
+-médecine
+
+premiers secours : un test réussi permet de limiter les risques d'infection, et de déclencher immédiatement après le test le processus de récupération naturelle.
+
+herboristerie : un test permet d'améliorer la récupération naturelle, ou de limiter les malus infligés au cours de la récupération. Bonus de récupération : 20%
+
+chirurgie : un test réussi permet de soigner certaines blessures et leur permettre de commencer à récupérer. Sur une blessure normale, cela permet également de réduire légèrement la durée de soin. Type de blessure nécessitant de la chirurgie : fractures déplacées, flèches, blessure interne, infection interne (appendicite par ex). gain max: 10%
+
+Médecine : permet de limiter les risques d'infection, et de gagner un peu de temps de récupération (10%)

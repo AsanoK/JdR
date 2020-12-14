@@ -1,0 +1,30 @@
+Catégorie
+-poing
+-épaule
+-soutien
+-artillerie 
+-jet
+-spéciale (un tag par type)
+
+tags descriptifs:
+-armes blanches
+-fusil de précision
+-....
+
+tags d'effets
+-limité(X) : X utilisations avant de devoir changer d'équipement
+-barrage : peut empêcher le MJ de dépenser un PI lors du test qui suit
+-indirect : peut tirer sans ligne de vue, a juste besoin de coordonnées
+-défense(X) : On lance un dé à chaque attaque, sur X+, l'attaque est annulée.
+-perforante(X) : TODO avec les règles d'affronter l'ennemi.
+-incendiaire : avantage pour tirer sur une cible en milieu confiné(bunker, véhicule, bâtiment en bon état...)
+-précise : Avantage sur les tests de tirs n'étant pas du barrage.
+-portée(X) : portée efficace en mètres, de l'arme. Avec l'accord du MJ, il est possible de tirer au delà, avec des malus.
+-imprécise : désavantage sur les tests de tir effectués avec l'arme, sauf en cas de barrage
+-zone : avantage sur les tirs contre un groupe de cible en groupe compact (décision du MJ).
+-piège : le test de compétence est fait immédiatement, mais le résultat ne se produit que si une condition particulière est remplie (commun pour les mines par exemple).
+-Encombrante : l'arme ne peut pas être employée en mêlée.
+-Gênante : l'arme subit un désavantage utilisée en mêlée.
+
+Toute arme a une catégorie
+Toute arme à distance a le tag portée(X)

@@ -1,0 +1,27 @@
+Equitus Gun Truck
+
+Originally a field modification of the Equitus truck, the Gun Truck, or Guardian Angel as it is called amongst rear line troops, is a derivative of the Equitus truck recently accepted by the Mechanicus. By no means a truly unique vehicle, the Gun Truck is actually a modification kit for the numberless Equitus truck. The modification kit is usually applied to the Equitus when convoys are at risk of being ambushed or attacked while in transit. It is a simple kit, consisting of steel plates that are welded to the sides, front, and rear of the vehicle, giving it decent protection against small arms fire. It also contains 2 swivel mounts for heavy stubbers. With the kit applied, the vehicle is capable of absorbing rifle caliber bullets and las-bolts and returning fire with a pair of machine guns, giving protection to rear line convoys against ambushes and raids. The kit doesn't come without downsides, however. The weight of the armor, machine guns, and ammunition mean that the suspension is overloaded by a fair margin, and the vehicle struggles to maintain a high speed. If the crew of the vehicle attempts to take it off-road or push the engine too hard, they will very likely find that the vehicle soon beats itself to death under its own weight. Despite this, it has become a very common sight in warzones around the Imperium, providing security to convoys and bases behind the lines, as well as serving in a number of security roles around the Imperium.
+
+ 
+
+Type: Wheeled Vehicle                       Tactical Speed: 15m
+
+Speed: 65 km/hr                                  Maneuverability: -5
+
+Structural Integrity: 20                      Size: Massive
+
+Armor: 20 Front, 18 Side, 14 Rear
+
+Vehicle Traits: Open-topped, Rugged, Wheeled Vehicle, Overloaded*
+
+Crew: 1 Driver, 1 Commander/Navigator, 2 Gunners
+
+Carrying Capacity: 4 Passengers in rear
+
+Weapons: 1 Frontally Mounted Heavy Stubber (100m, -/-/8, 1d10+4 I, Pen 3, Mag 75, Rld 2 Full, Ogryn-Proof, Can fire to the front and sides of the vehicle) 1 Rear Mounted Heavy Stubber (100m, -/-/8, 1d10+4 I, Pen 3, Mag 75, Rld 2 Full, Ogryn-Proof, can fire to the rear and sides of the vehicle) Most vehicles carry approximately 5,000 rounds of ammunition for these weapons.
+
+ 
+
+Overloaded: Due to the extra stress that this vehicle's suspension is under, any attempt to navigate it across rough or broken terrain at more than half of its tactical speed requires a Difficult (-10) Operate Surface Test. If the driver fails this test, he must flip a coin. On a result of tails, the vehicle gains the Motive Systems Crippled condition.
+
+

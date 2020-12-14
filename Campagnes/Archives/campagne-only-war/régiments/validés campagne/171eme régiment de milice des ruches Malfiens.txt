@@ -1,0 +1,10 @@
+Monde natal:monde ruche(3)
+Commandement:phlegmatique(1)
+type de régiment: infanterie de siège(2)
+défaut : conscrit(3)
+doctrines:combattans endurcis(2), combat drugs(2), infiltrateurs (4)
+kit régimentaire(32pts): couteau supplémentaire(2), pistolet laser avec deux chargeurs (5),chrono(2), photo-lentilles(8), bayonnette sur le fusil (5), 2 grenades à fragmentation supplémentaires (10) 
+
+surnom : le gang primus
+arme spéciale favorite : longlas
+arme lourde favorite : mortier

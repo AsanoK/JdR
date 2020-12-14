@@ -1,0 +1,15 @@
+Toucher une zone : suivant l'attaque (haute ou basse):
+haute:
+1 : ventre
+2-4:bras droit
+5-7:bras gauche
+8-9 : torse
+10 : tête
+
+basse:
+1-3 : jambe droite
+4-6 : jambe gauche
+7-8 : ventre
+9 : un bras
+10 :torse
+

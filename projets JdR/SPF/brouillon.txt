@@ -1,0 +1,11 @@
+TODO:
++renommer l'agressivité
++définir les tags utiles
++fixer les équipements de la création de perso
++section MJ
+-préparer le downtime
+-scenario d'intro
+-inclure des objectifs personnels par session et plus généraux : survivre, revoir un perosnnage, venger quelqu'un....
+-revoir les règles de blessures
+-règles de combat avancées
+-règles de camarades

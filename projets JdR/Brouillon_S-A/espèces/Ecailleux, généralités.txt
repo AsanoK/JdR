@@ -1,0 +1,5 @@
+Ecailleux : nom générique pour les races au sang-froid, le plus souvent couvertes d'écailles (d'où le nom) => tout ce qui peut se regrouper sous le terme "hommes-lézards".
+
+Sang-froid : -3 dés pour tout les tests de résistance au froid ou à la chaleur.
+Les individus n'ont besoin que d'un seul repas par jour (besoins alimentaires divisés par deux par rapport à un mammifère de poids identiques, et la durée avant de subir des effets négatifs est doublée). Pendant les premières heures de la digestion, le personnage subit un malus de -2 à tout ses tests.
+Malus supplémentaire de 63 à tout les tests de perception effectués pendant une période de sommeil. 

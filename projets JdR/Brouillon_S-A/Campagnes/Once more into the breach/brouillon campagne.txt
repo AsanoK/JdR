@@ -1,0 +1,50 @@
+où: Donovod, ville commerçante fortifiée dans le nord ouest d'Adran (principauté du même nom).
+qui: tribues khirai, un groupe de marchands et autres accompagnant maître Nalom
+quand: 1247
+quoi: siège de la ville
+
+intro
+Les personnages appartiennent à la caravane de Maîtr Nalom, un riche marchand Emérien vivant depuis des années à Donovod. Certains sont là pour évangéliser la région, d'autres pour diverses affaires politiques, bref, ils ont une raison pour aller à Donovod, et connaissent personellement maître Nalom.
+idées: évangélisation, marriage, amis de maître Nalom, commerçant, associés ou famille du maître.....
+
+chapitre 1 : une arrivée mouvementée
+La campagne commence alors que la caravane arrive au port d'Androvoy, un petit port sur la côte de la mer Irienne, qui a été une colonie Mirane il y a quelqques siècles. A ce moment, il ne devrait leur rester que quelques trois semaines pour arriver à Donovod.
+Ils vont traverser donc cette région à l'automne, avant les pires chutes de neige, mais tout de même dans des conditions climatiques peu sympathiques : chutes de neiges, givre, brouillard....
+Leur objectif est d'arriver avant la fin de l'année dans la vallée de la Khirov, dont le boyard (le boyard Olyanov) est un vieil ami de maître Nalom, et qui marie sa fille à cette occasion (possiblement avec un PJ noble d'ailleurs).
+L'aller est relativement calme, et leur permettra de faire connaissance avec le reste de la caravane.
+Une fois arrivés, ils doivent passer une bonne partie de l'hiver dans la demeure de leur hôte, à cause des chutes de neige. Cet hiver commence normalement, avec la cérémonie de mariage (ils découvrent alors une part des nobles locaux, ainsi que certains PNJs importants pour la suite).
+C'est au cours de cet hiver que les personnages vont découvrir à quel point la frontière est poreuse, et menacée par les nomades. CEla par exemple, peut s'intensifier à l'occasion d'une partie de chasse, qui tournerait rapidement cours alors qu'ils découvrent une première intrusion.
+Dans l'ensemble, le chapitre se déroule alors qu'Olyanov et les PJs se rendent compte que la vallée n'est pas défendable, et vont evoir fuir vers Donovod avec leurs gens.
+Cette fuite ne se déroulera évidemment pas sans heurts, avec les nomades qui les talonneront parfois de près.
+Le chapitre termine à l'arrivée de tous ces réfugiés à Donovod, qui se prépare à quelques combats, mais certainement pas à ce qui l'attend.
+scènes: 
+
+-repas de la caravane
+(-entrainement avec le responsable des gardes)
+-discussion avec des paysans du coin
+(-bandits)
+
+-arrivée dans la vallée de la Khirov
+-arrivée chez les Olyanov
+
+-mariage de la fille d'Olyanov
+-une partie de chasse qui tourne cours
+
+-premiers combats
+-conseil de guerre
+
+-l'évacuation
+-combats d'arrière-garde
+-la longue route vers Donovod
+
+-l'arrivée en ville.
+
+chapitre 2 : un siège éprouvant
+
+
+
+chapitre 3 : le dénouement
+
+PNJs importants (et moins importants):
+-maître Nalom, négociant Emerien, vivant depuis des années à Donovod. Il a bâti sa richesse sur le commerce de la fourrure de grande qualité vers les royaumes de l'est, plus riches et développés.
+

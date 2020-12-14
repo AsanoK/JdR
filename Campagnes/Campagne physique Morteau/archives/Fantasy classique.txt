@@ -1,0 +1,24 @@
+AMBIANCE
+-épique, 
+-blanc
+-Donjons, religion, Diablo
+
+ARC PRINCIPAL
+Un ange déchu s'est abattu sur le pays, et a rassemblé des serviteurs pour affronter les églises des dieux. Subtil au départ, il devient plus assurant alors que le nombre de ses serviteur grandit : au lieu d'attaquer des églises de village isolés, il fini par mener un assaut sur la principale cathédrale du pays, menaçant de mener celui-ci dans le chaos pour satisfaire sa vengeance.
+
+SCENE MAJEURES
+-Affrontement final, au coeur de la principale cathédrale du pays
+-Révélation sur l'origine de la corruption : un ange déchu
+-Attaque surprise sur une communauté dans laquelle sont les PJs
+-tentative(s) d'assassinat par des cultistes de cet ange.
+-Rituel mené par les cultistes
+
+ARCS SECONDAIRES
+-L'ange s'est trouvé un bras droit adapté, sous la forme d'un diable. Il mène aussi ses propres opérations en parallèle, le tuer faciliterait grandement les choses.
+-Un chevalier parcoure les terres, défiant nombre d'adversaires en duel, rarement à mort, mais souvent sans raison viable à part le sport. Les gens commencent à en parler, et les rumeurs vont bon train.
+-Alors que les PJs sont à proximité, une armée de gobelinoides attaque une ville voisine, ravageant tout ce qu'elle peut. Il est sans doute possible de l'arrêter, mais cela va nécessiter de frapper la tête.
+
+Problèmes actuels :
+-peu d'exploration en dehors de donjons et pseudo-donjons.
+-arcs secondaires faibles ou parties de l'arc principal
+-inspiration???

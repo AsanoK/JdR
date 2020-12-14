@@ -1,0 +1,27 @@
+Lieu : Europe; dans l'habitat de Conemara (un dôme sous-marin, siège du parlement européen, proche de l'ascenseur trans-glaciaire)
+Cible : un opérateur Firewall, sous le nom d'Uksem Ag Bey
+Objectif : retrouver cet agent, ainsi que la raison de sa disparition.
+BG: Uksem a disparu après avoir été infecté dans une zone d'exploration aquatique dans la couche rocheuse, peu connue mais prometteuse. Son infection a réécrit son esprit avant de le transformer en gelée. Avec d'autres infectés, il s'est rendu dans une ancienne station de recherche, d'où ils essaient de rassembler suffisamment de ressources pour créer un appareil étrange. 	
+adversaires et obstacles : Les créatures transformées, forces de sécurité européennes, un culte TITAN étrange.
+éléments secondaires : fausse piste avec des signaux étranges près de certaines fermes profondes, relié à une sorte de culte TITAN : ils essaient de communiquer avec leurs "dieux".
+
+Uksem Ag Bey: Genhacker, spécialisé dans les algues et planctons. Travaille sur Europe sur des problèmes de production alimentaire adaptée aux pressions colossales. Egalement une sentinelle de Firewall, chargé de surveiller d'éventuels problèmes ici. Enquêtait juste avant sa disparition sur des signaux étranges près de fermes profondes (fausse piste).
+
+Indices Uksem
+-données stockées dans un ecto, indiquant qu'il allait vérifier ce qui avait provoqué des signaux étranges près de fermes profondes => trouvée, avec la localisation
+-historique de recherche sur un ecto brûlé, indiquant "station de recherche Amundsen" (là où se trouvent les infectés) => trouvée, avec la localisation.
+-données de l'habitat montrant son morphe selkie passer un des sas proche du plafond océanique. Une vérification précise peut donner l'indication qu'il semble étrange sur certains détails.
+-étrange substance chimique, contenant de nombreuses nanites TITAN pouvant transformer leurs hôtes en gelée aussi (après avoir réécrit son esprit).
+
+Indices autres:
+-disparition de plusieurs autres Européens (4 au total)
+-lien entre les disparition, avec un passage par la faille de Thésée (connue depuis longtemps, depuis peu explorée en loisir par des européens)
+
+Indices faille de Thésée : étrange boite noire, comme liquide; technologie TITAN, déclenche un piratage basilique en cas de contact physique.
+
+Indice culte :
+-signal en lui-même relativement aléatoire en apparence.
+
+Arrêt : les trois pistes ont été découvertes, ainsi qu'un mapping de base de la faille de Thésée. Les sentinelles se préparent à aller à Amundsen
+
+message laissé par eux dans la station pour eux-même au cas où; fin de la session après avoir nettoyé la station de recherche, envisager d'aller vers la faille de thésée

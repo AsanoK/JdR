@@ -1,0 +1,59 @@
+Lieu : mars (Noctis?)
+Cible : Faith Entreri (nom non connu au départ)
+Objectifs : primaire:identifier cette menace, vérifier ses motivations et objectifs. secondaires : vérification de routine sur certaines alertes.
+Adversaires et obstacles : Forces de police, Oversight, renseignement naval
+Annexes: Lutte en toile de fond entre Barsoomiens et forces de l'ordre.
+
+Brief : 433 leur demande de se déployer sur une petite clinique martienne, où leur mission leur sera expliquée. Ils sont reçus là-bas par Wu Long, un technicien d'egocast, qui leur explique qu'il sera leur contact sur place. Celui-ci explique que Firewall a récemment eu vent d'un agent d'origine inconnu, mais possiblement jovien. Celui-ci a été tracé jusqu'à une autre clinique martienne (Tetsuo medical), par où il est passé pour une mission où il a été repéré.
+L'objectif est donc ici de remonter cette piste, si possible pour identifier à quel groupe appartient cet agent inconnu, et si possible de remonter le plus possible son réseau afin d'en savoir plus sur une organisation adverse. 
+
+Au cours de la mission, ils seront potentiellement surveillés par Oversight, mais aussi par les forces de sécurité locales, la CLS et leur propre cible.
+
+Wu Long : technicien d'egocast à la clinique Beta, il travaille pour Firewall en secret, en fournissant et transmettant des informations intéressantes. Il travaille pour la cabale de Firewall qui essaie de mettre en ligne son TITAN. Il essaiera donc de suivre les actions des personnages au cour de leur enquête, au-delà de ses prérogatives. 
+
+Indices sur Faith
+-emplacement de farcasting : tetsuo clinical -> un début de piste physique, des infos sur son morphe précédent.
+-Lieu de résidence précédent (un hôtel dans le quartier Osiris de Qianjiao). Permet de trouver le nom de Milady(Shoshanna Bey), le nom de Walder Omarian et l'apparence  de Marc Osberg.
+-recherche sur ses habitudes permettent de mettre en valeur deux endroits : un café de Tufte square(l'internet), et l'institut technologique de Noctis. 
+-l'Internet permet de retrouver des infos deux noms : Faith, et Osberg. Il est possible de recouper son apparence avec le nom. Faith serait l'agent adverse(mais aucun nom de famille relié).
+-A l'institu tech, peu de gens sauront de qui on parle, il la connaisse sous le nom d'Amandine Sanders. Elle semblait étudier là, mais chaque personne a entendu un sujet différent. Elle semblait interroger des scientifiques pour obtenir des infos sur leurs travaux.
+-Walder Omarian est un politicien de Noctis, plutôt bioconservateur, et connait bien "Pharah Etman"(faith), avec qui il s'est entretenu de plusieurs projets de lois. Il ne l'admettra pas, mais il recevait des financements de cette personne, plus que la plupart des lobbyistes.
+-Marc Osberg est un officier de police de bas rang, mais se trouve également être un agent du renseignement jovien sur Mars, responsable d'une petite cellule. Il coordonne leurs efforts pour mapper les technologies et actions des autonomistes. En cas de problème majeur, il peut disparaître en tant que Val "Neon" Mercier au sein d'un groupe de barsoomien qu'il connait bien. travaille en enquête vers le nord de Noctis
+
+Shoshanna Bey est un agent du renseignement, avec un rôle plus politique: elle doit chercher des signes de potentielle trahison au sein des agents. Elle sert également de relai régulièrement entre les contrôleurs et leurs agents. Elle sera difficile à trouver, mais peut se révéler une mine d'or d'informations. Elle n'a pas officiellement de travail sur Mars.
+
+Evènements au cours de l'enquête:
+-Retour de Faith sur Mars, les Pjs seront prévenus deux jours plus tard par Wu, qui pourra leur donner l'info.
+-les personnages sont suivis par un détective privé, mis sur l'affaire par la CLS sur leurs actions : il doit leur remonter les activités de ce groupe étrange.
+-embuscade de la CLs qui essaie de kidnapper un PJ pour obtenir des informations sur son compte.
+
+Alertes Police : 
+-crimes évidents
+-informateurs trouvent un comportement suspect
+Réponse : envoi d'une équipe, plus ou moins lourde suivant l'alerte. La base est la patrouille de deux agents des forces de l'ordre, potentiellement 4 avec babouins en cas de résistance plus lourde. Plus encore, et ce sont les forces spéciales qui sont déployées.
+
+Alertes Oversight:
+-actions "louches" avec collecte d'infos sensibles ou approche de lieux sécurisés
+réponse : récupération d'informations via des moyens détournés : la police est envoyée, ainsi que les capteurs locaux piratés de manière subtile. Oversight n'a pas pour objectif se révéler ici ,et ne suivra l'affaire que de loin
+
+Alertes Junte:
+-enquête sur agent
+-questions posées à leurs sources
+-approche d'activité Firewall connue
+réponse : envoi d'un chasseur de prime indépendant, Miller, dans un morphe slitheroide pour abattre les PJs.
+
+Les PJs sont à un hôtel en face d'un bordel, dans un quartier plutôt louche de Qianjiao
+Ils finissent en posant des questions aux étudiants sur leur cible.
+
+Ils ont des informations sur Marc Osberg, et envisagent de commencer à le suivre. Il risque de le remarquer, et de détaler/envoyer un groupe de mercenaires
+Ils ont le nom de Walder Omarian
+Ils ont le nom et l'apparence de 'Milady'
+
+Marc Osberg a été suivi, et s'en est rendu compte, il est en train de disparaître des radars via ses amis barsoomiens du 'clan' Vannier. Si les Pjs essaient de le suivre, ils devraient tomber sur un mur ici, voir tomber dans une embuscade si ils insistent. 
+Milady sera prévenue un peu plus tard, les PJs n'auront qu'une journée pour la trouver également.
+La mission risque de se terminer rapidement sur une impasse, avec toutefois une véritable mine d'informations sur les opérations joviennes dans les environs, ce qui est très suffisant pour Firewall, qui pourra s'attacher à remonter les différents fils révélés.
+
+Marc Osberg s'est enfui via ses contacts chez les barsoomiens, qui ont été contactés par les PJs pour avoir un swarm cat. Si les PJs insistent pour suivre val mercier, personne ne leur donnera quoique ce soit.
+Ils ont été attaqués par deux mercenaires payés par lui pour les occuper/essayer de les gérer.
+Milady est en train de préparer son départ en urgence, travail en cours, devrait rapidment être fait.
+Faith va revenir pour essayer de les suivre ? peut-être dans le scénario suivant, plutôt discrètement : probablement principalement par le réseau.

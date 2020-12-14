@@ -1,0 +1,9 @@
+Nouvelles règles de langues pour Pathfinder 2, pour la campange 'Garde Royale':
+
+Les langues utilisées dans le livre de base ne seront pas utilisée dans la campagne : pas de nain, d'elfe, de commun, ou autre langue dépendant de l'ascendance.
+En remplacement les règles suivantes:
+-Tout les personnages parlent le Choseon à la place du commun, et remplacent toutes les langues qu'ils devraient obtenir par une langue de la liste ci-dessous.
+-En terme de règle, savoir parler une langue et savoir l'écrire nécessite de dépenser deux langues : une pour l'oral, une pour l'écrit.
+
+Liste des langues parlées : Choseon, Han, Junkan, Ihlan, Jeju (dialecte du nord de Choseon, assez différent)
+Liste des langues écrites : Choseon, Choseon classique, Han, Han classique (langue des érudits), Junkan, Ihlan, Jeju, et différents codes secrets(à définir).

@@ -1,0 +1,63 @@
+
+
+NEO-DAUPHIN
+coût : 3; disponibilité: 20
+SB:7 ;DUR:35 ;SM:53 ;
+perspicacité:1 ;audace:0 ;vigueur:2 ;flexibilité :1 ;
+déplacement: marche 2/8; natation 8/40
+modifications: biomods de base, pile corticale, implants réseaux, echolocalisation, ouïe améliorée, réserve d'oxygène.
+options courantes : résistance à la pression (+1), résistance au froid(+1), branchies (+1)
+traits:morphologie exotique 2, chimie non-humaine 1
+note : coup de boule en charge (DV : 1d10)
+
+neo-beluga
+coût : 3; disponibilité: 20
+SB:8 ;DUR:40 ;SM:60 ;
+perspicacité:0 ;audace:0 ;vigueur:3 ;flexibilité :1 ;
+déplacement: marche 2/8; natation 8/40
+modifications: biomods de base, pile corticale, implants réseaux, echolocalisation, ouïe améliorée, réserve d'oxygène.
+options courantes : résistance à la pression (+1), résistance au froid(+1), branchies (+1)
+traits:morphologie exotique 2, chimie non-humaine 1
+note : coup de boule en charge (DV : 1d10), grande cible (+10 pour toucher)
+
+neo-marsouins
+coût : 3; disponibilité: 20
+SB:6 ;DUR:30 ;SM:45 ;
+perspicacité:1 ;audace:0 ;vigueur:1 ;flexibilité :2 ;
+déplacement: marche 2/8; natation 10/50
+modifications: biomods de base, pile corticale, implants réseaux, echolocalisation, ouïe améliorée, réserve d'oxygène.
+options courantes : résistance à la pression (+1), résistance au froid(+1), branchies (+1)
+traits:morphologie exotique 2, chimie non-humaine 1
+note : coup de boule en charge (DV : 1d10)
+
+
+gargouilles
+coût :7 ; disponibilité: 35
+SB:8 ;DUR:40 ;SM:80 ;
+perspicacité:3 ;audace: 0;vigueur: 0;flexibilité :1 ;
+déplacement : marche 4/20
+modifications: port d'accès, pile corticale, cybercerveau, lidar, implants réseaux, mnémonique, implants marionnette, vision 360°, vision améliorée, vision nanoscopique, radar, emetteur de rayons T, sonar, ouïe améliorée.
+options courantes: chem sniffer (+2)
+traits: morpologie exotique 1
+notes: structure légère (armure 6/4)
+
+
+takko
+coût :5 ; disponibilité: 25
+SB:8 ;DUR:40 ;SM:80 ;
+perspicacité:1 ;audace: 0;vigueur: 2;flexibilité :1 ;
+déplacement : marche 4/12, poussée vectorielle 8/40
+modifications: port d'accès, pile corticale, cybercerveau, lidar, implants réseaux, mnémonique, implants marionnette, grip pads, pieds préhensibles, 8 bras,vision polarisée .
+options courantes: chem sniffer (+2)
+traits: morpologie exotique 3, chimie non-humaine 2
+notes: structure légère (armure 6/4)
+
+Nom du morphe
+coût : ; disponibilité: 
+SB: ;DUR: ;SM: ;
+perspicacité: ;audace: ;vigueur: ;flexibilité : ;
+déplacement
+modifications
+options courantes
+traits
+notes

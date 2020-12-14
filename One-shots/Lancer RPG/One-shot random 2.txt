@@ -1,0 +1,21 @@
+goal : 15 - chasser un groupe de lancers connus et redoutés.
+environnement : 18 - un désert causé par l'absence de protection UV de l'atmosphère planétaire, les habitants sont généralement dans des arcologies bien protégées, et parfois souterraines.
+groupe ID :2 - combattants en recherche de gloire
+
+Les apôtres sont un groupe de lancers travaillant pour l'étoile du Guide une secte en rebellion armée contre la maison Arrakine du sable. Ils se sont taillés une sacrée réputation au sein des pilotes de l'Union lors de plusieurs raids destructeurs sur des positions bien défendues, ainsi que deux incursions dans des habitats souterrains.
+Des suites de ces actions, le baron Askari-Sah de la maison du sable a décidé d'offrir une récompense à qui pourrrait les neutraliser. Leur base est supposée se trouver dans le désert, mais les scanners orbitaux n'arrivent pas à les trouver.
+
+Les personnages viennent d'obtenir, presque par hasard, une information importante sur la localisation de cette base, et décident de tenter leur chance pour obtenir la récompense. L'information est un signal de détresse, envoyé par un déserteur des apôtres qui essaie de se rendre vers la capitale.
+
+Premier affrontement face à plusieurs vers du désert (2 créatures élites avec rampage et burrower). Ceux-ci apprécient peu l'arrivée de créatures étrangères sur leur territoire, et se battent férocement. Il est possible de les éviter avec un test pour passer inaperçu : cette rencontre n'est pas critique au scenario.
+
+Second affrontement face à un groupe de reconnaissance des apôtres. Mission : reconnaissance, où l'objectif est de retrouver l'informateur avant les apôtres. Le groupe adverse est composé d'un scout, de deux escouades d'infanteries, d'un spectre et éventuellement, une paire de cataphracte (réserves ?).
+Une victoire ici leur permettra d'en savoir plus sur les apôtres, leur chef, leur nombre, et surtout, l'information tant convoitée : l'emplacement de leur base. Il faut convaincre l'informateur pour avoir plus que l'emplacement de la base : une vague estimation du nombre, de l'équipement utilisé, des types d'adversaires probables....
+
+En cas d'approche subtile:
+Les personnages vont pouvoir s'infiltrer dans la base adverse, face à des patrouilles assez régulières. Après plusieurs réussites, le complexe peut être neutralisé, par exemple en sabotant son ravitaillement, ou son réacteur principal. Il faut ensuite s'enfuir (mission : extraction) pour espérer survivre au carnage. A moins que les personnages ne préfèrent tenir une position bien fortifiée, auquel cas on assistera à un onslaught. Dans les deux cas les apôtres déloient leur chef (goliath élite commander avec revanche), et quelques autres : 2 cataphractes, un scout, un rainmaker, et deux assauts.
+
+En cas d'approche frontale :
+Le troisième combat est un assaut sur la base adverse (mission : gauntlet). La force de défense est constituée de deux escouades d'infanterie, de deux rainmakers, et de deux assauts. L'objectif est de s'en prendre à leur principal dépôt d'équipement pour les incapaciter.
+
+La revanche des apôtres prend la forme d'un assaut de leur chef (goliath élite commander avec revanche), et de quelques autres : 2 cataphractes, un scout, un rainmaker. Le combat est ici frontal, avec pour objectif de neutraliser la force adverse.

@@ -1,0 +1,129 @@
+Concept : les personnages essaient, pour diverses raisons, d'en apprendre plus sur Bael Turath. L'un(e) d'eux a récemment obtenu un objet qui pourrait bien servir de clé pour comprendre les derniers jours de l'empire.Il(elle) a formé un groupe pour se renseigner sur cette histoire, et en apprendre plus.
+
+Situation initiale:
+Un des personnage vient de mettre la main sur un objet qui promet de révéler de nombreuses informations sur les derniers jours de Bael Turath. Cet objet attise les convoitise pour diverses raisons, et le petit groupe vient d'être formé, pour diverses raisons. 
+
+Scène 1 : introduction
+Les personnages se retrouvent pour former leur groupe dans la ville de départ. Ils peuvent alors discuter quelques minutes de cet objet, possiblement pour essayer d'en obtenir quelques réponses.
+
+Scène 2 : enquête:
+Avant de continuer, il faudra en apprendre un peu plus sur cet objet, et sur l'emplacement où il pourrait être utilisé.
+Spécifiquement, il s'agira d'un défi de compétences pour essayer d'obtenir plus d'informations: -histoire pour aller se renseigner dans les bilbiothèques et archives de l'époque impériale DD10
+-religion pour aller discuter avec des experts sur les symboles présents sur cet objet et son usage DD10
+-streetwise pour trouver des spécialistes qui pourraient avoir des réponses DD15
+-diplomatie pour obtenir des informations des spécialistes (nécessite une réussite de streetwise) DD15 sans leur offrir des infos sur ce qui sera trouvé, 10 avec
+-arcana pour étudier directement l'objet et ses couches d'enchantement, DD10 pour le premier succès, 15 pour les suivants.
+8 succès avant 3 échecs
+8 succès, 2 échecs
+
+Dans tous les cas, les personnages devraient apprendre que la babiole est une forme de clé, liée à l'ancienne religion impériale. il faudrait donc trouver un temple suffisamment important et intact pour faire fonctionner la babiole et donner les réponses. L'un d'eux existe, dans les montagnes d'Isther, suffisamment loin des routes commerciales pour ne pas avoir été pillé. Il se situe au coeur des terres de cendre, et est considéré comme un lieu sacré à ne pas déranger par les elfes.
+La réussite ou l'échec fournit des informations plus ou moins précises sur le fonctionnement de la babiole, et certaines précautions qu'il faudrait prendre avec son utilisation.
+
+
+Scène 2 bis : l'attaque
+Un groupe de mercenaires, probablement payé par un noble de la ville très intéressé par ces mêmes réponses, attaque le groupe, après avoir essayer de leur estorquer la babiole. Le combat se déroule dans une ruelle, en fin de journée, et les passants quittent rapidement les lieux devant l'ambiance qui se dégrade.
+RENCONTRE 1:
+Goblin blackblade (lurker 1, p136 MM), 100XP
+human bandits (skirmisher 2, p162 MM), 125XP
+4 human rabbles (minion 1, p162 MM), 25XP
+goblin warrior (skirmisher 1, p137 MM), 100 XP
+total : 425 XP, rencontre facile de niveau 1
+
+Scène 3: Voyage dans les terres de cendres
+Un second défi de compétences, cette fois-ci pour traverser sans encombre les terres de cendres au milieu du territoire des tribus elfes.
+-endurance DD15, pour rationner efficacement ses ressources au cour de la marche
+-exploration, DD15 pour le premier, 10 pour les suivants, pour trouver puis suivre une ancienne route impériale menant au complexe de temple.
+-discrétion DD10 pour éviter des ennuis sur la route : elfes, scorpions, insectes....
+-diplomatie/intimidation DD15 pour convaincre les tribus elfes sur le chemin de les laisser passer sans encombre, de leur fournir des ressources avec les résultats suivants
+-nature DD10 pour un natif de la région, 15 pour les autres, pour obtenir des ressources sur place, notamment de la nourriture et de l'eau.
+6 réussite avant 3 échecs pour remporter le défi.
+6 réussite, 0 échecs
+
+En cas de réussite, le voyage se déroulera sans grand problème jusqu'au temple, et bientôt, ses plates-formes en ruine se dressent devant les personnages.
+En cas d'échec, les personnages vont arriver avec des malus au temple, fatigués par leurs épreuves. 
+
+Scène 4 : les sentinelles du temple.
+les abords du temple sont gardés par des sentinelles elfes, qui ne tiennent pas à voir qui que ce soit déranger ce lieu qui est sacré tout autant qu'une ancienne menace.
+Il s'agit essentiellement d'une petite embuscade par les elfes. TODO : définir les profils adverses. C'est un combat plus équilibré que les précédents.
+RECONTRE 2 :
+-elfe archer (artillerie 2, p106 MM), 125XP
+-2 éclaireurs elfes (skirmishers 2, p106 MM), 125XP
+-2 gardes humains (soldier 3 p 162 MM), 150XP
+total : 675 XP, rencontre de niveau 2
+Init:
+roublarde : 23
+gladiatrice :22
+mage : 20
+gardien squelette :18
+orque : 18
+wight : 17
+Drakeide : 13
+gardien : 12
+
+wight à -52/54, 5 ongoing
+champion à 11
+
+
+
+Scène 5 le temple lui-même
+Il faut en premier lieu trouver le moyen d'entrer dans le complexe à proprement parler : les terrassses sont en ruine, mais les souterrains et certains des batiments les plus centraux ont survécus, scellés. Si le premier défi de compétence a été réussi, cela est aisé, le type de sceau étant connu. 
+Sinon, il faut trouver le mécanisme de sceau, qui permet d'ouvrir la porte du temple.
+Une fois cela fait, les défenseurs du temple, éternels, ont été réveillés par cela. Il s'agit de squelettes principalement, mais ils peuvent être convaincus par quelqu'un parlant l'abyssal, et se présentant comme étant en affaire officielle pour l'empire. (des indices de cela pourraient être connus avec les recherches).
+RENCONTRE 3:
+- 2 squelettes (soldat 3, p234 MM) 150XP
+- 7 squelettes décrépits (larbin 1, p234MM) 25XP
+-corruption corpse (artillerie 4 p 274 MM) 175 XP
+Total : 700 XP, rencontre niveau 2
+Une fois les gardiens évités ou vaincus, les personnages peuvent explorer le temple à la recherche de ce qui les intéresse.
+Notamment, de nombreux bas-reliefs peuvent donner des indices intéressant sur la vie de la fin de l'empire, ainsi que sur le temple lui-même apparemment un lieu de culte important pour les familles les plus nobles de l'empire.
+Le coeur du temple est scellé par un second mécanisme. Celui-ci ne s'ouvrira qu'avec du sang de l'ancienne lignée impériale de Bael Turath, dont un des PJs, à son insu, fait partie. 
+Si les PJs n'ont pas cette intuition, des représentaitons du sacrifice de sang devraient les mettre sur la voie.
+Une fois ceci accompli, le coeur s'ouvre, résonnant d'hommages à la famille impériale de Bael Turath, et ouvrant l'accès au réceptacle de la babiole. C'est là que la plupart des réponses seront obtenues. Pour ce qui est du loot, les murs de cette ancienne sale sont ornés de plusieurs artefacts impériaux datant de plusieurs siècles, mais parfaitement conservés.
+
+
+RECONTRE OPTIONNELLE 1: gardiens du saint des saints
+-dread protector (soldat 3, p74 MM3) 150XP
+-deathlock wight (controller 4, p 263 MM), 175 XP
+-5 squelettes décrépits (larbin 1, p234 MM) 25XP
+- 2 squelettes (soldat 3, p234 MM) 150XP
+total : 750 XP, rencontre niveau 2
+
+RECONTRE OPTIONNELLE 2: embuscade elfe
+-2 gardes humains (soldier 3 p 162 MM), 150XP
+-un mage humain (artillerie 4, p163 MM), 175 XP
+-berserker humain (brute 4, p163 MM), 175 XP
+total : 650 XP, niveau 2
+
+PNJ ville 1 : prêtre
+Un prêtre de la ville, un elfe des cendres banni. Son église a noté beaucoup d'évènements qui se sont produits lors de la chute de l'empire (avec un biai certains, mais cela n'est pas le point). Etant à l'époque interdits par la religion impériale, ils ont notamment notés et commentés certains des rites et pratiques impériaux. Il parle calmement, mais semble connaître très bien les écrits de cette période. L'église elle-même est un bâtiment relativement plat et peu impressionnant, les écrits étant stockés en sûreté dans des souterrains apparemment plutôt anciens.
+PNJ ville 2 : historien
+Un noble du nom de Martas Silesius, qui est connu pour s'intéresser de près à l'empire. Il est relativement proche du roi de la ville, et en profite pour lancer des expéditions dans les terres de cendres. Un homme relativement âgé, il est toujours ravi de montrer sa collection de pièces religieuses datant de la première dynastie impériale. Il réside dans sa villa un peu en dehors de la ville, un petit domaine relativement cossu.
+PNJ ville 3 : antiquaire
+Une boutique d'antiquités en ville, vendant à qui peut se l'offrir des artefacts datant des différentes périodes de l'empire. Il a une idée quand à la provenance de plusieurs d'entre elles, et pourra identifier sans mal certaines choses rares. C'est un haut elfe maniéré, qui était apprenti verrier à l'époque de la chute de l'empire. La boutique est un peu 'patinée', sentant les vieux objets et les cuirs traités.
+LIEU ville 1 : bibliothèque de la ville
+Autrefois une petite bibliothèque de satrapie, elle a recueilli lors des conflits de la chute une grande part de ce que d'autres bibliothèques avaient pu conserver, et est aujourd'hui une des plus grandes des royaumes successeurs. Elle n'a jamais eu la place pour stocker tous ces nouveaux volumes et rouleaux, et la partie non-triée forme une sorte de labyrinthe de parchemins et de papiers. 
+PNJ ashland 1: cheffe de tribu
+Une elfe relativement jeune, qui dirige les Iriai. Elle tient à faire respecter les terres de sa tribu par les étrangers : le passage est permis, à condition de payer un tribut acceptable, et surtout, de ne pas la prendre de haut. Sa tente est teinte aux couleurs de la tribu, et sens la fumée.
+PNJ ashland 2 : marchand itinérant
+Un marchand parcourant les terres de cendres avec son scarabée de bâts. Il a la peau burinée par le soleil, même pour un elfe de cendres. Il propose aux voyageurs de partager son feu de camp pour discuter des nouvelles de la région et d'ailleurs. Son stock se compose de pas mal de petits objets : pots, flèches, fioles, bijoux....
+
+Que faire ?
+-en manque de combat, rajouter une attaque d'elfes ou de morts-vivants
+-en manque de temps, passer les gardiens finaux du temple
+-en manque d'indices, ajouter des bas-reliefs qui donnent des informations aux joueurs.
+
+
+TODO:
++définir combat 1 (en ville)
++définir combat 2 (elfes gardiens)
++définir combat 3 (gardiens éternels)
++rencontre  : gardiens du saint des saints
++rencontre : embuscade elfe
++2 goblins, 1 wight,1 dread protector, 1 corruption corpse
++préparer une liste de PNJs et lieux pour la ville, ainsi que quelques PNJs elfes pour la traversée des terres de cendres.
+-définir la babiole et son usage.
+-mieux définir les descriptions du temple, de ses bas-reliefs...
+-définir les détails du background des PJs, et notamment leur motivation à rejoindre ce groupe.
+-imprimer les fiches de personnages.
+-réaliser les fiches de personnages.
+-décrire mieux les résultats des tests de compétences dans les défis.
