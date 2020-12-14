@@ -1,0 +1,31 @@
+Mécanisme aléatoire:système avec dés spéciaux : réussites
+
+
+Fonctionnement:
+On lance des dés dépendant des caracs (assez neutres), et d'autres dés, dépendant de la compétence (plus positifs).
+dé de carac : 1 échec, 2 réussites, 1 fatigue, 2 neutres.
+dé de compétence : 1 réussite+conséquence, 2 réussites, 1 conséquence, 1 fatigue, 1 repos, 4 neutres.
+Sur chacun de ces dés, on peut également avoir des effets supplémentaires : fatigue et conséquences. La fatigue va s'accumuler sur un personnage avec le temps, qu'elle soit mentale ou physique. Les conséquences sont des effets annexes, généralement positifs.
+Le nombre de dés lancé est égal au score de caracs + score de compétences (dés différents donc). 
+Prise de risque : remplacement d'un ou plusieurs dés de compétences par les dés de risque:
+dé de risque : 2 amplifications, 2 fatigues, 2 neutres.  
+Pour réussir un test, il faut obtenir suffisamment de réussites (nombre déterminé par le MJ en fonction de la tâche à accomplir).
+
+Attributs:
+agressivité 
+robustesse
+logique
+empathie
+intuition
+[à définir clairement]
+
+bases santé
+Un personnage va subir des blessures de différentes gravité : légère, grave, mortelle. Ces blessures sont localisées : tête, torse, bras, jambes (et autres appendices). 
+Chaque blessure a un effet, plusieurs blessures d'un niveau se cumulent pour former une blessure d'un niveau supérieur.
+
+bases combat
+
+
+bases tests mentaux
+
+bases règles sociales
