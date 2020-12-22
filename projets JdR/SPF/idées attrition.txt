@@ -1,0 +1,15 @@
+Mécanique actuelle:
+Si nb(1)>attribut, l'attribut perd un point, récupérable lors des période de repos
+
+OPTION 1: les points de stress
+Un personnage peut gagner des points de stress lors du scénario (lors des combats, quand il est attaqué ?). Les points de stress s'ajoutent aux tests normaux, et si ils obtiennent un 1, retirent un succès (ou déclenchent des évènements négatifs ?). Récupération avec la perte de points de stress.
+->un poil de bookkeeping en plus, une mécanique de dés légèrement modifiée, attention à la difficulté pour les joueurs après cette modification.
+
+
+OPTION 2: Les jauges
+Chaque 1 obtenu lors d'un test est ajouté à une jauge, qui se remplit progressivement. Quand la jauge atteint une certaine valeur (attribut ? 10?), elle se vide et l'attribut perd un point. R2cupération comme dans le jeu de base.
+-> attention au bookeping ici, qui pourrait être plus importante (surtout si on souhaite plusieurs jauges ?)
+
+Problème aussi : les jets se font déjà avec peu de dés pour être honnêtes, il faudrait sans doute les renforcer un peu, que ce soit par une modification des packages pour couvrir plus de points, ou en modifiant les attributs de base.
+L'option 1 peut partiellement régler le problème : 1 point de stress pris est beaucoup moins grave au niveau des dés qu'un point d'attribut
+L'option 2 force à régler le tout à la main, vu qu'elle modifie seulement la mécanique initiale.
