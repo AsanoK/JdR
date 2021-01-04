@@ -1,0 +1,38 @@
+Mécanique actuelle:
+Si nb(1)>attribut, l'attribut perd un point, récupérable lors des période de repos
+
+OPTION 1: les points de stress
+Un personnage peut gagner des points de stress lors du scénario (lors des combats, quand il est attaqué ?). Les points de stress s'ajoutent aux tests normaux, et si ils obtiennent un 1, retirent un succès (ou déclenchent des évènements négatifs ?). Récupération avec la perte de points de stress.
+->un poil de bookkeeping en plus, une mécanique de dés légèrement modifiée, attention à la difficulté pour les joueurs après cette modification.
+
+
+OPTION 2: Les jauges
+Chaque 1 obtenu lors d'un test est ajouté à une jauge, qui se remplit progressivement. Quand la jauge atteint une certaine valeur (attribut ? 10?), elle se vide et l'attribut perd un point. R2cupération comme dans le jeu de base.
+-> attention au bookeping ici, qui pourrait être plus importante (surtout si on souhaite plusieurs jauges ?)
+
+Problème aussi : les jets se font déjà avec peu de dés pour être honnêtes, il faudrait sans doute les renforcer un peu, que ce soit par une modification des packages pour couvrir plus de points, ou en modifiant les attributs de base.
+L'option 1 peut partiellement régler le problème : 1 point de stress pris est beaucoup moins grave au niveau des dés qu'un point d'attribut
+L'option 2 force à régler le tout à la main, vu qu'elle modifie seulement la mécanique initiale.
+
+
+ECRITURE OPTION 1:
+Jets de dés : supprimer la notion d'échecs, repenser celle d'avantage ? En cas d'échec à un test, le personnage peut choisir de gagner un point de stress sur cet attribut : cela permet de transformer un échec en réussite, mais fait également gagner un PI au MJ ou déclenche une attaque. Pour chaque point de stress sur l'attribut du test, on jette un d6 supplémentaire. Chacun de ces dés de stress obtenant un 1 est un échec, chaque échec éliminant une réussite. Si le nombre d'échecs obtenus dans un test est supérieur à la valeur de l'attribut, le personnage craque sur cet attribut. 
+Détente : une récupération permet d'éliminer 1d6(2d6) points de stress.
+
+Difficulté des tests:
+1 : trivial (observation :repérer un groupe blindé en approche rapide;tactique ou logistique: préparer une patrouille d'exercice)
+2 : facile (orientation : se retrouver dans un bocage avec une carte;athlétisme : sauter un muret à l'entraînement)
+3 : moyen (tactique : mener un peloton à l'assaut; labeur : creuser un trou de combat)
+4 : difficile (discipline : nettoyer les barraquements pour une inspection détaillée; survie : trouver un abri adns les steppes russes)
+5 : très difficile(tir : lancer une grenade dans une bouche d'égout à 30m; maintenance : réparer un poste radio sans pièces détachées).
+
+Division de la dangerosité en Dangerosité+Résistance, présenté comme suit:
+D3R2; 
+les deux utilisent la table de difficulté des tests : de l'infanterie qui se jette au sol sera un 2, la m^me dans un couvert décent un 3 voire 4 en résistance.
+En dangerosité :
+infanterie de loin :1
+tirs de susils à portée moyenne, mortiers lointains :2
+mitrailleuse ou artillerie :3
+tank en tir direct : 4
+Un groupe particulièrement important : +1
+Un groupe d'arme combinée : plus important+1/2 suivant la combinaison

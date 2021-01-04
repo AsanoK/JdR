@@ -11,15 +11,16 @@
 \contentsline {subsection}{\numberline {1.2.2}Familles criminelles}{6}%
 \contentsline {subsection}{\numberline {1.2.3}Sous Waldenheim}{6}%
 \contentsline {subsection}{\numberline {1.2.4}Les familles von Hauptberg et Oberstein}{6}%
-\contentsline {section}{\numberline {1.3}Arcs personnels}{6}%
-\contentsline {subsection}{\numberline {1.3.1}La chasse}{6}%
+\contentsline {subsection}{\numberline {1.2.5}Le rassemblement de la horde}{6}%
+\contentsline {section}{\numberline {1.3}Arcs personnels}{7}%
+\contentsline {subsection}{\numberline {1.3.1}La chasse}{7}%
 \contentsline {subsection}{\numberline {1.3.2}L'ancienne famille}{7}%
 \contentsline {subsection}{\numberline {1.3.3}La mort glorieuse}{7}%
 \contentsline {subsection}{\numberline {1.3.4}Connaissances interdites}{7}%
 \contentsline {subsection}{\numberline {1.3.5}le garde :TBD}{7}%
 \contentsline {section}{\numberline {1.4}Arcs tertiaires}{7}%
 \contentsline {subsection}{\numberline {1.4.1}Une menace sur le village}{7}%
-\contentsline {subsection}{\numberline {1.4.2}Nuit sanglante (Aventure commerce)}{7}%
+\contentsline {subsection}{\numberline {1.4.2}Nuit sanglante (Aventure commerce)}{8}%
 \contentsline {subsection}{\numberline {1.4.3}ça a le goût de poulet}{8}%
 \contentsline {chapter}{\numberline {2}Déroulement de la campagne}{9}%
 \contentsline {section}{\numberline {2.1}Acte 1 : un complot discret}{9}%
@@ -39,4 +40,9 @@
 \contentsline {paragraph}{Présents}{17}%
 \contentsline {paragraph}{Notes de séances}{17}%
 \contentsline {paragraph}{Remarques et améliorations}{17}%
-\contentsline {section}{\numberline {6.3}Carte des lieux}{19}%
+\contentsline {section}{\numberline {6.3}session 2}{18}%
+\contentsline {paragraph}{Date:}{18}%
+\contentsline {paragraph}{Présents:}{18}%
+\contentsline {paragraph}{Notes de séance}{18}%
+\contentsline {paragraph}{Remarques et améliorations}{18}%
+\contentsline {section}{\numberline {6.4}Carte des lieux}{19}%

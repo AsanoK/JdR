@@ -27,11 +27,11 @@ Tactiques
 Tir (par arme)
 
 
-Test : pool de d6, les 5+ sont des succès, il faut dépasser un SR. En cas d'échec, gain de PI ou attaque sur le PJ. Si nb(1) > attribut -> perte d'un point d'attribut.
-Si un attribut arrive à 0, craquage
+Test : pool de d6, les 5+ sont des succès, les 1 sur dés de stress sont des échecs (et soustraient une réussite) il faut dépasser un SR. En cas d'échec, gain de PI ou attaque sur le PJ. Si nb(1 stress) > attribut -> craquage
+Gain de stress en cas d'échec sur un test 
 
-avantage : relance des 4, pas de nouveaux échecs
-désavantage : relance des 6, nouveaux échecs comptés
+avantage : relance des 1 sur les dés normaux
+désavantage : relance des 6 sur les dés normaux
 
 combat :on découpe en menaces, avec une dangerosité (base du pool d'attaque), des conséquences
 action 'prise de risque' -> attaque automatique subie, contre un bonus plus important. Les PJs sont répartis sur les menace au début du combat, avec un test de tactique pour modifier cela.
