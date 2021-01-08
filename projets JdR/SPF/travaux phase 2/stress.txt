@@ -1,0 +1,25 @@
+ATTENTION, ce n'est pas un problème indépendant. Il est géré depuis le fichier 'gestion de la difficulté' pour une vision plus globale du problème.
+
+Problème actuel:
+-Les joueurs et moi ont pu voir que les personnages ne gagnent pratiquement jamais de stress au cours de la partie, ce qui vient se heurter à l'impression générale voulue par le jeu.
+-Les occasions de gagner du stress devraient être plus fréquentes : les attaques sur les PJs par exemple, devraient infliger fréquemment du stress, ainsi que d'autres situations traumatisantes : perte de camarade, certains types de frappes...
+-La dispersion des points de stress sur les différents attributs vient encore diluer son efficacité.
+
+Situation:
+Gain de stress : volontairement en cas d'échec, pour malgré tout compter le test comme une réussite
+-> Une seule source potentielle, volontaire qui plus est. La condition de départ est déjà peu probable.
+->Il faudrait augmenter le nombre d'occasions de recevoir du stress.
+
+Nouvelles règles de stress:
+Un personnage gagne un point de stress dans les situations suivantes:
+-a chaque fois qu'une attaque est déclenchée contre le personnage,y compris si un camarade 'prend la balle', y compris dans le cas d'une action risquée, y compris si un équipement avec le tag 'défense' annule l'attaque.
+-lors de certaines circonstances déterminées par le MJ, qui peuvent se révéler stressantes : circonstances éprouvantes, vision d'horreur.... Les critères pouvant être la fatigue, l'horreur, le sentiment de danger..... Gain de point de progression dans ces cas-là?
+-au début de chaque affrontement? à la fin des affrontements où un PJ a été attaqué ?
+
+Chaque point de stress sur le personnage ajoute un dé de stress lors de chacun de ses tests. Un dé de stress tombant sur 1 est un \emph{échec}, qui retire une réussite du total obtenu avec les autres dés. 
+Si le nombre d'échec sur un test est supérieur ou égal à la valeur de l'attribut utilisé, alors le personnage craque sur cet attribut.
+Les détails narratifs sont à déterminer avec le MJs, mais un personnage en train de craquer doit choisir pour chacune de ses actions entre ne rien faire, lancer son test avec désavantage, ou prendre un risque sur son action pour lancer son test normalement. Le craquage dure un nombre de tours de table égal à la valeur de l'attribut touché.
+Les points de stress peuvent être perdus lors des phases de repos, grâce à l'action de détente.
+
+->note : il faudrait sans doute augmenter également légèrement le nombre d'attaques sur les personnages pour augmenter la dangerosité. Peut-être une attaque par tour de table ? Cela irait sans doute plus dans le 'level' design que dans le game design, mais nécessiterait sans aucun doute une explication détaillée dans la section 'MJ', sauf à rendre cela vraiment automatique, ce qui peut être discutable.
+!!! voir après test si il y a besoin de modifier la récupération de points de stress.

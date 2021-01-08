@@ -1,0 +1,27 @@
+Prochaines étapes:
+(semaine 1)
+*premier travail sur le stress : augmentation du gain
+*premier travail sur la dangerosité : augmentation du nombre d'attaques proposées par le système, et rework de la TENSION (nouveau nom des PIs)
+*nouvelle spec : protections personnelles (notamment en sci-fi)
+*travail de nettoyage du livre de règles, afin de le remettre complètement à jour en fonction des derniers développements
+*prise de notes tags d'équipement (depuis d'autres systèmes : lancer, DH, EP, SR)
+*test de la nouvelle difficulté par un test solo (avec les prétirés, sur la secconde moitié du scénario, identique au second playtest).
++premières idées de second setting à proposer
++premier brouillon de règles de progression de personnage
+-création d'une section 'épreuves avancées' dans les règles avancées.
+-création d'une section 'menaces avancées' dans les règles avancées.
+
+(semaine 2+)
+-mise à jour des fiches de personnage pour coller avec la nouvelle version des règles.
+-développement du second setting pour l'enrichir et y proposer de nombreuses options.
+-réécriture d'un scénario de one-shot pour une seconde vague de test
+-travail sur les tags d'équipement pour mieux les différencier
+-réflexion sur un changement de la manière dont jouent les menaces (évolution dynamique des menaces)
+-vérifications des erreurs de version et fautes de frappes
+-implémentation des règles de progression
+-validation ou corrections de la nouvelle difficulté du système.
+
+
+Travail diffus:
+-premier brouillon des règles psys et véhicules
+-ajout d'illustrations et de photos pour rendre plus intéressant le contenu du livre

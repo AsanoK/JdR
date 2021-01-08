@@ -1,0 +1,21 @@
+Initial : 
+-joueurs et MJ ont pu trouver que le scéario d'introduction, au-delà de son écriture, semblait trop facile d'un point de vue mécanique : peu de risques, des tests trop couramment surpassés.... 
+-pour subir une attaque aujourd'hui, il faut rater un test et que le MJ décide de déclencher une attaque ou de gagner un PI, ou en conséquence d'une menace spécifique.
+
+Idées
+-En premier lieu, retravailler le gain de stress : si celui-ci augmente de façon importante, il devrait influencer lourdement la dangerosité du système.
+-Une fois ce problème adressé, il faudra sans doute réaliser un test (purement solo), pour vérifier si cela peut suffire. Le cas échéant, il faudra envisager de trouver d'autre(s) façon(s) de modifier la difficulté : jouer sur le SR des tests par exemple.
+-détailler les options pour que les menaces puissent déclencher automatiquement des attaques sur les PJs, notamment pour les situations particulièrement dangereuses. Il faudrait sans doute refaire (à nouveau) la section MJ, qui est pour le moment à la fois trop détaillée, et peu utile.
+-Si on élimine les PI, et qu'on augmente la dangerosité des menaces en général (2-7?), le système devrait gagner en dangerosité.
+-autre option : redesigner les PI pour les rendre plus généraux, des vraies annonces du MJ, par exemple en conséquence, et ne pas les dépenser lors d'attaque, mais en perdre lors des phases de repos (tout?)
+
+Avancées:
+-la première version des modifs de stress rend le gain de celui-ci dépendant des attaques contre les PJs, il faudrait sans doute voir à augmenter légèrement la quantité d'attaques envers les PJs pour améliorer encore la dangerosité : avec les règles actuelles, il n'y a que peu de dangers.
+
+Nouvelles règles de PI:
+Le MJ dispose d'une réserve de PI, qui servent à représenter la montée de la tension ,et de la dangerosité pour les personnages.
+Lors de chaque attaque contre les PJs, le MJ utilise la somme de ses PI et de la dangerosité de la menace pour calculer le nombre de dés utilisés pour le test. 
+Les PI se gagnent de la manière suivante:
+-Au début de chaque affrontement, le MJ gagne automatiquement un PI
+-Certaines menaces peuvent avoir comme conséquence de faire gagner un ou plusieurs PI au MJ
+-Le MJ peut décider de gagner un PI, dans ce cas, chaque personnage gagne immédiatement un point de progression (?)

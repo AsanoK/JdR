@@ -1,0 +1,38 @@
+Objectifs: tester les différents nouveaux éléments
+-dangerosité
+-stress
+(armes)
+-progression (prendre des notes)
+-nouvelles options de MJ pour le stress et les attaques
+
+Test 1 : notes:
+préambule : scénario joué jusqu'à l'assaut du 20 septebmre inclu, mais avec plus de défis de compétences pour les PJs.
+
+Résumé : Piotr hors-jeu dès le début du premier combat (après un défi de compétences), remplacé 2/3 combats plus tard. Les autres combats furent plus délicats et tendus que lors de la séance, avec de nombreuses difficultés pour les PJs, qui subissait fréquemment 2-3 attaques/combat, qui devenaient dangereux avec une tension>3
+
+Note sur la dangerosité:
+Beaucoup plus violent dans le fonctionnement, un mauvais jet défensif étant très punitif
+
+notes stress:
+presque tous les personnages ont pris du stress. Maria moins, grâce à un score dans sa compétence principale très élevée, et des avantages bien placés pour le soutenir. De bons jets pour le regagner ont été très pratique. Une influence notable, mais pas encore trop présente dans le jeu : une réussite enlevée, ou pire, 2, coûte très cher
+
+notes armes:
+le prototype de mécanisme d'arme semble cohérent, et tout à fait jouable en conjonction avec le mécanisme d'augmentation du SR (augmenter les enjeux?)
+
+notes progression:
+1 seul point d'xp, qui semble du coup très faible. Peut-être pour chaque attaque subie ?
+
+options de stress et d'attaques pour le MJ : utilisée 1 seule fois, semble donc peu pertinente à mon sens.
+
+notes sur l'écriture du scénario:
+-la difficulté semble cohérente avec le rendu voulu
+-il faudrait mieux gérer la tension avec des menaces qui l'augmentent moins, mais plus souvent
+-scores de dangerosité et attaques automatiques à repenser sans doute
+
+Conclusions:
+-la difficulté semble meilleure, à tester avec des joueurs pour valider les modifications. Attention aux difficultés hautes (4+), elles peuvent être un vrai blocage pour une équipe de PJs.
+-Faire plus attention à l'équilibrage entre PJs : un personnage avec une très grosse compétence (6+) est beaucoup plus efficace dans les combats qu'un personnage avec des compétences plus dispersées (4-). En particulier, attention aux possibilités d'hyper-spec de certains rôles de soutien (ou améliorer les specs des rôles de base)
+-la progression devrait être un peu plus courante pour être satisfaisante. En l'état le gain est trop peu commun pour être justifié selon moi. Peut-être un gain par personnage/attaque subie, et 1/escouade pour chaque mise hors de combat ? -> là on serait à 2 pour l'escouade et 1-5 supp/PJ
+-Il faut vraiment les sections sur la créations de menaces avancées
+-le brouillon du tag d'arme et de la règle d'augmentation d'enjeux semble validable en l'état.
+-le stress est beaucoup plus présent, ce qui était un des objectifs.

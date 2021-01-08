@@ -1,0 +1,12 @@
+Objectifs développement:
+-tester les différentes nouveautés du système : dangerosité, stress, progression, armes, et équilibrage général
+-proposer une narration plus personnelle, loin de la frénésie des combats de Stalingrad.
+-changer l'échelle et vérifier que le jeu fonctionne bien malgré tout
+
+Objectifs narratifs:
+-raconter une histoire intéressante, de lutte, de souffrance
+-créer des personnages que les joueurs puissent apprécier ou détester, le temps d'une mission
+-s'orienter beaucoup plus sur les personnages que dans le playtest 1
+
+Synopsis:
+(inspiration : Sara) Les personnages font partie du peloton de reco d'infanterie d'un régiment, et se voient confier la mission d'inspecter les positions adverses ainsi que leurs préparatifs. Cela va se séparer en deux missions avec un retour au camp de base entre deux. La première mission, relativement rapide, servira d'introduction. La seconde les verra tomber sur le chemin d'un assaut allemand imprévu, et ils devront retourner vers les lignes alliés sous le feu, ou se battre sur leur position.

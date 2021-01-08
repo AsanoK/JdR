@@ -1,0 +1,39 @@
+idées en vrac:
+-tag déploiement, nécessite un certain temps pour être utilisable.
+-rework du tag portée, en portée X et portée X/Y, le premier étant ferme, le second imposant un désavantage entre X et Y.
+-nouveau tag automatique X: permet, en dessous d'une certaine portée, de bénéficier de la règle suivante : si le SR est dépassé, chaque tranche de 2 succès au-dessus du SR compte comme un test réussi supplémentaire. -> comme pour la prise de difficulté, mais en pouvant le faire à posteriori.
+-tag blindé, ignorant les armes non-AP
+-tag d'armes AP, permettant d'infliger des réussites contre une cible avec le tag blindé.
+
+
+NOTES ARMES AUTOMATIQUES
+notes LANCER
+arme définie par un type d'emplacement, une portée/pattern, un type, un type de dégâts et différents tags additionnels.
+Ceux-ci incluent divers bonus, dont un tir en cloche, un 'repousse', un AP.... Les armes à très forte cadence de feu se définissent par le tag 'reliable', qui inflige des dégâts minimaux à la cible, même en cas d'échec du test.
+
+notes Dark Heresy/W40k games
+armes avec des profils détaillés (portée, dégâts, traits....) Les armes automatiques ont des 'modes de tirs' différents, qui coûtent des actions différentes, mais permettent de bénéficier de bonus lors des tests de tirs, limitant les risques d'échec (+10 en semi-auto, +2 en full-auto).
+
+notes Eclipse Phase 2
+Armes avec un profil détaillé. Les armes à forte cadence de feu peuvent au choix faire bénéficier de bonus de tir ou de dégâts (au choix à chaque tir). 
+
+notes Shadowrun v5
+Les armes avec grande cadence de feu ont accès à des modes de tirs différents, chacun infligeant des malus à la défense adverse, en fonction d'un coût en action.
+
+notes savage worlds
+utilisation d'un rate of fire, permettant d'augmenter ses chances de toucher et/ou de viser plusieurs cibles. Un malus de recul vient diminuer légèrement la précision de chaque tir.
+
+notes Stars without numbers
+Les armes automatiques utilisent plus de munitions et peuvent gagner un bonus au jet pour toucher
+
+notes star wars edge of the empire
+Une arme auto inflige un malus au tir, mais, avec suffisamment de réussites (ou un équivalent), le tir peut être doublé/triplé.... Le tirs additionnels peuvent être mis sur des cibles voisines.
+
+notes the expanse
+Les armes auto ont accès aux stunts de tir auto : tir de suppression, seconde attaque, tir en zone, malus à la défense....
+
+notes coriolis
+Les armes auto ont la feature 'automatic fire', et peuvent faire un tir plus coûteux en actions, un peu plus limité en portée, avec un malus, mais permet de continuer à lancer des dés jusqu'à manque de munitions
+
+notes alien RPG
+full auto = stress+1, bonus au tir, les succès bonus répartis sur des cibles secondaires

@@ -1,0 +1,2 @@
+idées : 
+un PJ doit pouvoir augmenter le SR d'un test pour améliorer sa réussite (exemple : choisir d'augmenter de 2 le SR pour compter comme deux succès, ou réduire la dangerosité de la menace par exemple).

@@ -1,0 +1,24 @@
+Objectifs :
+-proposer un second setting en guise d'inspiration pour les Mjs autant que les joueurs, en plus de Stalingrad
+-le setting devrait se différencier à plusieurs niveaux de Stalingrad : l'échelle des combats, le type d'opérations, le contexte historique....
+-proposer un bon niveau de détails malgré un contexte très différend : il faudrait atteindre un niveau de professionalisme.
+-permettre une bonne intégration des pouvoirs psychiques dans le setting, afin de justifier leur intégration dans le jeu. Mais pas centrale, de façon à pouvoir être de même ignorés.
+-doit intégrer une description de la situation préalable à l'esacalde, puis de l'incident où tout escalade, pour finir par une description détaillée d'une opération militaire à relativement grande échelle.
+
+Idées générales:
+-colonisation spatiale bien entamée hors système, ou sur une mars terraformée lourdement : il faudrait une planète plus ouverte sur l'extérieur, avec des affrontements plus diversifiés que les milieux très restreints de Stalingrad
+-problèmes entre les premières colonies et les puissances colonisatrices, qui finit par dégénérer en rebellion ouverte après un long moment de protestations plus ou moins ouvertes.
+-opération militaire correspondant à une tentative lourde des puissances colonisatrices de reprendre 'leurs' biens et le contrôle sur la situation. L'entreprise se révélant plus délicate qu'initialement envisagé, avec une opération à plusieurs phases : arrivée et alpha strike, prise de position précaire, renouveau de l'insurection après diverses bavures.
+-niveau technologique plutôt bon avec de nombreuses armes et contre-mesures basées sur les IAs.
+
+
+Situation initiale
+Mars, 2130 : cela fait deux générations que les premiers colons sont arrivés sur la planète rouge, portés là par les vaisseaux de l'alliance atlantique, ou ceux de la coalition sino-indienne. 
+La première navette, le Zhūlóng, est arrivée en 2076, renforçant grandement la coalition sur le plan géopolitique. Au cours des cinq décennies suivantes, de nombreux nouveaux colons sont arrivés. D'abord des ingénieurs et experts en environnement, puis des gens qui espéraient y trouver un nouveau départ, souvent d'origines modestes.
+Avec le temps, les relations avec les puissances terrestres se fit plus distante : au-delà du long temps de trajet (environ 1 an, malgré les progrès de la science), les besoins des populations et les ambitions de leurs lointains dirigeants s'éloignèrent les uns des autres.
+Le 12 septembre 2130, une insurrection armée s'empara de la plupart des habitats de l'alliance atlantique, réclamant l'auto-détermination pour eux-même. Certains des habitats de la coalition furent également touchés par cette insurection, mais initialement assez peu.
+
+Opération WHITE MIST
+Nom de l'opération de 'maintien de l'ordre' menée par les troupes de l'alliance atlantique.
+Démarré par un débarquement spatial sur la capitale de Noctis, reprise en main après trois semaines d'insurrection (les renseignements et l'état-major avaient anticipé une action de ce type, et gardaient des troupes à disposition). La seconde brigade spatiale opéra ce début d'opération sans rencontrer de forte résistance, toutefois, la reprise en main des autres dômes fut rapidement plus complexe. En premier lieu, de petits groupes d'insurgés continuaient à menacer les patrouilles jusque dans Noctis, et de nombreuses escarmouches à proximité des autres cités causèrent des pertes de plus en plus lourdes.
+
