@@ -1,6 +1,12 @@
 Idée 1:
-Les personnages gagnent des points de progression au cours de la partie (par séance + quand le MJ décide d'augmenter la tension + quand le MJ décrète une attaque)
+Les personnages gagnent des points de progression au cours de la partie.
 Les points peuvent être utilisés lors des périodes de repos pour augmenter les compétences.
+Gains : 
+	-1 quand le Mj augmente la tension, pour tout le monde
+	-1 quand une attaque est déclenchée contre un PJ, pour ce PJ en particulier.
+
+
+
 coût d'une compétence = niveau de la compétence après augmentation, 1 par 1 (ex passer de 3 à 4 coûte 4, passer de 3 à 5 coûte de passer de 3 à 4 puis de 4 à 5 ->5).
--> si tous se passe bien, un personnage devrait pouvoir gagner un point de compétence dans un domaine pertinent par session, voire 2 si il se concentre sur une progression 'large'.
+-> si tous se passe bien, un personnage devrait pouvoir gagner un point de compétence dans un domaine pertinent par session, voire 2 si il se concentre sur une progression 'large', ou lors de sessions particulièrement denses en combats.
 ->A tester et valider lors de test(s), notamment le solo

@@ -6,8 +6,8 @@ Prochaines étapes:
 *travail de nettoyage du livre de règles, afin de le remettre complètement à jour en fonction des derniers développements
 *prise de notes tags d'équipement (depuis d'autres systèmes : lancer, DH, EP, SR)
 *test de la nouvelle difficulté par un test solo (avec les prétirés, sur la secconde moitié du scénario, identique au second playtest).
-+premières idées de second setting à proposer
-+premier brouillon de règles de progression de personnage
+*premières idées de second setting à proposer
+*premier brouillon de règles de progression de personnage
 -création d'une section 'épreuves avancées' dans les règles avancées.
 -création d'une section 'menaces avancées' dans les règles avancées.
 
