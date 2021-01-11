@@ -4,7 +4,8 @@ idées en vrac:
 -nouveau tag automatique X: permet, en dessous d'une certaine portée, de bénéficier de la règle suivante : si le SR est dépassé, chaque tranche de 2 succès au-dessus du SR compte comme un test réussi supplémentaire. -> comme pour la prise de difficulté, mais en pouvant le faire à posteriori.
 -tag blindé, ignorant les armes non-AP
 -tag d'armes AP, permettant d'infliger des réussites contre une cible avec le tag blindé.
-
+-tag de menace : combat rapproché (X) : après X tour, force les PJs à se défendre en combat rapproché ou à se replier.
+-tag outil(X) : fournit un bonus à l'utilisation de la compétence X,p arfois dans certaines conditions. Bonus = réduction du SR (minimum 1?)
 
 NOTES ARMES AUTOMATIQUES
 notes LANCER

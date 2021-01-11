@@ -10,3 +10,50 @@ Objectifs narratifs:
 
 Synopsis:
 (inspiration : Sara) Les personnages font partie du peloton de reco d'infanterie d'un régiment, et se voient confier la mission d'inspecter les positions adverses ainsi que leurs préparatifs. Cela va se séparer en deux missions avec un retour au camp de base entre deux. La première mission, relativement rapide, servira d'introduction. La seconde les verra tomber sur le chemin d'un assaut allemand imprévu, et ils devront retourner vers les lignes alliés sous le feu, ou se battre sur leur position.
+L'unité : infanterie, avec troupes de reco et troupes à ski
+
+Scène 1 : le retour de patrouille
+Les personnages viennent de mener une patrouille le long de la ligne, vers un point intéressant du dispositif, et ont pu repérer une option pour aller plus loin (?).
+-> Peut-être un déif de compétence pour le retour de patrouille ?
+ Ils commencent alors qu'ils passent l'avant-poste le plus avancé des soviétiques.
+L'arrivée au QG régimentaire se fait avec le débrif de toute l'équipe par le lieutenant qui prend des notes, et transmet au capitaine du régiment.
+Les personnages vont pouvoir se reposer quelque temps, notamment profiter d'un repas chaud. Le commissaire junior passera la majeure partie de ce temps avec eux pour connaître l'ambiance et évaluer quel travail il devra fournir : qui encourager, qui contraindre....
+
+Scène 2 : le briefing
+Les personnages vont avoir une journée de libre, puis le capitaine et le lieutenant vont les briefer sur leur prochaine opération. Celle-ci va employer deux escouades de reco et les snipers du QG.
+Il va s'agir en premier lieu d'exploiter la brêche repérée plus tôt dans le dispositif adverse pour aller explorer celui-ci, et potentiellement capturer un prisonnier non-loin d'un possible QG adverse.
+
+Scène 3 : infiltration
+2 défis de compétences ici:
+-un premier pour passer les patrouilles et avant-postes adverses dans le no man's land. Peu difficile, les personnages revenant de là précisément.
+-un second pour passer dans la brêche du dispositif, entre deux patrouilles adverses
+
+Scène 4 : attente
+Les personnages trouvent ensuite un chemin courant derrière les lignes ennemies, et relativement emprunté, au vu des traces dans la neige.
+L'escouade doit se préparer à son embuscade, pour attendre une cible pertinente.
+
+Scène 5 : embuscade, et découverte
+La première cible qui se présente est un quartier-maître, et 5 soldats, avec une charette, sans doute volée à des paysans du coin. les PJs peuvent partir à ce moment (A)
+Si les PJs décident d'attendre parcontre, ils vont pouvoir voir arriver, après quele temps, les premiers éléments d'une colonne motorisée adverse : l'information en elle-même est potentiellement critique.
+Il est alors possible de :
+	-se barrer au plus vite pour rapporter l'information (B)
+	-attendre encore un peu, et tomber sur un officier en voiture (C)
+	-tendre une embuscade à des éléments de la colonne (D)
+Dans ces 4 options, il y a un combat ou défi de compétences
+
+Scène 6 : repli
+Si B , les forces adverses ne sont sans doute pas en alerte, et il s'agira d'un test relativement facile, avec un certain sentiment d'urgence sans doute (E1 et E2)
+Si A ou C sans alerte, le même défi, mais avec la difficulté supplémentaire d'un ou plusieurs prisonniers à ramener.
+Si A ou C avec alerte, ou D, le repli va être plus complexe, avec notamment des escouades adverses plus vigilantes ou en patrouille.
+
+Scène 7 : retour à l'avant poste
+Si A, les personnages peuvent tomber sur une patrouille à cheval, pas commune dans les environs. Les défaire et récupérer des documents sur eux peut aider ?
+Si D l'avant-poste est déjà tombé aux mains de troupes avancées adverses, qui peuvent prendre par surprise l'escouade.
+Si B, le scénario devrait finir avec un débrif auprès du capitaine un peu stressé
+Si C, le temps perdu fait que les personnages arrivent à l'avant-poste au moment d'un assaut adverse.
+
+Conclusion:
+-A : les positions soviétiques cont rapidement devenir précaires ici
+-B : l'info est critique et permet de préparer une défense plus solide face à des blindés.
+-C : la position doit être abandonnée à l'ennemi, mais la capture d'un officier permet de compenser auprès de l'état-major, qui va y gagner un avantage plus tard.
+-D : Le léger ralentissement des forces adverses amène à un statu quo coûteux pour les deux camps au cours de la semaine suivante.
