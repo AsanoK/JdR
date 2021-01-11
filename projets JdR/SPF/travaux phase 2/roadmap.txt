@@ -8,19 +8,24 @@ Prochaines étapes:
 *test de la nouvelle difficulté par un test solo (avec les prétirés, sur la secconde moitié du scénario, identique au second playtest).
 *premières idées de second setting à proposer
 *premier brouillon de règles de progression de personnage
--création d'une section 'épreuves avancées' dans les règles avancées.
--création d'une section 'menaces avancées' dans les règles avancées.
+*création d'une section 'épreuves avancées' dans les règles avancées.
+*création d'une section 'menaces avancées' dans les règles avancées.
 
 (semaine 2+)
--mise à jour des fiches de personnage pour coller avec la nouvelle version des règles.
--développement du second setting pour l'enrichir et y proposer de nombreuses options.
+*ajout de la règle d'augmentation des enjeux.
 -réécriture d'un scénario de one-shot pour une seconde vague de test
--travail sur les tags d'équipement pour mieux les différencier
--réflexion sur un changement de la manière dont jouent les menaces (évolution dynamique des menaces)
+-mise à jour des fiches de personnage pour coller avec la nouvelle version des règles.
+-ajout des tags d'équipement pour mieux les différencier + nouveaux tags de menaces et matériel
+-développement du second setting pour l'enrichir et y proposer de nombreuses options.
 -vérifications des erreurs de version et fautes de frappes
 -implémentation des règles de progression
 -validation ou corrections de la nouvelle difficulté du système.
+-préparation et organisation second playtest
 
+semaine :
+-évaluer les résultats second playtest
+-continuer à développer le second setting
+-planifier et préparer troisième phase de développement, et nouvelle roadmap
 
 Travail diffus:
 -premier brouillon des règles psys et véhicules
