@@ -8,20 +8,29 @@ Objectifs narratifs:
 -créer des personnages que les joueurs puissent apprécier ou détester, le temps d'une mission
 -s'orienter beaucoup plus sur les personnages que dans le playtest 1
 
+
 Synopsis:
 (inspiration : Sara) Les personnages font partie du peloton de reco d'infanterie d'un régiment, et se voient confier la mission d'inspecter les positions adverses ainsi que leurs préparatifs. Cela va se séparer en deux missions avec un retour au camp de base entre deux. La première mission, relativement rapide, servira d'introduction. La seconde les verra tomber sur le chemin d'un assaut allemand imprévu, et ils devront retourner vers les lignes alliés sous le feu, ou se battre sur leur position.
 L'unité : infanterie, avec troupes de reco et troupes à ski
+date, unité, lieu :16 décembre 1941, lors du siège de Sébastopol;388ème division de fusiliers, 782ème régiment de fusiliers (peloton de reco d'infanterie), un peu au nord du port de Sebastopol, dans les collines et ravines.
+ou
+hiver 41-42, front de leningrad, côté extérieur de l'encerclement. 73ème division de fusiliers, 153ème régiment, peloton de reco d'infanterie. probablement au sud-est de la ville elle-même, non loin de la principale voie ferrée vers Moscou.
 
 Scène 1 : le retour de patrouille
 Les personnages viennent de mener une patrouille le long de la ligne, vers un point intéressant du dispositif, et ont pu repérer une option pour aller plus loin (?).
 -> Peut-être un déif de compétence pour le retour de patrouille ?
  Ils commencent alors qu'ils passent l'avant-poste le plus avancé des soviétiques.
-L'arrivée au QG régimentaire se fait avec le débrif de toute l'équipe par le lieutenant qui prend des notes, et transmet au capitaine du régiment.
+L'arrivée au QG régimentaire se fait avec le débrief de toute l'équipe par le lieutenant qui prend des notes, et transmet au capitaine du régiment.
 Les personnages vont pouvoir se reposer quelque temps, notamment profiter d'un repas chaud. Le commissaire junior passera la majeure partie de ce temps avec eux pour connaître l'ambiance et évaluer quel travail il devra fournir : qui encourager, qui contraindre....
 
 Scène 2 : le briefing
 Les personnages vont avoir une journée de libre, puis le capitaine et le lieutenant vont les briefer sur leur prochaine opération. Celle-ci va employer deux escouades de reco et les snipers du QG.
-Il va s'agir en premier lieu d'exploiter la brêche repérée plus tôt dans le dispositif adverse pour aller explorer celui-ci, et potentiellement capturer un prisonnier non-loin d'un possible QG adverse.
+Quelques scènes lors du repos :
+-relai des troupes du régiment pour occuper l'avant-poste, les nouvelles troupes passent un repas au niveau du QG pour que leur officier confirme des ordres (officier = lieutenant junior).
+-suivant les discussions qui ont pu avoir lieu, l'officier politique junior peut demander à voir un personnage dans son bureau, pour lui expliquer que les propos tenus sont négatifs : si les autres commencent à y croire, ils vont perdre foi, et s'ils perdent foi, ils mettent en danger toute l'unité, surtout dans une spécialisation aussi dangereuse. Il préfère laisser une chance au PJ, en mettant ses propos sur le dos de la fatigue, retour de mission..... Il rappelle qu'il est là pour aider tout le monde dans cette histoire, et que si doute il y a, il est aussi là pour en discuter.
+-Trois prisonniers sont interrogés dans les ruines d'une grange voisine : le premier à parler aura la vie sauve, pas ses deux camarades. Au besoin, le commissaire fera appel à un ou plusieurs PJs pour lui donner un 'coup de main'. En milieu de matinée, deux coups de feu peuvent être entendus, légèrement étouffés par la neige.
+-les deux snipers du régiment reviennent de leur 'chasse' : parait-il que les patrouilles adverses sont plus prudente qu'auparavant, et ça risque d'augmenter, ils en ont attaqué une.
+Le briefing se passe dans une position creusée à côté d'une petite maison de bois, qui sert de couchage aux officiers. La lieutenant détaille leurs objectifs, mentionne les risques, etc, et rappelle bien les précautions: Il va s'agir en premier lieu d'exploiter la brêche repérée plus tôt dans le dispositif adverse pour aller explorer celui-ci, découvrir les emplacements utiles. En particulier, un ancien sentier semblerait mener à un QG potentiel, il faudrait aller vérifier cela, et si c'est bien le cas, toute prise de prisonnier utile pourrait donner une meilleure idée du dispositif.
 
 Scène 3 : infiltration
 2 défis de compétences ici:
@@ -53,7 +62,12 @@ Si B, le scénario devrait finir avec un débrif auprès du capitaine un peu str
 Si C, le temps perdu fait que les personnages arrivent à l'avant-poste au moment d'un assaut adverse.
 
 Conclusion:
--A : les positions soviétiques cont rapidement devenir précaires ici
+-A : les positions soviétiques vont rapidement devenir précaires ici
 -B : l'info est critique et permet de préparer une défense plus solide face à des blindés.
 -C : la position doit être abandonnée à l'ennemi, mais la capture d'un officier permet de compenser auprès de l'état-major, qui va y gagner un avantage plus tard.
 -D : Le léger ralentissement des forces adverses amène à un statu quo coûteux pour les deux camps au cours de la semaine suivante.
+
+PNJs:
+-officier politique junior vladimir Antonov : un jeune officier politique, généralement plutôt sympathique. Plus subtil que pas mal de gens dans sa profession : il préfère le plus souvent discuter, ou a recours à des informateurs un peu partout dans le régiment pour savoir ce qui se dit. Au moins un des camarades des PJs fera partie de ses informateurs. Pas forcément un communiste très convaincu, mais un carriériste de compétition, tout à fait fidèle au parti.
+-Capitaine Ivan Mendeleiev : un officier relativement chevroné, qui a combattu depuis la guerre d'hiver. Il a une sainte horreur de la neige, et privilégie le statu quo actuel entre les deux lignes de fronts.
+-lieutenant senior Natasha Oulianova : récemment nommée à la tête de la reconnaissance du régiment, elle cherche à faire ses preuves et son travail ! Elle s'est enrôlée pour se venger, ayant de la famille à la frontière polonaise. Elle a fait preuve de grandes compétences, peut-être un poil trop de micromanagement toutefois. Ses hommes l'appellent parfois affectueusement babushka.

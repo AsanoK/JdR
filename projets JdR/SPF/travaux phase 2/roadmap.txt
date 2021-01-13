@@ -14,16 +14,18 @@ Prochaines étapes:
 
 (semaine 2+)
 *ajout de la règle d'augmentation des enjeux.
--réécriture d'un scénario de one-shot pour une seconde vague de test
--mise à jour des fiches de personnage pour coller avec la nouvelle version des règles.
--ajout des tags d'équipement pour mieux les différencier + nouveaux tags de menaces et matériel
+*règle de cumul des avantages/désavantages
+*ajout des tags d'équipement pour mieux les différencier + nouveaux tags de menaces et matériel
+*mise à jour des fiches de personnage pour coller avec la nouvelle version des règles.
+*éliminer le comptage des munitions, même pour les grenades. Ne garder que les armes à utilisations limitées, etc.
++réécriture d'un scénario de one-shot pour une seconde vague de test
 -développement du second setting pour l'enrichir et y proposer de nombreuses options.
 -vérifications des erreurs de version et fautes de frappes
 -implémentation des règles de progression
 -validation ou corrections de la nouvelle difficulté du système.
 -préparation et organisation second playtest
 
-semaine :
+semaine 3+:
 -évaluer les résultats second playtest
 -continuer à développer le second setting
 -planifier et préparer troisième phase de développement, et nouvelle roadmap

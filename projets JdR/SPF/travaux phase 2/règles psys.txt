@@ -1,0 +1,14 @@
+Pouvoirs psys fonctionnent comme de l'équipement, avec des tags (certains communs avec les équipements):
+
+
+Exemple de pouvoirs psys:
+-contrôle mental mineur
+-décharges kinétiques
+-visions de terreur
+-pique mentale
+-télépathie
+-télékinésie
+-
+
+Comment les rendre unique ?
+tag psy avec un effet spécifique : en cas de craquage au cours d'un test psy, toute la zone va être affectée par une surcharge, y compris les autres PJs à portée.
