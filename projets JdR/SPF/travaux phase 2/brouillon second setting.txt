@@ -38,3 +38,9 @@ Les unités jouables seraient :
 	3. le QG de l'amiral ???? de l'alliance, qui subit une attaque surprise au début de la contre-offensive stratégique. attaque surprise qui se transforme en 2 jours de siège des installations.
 	4. Une unité de test, chargée de déployer une nouvelle technologie sur le front pour détruire la contre-offensive de manière brutale.
 
+exemple de jeu : avec la 3ème brigade de marines AllPac 'ceinture de feu', opération de débarquement en première ligne face aux horreurs aliens.
+Arme principale : fusil magnétique (épaule, portée 500/200, automatique 300, barrage, perforante 2, gênante)
+arme secondaire : revolver Gaejong (poing, portée 100/250, automatique 50, combat rapproché, perforante 1)
+unité : troupe de marine avec entrainement amphibie et armures personnelles.
+
+

@@ -20,8 +20,8 @@ Prochaines étapes:
 *éliminer le comptage des munitions, même pour les grenades. Ne garder que les armes à utilisations limitées, etc.
 +réécriture d'un scénario de one-shot pour une seconde vague de test
 -développement du second setting pour l'enrichir et y proposer de nombreuses options.
--vérifications des erreurs de version et fautes de frappes
--implémentation des règles de progression
+*vérifications des erreurs de version et fautes de frappes
+*implémentation des règles de progression
 -validation ou corrections de la nouvelle difficulté du système.
 -préparation et organisation second playtest
 
