@@ -1,15 +1,18 @@
 ARME
 (base : 1 carac, 11 compés; complet : 7 compés)
--Marines : +1 combativité, +2 tir(épaule), +2 athlétisme, +1 labeur, +1 couverture, +1 logistique, +1 observation , +1 infiltration, +1 mêlée, +1 survie; +1 labeur, +1 tir (auchoix), +1 couverture, +1 observation, +1 mêlée, +1 premiers secours, +1 athlétisme. Pelle; ????
+-Marines : +1 combativité, +2 tir(épaule), +2 athlétisme, +1 labeur, +1 couverture, +1 orientation, +1 observation , +1 infiltration, +1 mêlée, +1 survie; +1 labeur, +1 tir (auchoix), +1 couverture, +1 observation, +1 orientation, +1 premiers secours, +1 athlétisme. Pelle; ????
+-gouvernement : +1 Autorité, +2 discipline, +1 conntech (droit), +1 logistique, +2 observation, +2 mêlée, +1 couverture , +1 conviction, +1 interrogation; +1 conntech(droit), +1 couverture, +1 discipline, +1 interrogation, +1 tactiques, +2 conntech (procédures administratives). Arme de poing; arme d'épaule ou arme de poing
 
 SPECIALISATION
 (4 points de compé base, +3 complet, + équipement)
 -protections individuelles. Base : athlétisme +1, discipline +1, couverture +1, tactique +1; complet : maintenance (protections) 2, athlétisme +1
--troupe amphibie. Base : +1 athlétisme, +1 tir(au choix), +1 labeur, +1 couverture; complet : +1 observation, +1 conduite(au choix), +1 mêlée; Matériel : véhicule amphibie pour l'escouade.
+-troupe amphibie. Base : +1 athlétisme, +1 tir(au choix), +1 labeur, +1 couverture; complet : +1 observation, +1 conduite(au choix), +1 orientation; Matériel : véhicule amphibie pour l'escouade.
 
 ROLES INTERNES
+-augmenter de 5 le nombre de points de compétences
 
 ROLES ATTACHES
+Il faudrait augmenter de 5 le nombre de compétences, essayer de réduire un peu les ultra-spécialisation (sniper)
 
 GENERAL:
 l'unité médicale a deux contech (procédure med & triage), il faudrait les réutiliser sur les autres spé médicales plus loin (pour les personnages)
