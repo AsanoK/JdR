@@ -9,10 +9,12 @@ SPECIALISATION
 -troupe amphibie. Base : +1 athlétisme, +1 tir(au choix), +1 labeur, +1 couverture; complet : +1 observation, +1 conduite(au choix), +1 orientation; Matériel : véhicule amphibie pour l'escouade.
 
 ROLES INTERNES
--augmenter de 5 le nombre de points de compétences
+-augmenter de 5 le nombre de points de compétences : FAIT
+-peut-être ajouter un point d'attribut ?
 
 ROLES ATTACHES
-Il faudrait augmenter de 5 le nombre de compétences, essayer de réduire un peu les ultra-spécialisation (sniper)
+Il faudrait augmenter de 5 le nombre de compétences, essayer de réduire un peu les ultra-spécialisation (sniper) : FAIT
+Peut-être ajouter un point d'attribut ?
 
 GENERAL:
 l'unité médicale a deux contech (procédure med & triage), il faudrait les réutiliser sur les autres spé médicales plus loin (pour les personnages)

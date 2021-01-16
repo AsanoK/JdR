@@ -18,18 +18,20 @@ hiver 41-42, front de leningrad, côté extérieur de l'encerclement. 73ème div
 
 Scène 1 : le retour de patrouille
 Les personnages viennent de mener une patrouille le long de la ligne, vers un point intéressant du dispositif, et ont pu repérer une option pour aller plus loin (?).
--> Peut-être un déif de compétence pour le retour de patrouille ?
+-> Peut-être un défi de compétence pour le retour de patrouille ?
  Ils commencent alors qu'ils passent l'avant-poste le plus avancé des soviétiques.
 L'arrivée au QG régimentaire se fait avec le débrief de toute l'équipe par le lieutenant qui prend des notes, et transmet au capitaine du régiment.
 Les personnages vont pouvoir se reposer quelque temps, notamment profiter d'un repas chaud. Le commissaire junior passera la majeure partie de ce temps avec eux pour connaître l'ambiance et évaluer quel travail il devra fournir : qui encourager, qui contraindre....
 
 Scène 2 : le briefing
 Les personnages vont avoir une journée de libre, puis le capitaine et le lieutenant vont les briefer sur leur prochaine opération. Celle-ci va employer deux escouades de reco et les snipers du QG.
+
 Quelques scènes lors du repos :
--relai des troupes du régiment pour occuper l'avant-poste, les nouvelles troupes passent un repas au niveau du QG pour que leur officier confirme des ordres (officier = lieutenant junior).
--suivant les discussions qui ont pu avoir lieu, l'officier politique junior peut demander à voir un personnage dans son bureau, pour lui expliquer que les propos tenus sont négatifs : si les autres commencent à y croire, ils vont perdre foi, et s'ils perdent foi, ils mettent en danger toute l'unité, surtout dans une spécialisation aussi dangereuse. Il préfère laisser une chance au PJ, en mettant ses propos sur le dos de la fatigue, retour de mission..... Il rappelle qu'il est là pour aider tout le monde dans cette histoire, et que si doute il y a, il est aussi là pour en discuter.
--Trois prisonniers sont interrogés dans les ruines d'une grange voisine : le premier à parler aura la vie sauve, pas ses deux camarades. Au besoin, le commissaire fera appel à un ou plusieurs PJs pour lui donner un 'coup de main'. En milieu de matinée, deux coups de feu peuvent être entendus, légèrement étouffés par la neige.
--les deux snipers du régiment reviennent de leur 'chasse' : parait-il que les patrouilles adverses sont plus prudente qu'auparavant, et ça risque d'augmenter, ils en ont attaqué une.
+-ROTATION des troupes du régiment pour occuper l'avant-poste, les nouvelles troupes passent un repas au niveau du QG pour que leur officier confirme des ordres (officier = lieutenant junior).
+-POLITRUK :suivant les discussions qui ont pu avoir lieu, l'officier politique junior peut demander à voir un personnage dans son bureau, pour lui expliquer que les propos tenus sont négatifs : si les autres commencent à y croire, ils vont perdre foi, et s'ils perdent foi, ils mettent en danger toute l'unité, surtout dans une spécialisation aussi dangereuse. Il préfère laisser une chance au PJ, en mettant ses propos sur le dos de la fatigue, retour de mission..... Il rappelle qu'il est là pour aider tout le monde dans cette histoire, et que si doute il y a, il est aussi là pour en discuter.
+-INTERROGATOIRE :Trois prisonniers sont interrogés dans les ruines d'une grange voisine : le premier à parler aura la vie sauve, pas ses deux camarades. Au besoin, le commissaire fera appel à un ou plusieurs PJs pour lui donner un 'coup de main'. En milieu de matinée, deux coups de feu peuvent être entendus, légèrement étouffés par la neige.
+-INSPECTION :Le général Antonov, en charge de la poche vient visiter le QG régimentaire, en tournée d'inspection. Il va falloir être présentable pour son discours, et ce avant de partir en mission.
+-CHASSE :les deux snipers du régiment reviennent de leur 'chasse' : parait-il que les patrouilles adverses sont plus prudente qu'auparavant, et ça risque d'augmenter, ils en ont attaqué une il y a 3 heures.
 Le briefing se passe dans une position creusée à côté d'une petite maison de bois, qui sert de couchage aux officiers. La lieutenant détaille leurs objectifs, mentionne les risques, etc, et rappelle bien les précautions: Il va s'agir en premier lieu d'exploiter la brêche repérée plus tôt dans le dispositif adverse pour aller explorer celui-ci, découvrir les emplacements utiles. En particulier, un ancien sentier semblerait mener à un QG potentiel, il faudrait aller vérifier cela, et si c'est bien le cas, toute prise de prisonnier utile pourrait donner une meilleure idée du dispositif.
 
 Scène 3 : infiltration
@@ -68,6 +70,39 @@ Conclusion:
 -D : Le léger ralentissement des forces adverses amène à un statu quo coûteux pour les deux camps au cours de la semaine suivante.
 
 PNJs:
--officier politique junior vladimir Antonov : un jeune officier politique, généralement plutôt sympathique. Plus subtil que pas mal de gens dans sa profession : il préfère le plus souvent discuter, ou a recours à des informateurs un peu partout dans le régiment pour savoir ce qui se dit. Au moins un des camarades des PJs fera partie de ses informateurs. Pas forcément un communiste très convaincu, mais un carriériste de compétition, tout à fait fidèle au parti.
--Capitaine Ivan Mendeleiev : un officier relativement chevroné, qui a combattu depuis la guerre d'hiver. Il a une sainte horreur de la neige, et privilégie le statu quo actuel entre les deux lignes de fronts.
--lieutenant senior Natasha Oulianova : récemment nommée à la tête de la reconnaissance du régiment, elle cherche à faire ses preuves et son travail ! Elle s'est enrôlée pour se venger, ayant de la famille à la frontière polonaise. Elle a fait preuve de grandes compétences, peut-être un poil trop de micromanagement toutefois. Ses hommes l'appellent parfois affectueusement babushka.
+-officier politique junior vladimir Romanovsky : un jeune officier politique, généralement plutôt sympathique. Plus subtil que pas mal de gens dans sa profession : il préfère le plus souvent discuter, ou a recours à des informateurs un peu partout dans le régiment pour savoir ce qui se dit. Au moins un des camarades des PJs fera partie de ses informateurs. Pas forcément un communiste très convaincu, mais un carriériste de compétition, tout à fait fidèle au parti.
+-Capitaine Ivan Mendeleiev : un officier relativement chevroné, qui a combattu depuis la guerre d'hiver. Il a une sainte horreur de la neige, et privilégie le statu quo actuel entre les deux lignes de fronts à de vraies tentatives d'offensive, qu'il n'a pas les hommes pour mener de toute façon.
+-lieutenant senior Natasha Oulianova : récemment nommée à la tête de la reconnaissance du régiment, elle cherche à faire ses preuves et son travail ! Elle s'est enrôlée pour se venger, ayant de la famille à la frontière polonaise. Elle a fait preuve de grandes compétences, peut-être un poil trop de micromanagement toutefois. Ses hommes l'appellent parfois affectueusement babushka, devant l'attention qu'elle peut avoir.
+
+COMBAT 1 : colonne de panzergrenadiers:
+2 menaces principales (1 tardive, les deux de l'infanterie), 1 menace secondaire (les half-tracks).
+	-menace 1 : groupe d'infanterie débarquant des half-tracks après la surprise. Dangerosité 3, résistance 2, tags (combat rapproché (1), portée 200), nécessite 5 réussites pour être désorganisés.
+	-menace 2 : groupe d'infanterie arrivant en renfort après un tour de table. ils mettent rapidement en batterie une mitrailleuse. Dangerosité 4, résistance 4, tags (barrage 1, portée 200). Ils nécessitent 4 réussites pour être repoussés.
+	-menace 3 : paire de half-tracks avec mitrailleuse. Dangerosité 5, résistance 2, tags (blindé, perforante 1, portée 500, défense 5+). Ils nécessitent 3 réussites pour être détruits ou se replier.
+
+COMBAT 2 : troupe d'assaut à l'avant-poste:
+Aucune menace directement sur les PJs pour ce combat, nécessite une victoire en un certain nombre de TT
+	- peloton d'infanterie, dangerosité 3, résistance 4, nécessite 5 succès avant 3 tours de table. En cas d'échec, l'avant-poste est perdu, et il faudrait sans doute se replier rapidement. tags : portée 300
+	- tireurs d'élite, dangerosité 6, résistance 3; nécessite 2 succès pour être repoussé. A la fin de chaque tour de table, tire sur un PJ au hasard. tags : discret 3, portée 800, perforante 1
+	- panzer III, dangerosité 6, résistance 2; nécessite 4 succès pour être repoussé ou détruit. A la fin de chaque tour, augmente la tension de 1. tags : blindé, défense 3+, perforante 2.
+
+COMBAT 3 : groupe installé à l'avant-poste:
+1 menace principale, 1 menace secondaire (mitrailleuse), 1 menace tertiaire (les half-tracks)
+	-un peloton de fantassins, équipés d'un peu de tout. Résistance 2, dangerosité 4, tags (combat rapproché 1, portée 200). Ils nécessitent 6 réussites pour être repoussés.
+	-un nid de mitrailleuse MG34, bien installée. Résistance 4, dangerosité 6, tags (portée 500, barrage 1). Il faut 3 réussites avant 2 échecs pour ne pas être repoussé par le barrage, qui s'applique alors partout.
+	-une escouade du peloton, qui tente de contourner les soviétiques. Résistance 2, dangerosité 4, tags (discrets 2, portée 150). Il faut 3 réussites pour les repousser. A la fin de chaque tours de table, ils tirent sur un PJ au hasard.
+
+DEFI 1 : retour à l'avant-poste
+Défi pour lancer le scénar, il faut traverser le no man's land, dans un défi relativement facile.
+orientation SR2, infiltration SR2, athlétisme SR4, tactique SR3; défi 5/4. En cas d'échec, un petit accrochage se met en place avec une patrouille : dangerosité 3, résistance 3, tags (discrets 2, portée 300)
+
+DEFI 2 : infiltration
+Les PJs doivent traverser à nouveau le no man's land pour profiter d'une faiblesse dans le dispositif adverse.
+Orientation SR2, puis SR3 après 4 succès, infiltration SR3, tactique SR3, tir SR4 (diversion); défi 6/4. En cas d'échec, les PJs vont être engagés par les troupes adverses du COMBAT 1, et vont devoir se replier sur l'avant-poste, qui va être rapidement attaque (combat 2)
+
+DEFI 3 : repli rapide
+Avec ou sans prisonnier, avec ou sans alerte, les PJs doivent rapidement mettre les voiles pour éviter d'être pris dans un combat non désirés.
+Athlétisme SR 2 (3 avec un prisonnier), infiltration SR3 (4 avec alerte), orientation SR3 (puis 2 aaprès 3 succès), tir(avec arme barrage) SR 3, tactique SR4
+
+
+Village de QG : petrovskoye, dans la poche d'orianenbaum

@@ -1,0 +1,7 @@
+Quelles modifications apporter :
+-raccourcir, le scénario mériterait une division par 2 en terme de temps
+-meilleur focus sur la vie des troupes, avec plus de descriptions, d'évènements, et de défis de compétences. La première mouture était trop orientée affrontement.
+-Limiter les affrontements à 4 peut-être, et 3 défis, ou inversement.
+-ne pas essayer de faire jouer l'unité principale, peut-être simplement une escouade défendant un bâtiment pendant quelques jours.
+-revoir la difficulté à la hausse, notamment sur certaines des menaces secondaires.
+-varier les formats d'affrontements, qui étaient trop souvent 3 menaces dont une principale, tournée vers la position des PJs.
