@@ -74,6 +74,7 @@ PNJs:
 -Capitaine Ivan Mendeleiev : un officier relativement chevroné, qui a combattu depuis la guerre d'hiver. Il a une sainte horreur de la neige, et privilégie le statu quo actuel entre les deux lignes de fronts à de vraies tentatives d'offensive, qu'il n'a pas les hommes pour mener de toute façon.
 -lieutenant senior Natasha Oulianova : récemment nommée à la tête de la reconnaissance du régiment, elle cherche à faire ses preuves et son travail ! Elle s'est enrôlée pour se venger, ayant de la famille à la frontière polonaise. Elle a fait preuve de grandes compétences, peut-être un poil trop de micromanagement toutefois. Ses hommes l'appellent parfois affectueusement babushka, devant l'attention qu'elle peut avoir.
 
+
 COMBAT 1 : colonne de panzergrenadiers:
 2 menaces principales (1 tardive, les deux de l'infanterie), 1 menace secondaire (les half-tracks).
 	-menace 1 : groupe d'infanterie débarquant des half-tracks après la surprise. Dangerosité 3, résistance 2, tags (combat rapproché (1), portée 200), nécessite 5 réussites pour être désorganisés.

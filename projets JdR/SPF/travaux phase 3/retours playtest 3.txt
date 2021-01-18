@@ -1,0 +1,17 @@
+Retour général:
+Le scénario proposé a bien plu, beaucoup plus que le second à Stalingrad (mal géré, mal écrit). La difficulté a paru mieux dosée, de même que l'équilibrage en général. Les travaux entrepris en phase 2 semblent avoir porté leurs fruits :)
+
+Points spécifiques notés lors de la séance :
+-Difficulté et dangerosité beaucoup plus agréable et réaliste qu'auparavant
+-le tag 'barrage' est à modifier pour être plus cohérent avec les autres. Il est peut-être intéressant de modifier également 'incendiaire' ?
+-Le libre choix des compétences de camarade peut être OP. Peut-être limiter les choix : une idée serait de limiter à des compétences<seuil arbitraire
+-Il faut surveiller les stacks d'avantages avec certaines combinaisons, notamment dans la partie, on a pu voir autmatique+zone+camarade, pour 2 réussites automatiques, et beaucoup de dés succès 4+. Très violent, avec deux succès/tour presque sans riposte possible.
+-la progression semble fonctionner pas mal : ici elle aurait été dédié à un joueur, qui a été particulièrement malchanceux.
+-Les difficultés des tests semblent viables également : le scénario aurait été plus difficile en respectant strictement, mais le résultat présent semblait plaire.
+-La limitation du nombre de combat est une bonne chose pour les scénarii. Il faudrait peut-être penser à donner des idées de défi de compétences spécifiques.
+-l'affrontement sans focus sur les PJs était intéressant, définitivement à considérer pour la suite.
+
+Travaux à entreprendre:
+-rework de certains tags outdated, et peut-être de leur présence sur certaines armes (zone sur les mitrailleuses notamment)
+-différencier les jets dramatiques des jets ne l'étant pas, mais proposer aussi les 'attaques' hors combat : punitions, règlement de compte.
+-passer au reste du développement, avec notamment les véhicules et les règles psy, ainsi que le développement du second setting.
