@@ -1,7 +1,7 @@
 Phase 3.1:
 -rework des tags problématiques : barrage notamment, peut-être d'autres aussi.
 -rework de certaines armes pour vérifier leurs tags (notamment zone sur les mitrailleuses, mais la cohérence des différents tags devrait être inspectée en général).
--Création des jets dangereux et des jets sans danger.
+-Création des jets dangereux et des jets sans danger ?
 -travaux sur les 'blessures' hors combat, et sur les blessures en général
 -brouillon règles de véhicules
 

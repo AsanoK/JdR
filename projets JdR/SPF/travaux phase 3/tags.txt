@@ -1,0 +1,6 @@
+BARRAGE:
+phase 2 : peut être annoncé en avance d'un test de tir, qui, si réussi, permet d'annuler la prochaine attaque d'une menace.
+Quelles modifications? Il faudrait que cela affecte aussi sans doute certains tags. Présentement peu intéressant aussi : cela coûte une action réussie, pour simplement rendre une erreur un peu plus gérable.
+Il faudrait donc :
+-rendre l'action viable pour son coût, de manière à ce que cela devienne tactiquement pertinent.
+-affecter correctement certains tags de menaces, peut-être ajouter certains tags, qui viendraient être modifiés ensuite par celui-ci, comme le tag de combat rapproché par exemple.
