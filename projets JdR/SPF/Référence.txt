@@ -38,7 +38,7 @@ action 'prise de risque' -> attaque automatique subie, contre intensité+dangero
 
 attaque sur un PJ : pool = dangerosité + intensité, test opposé contre le test de protection du PJ. En cas de résultat négatif pour le PJ, on lance sur la table des blessures (p19)
 
-Camarades : +2 aux tests de ses trois compétences ou sacrifié pour subir une attaque réussie.
+Camarades : avantage aux tests de ses trois compétences ou sacrifié pour subir une attaque réussie.
 
 TAGS MENACE:
 Volant : est attaqué avec désavantage + portée minimum adverse = altitude
