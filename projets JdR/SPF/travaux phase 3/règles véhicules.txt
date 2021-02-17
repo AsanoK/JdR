@@ -1,0 +1,10 @@
+Règles de véhicules:
+
+
+TAGS:
+blindé
+défense
+déplacement (X/Y) : vitesse max sur route/tout-terrain. Peut-être dépassée au pris d'un risque pour le véhicule
+fiabilité (X) : Si le véhicule prend un risque, les PJs lancent un dé, sur X+, le véhicule n'a pas de problème. Si le dé est inférieur, le véhicule est endommagé (effets détaillés à définir suivant le problème), et nécessitera des réparations.
+vision (X) : X est le nombre max de dés autorisés lors d'un test pour trouver une cible avec le tag discret, pour un personnage se trouvant dans le véhicule.
+

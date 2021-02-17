@@ -1,16 +1,10 @@
-Phase 3.1:
--rework des tags problématiques : barrage notamment, peut-être d'autres aussi.
--rework de certaines armes pour vérifier leurs tags (notamment zone sur les mitrailleuses, mais la cohérence des différents tags devrait être inspectée en général).
--Création des jets dangereux et des jets sans danger ?
--travaux sur les 'blessures' hors combat, et sur les blessures en général
--brouillon règles de véhicules
 
-Phase 3.2:
--règles psys déployées
--règles de véhicules déployées
--packages se basant sur les véhicules, avec peut-être une ou deux armes, quelques spécialisations. Pourra nécessiter des prérequis pour certains packages
--création d'exemples de véhicules, que ce soit pour leurs règles ou pour la partie setting.
-
-Phase 3.3:
--création d'un scénario de test, probablement avec les règles de véhicule et les nouvelles attaques hors combat : probablement de l'affrontement aérien ou du bombardement. Setting à définir.
--réalisation d'un playtest pour valider/invalider les nouvelles règles.
+Phase 3:
++rework de tags problématiques, notamment barrage
++rework des armes et équipement pour correspondre aux nouveaux tags
++règles de véhicule
+*exemples de véhicules pour le jeu.
+-règles psys
+-packages liés aux véhicules, notamment des spécialisations d'unité
+-nouveau playtest
+-amélioration table de blessure + table de blessure hors combat

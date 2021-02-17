@@ -1,0 +1,6 @@
+Objectifs:
+-jeu axé sur les enquêtes, les affrontements sociaux, ainsi que les infiltration. Doit permettre de jouer des parties dans un genre noir/espionnage/enquête.
+-modules nécessaires : social, enquêtes, infiltration, combat
+-modules optionnels : magie/horreur, lien avec SPF, équipements, organisation
+-réutilise partiellement le système d'attrition de SPF pour garder un même genre d'ambiance, avec d'autres conséquences que les attaques sur les échecs (ou pas)
+-Doit permettre de jouer tant dans un setting antique que med-fan que science-fiction.

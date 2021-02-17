@@ -27,16 +27,16 @@ Tactiques
 Tir (par arme)
 
 
-Test : pool de d6, les 5+ sont des succès, les 1 sur dés de stress sont des échecs (et soustraient une réussite) il faut dépasser un SR. En cas d'échec, gain de PI ou attaque sur le PJ. Si nb(1 stress) > attribut -> craquage
-Gain de stress en cas d'échec sur un test 
+Test : pool de d6, les 5+ sont des succès, les 1 sur dés de stress sont des échecs (et soustraient une réussite) il faut dépasser un SR. En cas d'échec, action ratée et attaque sur le PJ. Si nb(1 stress) > attribut -> craquage.
+Avantage  : réussite sur 4+; avantages supplémentaires =1 réussite auto
+désavantage : relance des 6; désavantages supplémentaires : 1 échec auto
 
-avantage : relance des 1 sur les dés normaux
-désavantage : relance des 6 sur les dés normaux
+Stress : en cas d'attaque, de situation éprouvante ou de mise hors de combat d'un membre de l'escouade (camarades inclus)
 
 combat :on découpe en menaces, avec une dangerosité (base du pool d'attaque), des conséquences
-action 'prise de risque' -> attaque automatique subie, contre un bonus plus important. Les PJs sont répartis sur les menace au début du combat, avec un test de tactique pour modifier cela.
+action 'prise de risque' -> attaque automatique subie, contre intensité+dangerosité. Les PJs sont répartis sur les menace au début du combat, avec un test de tactique pour modifier la répartition.
 
-attaque sur un PJ : pool = dangerosité + moitié des PI (dépensés), test opposé contre le test de protection du PJ. En cas de résultat négatif pour le PJ, on lance sur la table des blessures (p19)
+attaque sur un PJ : pool = dangerosité + intensité, test opposé contre le test de protection du PJ. En cas de résultat négatif pour le PJ, on lance sur la table des blessures (p19)
 
 Camarades : +2 aux tests de ses trois compétences ou sacrifié pour subir une attaque réussie.
 

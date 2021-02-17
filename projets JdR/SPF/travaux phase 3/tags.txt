@@ -4,3 +4,7 @@ Quelles modifications? Il faudrait que cela affecte aussi sans doute certains ta
 Il faudrait donc :
 -rendre l'action viable pour son coût, de manière à ce que cela devienne tactiquement pertinent.
 -affecter correctement certains tags de menaces, peut-être ajouter certains tags, qui viendraient être modifiés ensuite par celui-ci, comme le tag de combat rapproché par exemple.
+
+Nouvelle mouture:
+-barrage(X): une arme avec le tag barrage(X) permet d'effectuer une action spéciale. Le personnage effectue un test d'arme contre la résistance de la menace. Si il réussit, il peut réduire la dangerosité de celle-ci de 1, et si elle dispose du tag charge, celui-ci augmente de 1 sa valeur. Le MJ peut décider d'ignorer ce dernier effet, dans ce cas, le PJ compte comme ayant réussi un test contre cette menace, comme si son test avait été un test normal.
+-menace : barrage : Les PJs engagés contre cette menace, ou tous les PJs si cette menace est ignorée subissent l'effet suivant : tous leurs tests subissent un désavantage, qu'ils peuvent ingorer en prenant un risque.

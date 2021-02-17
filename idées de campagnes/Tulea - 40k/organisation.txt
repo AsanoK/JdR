@@ -1,0 +1,20 @@
+Validation à partir de 3 joueurs:
+-création d'une section dédiée sur le discord
+-création d'un channel général pour la croisade (descriptions globales, messages d'organisation générales....)
+-partage du document de lore le plus vite possible.
+-création d'un channel par joueur, afin de gérer son histoire
+-création d'un channel 'création d'unités et personnages' où discuter de ces élements.
+-création d'un channel 'technique' avec un rappel des commandes de base et du fonctionnement de la campagne.
+-création des rôles sur le discord pour faire fonctionner tous les channels.
+-création d'un dossier par joueur dans mes notes avec :
+	* un résumé du personnage et de son unité
+	* un fichier de mise en place de sa campagne
+	* un fichier administratif, avec des notes hrp
+	* brouillon de démarrage
+	* liste des PNJs connus et de leurs specs
+-recherche de quelques musiques et illustrations pour rendre plus intéressant la base. 
+-Création de docs de campagnes : cartes stratégiques et/ou tactiques
+-préparation des descriptions globales pour un lancement de la campagne : qui fait quoi, et où ?
+-planification date de lancement officiel de campagne.
+-fiches de personnages sur google drive pour que tous en disposent en permanence.
+-SI BESOIN : créer un channel MJs pour discuter des éléments colaboratifs du setting, des arcs, etc.....

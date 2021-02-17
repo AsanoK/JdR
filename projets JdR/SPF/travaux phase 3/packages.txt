@@ -1,0 +1,11 @@
+ARME
+-blindés
+-aviation
+-aéronautique
+-marine
+
+SPECIALITE
+-troupe cuirassée
+-chasseurs
+-bombardiers
+-hélicoptères
