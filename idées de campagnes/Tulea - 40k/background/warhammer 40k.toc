@@ -1,0 +1,15 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Introduction : Croisade Callidane }{5}%
+\contentsline {section}{\numberline {1.1}Le secteur Coronid }{5}%
+\contentsline {section}{\numberline {1.2}Opération Defiance}{6}%
+\contentsline {section}{\numberline {1.3}Opération Thunder Strike}{6}%
+\contentsline {section}{\numberline {1.4}Contre-offensive sur le front cyclopéen }{7}%
+\contentsline {chapter}{\numberline {2}Histoire de Tulea }{9}%
+\contentsline {section}{\numberline {2.1}Au début du millénaire}{9}%
+\contentsline {section}{\numberline {2.2}La croisade Croisade Callidane }{10}%
+\contentsline {section}{\numberline {2.3}La nuit de sang}{10}%
+\contentsline {chapter}{\numberline {3}Forces impériales}{13}%
+\contentsline {section}{\numberline {3.1}Forces locales}{13}%
+\contentsline {section}{\numberline {3.2}Astra Militarum}{13}%
+\contentsline {section}{\numberline {3.3}Flotte impériale}{14}%
+\contentsline {section}{\numberline {3.4}Autres organisations impériales}{15}%

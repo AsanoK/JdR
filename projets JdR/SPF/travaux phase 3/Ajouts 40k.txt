@@ -1,0 +1,7 @@
+Tags:
+-armes instables
+-munitions communes
+-impact (charge)
+
+règles annexes
+-règles de munitions (pas simulationnistes)

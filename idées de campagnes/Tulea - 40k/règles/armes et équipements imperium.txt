@@ -1,0 +1,56 @@
+
+ARMES
+Fusil laser : arme standard de l'astra militarum, basée sur des cellules énergétiques standard, qui peuvent être rechargées n'importe où, dans un feu dans le pire des cas. Une arme robuste et fiable, même si peu puissante. Peu être surchargé. Dispose d'un emplacement standard pour baïonette Tags(tir normal) : épaule, portée 100/300, munitions abondantes, automatique 75, gênante. Tags (tir surchargé) : épaule, portée 150/300, perforante 1, gênante.
+Carabine laser : version raccourcie du fusil laser classique, souvent fournie à des unités blindées ou pensées pour le combat rapproché. Dispose d'un emplacement standard pour baïonette. Tags : épaule, portée 75/200, munitions abondantes, automatique 75, combat rapproché.
+pistolet laser : pistoler standard de l'astra militarum, comme son cousin le fusil il est avant tout fiable. Tags : poing, portée 30/75, munitions abondantes, combat rapproché
+multilaser : arme d'appui laser automatique, le multi-laser est le plus souvent monté sur des véhicules, parfois également sur des trépieds comme arme d'infanterie. Tags : soutien, portée 500/1200, automatique 500, encombrante, défense 6+, déploiement strict 1, barrage, perforante 2.
+canon laser : arme antichar très puissante, montée sur certains véhicules et parfois en arme d'appui au sol. Tags : appui, portée 500/1200, AP, perforante 4, encombrante, défense 6+, déploiement strict 1.
+longlas : fusil de précision basé sur le fusil laser standard. Il est alimenté avec des cellules d'énergie 'pleine bourre' devant être rechargées après chaque tir, de même le canon peut nécessiter un changement régulier. Tags : épaule, portée 400/1000, précise, déploiement 1, gênante, perforante 2
+pistolet/revolver : certains officiers ou sous-officiers de la garde emploient des armes de poing à projectile solide de tous types. Au sein de la croisade Calidane, les plus communs sont des pistolets Tulean Syr-12, assez lourds. Tags (moyens) : poing, portée 30/75, munition abondante, combat rapproché. Tags(modèle lourd) : poing, portée 25/50, perforante 1, combat rapproché.
+fusil d'assaut : certaines unités préfèrent utiliser des armes à munitions solides. Elles sont en particulier plus communes parmi les forces paramilitaires impériales, et se retrouvent donc aussi fréquemment aux mains d'éléments criminels ou rebelles.Certains disposent d'un emplacement standard pour baïonette. Tags : portée 100/300, gênante, perforante 1, automatique 100.
+fusil de sniper: arme de précision utilisée par de nombreux sniper de l'astra militarum. Peut être employé avec diverses munitions spéciales, quand celles-ci sont disponibles. Tags :épaule, portée 400/800, gênante, précise, déploiement 1, perforante 2
+mitrailleuse : arme d'appui, peu répandue dans les rangs de l'astra militarum, mais qui est déployée par de nombreuses autres organisations : milices, FDP ou encore groupes criminels. Elle fournit une très bonne cadence de feu, même si elle manque de puissance d'arrêt contre de nombreuses cibles. Tags :soutien, portée 400/1000, automatique 400, encombrante, défense 6+, déploiement 1, barrage, perforante 2.
+bolter : arme d'infanterie sous la forme d'un fusil surdimensionné. Tire des projectiles autopropulsés explosifs capables de transformer ce qu'ils touchent en charpie. Arme de base de l'adeptus astartes et de l'adepta sororitas, cela reste une rare rarissime dans les rangs de l'astra militarum, à part chez certains officiers. Tags : épaule, portée 150/400, perforante 2, gênante.
+bolter lourd :arme d'appui, version surdimensionnée du bolter. Relativement commun comme arme secondaire des véhicules de l'astra militarum, il est également parfois utilisé par des équipes d'armes lourdes. Tags : soutien, portée 500/1200, automatique 500, encombrante, défense 6+, déploiement strict 1, barrage, perforant 3.
+pistolet bolter : version pistoler du bolter, il est parfois utilisé par des officiers, notamment par les commissaires, qui sont nombreux à essayer de se procurer une arme aussi dangereuse. Tags : poing, portée 30/75, perforante 2, combat rapproché, automatique 30.
+pistolat plasma : antique arme de poing, à la technologie mal maîtrisée. Dispose de deux modes de tir : normal ou surchage. La surcharge fait prendre des risques à celui qui l'emploie. Tags (tir normal) :poing, portée 25/60, perforante 3, combat rapproché. Tags (tir surchargé) : poing, portée 35/75, perforante 3, combat rapproché, AP, instable.
+fusil à plasma : comme toutes les armes à plasma, celle-ci peut se révéler dangereuse pour celui qui l'emploie. Il s'agit ici de la version fusil, parfois employé par des troupes d'élite de l'astra militarum, à qui l'on confie ce genre de reliques. Tags (tir normal) :poing, portée 120/300, perforante 3, gênante. Tags (tir surchargé) : poing, portée 35/75, perforante 3, gênante, AP, instable.
+fuseur : une arme antichar redoutable faisant surchauffer sa cible, jusqu'à faire fondre la plupart des blindages, et la totalité des armures d'infanterie. Elle perd rapidement de son efficacité avec la distance, et requiert donc un grand courage de son utilisateur. Tags : épaule, encombrante, AP, portée 20/50, perforante (5 sous 20m, 2 entre 20 et 50m).
+lance-flammes : une arme spéciale relativement commune, fonctionnant au promethium, qui a la particularité de coller et de brûler dans presque toutes les conditions, y compris sous l'eau. Elle est favorisée par les unités anticipant des combats urbains ou de tranchées. Tags : lance-flammes, portée 50, gênante, zone, incendiaire, perforant 1.
+pelle de tranchée: la fameuse 9-70 est une pelle généralement pliable, servant à réaliser de nombreux travaux de terrassements. Ses bords bien affutés en font également une bonne arme de corps à corps. Tags : poing, combat rapproché, outil (labeur pour les tests liés au terrassement).
+baïonette : de nombreux modèles existent au sein de l'astra militarum, mais la baïonnette reste un de ses plus grands symboles. De nombreuses armes disposent d'emplacement pour l'accueillir. Tags : poing (couteau) ou épaule (sur monture), combat rapproché, précise (sur monture).
+mortier léger : une arme d'appui très commune parmi les équipes d'armes lourdes de l'astra militarum. Elle permet de fournir un appui d'artillerie légère aux troupes voisines, généralement très rapidement. Tags : artillerie, indirect, zone, portée (800), imprécise, encombrante, déploiement strict 1
+mortier lourd : une version plus lourde du mortier. Elle est beaucoup moins fréquente, à part dans des unités de sièges, et certaines unités d'artillerie. artillerie, indirect, zone, portée(3000), imprécise, encombrante, déploiement strict 2
+lance-missile: Arme d'appui polyvalente, permet à l'infanterie de la garde d'affronter des groupes importants avec des munitions à fragmentation, ou des véhicules blindés avec les projectiles antichars. Parfois surnommés baises-tanks. Tags(frag) :soutien, portée 250, perforante 1, déploiement1, encombrante, zone. Tags(antichar) : soutien, portée(200), AP, perforante (3), encombrante, déploiement 1.
+grenade frag : représente de nombreux modèles de grenades utilisés par l'astra militarum, ayant pour points communs d'être lancés à la main, et de disposer d'une grande zone d'effet. Tags : lancer, portée 20/30, zone, combat rapproché.
+grenade krak : grenade antichar standard de l'astra militarum, elle est sensé permettre à un fantassin de s'attaquer à un véhicule blindé ennemi, ou à certaines créatures. La faible zone d'effet, et la portée limitée rendent l'exercice très périlleux. Tags : lancer, portée 15/25, AP, perforante 3, combat rapproché.
+arme énergétique : armes aussi rares que puissantes, elles génèrent un champs énergétique qui détruit presque tout ce avec quoi il rentre en contact. Il permet de traverser les armures comme du beurre. Généralement un privilège d'officiers. Tags : poing, combat rapproché, précise, perforante 4.
+épée tronçonneuse : une arme de corps à corps relativement commune, en particulier chez les sous-officiers et certains officiers. Sa lame tronçonneuse transforme les chairs en charpie sanglante. Tags : poing, combat rapproché, précise, perforante 2.
+
+ARMURES
+armure flak : armure standard de l'astra militarum. Permet à un fantassin d'espérer survivre quelques temps, et se produit en masse dans de très nombreuses usines de l'Imperium. Tags : défense 5+.
+armure carapace : armure généralement réservée à des troupes d'élite, elle fournit une bien meilleur protection que la flak. Tags :défense 4+.
+bouclier d'assaut : utilisé par les troupes d'abordage de la marine impériale et par certains régiments focalisés sur le combat rapproché. Il permet d'augmenter la protection sans compromettre l'utilisation du fusil. Tag : défense 5+.
+armure flak légère : armure utilisée par l'infanterie légère et la plupart des unités blindés. Elle est moins lourde et encombrante que la flak, permettant une meilleur mobilité. Tags : défense 6+.
+
+VEHICULES
+cheval
+chimère
+leman russ
+basilisk
+sentinelle de reco
+sentinelle lourde
+Valkyrie
+
+EQUIPEMENT DIVERS
+Stims
+Chausse-trappe mordien
+mine antipersonnelle
+mine antichar
+barbelés ?
+
+
+LATER:
+canon à plasma?
+canon trembleterre ?
+charge de démolition

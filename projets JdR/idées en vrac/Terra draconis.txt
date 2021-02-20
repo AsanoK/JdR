@@ -1,0 +1,9 @@
+Concept:
+Jeux de rôle inspiré de la série Monster Hunter et de jeux d'explorations. Les personnages auraient pour tâche de cartographier, explorer et découvrir de nouvelles terres. Le jeu s'orienterait sur un mélange avec beaucoup d'exploration, s'alternant avec quelques combats de boss.
+
+Design:
+-mécaniques d'exploration à mettre au centre.
+-un système de crafting, lié à l'exploration, serait une bonne idée : les personnages peuvent chercher (ou tomber sur) des éléments de craft, qui permettent de bénéficier de différents avantages : meilleur équipement, buffs temporaires
+-Personnages basés sur archétypes + motivation (un peu à la Heart) ?
+-Système de combat orienté sur des boss, les petites créatures sont peu intéressantes (ou un boss 'horde', éventuellement).
+-mécanisme de traque/enquête pour en apprendre plus sur les boss.
