@@ -1,3 +1,8 @@
+NOUVEAUX TAGS ET NOUVELLES REGLES:
+-Tag : instable : à chaque utilisation de l'arme pour un test, lancer un d6, sur 2+, rien ne se passe, sur 1, l'arme surchauffe ou représente un danger pour son porteur. Dans ce cas, le porteur subit une blessure.
+-Règles : munitions : Un test peut être demandé pour savoir si l'arme dispose encore de munitions. Si ce test est effectué sur demande du MJ, les personnages gagnent un PP. La compétence+attributs sont à déterminer avec le MJ.
+-Tag : munitions abondantes : un personnage utilisant une arme avec munitions abondantes dispose d'un avantage automatique sur les tests de munitions.
+-Tag : utilisations limitées : après chaque test réalisé avec cet équipement, le persnnage doit réaliser un test de munitions.
 
 ARMES
 Fusil laser : arme standard de l'astra militarum, basée sur des cellules énergétiques standard, qui peuvent être rechargées n'importe où, dans un feu dans le pire des cas. Une arme robuste et fiable, même si peu puissante. Peu être surchargé. Dispose d'un emplacement standard pour baïonette Tags(tir normal) : épaule, portée 100/300, munitions abondantes, automatique 75, gênante. Tags (tir surchargé) : épaule, portée 150/300, perforante 1, gênante.
@@ -16,16 +21,19 @@ pistolet bolter : version pistoler du bolter, il est parfois utilisé par des of
 pistolat plasma : antique arme de poing, à la technologie mal maîtrisée. Dispose de deux modes de tir : normal ou surchage. La surcharge fait prendre des risques à celui qui l'emploie. Tags (tir normal) :poing, portée 25/60, perforante 3, combat rapproché. Tags (tir surchargé) : poing, portée 35/75, perforante 3, combat rapproché, AP, instable.
 fusil à plasma : comme toutes les armes à plasma, celle-ci peut se révéler dangereuse pour celui qui l'emploie. Il s'agit ici de la version fusil, parfois employé par des troupes d'élite de l'astra militarum, à qui l'on confie ce genre de reliques. Tags (tir normal) :poing, portée 120/300, perforante 3, gênante. Tags (tir surchargé) : poing, portée 35/75, perforante 3, gênante, AP, instable.
 fuseur : une arme antichar redoutable faisant surchauffer sa cible, jusqu'à faire fondre la plupart des blindages, et la totalité des armures d'infanterie. Elle perd rapidement de son efficacité avec la distance, et requiert donc un grand courage de son utilisateur. Tags : épaule, encombrante, AP, portée 20/50, perforante (5 sous 20m, 2 entre 20 et 50m).
-lance-flammes : une arme spéciale relativement commune, fonctionnant au promethium, qui a la particularité de coller et de brûler dans presque toutes les conditions, y compris sous l'eau. Elle est favorisée par les unités anticipant des combats urbains ou de tranchées. Tags : lance-flammes, portée 50, gênante, zone, incendiaire, perforant 1.
+lance-flammes : une arme spéciale relativement commune, fonctionnant au promethium, qui a la particularité de coller et de brûler dans presque toutes les conditions, y compris sous l'eau. Elle est favorisée par les unités anticipant des combats urbains ou de tranchées. Tags : lance-flammes, portée 50, gênante, zone, incendiaire, perforant 1, utilisations limitées.
 pelle de tranchée: la fameuse 9-70 est une pelle généralement pliable, servant à réaliser de nombreux travaux de terrassements. Ses bords bien affutés en font également une bonne arme de corps à corps. Tags : poing, combat rapproché, outil (labeur pour les tests liés au terrassement).
 baïonette : de nombreux modèles existent au sein de l'astra militarum, mais la baïonnette reste un de ses plus grands symboles. De nombreuses armes disposent d'emplacement pour l'accueillir. Tags : poing (couteau) ou épaule (sur monture), combat rapproché, précise (sur monture).
 mortier léger : une arme d'appui très commune parmi les équipes d'armes lourdes de l'astra militarum. Elle permet de fournir un appui d'artillerie légère aux troupes voisines, généralement très rapidement. Tags : artillerie, indirect, zone, portée (800), imprécise, encombrante, déploiement strict 1
 mortier lourd : une version plus lourde du mortier. Elle est beaucoup moins fréquente, à part dans des unités de sièges, et certaines unités d'artillerie. artillerie, indirect, zone, portée(3000), imprécise, encombrante, déploiement strict 2
-lance-missile: Arme d'appui polyvalente, permet à l'infanterie de la garde d'affronter des groupes importants avec des munitions à fragmentation, ou des véhicules blindés avec les projectiles antichars. Parfois surnommés baises-tanks. Tags(frag) :soutien, portée 250, perforante 1, déploiement1, encombrante, zone. Tags(antichar) : soutien, portée(200), AP, perforante (3), encombrante, déploiement 1.
+lance-missile: Arme d'appui polyvalente, permet à l'infanterie de la garde d'affronter des groupes importants avec des munitions à fragmentation, ou des véhicules blindés avec les projectiles antichars. Parfois surnommés baises-tanks. Tags(frag) :soutien, utilisations limitées, portée 250, perforante 1, déploiement1, encombrante, zone. Tags(antichar) : soutien, utilisations limitées, portée(200), AP, perforante (3), encombrante, déploiement 1.
 grenade frag : représente de nombreux modèles de grenades utilisés par l'astra militarum, ayant pour points communs d'être lancés à la main, et de disposer d'une grande zone d'effet. Tags : lancer, portée 20/30, zone, combat rapproché.
-grenade krak : grenade antichar standard de l'astra militarum, elle est sensé permettre à un fantassin de s'attaquer à un véhicule blindé ennemi, ou à certaines créatures. La faible zone d'effet, et la portée limitée rendent l'exercice très périlleux. Tags : lancer, portée 15/25, AP, perforante 3, combat rapproché.
+grenade krak : grenade antichar standard de l'astra militarum, elle est sensé permettre à un fantassin de s'attaquer à un véhicule blindé ennemi, ou à certaines créatures. La faible zone d'effet, et la portée limitée rendent l'exercice très périlleux. Tags : lancer, portée 15/25, AP, perforante 3, combat rapproché, utilisations limitées.
 arme énergétique : armes aussi rares que puissantes, elles génèrent un champs énergétique qui détruit presque tout ce avec quoi il rentre en contact. Il permet de traverser les armures comme du beurre. Généralement un privilège d'officiers. Tags : poing, combat rapproché, précise, perforante 4.
 épée tronçonneuse : une arme de corps à corps relativement commune, en particulier chez les sous-officiers et certains officiers. Sa lame tronçonneuse transforme les chairs en charpie sanglante. Tags : poing, combat rapproché, précise, perforante 2.
+autocanon : arme d'appui polyvalente pouvant engager l'infanterie ou les véhicules légèrement blindés. Tags : portée 300/5500, perforante 2, AP, zone, barrage, déploiement strict 1.
+Lance-flammes lourd : arme d'appui assez rare en raison de sa portée courte et de son poids important, qui limite son emploi par l'infanterie. Tags : lance-flammes, portée 70, gênante, zone, incendiaire, perforant 2, utilisations limitées, déploiement 1.
+lance-grenade : arme d'appui couramment utilisée par l'astra militarum, utilise le plus souvent des grenades  fragmentations, mais les grenades krak sont également compatibles. Tags(fragmentation) : portée 375/500, zone; Tags(krak) : portée 300/400, AP, perforante 3, utilisations limitées, imprécise.
 
 ARMURES
 armure flak : armure standard de l'astra militarum. Permet à un fantassin d'espérer survivre quelques temps, et se produit en masse dans de très nombreuses usines de l'Imperium. Tags : défense 5+.
@@ -34,23 +42,27 @@ bouclier d'assaut : utilisé par les troupes d'abordage de la marine impériale 
 armure flak légère : armure utilisée par l'infanterie légère et la plupart des unités blindés. Elle est moins lourde et encombrante que la flak, permettant une meilleur mobilité. Tags : défense 6+.
 
 VEHICULES
-cheval
-chimère
-leman russ
-basilisk
-sentinelle de reco
-sentinelle lourde
-Valkyrie
+cheval : monture parfois utilisée par certains régiments de l'astra militarum, ainsi que certains officiers. Tags : vitesse 20/10, fiabilité 3+, défense 6+, équipage(cavalier), transport(1).
+Mukaali : monture utilisée par certains régiments de Tallarn, en particulier pour des patrouilles de longue durée. Tags : vitesse 15/15, fiabilité 2+, défense 6+, équipage (cavalier), transport(2), outil(survie).
+chimère : véhicule de transport le plus commun de l'astra militarum. Dispose d'une arme de tourelle (souvent un multilaser), un bolter lourd de coque et plusieurs meurtrières pour les fantassins. Tags : vitesse : 80/30, équipage (pilote, chef de char, artilleur, mécano), transport (12), blindé, défense 4+, vision 6, fiabilité 2+.
+leman russ : char de combat principal de l'astra militarum. Existe avec de nombreuses versions d'armes et de tourelles. Tags : vitesse 60/30, blindé, défense 3+ (5+ dans l'écoutille ouverte), vision 5, fiabilité 2+.
+basilisk : pièce d'artillerie autotractée, équipée d'un canon trembleterre et d'un bolter lourd de coque. Tags : vitesse : 30/10, équipage (pilote, mécano), transport(6, à découvert), fiabilité 3+, défense 4+, blindé.
+sentinelle de reco : marcheur de reconnaissance léger et mobile. Souvent équipé d'un multi-laser, mais parfois d'autres armes d'appui (autocanon, canon laser). Tags : vitesse 40/40, défense 4+, équipage (pilote), fiabilité 3+.
+sentinelle lourde : version blindée de la sentinelle, employée souvent pour des opérations de reconnaissance en force. Tags : vitesse 25/25, défense 4+, blindé, équipage (pilote), fiabilité 3+.
+Valkyrie : aéronef d'assaut et de soutien rapproché utilisé par de nombreuses unités de l'astra militarum. Elle est bien armée, et peut transporter une escouade jusqu'à la zone de guerre, ou les déployer par grav-chutes. Tags : vitesse 300, volant, fiabilité 2+, blindé (tant que les portes sont fermées), défense 4+, équipage (pilote, copilote), transport (12).
+thunderbolt : chasseur atmosphérique lourd pouvant être déployé pour des missions de supériorité aérienne ou d'attaque au sol suivant l'équipement embarqué. Tags : vitesse 2500, défense 4+, blindé, équipage (pilote), fiabilité 2+, volant.
+marauder : bombardier lourd de l'aeronautica imperialis, dispose de nombreuses armes défensives ainsi que d'une forte soute de bombes dans sa version classique. Tags : 2000, défense 3+, blindé, équipage (pilote, navigateur), fiabilité 2+, volant.
 
 EQUIPEMENT DIVERS
-Stims
-Chausse-trappe mordien
-mine antipersonnelle
-mine antichar
-barbelés ?
+Stims : produit permettant à un garde de disposer d'un boost temporaire d'énergie. L'utilisation régulière est proscrite par le Medicae. Permet de réaliser une seconde action lors d'un tour. Tags : instable, utilisations limitées, instable.
+Chausse-trappe mordien : piège basique fait à partir d'une douille de bolt. Très facile à produire, et pouvant causer des dommages importants. Tags : piège, perforant 2, utilisations limitées, munitions abondantes.
+mine antipersonnelle : mine déployée en masse sur les champs de bataille pour limiter la mobilité de l'infanterie adverse. Tags : piège, zone, perforante 1, munitions abondantes.
+mine antichar : mine pouvant endommager ou détruire un véhicule adverse. Souvent utilisé sur les routes d'accès évidentes. Tags : piège, perforante 3, AP, utilisations limitées.
+grav-chutes : système antigravité sous forme de harnais de saut, permettant de déployer de l'infanterie depuis une haute altitude. Matériel standard des unités aéroportées de l'astra militarum. Tags : outils (opération : matériel de saut)
+barbelés : des kilomètres de barbelés sont souvent déployés autour des positions défensives de l'astra militarum, pour gêner les mouvements de l'infanterie. Tag : piège, munitions abondantes.
+charge de démolition : charge explosive, souvent employée par les unités de sapeurs pour détruire les positions fortifiées ou opérer du terrassement rapide. Tags : piège, zone, perforante 3, AP, encombrante, utilisations limitées. 
+Masque à gaz/respirateur : de nombreuses variantes sont utilisées dans l'imperium autant pour lutter contre les attaques au gaz que pour les opérations courantes sur certains champs de bataille polués ou hostiles. Tags : défense 2+ (contre attaques aux gaz et poluant aériens).
+Auspex : scanner de proximité existant en plusieurs versions. Permet de détecter une présence ennemie à proximité. Egalement utilisé par les unités de sapeurs. Tags : outil (perception), utilisations limitées(test d'opération : auspex).
+Radio : très communément employée par la plupart des régiments avec un niveau technologique décent, la radio permet la transimission des ordres et informations. Tags : outil(tactique).
+medikit : pas vraiment standardisé, mais relativement commun au sein de l'astra militarum. Permet d'appliquer les premiers soins sur le champs de bataille. Tags : outil(premiers soins).
 
-
-LATER:
-canon à plasma?
-canon trembleterre ?
-charge de démolition
