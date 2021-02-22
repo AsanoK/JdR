@@ -34,6 +34,7 @@ arme énergétique : armes aussi rares que puissantes, elles génèrent un champ
 autocanon : arme d'appui polyvalente pouvant engager l'infanterie ou les véhicules légèrement blindés. Tags : portée 300/5500, perforante 2, AP, zone, barrage, déploiement strict 1.
 Lance-flammes lourd : arme d'appui assez rare en raison de sa portée courte et de son poids important, qui limite son emploi par l'infanterie. Tags : lance-flammes, portée 70, gênante, zone, incendiaire, perforant 2, utilisations limitées, déploiement 1.
 lance-grenade : arme d'appui couramment utilisée par l'astra militarum, utilise le plus souvent des grenades  fragmentations, mais les grenades krak sont également compatibles. Tags(fragmentation) : portée 375/500, zone; Tags(krak) : portée 300/400, AP, perforante 3, utilisations limitées, imprécise.
+fusil à pompe : parfois utilisé par l'astra militarum, mais plus fréquemment par les escouades d'abordage à bord des vaisseaux de la flotte. Redoutable à courte portée. Tags : épaule, portée 75/150, automatique 25, munitions abondantes.
 
 ARMURES
 armure flak : armure standard de l'astra militarum. Permet à un fantassin d'espérer survivre quelques temps, et se produit en masse dans de très nombreuses usines de l'Imperium. Tags : défense 5+.

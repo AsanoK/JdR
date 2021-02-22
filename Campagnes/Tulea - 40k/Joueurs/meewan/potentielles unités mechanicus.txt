@@ -1,0 +1,50 @@
+-Skitarri vanguard : infanterie lourde, avec beauxoup de matos radiation. Carabine au raidum, svg 4+. auspex ou radio, l'officier peut avoir une arme de càc et une pistolet, arme spéciale
+-Skitarri rangers : infanterie intermédiaire, longue portée. Fusil galvanique, svg 4+. Armes spéciales, radio ou auspex. L'officier peut avoir une arme de càc et une pistolet
+-dragons sydoniens : cavalerie polyvalente. Taser lance + rado. Peuvent avoir un radium jezzail à la place de la lance, ou obtenir un phosphor serpenta
+-ballistaires ironstriders : tireurs mobiles : twin-cognis auto/lascannon
+-Rustwalker sicarians : infiltrateurs/assassins du mechanicus, armé pour le contact. Chordclaw + transonic razor ou lames transsoniques, svg 4+. 
+-Infiltrateurs sicarians : assassins, avec une capacité de brouilage intégrée. Equipé courte portée + combat rapproché. Stubcarbine + power sword, neurostatique aura
+onager dunecrawler : véhicule de soutien d'infanterie. Par défaut un eradication beamer, remplçable par : 1)laser à neutron + mitrailleuse cognis, 2)blaster au phsophore lourd jumelé ou 3) un ensemble Icarus. Champs de force et radio
+-technoprêtre : officiers et spécialistes techniques. Nombreuses subdivisions/ordres....
+-raider serberys : patrouille et tireurs longue portée montés sur unité mécanique, carabine galvanique, archeo-revolver(sous-off), sabre de cavalerie.
+-serberys sulphrhound : cavalerie de choc, armée de ^phosphor pistols, sulphur breath. L'alpha a aussi un power maul+phosphor blast pistol
+-désintégrateur skorpius : tank de ligne, très mobile. 3 mitrailleuses cognis, lance-miisile dispruptor, canon ferrumite + radio. ferrumite peut être remplacé par un canon à énergie Belleros
+-dunerider skorpius : transport de troupes. 3 mitrailleuses cognis (dont 1 jumelée) + radio
+-pteraxii : troupe aéroportée, très mobile et agressive. Les -sterylizors ont des torches au phosphore et des serres acérées. Les -skystlkers ont une carabine à fléchettes(taser goad pour l'alpha)
+-archaeopter : aéronef léger utilisé par le mechanicus. Trois variantes : transvectors (exploration/éclairage/transport, 3 mitrailleuses cognis (dont 1 jumelée) ), fusilave (bombardement lourd : bomb rack + 4 mitrailleuses cognis) et stratoraptors (tir lourd,2 cognis heavy stubbers; 2 heavy phosphor blasters; twin cognis lascannon).
+
+
+Règle de base : cant of the omnissiah (accès à la noosphère, permet d'avoir des comms)
+
+-hache mechanicus
+-carabine au radium
+-fusils galvaniques
+-lance taser
+-radium jezzail
+-phosphor serpenta
+-chordclaw
+-transsonic razor
+-lames transsoniques
+-stubcarbine
+-neurostatique aura
+-twin-cognis autocanon
+-twin-cognis lascanon
+-laser à neutron
+-mitrailleuse cognis
+-blaster phosphore lourd jumelé
+-ensemble icarus
+-champs de force
+-sulphur blast pistol
+-sulphur breath
+-power maul
+-phosphor pistol
+
+ARMES SPE:
+-arc rifle
+-plasma caliver
+-transuranic arquebuse
+-arc pistol
+-phosphor blast pistol
+-radium pistol
+-arc maul
+-taser goad
