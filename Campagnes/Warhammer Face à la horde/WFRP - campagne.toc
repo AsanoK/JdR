@@ -55,4 +55,13 @@
 \contentsline {paragraph}{Présents}{21}%
 \contentsline {paragraph}{Notes de séance}{21}%
 \contentsline {paragraph}{Remarques}{21}%
-\contentsline {section}{\numberline {6.6}Carte des lieux}{23}%
+\contentsline {section}{\numberline {6.6}Session 5 : Séjour à Waldenheim}{21}%
+\contentsline {paragraph}{Date}{21}%
+\contentsline {subsection}{\numberline {6.6.1}Déroulement anticipé}{21}%
+\contentsline {subsection}{\numberline {6.6.2}Notes de séance}{22}%
+\contentsline {subsection}{\numberline {6.6.3}remarques}{23}%
+\contentsline {section}{\numberline {6.7}Session 6 : Les trois présage}{23}%
+\contentsline {subsection}{\numberline {6.7.1}Préparation}{23}%
+\contentsline {subsection}{\numberline {6.7.2}Notes de séance}{23}%
+\contentsline {subsection}{\numberline {6.7.3}remarques}{24}%
+\contentsline {section}{\numberline {6.8}Carte des lieux}{25}%

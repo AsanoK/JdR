@@ -1,0 +1,15 @@
+aeronautica, avec la spécialité aviateurs + unité mécanisée
+
+rework arme : aeronautica
+Base : +1 combativité, +2 maintenance(aeronautica), +2 logistique, +2 discipline, +2 labeur ou pilotage(aeronautica) ou tir(armes de véhicule), +2 orientation, +1 observation, +1 couverture
+Complet : +2 tir(arme de poing), +1 observation, +1 athlétisme ou pilotage(aeronautica) ou tir(armes de véhicule), +1 tir(arme de véhicule), +1 conviction, +1 interrogation.
+
+rework : spécialité : aviateurs
+Base : +1 pilotage(aeronautica), +1 tir(arme de véhicule), +1 orientation
+Complet: +1 tir(arme de véhicule) ou +1 observation, +1 tactique, +1 orientation
+
+Unité de Valkyrie(aeronautica, aviateurs et unité mécanisée):
+BASE:+1 combativité, +2 maintenance(aeronautica), +2 logistique, +2 discipline, +2 labeur ou pilotage(aeronautica) ou tir(armes de véhicule), +4 orientation, +1 observation, +2 couverture, +1 pilotage(aeronautica), +1 tir(arme de véhicule), +1 tactique, +1 logistique
+Valkyrie par escouade, arme de poing, barda de base
+COMPLET:+1 combativité, +2 maintenance(aeronautica), +2 logistique, +2 discipline, +2 labeur ou pilotage(aeronautica) ou tir(armes de véhicule), +5 orientation, +2 observation, +2 couverture, +1 pilotage(aeronautica), +2 tir(arme de véhicule), +2 tactique, +1 logistique, +2 tir(arme de poing), +1 athlétisme ou pilotage(aeronautica) ou tir(arme de véhicule), +1 conviction, +1 interrogation, +1tir(arme de véhicule) ou +1 observation
+Valkyrie par escouade, arme de poing, barda de base, kit de maintenance(outil : aeronautica), carte de la zone d'opération (outil : orientation)

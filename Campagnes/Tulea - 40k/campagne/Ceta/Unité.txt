@@ -1,0 +1,9 @@
+cavalerie, avec les spécialités cavalerie et guerilla
+
+140ème de Tallarn
+BASE
++1 combativité, +2 mêlée, +2 tir(arme de poing ou arme d'épaule), +2 discipline, +1 tactique, +2 couverture, +2 conduite(au choix), +1 orientation, +1 survie, +1 conviction, +1 infiltration, +2 conduite(monture), +1 maintenance(monture), +1 survie
+arme de poing, barda, monture
+COMPLET
++1 orientation, +2 survie, +2 tir(au choix) ou mêlée, +1 observation, +2 tir(jet), +1 observation, +1 infiltration, +1 connaissances techniques (démolition et sabotage), +1 conduite(monture), +1 maintenance(monture)
+arme d'épaule ou deuxième arme de poing et matériel d'entretien pour la monture, arme de jet ou 1 charge explosive

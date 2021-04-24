@@ -1,3 +1,6 @@
+Unité choisie : mechanicus avec les spés aéroportée et 
+
+
 -Skitarri vanguard : infanterie lourde, avec beauxoup de matos radiation. Carabine au raidum, svg 4+. auspex ou radio, l'officier peut avoir une arme de càc et une pistolet, arme spéciale
 -Skitarri rangers : infanterie intermédiaire, longue portée. Fusil galvanique, svg 4+. Armes spéciales, radio ou auspex. L'officier peut avoir une arme de càc et une pistolet
 -dragons sydoniens : cavalerie polyvalente. Taser lance + rado. Peuvent avoir un radium jezzail à la place de la lance, ou obtenir un phosphor serpenta
@@ -48,3 +51,4 @@ ARMES SPE:
 -radium pistol
 -arc maul
 -taser goad
+

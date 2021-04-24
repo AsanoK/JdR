@@ -7,5 +7,5 @@
 \contentsline {subsection}{\numberline {2.2}Tags}{5}%
 \contentsline {section}{\numberline {3}Armes}{5}%
 \contentsline {section}{\numberline {4}Armures}{8}%
-\contentsline {section}{\numberline {5}Véhicules et montures}{8}%
-\contentsline {section}{\numberline {6}Équipements divers}{9}%
+\contentsline {section}{\numberline {5}Véhicules et montures}{9}%
+\contentsline {section}{\numberline {6}Équipements divers}{10}%

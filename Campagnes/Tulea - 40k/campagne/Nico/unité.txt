@@ -1,0 +1,10 @@
+arme cavalerie, char de combat, spé antichar
+
+1er soldat : Kamyar Hosseini
+
+BASE:
++1 combativité, +2 mêlée, +2 tir(arme de poing ou épaule), +2 discipline, +1 tactique, +2 couverture, +2 conduite(au choix), +1 orientation, +1 conduite(blindé), +2 maintenance(blindé) ou tir(appui ou artillerie), +1 logistique, +1 infiltration, +2 tir(artillerie, arme de soutien)
+Arme de poing, barda, véhicule blindé avec arme antichar, arme de combat rapproché, grenades krak
+COMPLET
++1 orientation, +2 survie, +1tir(au choix) ou mêlée, +1 observation, +2 tir(jet), +1 maintenance(blindé), +1 pilotage(blindé), +1 tir(au choix), +1 tactique, +1 connaissances techniques(mines), +1 tir(artillerie ou arme de soutien)
+arme d'épaule ou seconde arme de poing, matériel d'entretien pour le véhicule, outils(maintenance)
