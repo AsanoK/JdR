@@ -1,0 +1,34 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Background}{7}%
+\contentsline {section}{\numberline {1.1}Monde}{7}%
+\contentsline {section}{\numberline {1.2}Première armée}{7}%
+\contentsline {chapter}{\numberline {2}Règles}{9}%
+\contentsline {section}{\numberline {2.1}Unités de Bannières et Bannerets}{9}%
+\contentsline {subsection}{\numberline {2.1.1}Unités de base}{9}%
+\contentsline {subsection}{\numberline {2.1.2}Unités de support}{9}%
+\contentsline {subsection}{\numberline {2.1.3}Personnages}{9}%
+\contentsline {section}{\numberline {2.2}Tour de jeu}{9}%
+\contentsline {section}{\numberline {2.3}Phase d'ordres}{9}%
+\contentsline {section}{\numberline {2.4}Phase de résolution}{10}%
+\contentsline {subsection}{\numberline {2.4.1}Ordre de résolution}{10}%
+\contentsline {subsection}{\numberline {2.4.2}Les différents ordres}{10}%
+\contentsline {subsubsection}{Marche}{10}%
+\contentsline {subsubsection}{Avance rapide}{10}%
+\contentsline {subsubsection}{Engagement}{10}%
+\contentsline {subsubsection}{Charge}{10}%
+\contentsline {subsubsection}{Ralliement}{10}%
+\contentsline {subsubsection}{Repli}{10}%
+\contentsline {subsubsection}{Tir direct}{10}%
+\contentsline {subsubsection}{Tir de volée}{10}%
+\contentsline {subsubsection}{Réception de choc}{10}%
+\contentsline {subsubsection}{Encaisser les tirs}{10}%
+\contentsline {subsubsection}{Regroupement}{10}%
+\contentsline {subsubsection}{Disperser}{10}%
+\contentsline {subsection}{\numberline {2.4.3}Unités sans autorité et actions par défaut}{10}%
+\contentsline {section}{\numberline {2.5}Mêlée}{10}%
+\contentsline {section}{\numberline {2.6}Capacités génériques}{10}%
+\contentsline {section}{\numberline {2.7}Arsenal}{10}%
+\contentsline {subsection}{\numberline {2.7.1}Equipement communs}{10}%
+\contentsline {subsection}{\numberline {2.7.2}Objets magiques génériques}{10}%
+\contentsline {chapter}{\numberline {3}Armées}{11}%
+\contentsline {section}{\numberline {3.1}Première armée}{11}%

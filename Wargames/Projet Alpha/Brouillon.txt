@@ -1,0 +1,23 @@
+Première armée: 
++Chiens de guerre : des groupes d'aventuriers, de truands et de bandits, qui pullulent sur les zones de guerre, et peuvent être enrôlés temporairement dans diverses armées, si l'on ne craint pas le crime et la désertion. Toutes ascendances. Infanterie mal organisée, cavalerie correcte, tireurs corrects. Pricipalement des tirailleurs, avec des personnages puissants.
++Milices citoyennes : Les troupes de différentes cités-états, culturellement assez proches, mais en concurrence quasi-permanente. Humains et gobelins? Des troupes de qualité moyenne, avec peu de cavalerie, mais une artillerie cohérente. Présence de troupes de marine bien entraînées. 
++Mercenaires : des troupes d'un entraînement variable, oscillant entre des aventuriers mal organisés et des compagnies bien entraînées et équipées. Toutes ascendances. Des troupes mal organisées tout comme des compagnies redoutables d'efficacité. Ressemble à une bonne généralisation des chiens de guerre.
++Troupes 'impériales' : des troupes de métier d'une grande puissance. Soutenue par de l'artillerie, des mages et la noblesse. Organisation relativement locale. Inspiration renaissance (peut-être trop warhammer ?). Humains et elfes ?. Troupes relativement moyenne, avec une bonne artillerie et des troupes de tir puissantes.
+
+Autres concepts de factions:
+-royaume souterrain : une force puissante, sous la surface du monde. Consiste en gobelins et nains, peut-être une autre ascendance souterraine.
+-Pillards : des groupes très mobiles, basés sur le harcèlement et le fait de ne pas tenir le terrain. Composés d'orcs, peut-être de gobelins et autres factions?
+-royaume maritime, avec des forces mobiles et de troupes féroces (mais peu protégées). Elfes et ? Possibilité de combiner ou mélanger avec un concept de pillards maritimes.
+-culte : des groupes de fanatiques, menés par une poignée de troupes d'élite. Foi et fureur sont les maîtres mots de la faction, qui manque de matériel.
+-empire thaumaturgique : des mages puissants, dirigeant des troupes basiques soutenues par de nombreux constructs et invocations.
+-Forces nécromantiques : troupes classiques appuyées par des régiments de morts et de créatures invoquées.
+-empire tropicaux : forces de grands empire centraux. Disposent de troupes de grande qualité, mais pas forcément très nombreuses. Hommes-lézards et autres écailleux en piste.
+
+
+REGLES MINIMALES:
+-règles d'ordre
+-structure du tour
+-ordres de base
+-Règles de base des troupes : mise en place
+-profil de base
+-résolution de combat (rapproché)

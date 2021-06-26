@@ -2,66 +2,119 @@
 \contentsline {chapter}{\numberline {1}Arcs narratifs}{5}%
 \contentsline {section}{\numberline {1.1}Arc principal : l'influence du chaos}{5}%
 \contentsline {subsection}{\numberline {1.1.1}Synopsis}{5}%
-\contentsline {subsection}{\numberline {1.1.2}culte inconnu}{5}%
-\contentsline {subsection}{\numberline {1.1.3}Acte 1 : une présence discrète}{5}%
+\contentsline {subsection}{\numberline {1.1.2}Loge des yeux écarlates}{5}%
+\contentsline {subsection}{\numberline {1.1.3}Acte 1 : une présence discrète}{6}%
 \contentsline {subsection}{\numberline {1.1.4}Acte 2 : un culte mystérieux}{6}%
 \contentsline {subsection}{\numberline {1.1.5}Acte 3 : le plan machiavélique}{6}%
 \contentsline {section}{\numberline {1.2}Arcs secondaires}{6}%
 \contentsline {subsection}{\numberline {1.2.1}Les marais de Schadensumpf}{6}%
 \contentsline {subsection}{\numberline {1.2.2}Familles criminelles}{6}%
-\contentsline {subsection}{\numberline {1.2.3}Sous Waldenheim}{6}%
-\contentsline {subsection}{\numberline {1.2.4}Les familles von Hauptberg et Oberstein}{6}%
+\contentsline {subsection}{\numberline {1.2.3}Sous Waldenheim}{7}%
+\contentsline {subsection}{\numberline {1.2.4}Les familles von Hauptberg et Oberstein}{7}%
 \contentsline {subsection}{\numberline {1.2.5}Le rassemblement de la horde}{7}%
-\contentsline {section}{\numberline {1.3}Arcs personnels}{7}%
-\contentsline {subsection}{\numberline {1.3.1}Linlorryn de Laurelorn :La chasse}{7}%
-\contentsline {subsection}{\numberline {1.3.2}Aldemar von Schluchenbar : L'ancienne famille}{7}%
-\contentsline {subsection}{\numberline {1.3.3}Unduk Umberbuckelesson Unboki La mort glorieuse}{7}%
-\contentsline {subsection}{\numberline {1.3.4}Nelis van Egelen :Connaissances interdites}{8}%
-\contentsline {subsection}{\numberline {1.3.5}Johannes Kleinman : des relations compliquées}{8}%
-\contentsline {section}{\numberline {1.4}Arcs tertiaires}{8}%
-\contentsline {subsection}{\numberline {1.4.1}Une menace sur le village}{8}%
-\contentsline {subsection}{\numberline {1.4.2}Nuit sanglante (Aventure commerce)}{9}%
-\contentsline {subsection}{\numberline {1.4.3}ça a le goût de poulet}{9}%
-\contentsline {chapter}{\numberline {2}Déroulement de la campagne}{11}%
-\contentsline {section}{\numberline {2.1}Acte 1 : un complot discret}{11}%
-\contentsline {chapter}{\numberline {3}Dramatis personae}{13}%
-\contentsline {section}{\numberline {3.1}Dans la Drakwald}{13}%
-\contentsline {section}{\numberline {3.2}A Waldenheim}{13}%
-\contentsline {section}{\numberline {3.3}Le reste de l'empire}{13}%
-\contentsline {chapter}{\numberline {4}Lieux importants}{15}%
-\contentsline {section}{\numberline {4.1}Waldenheim}{15}%
-\contentsline {section}{\numberline {4.2}Utingen}{15}%
-\contentsline {chapter}{\numberline {5}Profils utilisés}{17}%
-\contentsline {section}{\numberline {5.1}Adversaires}{17}%
-\contentsline {chapter}{\numberline {6}Résumés de session}{19}%
-\contentsline {section}{\numberline {6.1}Session 0}{19}%
-\contentsline {section}{\numberline {6.2}Session 1}{19}%
-\contentsline {paragraph}{Date :}{19}%
-\contentsline {paragraph}{Présents}{19}%
-\contentsline {paragraph}{Notes de séances}{19}%
-\contentsline {paragraph}{Remarques et améliorations}{19}%
-\contentsline {section}{\numberline {6.3}session 2}{20}%
-\contentsline {paragraph}{Date:}{20}%
-\contentsline {paragraph}{Présents:}{20}%
-\contentsline {paragraph}{Notes de séance}{20}%
-\contentsline {paragraph}{Remarques et améliorations}{20}%
-\contentsline {section}{\numberline {6.4}session 3}{20}%
-\contentsline {paragraph}{Date:}{20}%
-\contentsline {paragraph}{Présents:}{20}%
-\contentsline {paragraph}{Notes de séance}{20}%
-\contentsline {paragraph}{Remarques et améliorations}{21}%
-\contentsline {section}{\numberline {6.5}Session 4 : Hexennacht}{21}%
-\contentsline {paragraph}{Date}{21}%
-\contentsline {paragraph}{Présents}{21}%
-\contentsline {paragraph}{Notes de séance}{21}%
-\contentsline {paragraph}{Remarques}{21}%
-\contentsline {section}{\numberline {6.6}Session 5 : Séjour à Waldenheim}{21}%
-\contentsline {paragraph}{Date}{21}%
-\contentsline {subsection}{\numberline {6.6.1}Déroulement anticipé}{21}%
-\contentsline {subsection}{\numberline {6.6.2}Notes de séance}{22}%
-\contentsline {subsection}{\numberline {6.6.3}remarques}{23}%
-\contentsline {section}{\numberline {6.7}Session 6 : Les trois présage}{23}%
-\contentsline {subsection}{\numberline {6.7.1}Préparation}{23}%
-\contentsline {subsection}{\numberline {6.7.2}Notes de séance}{23}%
-\contentsline {subsection}{\numberline {6.7.3}remarques}{24}%
-\contentsline {section}{\numberline {6.8}Carte des lieux}{25}%
+\contentsline {subsection}{\numberline {1.2.6}Le bal des von Hauptberg}{7}%
+\contentsline {subsubsection}{Invités majeurs et leurs actions}{8}%
+\contentsline {paragraph}{Le vizgraf Oberstein}{8}%
+\contentsline {paragraph}{La Ritterin von Hauptberg}{8}%
+\contentsline {paragraph}{Le freiherr von Hauptberg}{8}%
+\contentsline {paragraph}{Le capitaine Oberstein}{8}%
+\contentsline {paragraph}{Barundin Obarad}{8}%
+\contentsline {paragraph}{Oskar Ulfenwacht}{8}%
+\contentsline {paragraph}{Leopold Müller}{8}%
+\contentsline {paragraph}{Ritter Friedrich Reger}{8}%
+\contentsline {paragraph}{Isolde et Hartman Gehlen}{8}%
+\contentsline {paragraph}{Elma Buchmacher}{9}%
+\contentsline {paragraph}{Konrad Frenz}{9}%
+\contentsline {subsubsection}{Déroulement prévu}{9}%
+\contentsline {paragraph}{18h}{9}%
+\contentsline {paragraph}{19h}{9}%
+\contentsline {paragraph}{20h}{9}%
+\contentsline {paragraph}{20h30}{9}%
+\contentsline {paragraph}{21h}{9}%
+\contentsline {subsubsection}{Rumeurs du bal, et où les obtenir}{9}%
+\contentsline {paragraph}{En discutant avec les invités}{9}%
+\contentsline {paragraph}{En écoutant dans les jardins}{9}%
+\contentsline {paragraph}{Bruits de couloirs}{10}%
+\contentsline {subsubsection}{Les cultistes, et leur attaque}{10}%
+\contentsline {section}{\numberline {1.3}Arcs personnels}{10}%
+\contentsline {subsection}{\numberline {1.3.1}Linlorryn de Laurelorn :La chasse}{10}%
+\contentsline {subsection}{\numberline {1.3.2}Aldemar von Schluchenbar : L'ancienne famille}{10}%
+\contentsline {subsection}{\numberline {1.3.3}Unduk Umberbuckelesson Unboki La mort glorieuse}{10}%
+\contentsline {subsection}{\numberline {1.3.4}Nelis van Egelen :Connaissances interdites}{11}%
+\contentsline {subsection}{\numberline {1.3.5}Johannes Kleinman : des relations compliquées}{11}%
+\contentsline {section}{\numberline {1.4}Arcs tertiaires}{11}%
+\contentsline {subsection}{\numberline {1.4.1}Une menace sur le village}{11}%
+\contentsline {subsection}{\numberline {1.4.2}Nuit sanglante (Aventure commerce)}{12}%
+\contentsline {subsection}{\numberline {1.4.3}ça a le goût de poulet}{12}%
+\contentsline {chapter}{\numberline {2}Déroulement de la campagne}{13}%
+\contentsline {section}{\numberline {2.1}Acte 1 : un complot discret}{13}%
+\contentsline {chapter}{\numberline {3}Dramatis personae}{15}%
+\contentsline {section}{\numberline {3.1}Dans la Drakwald}{15}%
+\contentsline {subsection}{\numberline {3.1.1}Ritterin Anna von Hauptberg}{15}%
+\contentsline {subsection}{\numberline {3.1.2}Griselda Werdin}{15}%
+\contentsline {subsection}{\numberline {3.1.3}Dieter Wolfensohn}{15}%
+\contentsline {subsection}{\numberline {3.1.4}Berthold Sternberg}{15}%
+\contentsline {section}{\numberline {3.2}A Waldenheim}{16}%
+\contentsline {subsection}{\numberline {3.2.1}Baron Wilhelm von Hauptberg}{16}%
+\contentsline {subsection}{\numberline {3.2.2}Leopold Müller}{16}%
+\contentsline {subsection}{\numberline {3.2.3}Capitaine Gerhardt Oberstein}{16}%
+\contentsline {subsection}{\numberline {3.2.4}Vizgraf Egbert Oberstein, vicomte de aldenheim}{16}%
+\contentsline {subsection}{\numberline {3.2.5}Freiherrin Catarin von Hauptberg}{17}%
+\contentsline {section}{\numberline {3.3}Le reste de l'empire}{17}%
+\contentsline {chapter}{\numberline {4}Lieux importants}{19}%
+\contentsline {section}{\numberline {4.1}Waldenheim}{19}%
+\contentsline {section}{\numberline {4.2}Utingen}{19}%
+\contentsline {chapter}{\numberline {5}Profils utilisés}{21}%
+\contentsline {section}{\numberline {5.1}Adversaires}{21}%
+\contentsline {chapter}{\numberline {6}Résumés de session}{23}%
+\contentsline {section}{\numberline {6.1}Session 0}{23}%
+\contentsline {section}{\numberline {6.2}Session 1}{23}%
+\contentsline {paragraph}{Date :}{23}%
+\contentsline {paragraph}{Présents}{23}%
+\contentsline {paragraph}{Notes de séances}{23}%
+\contentsline {paragraph}{Remarques et améliorations}{23}%
+\contentsline {section}{\numberline {6.3}session 2}{24}%
+\contentsline {paragraph}{Date:}{24}%
+\contentsline {paragraph}{Présents:}{24}%
+\contentsline {paragraph}{Notes de séance}{24}%
+\contentsline {paragraph}{Remarques et améliorations}{24}%
+\contentsline {section}{\numberline {6.4}session 3}{24}%
+\contentsline {paragraph}{Date:}{24}%
+\contentsline {paragraph}{Présents:}{24}%
+\contentsline {paragraph}{Notes de séance}{24}%
+\contentsline {paragraph}{Remarques et améliorations}{25}%
+\contentsline {section}{\numberline {6.5}Session 4 : Hexennacht}{25}%
+\contentsline {paragraph}{Date}{25}%
+\contentsline {paragraph}{Présents}{25}%
+\contentsline {paragraph}{Notes de séance}{25}%
+\contentsline {paragraph}{Remarques}{25}%
+\contentsline {section}{\numberline {6.6}Session 5 : Séjour à Waldenheim}{25}%
+\contentsline {paragraph}{Date}{25}%
+\contentsline {subsection}{\numberline {6.6.1}Déroulement anticipé}{25}%
+\contentsline {subsection}{\numberline {6.6.2}Notes de séance}{26}%
+\contentsline {subsection}{\numberline {6.6.3}remarques}{27}%
+\contentsline {section}{\numberline {6.7}Session 6 : Les trois présage}{27}%
+\contentsline {subsection}{\numberline {6.7.1}Préparation}{27}%
+\contentsline {subsection}{\numberline {6.7.2}Notes de séance}{27}%
+\contentsline {subsection}{\numberline {6.7.3}remarques}{28}%
+\contentsline {section}{\numberline {6.8}Session 7 : Waldenheim : la suite}{28}%
+\contentsline {subsection}{\numberline {6.8.1}Préparation}{28}%
+\contentsline {subsection}{\numberline {6.8.2}Déroulement}{29}%
+\contentsline {subsection}{\numberline {6.8.3}Remarques}{29}%
+\contentsline {section}{\numberline {6.9}Session 8 : la harde }{29}%
+\contentsline {subsection}{\numberline {6.9.1}Préparation}{29}%
+\contentsline {subsection}{\numberline {6.9.2}Déroulement}{30}%
+\contentsline {subsection}{\numberline {6.9.3}Remarques}{30}%
+\contentsline {section}{\numberline {6.10}Session 8bis : pendant ce temps, à Waldenheim}{30}%
+\contentsline {subsection}{\numberline {6.10.1}Préparation}{30}%
+\contentsline {subsubsection}{Objectifs}{30}%
+\contentsline {subsubsection}{Détails}{31}%
+\contentsline {subsection}{\numberline {6.10.2}Déroulement}{31}%
+\contentsline {subsection}{\numberline {6.10.3}Remarques}{32}%
+\contentsline {section}{\numberline {6.11}Session 9 : fête à Waldenheim}{32}%
+\contentsline {subsection}{\numberline {6.11.1}Préparation}{32}%
+\contentsline {subsubsection}{objectifs}{32}%
+\contentsline {subsubsection}{Détails}{32}%
+\contentsline {subsection}{\numberline {6.11.2}Déroulement}{32}%
+\contentsline {subsection}{\numberline {6.11.3}Remarques}{33}%
+\contentsline {section}{\numberline {6.12}Carte des lieux}{35}%

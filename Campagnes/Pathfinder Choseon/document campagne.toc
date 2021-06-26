@@ -8,81 +8,100 @@
 \contentsline {subsection}{\numberline {1.2.1}Des disparitions mystérieuses}{6}%
 \contentsline {subsection}{\numberline {1.2.2}Le monastère de Kaejong}{7}%
 \contentsline {subsection}{\numberline {1.2.3}La frontière orientale}{7}%
-\contentsline {subsection}{\numberline {1.2.4}Réarmement}{8}%
-\contentsline {section}{\numberline {1.3}Arcs tertiaires}{9}%
-\contentsline {subsection}{\numberline {1.3.1}Les statues du sanctuaire d'ibarae}{9}%
-\contentsline {subsection}{\numberline {1.3.2}La partie de chasse}{9}%
-\contentsline {subsection}{\numberline {1.3.3}Le festival du dragon}{9}%
-\contentsline {subsection}{\numberline {1.3.4}Le mort sans repos}{10}%
-\contentsline {section}{\numberline {1.4}Arcs personnels}{10}%
-\contentsline {subsection}{\numberline {1.4.1}Shin myun-woo : une guenaude au palais}{10}%
-\contentsline {subsection}{\numberline {1.4.2}Gang Ye-mong : le clan Yi}{10}%
-\contentsline {subsection}{\numberline {1.4.3}Kil-ae : le symbole du chaos}{10}%
-\contentsline {subsection}{\numberline {1.4.4}Lim Jun-yon : L'ambition familliale}{11}%
-\contentsline {subsection}{\numberline {1.4.5}Nam Ji-hyo : ???}{11}%
-\contentsline {chapter}{\numberline {2}Règles maisons}{13}%
-\contentsline {section}{\numberline {2.1}Armes à feu}{13}%
-\contentsline {paragraph}{Nouveau trait d'arme : misfire}{13}%
-\contentsline {section}{\numberline {2.2}Langues}{13}%
-\contentsline {chapter}{\numberline {3}PNJs}{15}%
-\contentsline {section}{\numberline {3.1}La cour royale}{15}%
-\contentsline {subsection}{\numberline {3.1.1}Le roi Song Su Yun}{15}%
-\contentsline {subsection}{\numberline {3.1.2}La reine Yi Il Sho}{15}%
-\contentsline {subsection}{\numberline {3.1.3}Le prince héritier Song Cheol Shin}{15}%
-\contentsline {subsection}{\numberline {3.1.4}Le prince Song Cheol Ahn}{15}%
-\contentsline {subsection}{\numberline {3.1.5}Capitaine Kyo Yong-Chol de la garde royale}{16}%
-\contentsline {subsection}{\numberline {3.1.6}Administratice On Ji-Hye du bureau royal d'investigation}{16}%
-\contentsline {subsection}{\numberline {3.1.7}Général Kim Mae-Jong}{16}%
-\contentsline {section}{\numberline {3.2}Les rues de Daegu}{16}%
-\contentsline {subsection}{\numberline {3.2.1}Kan Jung-Nam, vampire ancien}{16}%
-\contentsline {section}{\numberline {3.3}Les montagnes des 4 vieillards}{17}%
-\contentsline {subsection}{\numberline {3.3.1}Capitaine Zeng}{17}%
-\contentsline {chapter}{\numberline {4}Éléments de setting}{19}%
-\contentsline {section}{\numberline {4.1}Familles nobles}{19}%
-\contentsline {subsection}{\numberline {4.1.1}Le clan Yi}{19}%
-\contentsline {subsection}{\numberline {4.1.2}la famille Jien}{19}%
-\contentsline {subsection}{\numberline {4.1.3} la famille Paek}{19}%
-\contentsline {chapter}{\numberline {5}Déroulement de campagne}{21}%
-\contentsline {section}{\numberline {5.1}Acte 1 : niveau 1-5 ?}{21}%
-\contentsline {subsection}{\numberline {5.1.1}niveau 1}{21}%
-\contentsline {subsection}{\numberline {5.1.2}Niveau 2}{22}%
-\contentsline {section}{\numberline {5.2}Acte 2 : niveau 6-10?}{23}%
-\contentsline {section}{\numberline {5.3}Acte 3 : niveau 11 - 15 ?}{23}%
-\contentsline {chapter}{\numberline {6}Notes de séance}{25}%
-\contentsline {section}{\numberline {6.1}Session 0}{25}%
-\contentsline {section}{\numberline {6.2}Session 1}{25}%
-\contentsline {paragraph}{Date}{25}%
-\contentsline {paragraph}{Déroulement}{25}%
-\contentsline {paragraph}{Améliorations}{25}%
-\contentsline {section}{\numberline {6.3}Session 2}{26}%
-\contentsline {paragraph}{Date}{26}%
-\contentsline {paragraph}{Déroulement}{26}%
-\contentsline {paragraph}{Axes d'améliorations}{26}%
-\contentsline {section}{\numberline {6.4}Session 3}{26}%
-\contentsline {paragraph}{Date}{26}%
-\contentsline {paragraph}{Déroulement}{26}%
-\contentsline {paragraph}{Améliorations}{26}%
-\contentsline {section}{\numberline {6.5}Session 4}{27}%
+\contentsline {subsection}{\numberline {1.2.4}Le premier traître}{8}%
+\contentsline {subsubsection}{Première partie : le crime organisé}{8}%
+\contentsline {subsubsection}{Seconde partie : dossier d'accusation}{9}%
+\contentsline {subsection}{\numberline {1.2.5}Réarmement}{9}%
+\contentsline {section}{\numberline {1.3}Arcs tertiaires}{10}%
+\contentsline {subsection}{\numberline {1.3.1}Les statues du sanctuaire d'ibarae}{10}%
+\contentsline {subsection}{\numberline {1.3.2}Le manoir maudit}{10}%
+\contentsline {subsection}{\numberline {1.3.3}La partie de chasse}{11}%
+\contentsline {subsection}{\numberline {1.3.4}Le fugueur}{11}%
+\contentsline {subsection}{\numberline {1.3.5}•}{12}%
+\contentsline {subsection}{\numberline {1.3.6}Le festival du dragon}{12}%
+\contentsline {subsection}{\numberline {1.3.7}Le mort sans repos}{12}%
+\contentsline {section}{\numberline {1.4}Arcs personnels}{12}%
+\contentsline {subsection}{\numberline {1.4.1}Shin myun-woo : une guenaude au palais}{12}%
+\contentsline {subsection}{\numberline {1.4.2}Gang Ye-mong : le clan Yi}{12}%
+\contentsline {subsection}{\numberline {1.4.3}Kil-ae : le symbole du chaos}{12}%
+\contentsline {subsection}{\numberline {1.4.4}Lim Jun-yon : L'ambition familliale}{13}%
+\contentsline {subsection}{\numberline {1.4.5}Nam Ji-hyo : ???}{13}%
+\contentsline {chapter}{\numberline {2}Règles maisons}{15}%
+\contentsline {section}{\numberline {2.1}Armes à feu}{15}%
+\contentsline {paragraph}{Nouveau trait d'arme : misfire}{15}%
+\contentsline {section}{\numberline {2.2}Langues}{15}%
+\contentsline {chapter}{\numberline {3}PNJs}{17}%
+\contentsline {section}{\numberline {3.1}La cour royale}{17}%
+\contentsline {subsection}{\numberline {3.1.1}Le roi Song Su Yun}{17}%
+\contentsline {subsection}{\numberline {3.1.2}La reine Yi Il Sho}{17}%
+\contentsline {subsection}{\numberline {3.1.3}Le prince héritier Song Cheol Shin}{17}%
+\contentsline {subsection}{\numberline {3.1.4}Le prince Song Cheol Ahn}{17}%
+\contentsline {subsection}{\numberline {3.1.5}Capitaine Kyo Yong-Chol de la garde royale}{18}%
+\contentsline {subsection}{\numberline {3.1.6}Administratice On Ji-Hye du bureau royal d'investigation}{18}%
+\contentsline {subsection}{\numberline {3.1.7}Général Kim Mae-Jong}{18}%
+\contentsline {section}{\numberline {3.2}Les rues de Daegu}{18}%
+\contentsline {subsection}{\numberline {3.2.1}Kan Jung-Nam, vampire ancien}{18}%
+\contentsline {section}{\numberline {3.3}Les montagnes des 4 vieillards}{19}%
+\contentsline {subsection}{\numberline {3.3.1}Capitaine Zeng}{19}%
+\contentsline {chapter}{\numberline {4}Éléments de setting}{21}%
+\contentsline {section}{\numberline {4.1}Familles nobles}{21}%
+\contentsline {subsection}{\numberline {4.1.1}Le clan Yi}{21}%
+\contentsline {subsection}{\numberline {4.1.2}la famille Jien}{21}%
+\contentsline {subsection}{\numberline {4.1.3} la famille Paek}{21}%
+\contentsline {chapter}{\numberline {5}Déroulement de campagne}{23}%
+\contentsline {section}{\numberline {5.1}Acte 1 : niveau 1-5 ?}{23}%
+\contentsline {subsection}{\numberline {5.1.1}niveau 1}{23}%
+\contentsline {subsection}{\numberline {5.1.2}Niveau 2}{24}%
+\contentsline {section}{\numberline {5.2}Acte 2 : niveau 6-10?}{25}%
+\contentsline {section}{\numberline {5.3}Acte 3 : niveau 11 - 15 ?}{25}%
+\contentsline {chapter}{\numberline {6}Notes de séance}{27}%
+\contentsline {section}{\numberline {6.1}Session 0}{27}%
+\contentsline {section}{\numberline {6.2}Session 1}{27}%
 \contentsline {paragraph}{Date}{27}%
-\contentsline {paragraph}{Préparation}{27}%
 \contentsline {paragraph}{Déroulement}{27}%
-\contentsline {paragraph}{Notes et remarques}{27}%
-\contentsline {section}{\numberline {6.6}Session 5}{27}%
-\contentsline {paragraph}{Date}{27}%
-\contentsline {paragraph}{Préparations}{27}%
+\contentsline {paragraph}{Améliorations}{27}%
+\contentsline {section}{\numberline {6.3}Session 2}{28}%
+\contentsline {paragraph}{Date}{28}%
 \contentsline {paragraph}{Déroulement}{28}%
-\contentsline {paragraph}{Notes et remarques}{28}%
-\contentsline {section}{\numberline {6.7}Session 6 : lutte contre la corruption}{28}%
-\contentsline {subsection}{\numberline {6.7.1}Préparation}{28}%
-\contentsline {subsection}{\numberline {6.7.2}Déroulement}{28}%
-\contentsline {subsection}{\numberline {6.7.3}Remarques}{29}%
-\contentsline {section}{\numberline {6.8}Session 7 : retour à la capitale}{29}%
-\contentsline {subsection}{\numberline {6.8.1}Préparation}{29}%
-\contentsline {subsection}{\numberline {6.8.2}Déroulement}{29}%
-\contentsline {subsection}{\numberline {6.8.3}Remarques}{29}%
-\contentsline {chapter}{\numberline {7}Profils de la campagne}{31}%
-\contentsline {paragraph}{Noms masculins (à garder à jour)}{33}%
-\contentsline {paragraph}{noms féminins (à garder à jour}{33}%
-\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{33}%
-\contentsline {paragraph}{Noms de boutiques}{34}%
-\contentsline {paragraph}{Musiques utilisées}{34}%
+\contentsline {paragraph}{Axes d'améliorations}{28}%
+\contentsline {section}{\numberline {6.4}Session 3}{28}%
+\contentsline {paragraph}{Date}{28}%
+\contentsline {paragraph}{Déroulement}{28}%
+\contentsline {paragraph}{Améliorations}{28}%
+\contentsline {section}{\numberline {6.5}Session 4}{29}%
+\contentsline {paragraph}{Date}{29}%
+\contentsline {paragraph}{Préparation}{29}%
+\contentsline {paragraph}{Déroulement}{29}%
+\contentsline {paragraph}{Notes et remarques}{29}%
+\contentsline {section}{\numberline {6.6}Session 5}{29}%
+\contentsline {paragraph}{Date}{29}%
+\contentsline {paragraph}{Préparations}{29}%
+\contentsline {paragraph}{Déroulement}{30}%
+\contentsline {paragraph}{Notes et remarques}{30}%
+\contentsline {section}{\numberline {6.7}Session 6 : lutte contre la corruption}{30}%
+\contentsline {subsection}{\numberline {6.7.1}Préparation}{30}%
+\contentsline {subsection}{\numberline {6.7.2}Déroulement}{30}%
+\contentsline {subsection}{\numberline {6.7.3}Remarques}{31}%
+\contentsline {section}{\numberline {6.8}Session 7 : retour à la capitale}{31}%
+\contentsline {subsection}{\numberline {6.8.1}Préparation}{31}%
+\contentsline {subsection}{\numberline {6.8.2}Déroulement}{31}%
+\contentsline {subsection}{\numberline {6.8.3}Remarques}{32}%
+\contentsline {section}{\numberline {6.9}Session 8 : the plot thickens}{32}%
+\contentsline {subsection}{\numberline {6.9.1}Planification}{32}%
+\contentsline {subsubsection}{Récompense pour l'enquête}{33}%
+\contentsline {subsubsection}{Nouveaux arcs narratifs}{33}%
+\contentsline {subsubsection}{Downtime}{33}%
+\contentsline {subsection}{\numberline {6.9.2}Déroulement}{33}%
+\contentsline {subsection}{\numberline {6.9.3}Remarques}{34}%
+\contentsline {section}{\numberline {6.10}Session 9 : retour à l'action}{34}%
+\contentsline {subsection}{\numberline {6.10.1}Préparation}{34}%
+\contentsline {subsubsection}{Objectifs}{34}%
+\contentsline {subsubsection}{Planification}{34}%
+\contentsline {subsection}{\numberline {6.10.2}Déroulement}{34}%
+\contentsline {subsection}{\numberline {6.10.3}Remarques}{34}%
+\contentsline {chapter}{\numberline {7}Profils de la campagne}{35}%
+\contentsline {paragraph}{Noms masculins (à garder à jour)}{37}%
+\contentsline {paragraph}{noms féminins (à garder à jour}{37}%
+\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{37}%
+\contentsline {paragraph}{Noms de boutiques}{38}%
+\contentsline {paragraph}{Musiques utilisées}{38}%
