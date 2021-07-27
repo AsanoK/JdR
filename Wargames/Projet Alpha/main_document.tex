@@ -28,21 +28,26 @@ Ensuite, et en commençant par le joueur ayant l'initiative et en alternant, les
 \section{Activer une unité}
 Pour activer une unité, on détermine quel ordre lui est donné :
 \begin{description}
-\item[Manoeuvre] On peut déplacer les figurines de l'unité d'une distance égale à la valeur de déplacement de l'unité. Si l'unité n'est pas engagée en mêlée avec des troupes adverses, elle peut à la place se déplacer de deux fois cette valeur. L'unité ne peut pas finir son mouvement engagé en mêlée.
-\item[Affrontement] L'unité peut réaliser une manoeuvre, et doit finir son déplacement en mêlée avec une unité adverse. Si l'unité se déplace au moins de sa valeur de déplacement, elle compte comme ayant réalisé une charge.
-\item[Repli] L'unité se déplace vers la \emph{Bannière} la plus proche et en ligne de vue de son camp : chaque figurine doit si possible finir son mouvement hors de mêlée et plus proche de la bannière la plus proche et en ligne de vue de son camp. Si aucune bannière n'est en vue, alors l'unité se replie vers le bord de table le plus proche à la place.
+\item[Mouvement] Une unité recevant l'ordre de mouvement peut se déplacer de sa valeur de \emph{Manœuvre}. Si elle n'est pas \emph{Engagée}, ce mouvement se fait uniquement en tenant compte du terrain. Si l'unité est \emph{Engagée}, alors elle doit réaliser un \emph{Test de discipline}. Si elle réussit, elle peut réaliser normalement son déplacement, mais ne doit pas terminer son mouvement en étant \emph{Engagée}. Si elle rate son test de discipline, elle doit réaliser u mouvement le plus long possible, et ne pas terminer \emph{Engagée}, elle est par ailleurs considérée \emph{En déroute}. Si l'unité \emph{Engage} l'ennemi, elle peut réaliser dans le cadre de cet ordre une action de combat en mêlée, et compte comme ayant \emph{Chargé}
+\item[Mêlée] Une unité ne peut recevoir cet ordre que si elle est \emph{Engagée}. Dans ce cas, elle réalise une action de combat en mêlée.
+\item[Tenir la position]L'unité n'accomplis pas d'action particulière lors de son activation. Une unité \emph{En déroute} recevant cet ordre peut tenter un test de \emph{discipline}, qui, s'il est réussit, permet de perdre ce statut. En cas d'échec, l'unité réaliser un mouvement le plus long possible, en s'éloignant au maximum des unités adverses, et sans avoir le droit \emph{d'Engager} celles-ci.
 \end{description}
-\section{Mêlées}
 
+Lorsqu'une unité reçoit un ordre et n'est pas en déroute, elle doit réaliser un test de discipline. En cas de réussite, elle réalise l'ordre qui lui est donné. En cas d'échec, elle applique son \emph{comportement par défaut}. Si l'unité est à portée de \emph{Commandement} de son \emph{général}, elle réussit automatiquement ce test de discipline.
+
+
+\section{Combat de mêlée}
+Une unité \emph{Engagée} peut réaliser dans le cadre de certains ordres une action de combat de mêlée, pour infliger des pertes à une unité adverse \emph{engagée}.
+
+Dans ce cas, le joueur réaliser un test \emph{d'Offensive} pour chaque figurine de l'unité attaquante. Pour chacun de ses succès, l'adversaire réalise un test de \emph{Protection}. Pour chaque échec, l'unité visée subie 1 blessure.
+
+Dans le cas où une unité est \emph{Engagée} avec plusieurs unités adverses, les attaques sont réparties par le joueur comme il le souhaite.
+\section{Déroute}
+Une unité en déroute ne peut entreprendre qu'un ordre \emph{Tenir la position}. Par ailleurs, si elle est \emph{engagée} par une unité adverse, elle est automatiquement détruite : les troupes sont soit tuées, soit suffisamment dispersée pour ne plus intervenir efficacement dans la suite de la bataille.
 \chapter{Armées}
 
 \chapter{Glossaire}
 \begin{description}
-\item[Bannière]
-\item[Charge]
-\item[Engagée]
-\item[Formation]
-\item[Ligne de vue]
-\item[Manoeuvre]
+
 \end{description}
 \end{document}

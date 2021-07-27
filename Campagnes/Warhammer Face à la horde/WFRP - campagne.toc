@@ -117,4 +117,6 @@
 \contentsline {subsubsection}{Détails}{32}%
 \contentsline {subsection}{\numberline {6.11.2}Déroulement}{32}%
 \contentsline {subsection}{\numberline {6.11.3}Remarques}{33}%
-\contentsline {section}{\numberline {6.12}Carte des lieux}{35}%
+\contentsline {section}{\numberline {6.12}Session 10}{33}%
+\contentsline {subsection}{\numberline {6.12.1}Déroulement}{33}%
+\contentsline {section}{\numberline {6.13}Carte des lieux}{35}%

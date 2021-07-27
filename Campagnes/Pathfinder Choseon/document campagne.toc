@@ -98,10 +98,10 @@
 \contentsline {subsubsection}{Objectifs}{34}%
 \contentsline {subsubsection}{Planification}{34}%
 \contentsline {subsection}{\numberline {6.10.2}Déroulement}{34}%
-\contentsline {subsection}{\numberline {6.10.3}Remarques}{34}%
-\contentsline {chapter}{\numberline {7}Profils de la campagne}{35}%
-\contentsline {paragraph}{Noms masculins (à garder à jour)}{37}%
-\contentsline {paragraph}{noms féminins (à garder à jour}{37}%
-\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{37}%
-\contentsline {paragraph}{Noms de boutiques}{38}%
-\contentsline {paragraph}{Musiques utilisées}{38}%
+\contentsline {subsection}{\numberline {6.10.3}Remarques}{35}%
+\contentsline {chapter}{\numberline {7}Profils de la campagne}{37}%
+\contentsline {paragraph}{Noms masculins (à garder à jour)}{39}%
+\contentsline {paragraph}{noms féminins (à garder à jour}{39}%
+\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{39}%
+\contentsline {paragraph}{Noms de boutiques}{40}%
+\contentsline {paragraph}{Musiques utilisées}{40}%

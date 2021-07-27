@@ -1,0 +1,13 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Lore}{7}%
+\contentsline {chapter}{\numberline {2}Règles de base}{9}%
+\contentsline {section}{\numberline {2.1}Tests}{9}%
+\contentsline {section}{\numberline {2.2}Attributs et compétences}{9}%
+\contentsline {chapter}{\numberline {3}Création de personnage}{11}%
+\contentsline {chapter}{\numberline {4}Règles avancées}{13}%
+\contentsline {section}{\numberline {4.1}Blessures, soins et récupération}{13}%
+\contentsline {section}{\numberline {4.2}Combats}{13}%
+\contentsline {section}{\numberline {4.3}Enquêtes}{13}%
+\contentsline {section}{\numberline {4.4}Relations et contacts}{13}%
+\contentsline {chapter}{\numberline {5}Richesses, propriétés et matériel}{15}%
+\contentsline {chapter}{\numberline {6}Aventure d'initiation}{17}%
