@@ -1,0 +1,57 @@
+Première vague de développement : 
+Tour, activations, actions Combats Tirs Mouvements et terrains Armes basiques Premières options et spécialisations (2-3, avec peu d'options immédiates) Profils de base Premiers combattants Objectifs de jeu   
+
+Tour, activation, 
+action Activations alternées entre les deux joueurs, 2 actions par personnages. Sauf exception(*), on ne peut réaliser une même action qu'une fois par tour. 
+Actions : Mouvement (*) Combat Tir Capacités spéciales 
+
+Combats 
+Cf notes 
+
+Tirs 
+Même type de règles qu'au contact, avec le même jet de défense. Les attaques à distances sont affectées par les couverts et le terrain. Armes de tir avec les mêmes stats que les armes de càc. Mouvements et terrains 
+
+Mouvement : 
+cf notes; On ne peut pas traverser le socle d'une figurine adverse ou terminer son mouvement sur le socle d'une figurine alliée ou avec son socle hors d'une position stable. Un mouvement diagonal (sur la verticale) se décompose en mouvement horizontal et vertical pour le calcul des distances. 
+
+Terrain : 
+plusieurs types :  infranchissable, occultant, difficile, instable, dangereux, protection. Infranchissable : une figurine ne peut pas y être. Occultant : aucune ligne de vue ne peut être faite au travers. Difficile : mouvement 2x plus long. Instable : risque de chute, plus ou moins grave suivant la hauteur de celle-ci. Dangereux : tout passage peut causer des blessures, sous la forme d'une attaque automatique en réaction du décors. Protection : offre un couvert aux personnages à l'intérieur de la zone ou derrière celle-ci par rapport au tireur. Barricades : fournissent un bonus à la défense d'une figurine étant derrière celle-ci, équivalente à un couvert valant autant à distance qu'au contact. Une figurine située plus haut que sa cible au contact a un bonus sur son jet d'attaque de mêlée (+1 aux dés). 
+
+Armes 
+Cf Notes
+ Options d'équipement Options d'armures : légère (5+), intermédiaire (4+) et lourde (3+). La lourde bloque 2 fois plus de coups que la légère et multiplie par 3 la survie d'un personnage si on ignore l'AP des armes. Options d'armes : lances, épées, épée+dague, épée +bouclier, arc, dagues de jet. Bouclier donnent un bonus aux tests de défense de +1 sur chaque dé. Lances ont une bonne portée, épée léger bonus d'attaque éventuellement (+1 ATT), accru avec une seconde arme (+2ATT). Arc : longue portée, bonne AP. Dagues de jet rien de spécial, portée courte. 
+LANCE : portée 5, dégâts 1, AP 0, effets non. Prix 0 
+EPEE : portée 2, dégâts 1, AP0, , une attaque additionnelle gratuite avec cette arme. Prix0 
+DAGUE : portée 1, dégât 1, AP 0, une attaque additionnelle gratuite avec cette arme. Prix 0 
+BOUCLIER : +1 aux dés de défense. Prix 5 
+ARC : portée 50, dégâts 1, AP1, non. 
+Prix 10 DAGUE DE JET : portée 15, dégâts 1, AP0, Munitions(3). Prix 2 
+ARMURE LEGERE : armure 5+, 2 points 
+ARMURE INTERMEDIAIRE : armure 4+, 5 points 
+ARMURE LOURDE : armure 3+ 10 points Spécialisations et compétences   
+
+Profils de base 
+On aurait besoin de : Mouvement(MOV), Attaque(ATT), Défense(DEF), Armure, Blessures(BLE), Armes 
+
+Premiers profils 
+Un profil de combattant humain: MOV 15, ATT 6, DEF 4, BLE 6 ,10 points + options 
+Un profil de roublard humain : MOV20, ATT 5, DEF 3, BLE 4, 5 points + options 
+
+Objectifs 
+Premiers objectifs : transport d'objectifs sans pénalité, du terrain vers un point spécifique du terrain (arrière ou décor spécifique). 
+
+Premier test: 50 points de bande, objectif de récupération et extraction d'objets sans pénalité vers sa zone de déploiement. Terrain à varier au cours des parties de test, aucune spécialisation pour le moment.
+ 
+Liste 1: 
+combattant armure lourde, bouclier, épée : 25 
+Combattant  lance, dague : 10 
+Roublard arc, dague : 15   
+
+Liste 2: 
+Roublard dague, armure légère, dagues de jet : 9 
+Combattant épée dague, armure moyenne : 15 
+Roublard épée armure légère : 7 
+Roublard lance dague de jet, armure légère : 9 
+Roublard armure intermédiaire épée dague   
+
+Note : on est moins haut en nombre de figurines que l'objectif, il faudra sans doute revoir ça dans le futur  -- 

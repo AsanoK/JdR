@@ -35,12 +35,14 @@ Dans \titre, on joue:
 \item Factions
 \item Zone de jeu locale
 \item Règles de propriétés, de domaines et d'entreprise
+\item Liste des compétences et leurs utilisations
 \end{itemize}
 \subsection*{Priorité intermédiaire}
 \begin{itemize}
 \item Framework d'enquête
+\item Framework d'espionnage
 \item Framework de bataille rangée et de campagnes
-\item Création de personnages
+\item Création de personnages, incluant les objectifs de groupe/personnages.
 \item Récupération, physique, morale et sociale
 \item Équipements
 \item Zone de jeu régionale
@@ -55,7 +57,7 @@ Dans \titre, on joue:
 \end{itemize}
 \chapter{Règles de base}
 \section{Tests}
-Pour réaliser un test de compétence, le personnage lance 2d6, auquel il ajoute son score de compétence. On compare ensuite la somme de ces éléments à la difficulté du test : si le score est supérieur, le test est réussi, sinon, c'est un échec.
+Pour réaliser un test de compétence, le personnage lance 2d6, auquel il ajoute son score de compétence. On compare ensuite la somme de ces éléments à la difficulté du test : si le score est supérieur, le test est réussi, sinon, c'est un échec. La marge est la différence entre la difficulté du test et le score du personnage.
 
 Un jet devrait toujours avoir des conséquences narratives : un échec doit avoir des conséquences, tout comme une réussite. Ainsi, il vaut mieux éviter les jets tentés 'par défaut' par un joueur, au cas où cela fonctionne.
 
@@ -64,9 +66,109 @@ Si les 2d6 d'un test sont identiques, le test va s'accompagner de conséquences,
 
 Des propositions de conséquences, négatives ou positives sont proposées dans la description des différentes compétences.
 \subsection{Difficulté des tests}
-La difficulté d'un test va de 3 (trivial) à 15 (succès rare pour quelqu'un d'exceptionnel)
+La difficulté d'un test va de 3 (trivial) à 15 (succès rare pour quelqu'un d'exceptionnel).
+\subsection{Tests prolongés}
+Un test prolongé peut être utilisé pour représenter des actions qui se déroulent sur un certain temps, et nécessitent plusieurs tests  pour être entreprises.
+
+Les tests individuel dans le cadre d'un test prolongé ont chacun une difficulté qui peut être différente, et ne sont pas nécessairement basés sur les mêmes compétences. 
+
+On a deux types de tests prolongés : les tests de temps et les tests d'opposition. Pour les tests de temps, la question est surtout de savoir en combien de temps l'action est réalisée, mais avec suffisamment de temps, elle le sera forcément. Les tests d'opposition impliquent souvent de tenter de réaliser une action face à un ou plusieurs personnages qui œuvrent contre l'action.
+
+Dans les deux cas, on suit l'évolution de la \emph{Valeur} du test, qui va représenter l'avancement de l'action au fil du temps, ou l'avantage d'une des factions opposées.
+
+Dans un test de temps, quand un test est réussi, on vient ajouter la Marge de Réussite du test à la Valeur de celui-ci. Les deux conditions de fin de ces tests sont soit que la valeur objectif est atteinte, soit que le temps imparti pour résoudre le test est atteint (le plus souvent un certains nombre de tests).
+
+Dans un test d'opposition, on vient également ajouter la Marge de Réussite d'un test Réussi, mais on vient aussi soustraire la Marge d'échec des tests en cas d'échec. Si un adversaire entreprend une action, l'effet est inversé (on ajoute sa marge d'échec, et on soustrait sa marge de réussite). Les conditions de fin d'un test comme celui-ci sont soit qu'une faction atteigne sa valeur objectif (négative ou positive), soit qu'une faction décide d'abandonner sa tentative.
+\section{Compétences}
+%TODO : remplir cette section au fur et à mesure du développement des différents frameworks
+\subsection*{Art} Le fait de pratiquer et comprendre l'art. Utilisé tant par les artistes eux-même que par les critiques. On l'emploie tant pour distraire, que pour impressionner, que pour évaluer le travail d'un autre.
+\subsection*{Art de la guerre} L'ensemble des connaissances militaires dont on a besoin pour diriger une troupe. Comprend notamment les notions de tactique et de stratégie permettant de prendre des décisions pertinentes sur le champ de bataille.
+\subsection*{Artisanat(par spécialité)} Le fait de connaître et de savoir mettre en application les techniques d'une forme d'artisanat. Cela peut permettre par exemple de participer à une affaire ou un projet comprenant cet artisanat. Quelques exemples : armurerie, forge d'armes, tissage, brasserie, ébénisterie, charpenterie, menuiserie, maçonnerie, orfèvrerie, teinture, cuisine, enluminure...
+\subsection*{Autorité} Cette compétence sert à être obéi lorsqu'on donne un ordre. Par exemple, sur un champ de bataille, pour reprendre le contrôle d'une unité en fuite.
+\subsection*{Charme}Cela correspond à être agréable dans une discussion avec un autre personnage, pour améliorer ses relations avec celui-ci. Cela peut correspondre à une discussion sympathique ou amicale.
+\subsection*{Combat} La principale compétence utilisée pendant les combats, mais aussi pour faire une démonstration de ses talents. Généralement utilisée par les deux adversaires, quoique pas forcément avec la même spécialité.
+\subsection*{Connaissance (par spécialité)} Le fruit d'un apprentissage long, formel, ou les deux, sur un sujet spécifique. Chaque spécialité compte comme une compétence différente. Exemples de spécialité : construction, noblesse (et héraldique), région, philosophie, médecine, astronomie, théologie, droit(canon ou commun), Histoire....
+\subsection*{Discernement}Cette compétence permet de remarquer des intentions cachées chez un interlocuteur, ou d'essayer de deviner leur état d'esprit. 
+\subsection*{Intelligence}Comprend les différentes techniques permettant de rassembler par soi-même des informations sur une cible en toute discrétion : écouter aux portes, lire sur les lèvres, ouvrir discrètement du courrier, opérer une reconnaissance....
+\subsection*{Intimidation}Compétence servant à obtenir quelque chose d'autrui par la menace, en faisant pression sur celui-ci. On peut utiliser des menaces physiques, évidemment, mais pas seulement : le chantage ou l'extorsion peuvent aussi servir de leviers.
+\subsection*{Manipulation}Les techniques permettant de mentir, ou de subtilement inciter quelqu'un à agir contre ses intérêts, ou du moins pour les vôtres. Peut également être employé pour tenter d'énerver un personnage.
+\subsection*{Mobilité} Cette compétence permet de résoudre les actions de course, d'escalade, de sauts ou encore d'équitation. Elle peut être employée dans de nombreux cas de figures : poursuites, passage d'obstacle, joute équestre.... 
+\subsection*{Navigation} La capacité à s'orienter dans l'espace, que ce soit via différentes indications, un bon sens de l'orientation, ou en utilisant par exemple les étoiles.
+\subsection*{Négociation} Le fait de discuter avec un autre personnage pour obtenir un compromis, un accord à l'amiable, une solution gagnant-gagnant.
+\subsection*{Observation}Le fait de remarquer des éléments discrets, des choses n'étant pas tout à fait normales ou à leur place. On peut l'utiliser pour remarquer que le comte semble avoir perdu un lacet, ou voir que quelque chose a été dissimulé sous une latte de parquet.
+\subsection*{Organisation} Une compétence permettant de faire attention au bon fonctionnement d'une organisation : logistique, supervision de projet. On l'utilisera principalement dans le cadre de la gestion d'une propriété ou d'une unité militaire.
+\subsection*{Recherche}Le fait de fouiller un lieu ou des documents, de manière efficace. On l'emploie par exemple pour explorer des archives à la recherche d'un ancien document, ou pour explorer une chambre d'auberge à la recherche d'informations sur son occupant.
+\subsection*{Réseau} Fait de poser des questions discrètement un peu partout, voire d'employer des informateurs dédiés pour obtenir des informations de manière indirecte sur une cible. 
+\subsection*{Roublardise} Cette compétence sert à diverses actions peu honorable : subtilisation discrète de documents ou de biens, attaques dans le dos, ouverture de cadenas récalcitrant ou encore tour de passe-passe.
+\subsection*{Sang-froid} Le fait de savoir garder le contrôle de soi et de ses émotions lors de situations nerveusement difficiles : incompétence d'un subordonné, subtiles (ou pas) provocations d'un adversaire, ou encore danger de mort imminente.
+\section{Statut social, réputation}
+\section{Règles de duel}
+Un duel est un test d'opposition entre les deux combattants. Chacun d'eux utilise une de ses compétences d'arme pour participer au duel. 
+
+La valeur objectif de chaque personnage correspond à ????
+
+Quand un personnage emporte le duel, il lance deux jets sur la table des blessures critiques, et choisit le résultat qu'il souhaite garder. Cela permet de limiter les dangers dans un duel au premier sang, ou au contraire de tenter de tuer son adversaire dans un duel à mort.
+
+Les règles de duel peuvent essentiellement être utilisées pour représenter un duel relativement formel, mais peut aussi être utilisé pour représenter une tentative d'assassinat par exemple, ou être légèrement modifiées pour gérer des escarmouches.
 \chapter{Création de personnages}
+
 \chapter{Règles avancées}
+\section{Règles de propriétés, de domaines, d'entreprises}
+Au cours de leur histoire, les personnage de \titre pourront diriger diverses affaires : commerces, ateliers, fief, domaines, ou encore des royaumes entiers ! Ces éléments, dont les personnages auront la responsabilité, sont regroupés par le terme de \emph{propriété}. 
+
+Avoir une propriété permet en premier lieu de dégager un revenu, plus ou moins régulier. Le montant de celui-ci dépend évidemment de la propriété : deux commerce, même de taille semblable, peuvent rapporter un revenu très différent l'un de l'autre.
+
+Une propriété se définit donc par les valeurs suivantes: la \emph{prospérité}, le \emph{revenu}, la\emph{stabilité} et la \emph{trésorerie}. Par ailleurs, les domaines ont un \emph{niveau de défense}, qui intervient dans les règles de combat de masse.
+
+La \emph{prospérité} est une mesure de l'économie de la propriété : sur un domaine prospère, les paysans vivent bien, et pour un commerce, cela représente la réussite des affaires.
+
+Lié à celle-ci, on trouve le \emph{revenu}. Cela permet de calculer, toutes les semaines, la somme qui est dégagée par la propriété envers son propriétaire. 
+
+La \emph{trésorerie} est la somme dont dispose la propriété pour son fonctionnement courant. Elle peut servir à payer des dettes lorsque le revenu est négatif, ou à financer des projets pour développer l'affaire. 
+
+La \emph{stabilité} représente la fréquence à laquelle des problèmes internes peuvent survenir : sur un domaine, ce sera souvent des demandes de la population, alors que dans un commerce, cela peut être des clients pénibles à gérer, qui viennent gêner les affaires. Quand la stabilité n'est pas bonne, les revenus vont diminuer, voire, si cela se reproduit trop, la prospérité.
+
+Gérer une propriété se fait en différentes phases : la phase de revenus, hebdomadaire, et la phase de développement, qui se déroule une fois par saison (toutes les 13 semaines). 
+
+\subsection{Phase de revenus}
+La phase de revenu correspond à la gestion quotidienne de la propriété : celle-ci rapporte ou coûte de l'argent, et différents évènements peuvent se produire.
+
+La première étape est d'évaluer la gestion de la propriété : le gestionnaire réalise un test de compétence lié à son activité : un test d'artisanat pour un atelier, un test d'organisation pour gérer l'approvisionnement et la bonne marche des affaires, ou par exemple, un test de négociation pour interagir directement avec des clients. L'objectif du test correspond à la valeur de revenu. La marge de réussite de ce test ira modifier le test suivant. Les conséquences de ce test affectent le gestionnaire.
+
+Le test suivant est un test de stabilité, avec encore une fois comme objectif la valeur de revenu, et comme modificateur le test précédent. Les conséquences de ce test affectent l'affaire en elle-même : revendications des ouvriers/paysans, visite d'un riche client, ou encore temps anormal pour la saison.
+
+On calcule ensuite le bénéfice, en additionnant à la valeur de revenu la marge du test précédent, et en utilisant cette valeur comme un pourcentage de la prospérité. Par exemple, pour une affaire avec une prospérité de 50 pièces d'argent, avec une valeur de revenu de 7, et une MR de -2, le bénéfice total sera de 5\% de 50, soit 2 pièces et demi. Le bénéfice est ajouté (ou retiré s'il est négatif) à la trésorerie de la propriété.
+\subsubsection{Gestionnaire et propriétaire}
+Par défaut, on considère que le propriétaire gère son affaire, toutefois, il est aussi possible de déléguer cette tâche à un gestionnaire extérieur, contre rémunération. 
+
+Ainsi, lors du calcul du bénéfice, on soustrait la valeur de compétence du gestionnaire. Par exemple, si on a un bénéfice de 5\%, avec un gestionnaire disposant d'une compétence à 1, on ne récupère que 4\% de la prospérité au lieu de 5.
+
+\subsection{Phase de développement}
+Lors de la phase de développement, on observe et on influence l'évolution à long terme de la propriété.
+
+En premier lieu, on évalue la stabilité globale, et le risque de problèmes qui peuvent se produire dans la propriété.
+
+\section{Règles d'intrigues}
+\section{Règles de campagnes militaires et de batailles rangées}
+
+
 \chapter{Mener une partie}
+\section{Recommandations générales pour \titre}
+\section{Lieux et PNJs}
+\subsection{Châteaux et palais}
+Les châteaux peuvent, suivant la raison derrière leur construction, peuvent avoir trois fonctions principales : administrative, militaire et résidentielle.  Les palais évoluent bien souvent de ces châteaux forts en perdant la vocation militaire, au profit d'une dimension plus politique.
+
+Le château fort classique a ainsi en premier lieu une vocation administrative, quelle que soit les détails de sa construction : il permet de prélever les impôts sur les habitants du domaine associé, et représente le pouvoir du seigneur sur celui-ci. C'est là où sont stockés les différentes taxes pour être ensuite remontées vers un potentiel suzerain, mais aussi le lieu de la justice seigneuriale, qui, suivant les seigneuries, peut avoir droit de haute et de basse justice sur ses sujets. La basse justice correspond à la gestion des affaires courantes : vols mineurs, querelles de voisinage ou encore braconnage, quand la haute justice correspond aux affaires graves : meurtres, brigandage.... D'autres crimes sont hors de la juridiction seigneuriale et tombent par exemple sous la coupe des courts ecclésiastiques : sorcellerie, hérésie et parfois, diverses formes de débauche.
+
+Au delà de cette première vocation administrative, le château est une place défensive, illustrant le premier devoir du seigneur, celui de défendre son fief et ses sujets. Suivant la période, un ensemble plus ou moins impressionnant de systèmes de défenses sont construits pour rendre extrêmement difficile toute prise de place forte, et ce, d'autant plus si celle-ci défend un passage stratégique ou une ville importante. Suivant la situation, les paysans voisins peuvent se réfugier dans l'enceinte en cas de menace, et la plupart des châteaux sont pensés pour tenir un siège plus ou moins long : les taxes collectées en nature prennent souvent la forme de nourriture qui peut servir à nourrir les défenseurs, tandis que des puits ou citernes doivent permettre un approvisionnement en eau. Les premiers châteaux sont constitués d'une palissade de bois, d'une colline artificielle( une 'motte'), sur laquelle on trouve une tour, de bois également, le donjon, le tout étant entouré d'un fossé, sec ou rempli d'eau suivant la géographie des lieux. Au fil du temps, et à mesure que les méthode de guerre se développent, ces fortifications se renforcent, d'abord par le matériau, qui devient rapidement de la pierre,, puis par une expansion et une complexification du réseau défensif : murs de plus en plus hauts et épais pour résister aux tentatives de brèches, tours carrées puis rondes, découpant les murs et empêchant leur prise de servir aux assaillant. Le placement des tours est par ailleurs soigneusement calculé pour que les tirs longent les fortifications et permettent à chacune de couvrir les autres. Des défenses extérieurs, comme une barbacane, peuvent être construites pour augmenter encore la difficulté à prendre d'assaut le point faible : la porte, qui se voit également flanquée de tours de défense bien équipées, et de différentes portes, herses et mouroirs de toutes sortes. L'avantage défensif de nombreux châteaux, même les plus simples, est estimé à 10 contre 1, ce qui permet de limiter énormément la garnison de ces places, la plupart gardant moins d'une dizaine d'homme en arme en permanence, et rarement plus d'une vingtaine ou trentaine en cas de siège.
+
+Enfin, les châteaux ont une vocation résidentielle, servant de demeure au seigneur, à sa famille, et potentiellement à sa cour. Si le seigneur dispose de plusieurs châteaux, il peut résider dans n'importe lequel, et la plupart passent de l'un à l'autre à intervalle plus ou moins variable, suivant les besoins de la politique. On trouve ainsi au coeur du château la chambre seigneuriale, ainsi que les installations lui permettant de résider et vivre ici : cuisines, salle principale (servant de lieu de justice, de salle de réception, de lieu de banquet et occasionnellement de dortoir), mais aussi souvent une écurie, parfois un chenil, une chapelle , etc. L'ampleur et la richesse de ces installations dépend totalement de la richesse et de la puissance du seigneur : si un petit seigneur local n'aura guère plus qu'une cuisine, une grande salle et un cellier en plus de son donjon, les grands châteaux des princes et rois, parfois en ville, offrent un confort et un luxe inégalés.
+
+Les palais sont des évolutions de ces châteaux des grands seigneurs, conçus non plus pour la défense, mais bien dans un but d'habitation, et pour afficher la richesse et la puissance de son propriétaire, qui montre qu'il est capable d'entretenir une demeure en plus des fortifications dont il dispose, et qui peut par ailleurs souvent accueillir une cour nombreuse dans de très bonnes conditions, tout en recevant des émissaires étrangers et les grands nobles du royaume. Parfois, ce sont d'anciens châteaux forts qui sont réaménagés dans cette nouvelle fonction, parfois, ce sont de nouveaux lieux qui sont choisis et aménagés tout spécialement.
+
+
+\subsection{Villes}
+\subsection{Temples, monastères et lieux de cultes}
+
 \chapter{Lore}
 \end{document}
