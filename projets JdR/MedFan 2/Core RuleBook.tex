@@ -5,6 +5,8 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{multicol}
+\usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
 \author{ Antoine Robin}
 \title{Projet MedFan 2}
 \newcommand{\titre}{MF2}
@@ -12,8 +14,9 @@
 \maketitle
 \tableofcontents
 \chapter*{Introduction}
+
 \section*{Qu'est-ce que \titre}
-\titre est un Jeux de rôle, au cours du quel les joueurs vont pouvoir incarner des personnages d'un univers de \emph{Low Fantasy}. 
+\titre est un Jeux de rôle, au cours du quel les joueurs vont pouvoir incarner des personnages d'un univers de \emph{Low Fantasy}, devant prendre des décisions et survivre au milieu des intrigues.
 \section*{Intentions et objectifs}
 Dans \titre, on joue:
 \begin{itemize}
@@ -29,19 +32,19 @@ Dans \titre, on joue:
 \subsection*{Priorité maximale}
 \begin{itemize}
 \item Système de résolution de tests ; OK première version
-\item Framework d'intrigues et de combats sociaux
-\item Framework de duel
+\item Framework d'intrigues et de combats sociaux; brouillon à valider
+\item Framework de duel; brouillon OK, à ajouter aux règles
 \item Réputation
 \item Factions
 \item Zone de jeu locale
-\item Règles de propriétés, de domaines et d'entreprise
-\item Liste des compétences et leurs utilisations
+\item Règles de propriétés, de domaines et d'entreprise; Brouillon OK, ajout en cours
+\item Liste des compétences et leurs utilisations; OK première version
 \end{itemize}
 \subsection*{Priorité intermédiaire}
 \begin{itemize}
 \item Framework d'enquête
 \item Framework d'espionnage
-\item Framework de bataille rangée et de campagnes
+\item Framework de bataille rangée et de campagnes; brouillon OK
 \item Création de personnages, incluant les objectifs de groupe/personnages.
 \item Récupération, physique, morale et sociale
 \item Équipements
@@ -56,6 +59,7 @@ Dans \titre, on joue:
 \item Exploration et voyages
 \end{itemize}
 \chapter{Règles de base}
+\begin{multicols}{2}
 \section{Tests}
 Pour réaliser un test de compétence, le personnage lance 2d6, auquel il ajoute son score de compétence. On compare ensuite la somme de ces éléments à la difficulté du test : si le score est supérieur, le test est réussi, sinon, c'est un échec. La marge est la différence entre la difficulté du test et le score du personnage.
 
@@ -105,14 +109,19 @@ Dans un test d'opposition, on vient également ajouter la Marge de Réussite d'u
 \section{Règles de duel}
 Un duel est un test d'opposition entre les deux combattants. Chacun d'eux utilise une de ses compétences d'arme pour participer au duel. 
 
-La valeur objectif de chaque personnage correspond à ????
+La valeur objectif de chaque personnage correspond à 5+niveau de la compétence d'arme de l'adversaire.
 
 Quand un personnage emporte le duel, il lance deux jets sur la table des blessures critiques, et choisit le résultat qu'il souhaite garder. Cela permet de limiter les dangers dans un duel au premier sang, ou au contraire de tenter de tuer son adversaire dans un duel à mort.
 
-Les règles de duel peuvent essentiellement être utilisées pour représenter un duel relativement formel, mais peut aussi être utilisé pour représenter une tentative d'assassinat par exemple, ou être légèrement modifiées pour gérer des escarmouches.
-\chapter{Création de personnages}
+Dans un duel formel, il est souvent possible de reconnaître sa défaite à tout moment. Un adversaire  qui refuserait d'accepter cet abandon se 
 
+Les règles de duel peuvent essentiellement être utilisées pour représenter un duel relativement formel, mais peut aussi être utilisé pour représenter une tentative d'assassinat par exemple, ou être légèrement modifiées pour gérer des escarmouches.
+\end{multicols}
+\chapter{Création de personnages}
+\begin{multicols}{2}
+\end{multicols}
 \chapter{Règles avancées}
+\begin{multicols}{2}
 \section{Règles de propriétés, de domaines, d'entreprises}
 Au cours de leur histoire, les personnage de \titre pourront diriger diverses affaires : commerces, ateliers, fief, domaines, ou encore des royaumes entiers ! Ces éléments, dont les personnages auront la responsabilité, sont regroupés par le terme de \emph{propriété}. 
 
@@ -135,7 +144,7 @@ La phase de revenu correspond à la gestion quotidienne de la propriété : cell
 
 La première étape est d'évaluer la gestion de la propriété : le gestionnaire réalise un test de compétence lié à son activité : un test d'artisanat pour un atelier, un test d'organisation pour gérer l'approvisionnement et la bonne marche des affaires, ou par exemple, un test de négociation pour interagir directement avec des clients. L'objectif du test correspond à la valeur de revenu. La marge de réussite de ce test ira modifier le test suivant. Les conséquences de ce test affectent le gestionnaire.
 
-Le test suivant est un test de stabilité, avec encore une fois comme objectif la valeur de revenu, et comme modificateur le test précédent. Les conséquences de ce test affectent l'affaire en elle-même : revendications des ouvriers/paysans, visite d'un riche client, ou encore temps anormal pour la saison.
+Le test suivant est un test de stabilité, avec encore une fois comme objectif la valeur de revenu, et comme modificateur le test précédent. S'il y a une conséquence, celles-ci affectent l'affaire en elle-même : revendications des ouvriers/paysans, visite d'un riche client, ou encore temps anormal pour la saison.
 
 On calcule ensuite le bénéfice, en additionnant à la valeur de revenu la marge du test précédent, et en utilisant cette valeur comme un pourcentage de la prospérité. Par exemple, pour une affaire avec une prospérité de 50 pièces d'argent, avec une valeur de revenu de 7, et une MR de -2, le bénéfice total sera de 5\% de 50, soit 2 pièces et demi. Le bénéfice est ajouté (ou retiré s'il est négatif) à la trésorerie de la propriété.
 \subsubsection{Gestionnaire et propriétaire}
@@ -144,15 +153,17 @@ Par défaut, on considère que le propriétaire gère son affaire, toutefois, il
 Ainsi, lors du calcul du bénéfice, on soustrait la valeur de compétence du gestionnaire. Par exemple, si on a un bénéfice de 5\%, avec un gestionnaire disposant d'une compétence à 1, on ne récupère que 4\% de la prospérité au lieu de 5.
 
 \subsection{Phase de développement}
-Lors de la phase de développement, on observe et on influence l'évolution à long terme de la propriété.
+%Lors de la phase de développement, on observe et on influence l'évolution à long terme de la propriété.
 
-En premier lieu, on évalue la stabilité globale, et le risque de problèmes qui peuvent se produire dans la propriété.
+%En premier lieu, on évalue la stabilité globale, et le risque de problèmes qui peuvent se produire dans la propriété.
+
 
 \section{Règles d'intrigues}
 \section{Règles de campagnes militaires et de batailles rangées}
 
-
+\end{multicols}
 \chapter{Mener une partie}
+\begin{multicols}{2}
 \section{Recommandations générales pour \titre}
 \section{Lieux et PNJs}
 \subsection{Châteaux et palais}
@@ -169,6 +180,40 @@ Les palais sont des évolutions de ces châteaux des grands seigneurs, conçus n
 
 \subsection{Villes}
 \subsection{Temples, monastères et lieux de cultes}
-
+\end{multicols}
 \chapter{Lore}
+\begin{multicols}{2}
+\end{multicols}
+\chapter*{Annexes}
+\section*{Inspirations}
+\subsection*{Jeux de rôles}
+\begin{itemize}
+\item Mutant Year Zero
+\item Légende des cinq anneaux
+\end{itemize}
+\subsection*{Jeux vidéos}
+\begin{itemize}
+\item Mount \& Blade
+\item Pathfinder : Kingmaker
+\item Battle brothers
+\item Kingdom Come : Deliverance
+\end{itemize}
+\subsection*{Livres et Romans}
+\begin{itemize}
+\item A Song of Ice and Fire (le Trône de fer)
+\end{itemize}
+\subsection*{Films et série}
+\begin{itemize}
+\item Kingdom of Heaven
+\item Rome
+\item Peaky Blinders
+\item Kaamelott (série et film)
+\item Kingdom
+\subsection*{Lieux}
+\begin{itemize}
+\item Château de Guédelon
+\item Muséoparc d'Alesia
+\item[Château de Chantilly]
+\end{itemize}
+\end{itemize}
 \end{document}
