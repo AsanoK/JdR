@@ -1,0 +1,186 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{multicol}
+\author{Antoine Robin}
+\title{Projet Dawnstar}
+\date{}
+\begin{document}
+\maketitle
+\part{Règles de base}
+\begin{multicols}{3}
+\section*{Profils}
+\begin{description}
+\item[ATT]La valeur d'attaque en combat rapproché
+\item[TIR]Valeur utilisée pour attaquer à distance
+\item[DEF]Valeur de défense, permettant de limiter l'impact des attaques adverses
+\item[MOUV]Le Mouvement, séparé en deux valeurs distinctes, la première correspondant au mouvement simple, la seconde au mouvement double.
+\item[BLE]Le nombre de points de blessures de la figurines, correspondant au nombre de coups qu'elle peut subir avant d'être retirée
+
+\end{description}
+\section*{Tour et activation}
+Au début de chaque tour, les deux joueurs lancent un dé pour déterminer qui a l'initiative. En cas d'égalité, le joueur qui n'avait pas l'égalité au tour précédent la gagne. On pose ensuite un jeton 'prêt' à côté de chaque figurine.
+
+Les joueurs activent chacun une de leurs figurines à tour de rôle. Si un joueur n'a plus de figurine à activer, son adversaire peut réaliser ses dernières activations à la suite.
+
+Lorsqu'on active une figurine, celle-ci dispose de deux points d'action pour son tour. Une fois celles-ci résolues, on retourne le jeton 'prêt' pour le mettre du côté 'attente'. Au début de l'activation, le joueur qui la contrôle choisit l'arme que la figurine va utiliser jusqu'au début de sa prochaine activation.
+\section*{Zone de contrôle}
+La zone de contrôle d'une figurine est la zone autour de son socle dans un rayon égal à la portée de son arme de mêlée. Une figurine n'ayant pas d'arme de mêlée en main n'a pas de zone de contrôle.
+\section*{Tests}
+Pour faire un test d'attribut, une figurine lance autant de dé à 6 faces (d6) que la valeur de l'attribut, et compte les résultats ayant obtenu 5+, ce sont des réussites.
+
+Une figurine peut avoir des bonus à la valeur d'un attribut, qui viennent modifier le nombre de dés lancés, par exemple +2ATT. 
+
+On peut aussi avoir un avantage ou un désavantage sur le test. Dans le cas d'un avantage, les succès se font sur 4+. Avec un désavantage, les succès ne sont obtenus que sur des 6. Un avantage et un désavantage s'annulent 1 pour 1, et il est impossible d'avoir d'obtenir des succès sur mieux que 4+ ou pire que 6+.
+\section*{Actions}
+Quand on l'active, on dispose de deux points d'action(PA) par figurines par la faire agir. Les actions sont les suivantes: 
+\begin{description}
+\item[Déplacement (1 ou 2 PA)] On déplace la figurine de sa valeur de déplacement simple(1PA) ou double (2PA), en prenant en compte le terrain. Elle peut traverser des socles de figurines alliées, mais pas terminer son déplacement dessus. Voir les règles de terrains pour plus de détails sur ses effets.
+\item[Charge(2PA)]La charge cible une figurine adverse visible. Si on peut déplacer la figurine jusqu'à la cible avec un mouvement double en ligne droite et sans obstacle(cf règles de terrain), alors la charge est réalisée : on déplace la figurine activée de son mouvement double pour arriver à portée de sa cible, et on réalise une attaque de mêlée avec celle-ci.
+\item[Attaque (1PA)] Si une figurine adverse
+\item[Déplacement prudent(2PA)]On réalise un mouvement simple avec la figurine, celui-ci ne peut déclencher aucune réaction de figurine adverse.
+\end{description}
+\section*{Réactions}
+Quand une figurine a un jeton 'attente', elle peut déclencher des réactions. Après avoir résolu une réaction, on retire le jeton 'attente'. Certaines figurines disposent de réactions spéciales, mais ci-dessous sont les descriptions des réactions disponibles pour toutes les figurines :
+\begin{description}
+\item[Attaque d'opportunité]Peut être déclenché si une figurine adverse se déplace d'au moins 2cm complets dans la zone de contrôle de la figurine en réaction. Celle-ci peut réaliser une attaque contre la cible.
+\end{description}
+\section*{Résoudre une attaque}
+Si c'est une attaque à distance, l'attaquant fait un test de TIR, sinon, c'est un test d'ATT. Dans le cas d'une attaque en mêlée, le joueur contrôlant la figurine attaquée peut décider que celle-ci se défend ou contre-attaque. Dans le cas d'une attaque à distance, il s'agit forcément d'une défense.
+
+Si la figurine ciblée se défend, on réalise également un test de DEF pour la figurine attaquée. Chaque succès défensif annule un succès offensif. 
+
+Si la figurine ciblée contre-attaque, on réalise un test d'ATT pour la figurine ciblée, comme pour l'attaquant, et on résout en même temps les effets des deux attaques.
+
+Pour chaque succès de l'attaquant (non-annulé par une éventuelle défense), celui-ci enlève les DEG de son arme aux blessures de la cible pour chaque succès restant. Par exemple, si un attaquant a encore 2 succès sur une attaque à 3 dégâts, il retire un total de 6 points de blessures à sa cible.
+
+A la fin d'une attaque en mêlée, si une figurine a perdu des points de blessure, son adversaire peut la déplacer de 3cm dans la direction de son choix. Ce déplacement ne peut déclencher aucune réaction.
+\section*{Armes et équipement}
+Une arme a les attributs suivant :
+\begin{description}
+\item[MAN] La manipulation, l'ensemble des armes choisies au début de l'activation d'une figurine ne doit pas avoir une manipulation supérieure à 2 (sauf règle spéciale).
+\item[POR]La portée, distance en cm à laquelle ont peut réaliser une action d'attaque contre une figurine.
+\item[PERF]La perforation, valeur de laquelle on réduit le bonus d'armure adverse sur son test de DEF.
+\item[DEG]Le nombre de points de blessures retirés par coup non protégé.
+\end{description}
+Certaines armes disposent par ailleurs de règles spéciales, indiquées dans leur profil.
+
+Les armures fournissent un Bonus d'Armure (BA), qui vient modifier la DEF de la figurine. Le BA ne peut jamais être négatif (si la réduction de BA est supérieur à la valeur initiale, cela n'a pas d'effet).
+\section*{Terrain et couvert}
+Il y a plusieurs types de terrain dans le jeu, avec différents effets:
+\begin{description}
+\item[Difficile]Chaque cm de déplacement dans une zone de terrain difficile coûte 2cm à réaliser.
+\item[Dangereux(X)]Si une figurine entre dans une zone de terrain dangereux, ou s'active en étant à l'intérieur, elle subit immédiatement une attaque avec X dés, comme si elle était attaquée par une arme ATT X PERF 0 DEG 1.
+\item[Obstacle(X)]Utilisé pour des murets, haies et autres obstacles linéaires. Franchir l'obstacle coûte Xcm de mouvement.
+\item[infranchissable]Une figurine ne peut pas poser son socle sur une zone de terrain infranchissable.
+\end{description}
+Lors d'une attaque à distance, si une figurine est dissimulée à au moins 50\% par un élément de terrain, l'attaquant subit -2TIR.
+\section*{Sélectionner ses combattants}
+Une bande de guerre fait de 50 à 150 points. Toutes les figurines d'une bande doivent venir de la même faction, ou être des mercenaires. On choisit une sous-faction principale, et une secondaire, parmi les sous-factions de la faction, ou les mercenaires. Jusqu'à 25\% du coût en point de la bande peut venir de la sous-faction secondaire, aucune restriction ne s'applique pour la principale. Par exemple, pour créer une bande des cités libres à 100 points, si on choisit les troupes des cités libres en faction principale, et des mercenaires en secondaire, on peut prendre jusqu'à 25 points de mercenaires, et autant de troupes des cités libres que l'on souhaite, tant que la somme des coûts en point ne dépasse pas 100.
+\section*{Règles d'équipements}
+\begin{description}
+\item[Armure légère]+1 DEF
+\item[Armure intermédiaire] +2 DEF
+\item[Armure lourde]+3 DEF
+\item[Bouclier] +2DEF
+\item[Épée]portée 3, AP 0, DEG 1, MAN 1, +1 ATT
+\item[Hache]portée 3, AP 1, DEG 2, MAN 1, -1ATT
+\item[Lance]portée 6, AP 0, DEG 1, MAN 1
+\item[Pique]portée 9, AP 1, DEG 1, MAN 2
+\item[Dague]portée 3, AP 0, DEG 1, ATT-1, si utilisé avec une autre arme remplace le -1ATT par un +1DEF
+\item[Masse]portée 3, AP 2, deg 1
+\item[Epée à deux mains]portée 6, AP 1, DEG 2, MAN 2
+\item[Hallebarde]portée 6, AP 2, DEG 2, MAN 2 ATT-1
+\item[Arc] portée 36, AP 1, DEG 1, MAN 2
+\item[Arbalète]portée 30, AP2, DEG 2, MAN 2, rechargement (1)
+\item[Javelot]portée 20, AP 0, DEG 2, MAN 1
+\item[Dagues de lancer]portée 15; AP 0, DEG 1, MAN 1
+\item[Petites armes naturelles]portée 3, AP 0, DEG 1, MAN 2
+\item[Grandes armes naturelles]portée 6, AP 1, DEG 2, MAN 2
+\end{description}
+Règles spéciales des armes:
+\begin{description}
+\item[rechargement(x)]Entre deux utilisations de l'arme, il faut dépenser x PA pour recharger celle-ci.
+\end{description}
+\end{multicols}
+\part{Factions et profils}
+\begin{multicols}{3}
+\section*{Forêt d'Ellewyn}
+Les habitants de la grande forêt d'Ellewyn défendent leur demeure boisée contre les incursions des peuples civilisés. En dehors des pierres gardiennes qui marquent les frontières, la chasse sauvage est parfois observée, et les paysans ferment alors leurs portes, en priant pour ne pas être les proies.
+\subsection*{Clans sylvestres}
+Une bonne partie des elfes et autres habitants de la forêts. Certains disposent d'un très fort lien avec la nature, et finissent par arborer des aspects animaux ou végétaux.
+\begin{description}
+\item[Chasseur] MOV 10/15, ATT 7, TIR 9, DEF 3, BLE 3; 5 points
+\item[Sentinelle] MOV 7/12, ATT 7, TIR 5, DEF 5, BLE 4; 7 points
+\item[Danseur de guerre]MOV 10/15, ATT 12, TIR 3, DEF 4, BLE 3; 15 points
+\item[Guerrier sauvage]MOV 7/15, ATT 9, TIR 7, DEF 4, BLE 5; 10 points
+\end{description}
+Liste d'équipement : armure légère 2pts, épée 1 pts, dague 1pts, arc 5pts, lance 2pts, bouclier 5pts.
+\subsection*{Chasse sauvage}
+La redoutable chasse des fées, parcourant les terres voisines comme la forêt,  traquant des proies apparemment au hasard. Mais peut-être leurs étranges souverains ont-ils un plan derrière tout cela?
+\begin{description}
+\item[Chevalier des fées] MOV 7/12, ATT 10, TIR 4, DEF 6, BLE 6; 12 points
+\item[Veneur]MOV 10/15, ATT 7, TIR 7, DEF 3, BLE 4; 10 points
+\item[Chien de chasse]MOV 10/20, ATT 6, TIR 0, DEF 4, BLE 3, créature; 5 points
+\item[Seigneur de la cour des fées]MOV 10/15, ATT 10, TIR 8, DEF 5, BLE 5;12 points
+\end{description} 
+Liste d'équipement : armure légère 2pts, armure intermédiaire 5pts, épée 1 pts, dague 1pts, lance 2pts, épée à deux mains 4pts, arc 5pts, bouclier 5pts.
+\subsection*{Changeformes}
+Sous les frondaisons, de nombreuses créatures étranges rôdent dans l'ombre. Certaines en particulier changent d'apparence la nuit, d'autre ont une intelligence presque humaine, qu'on peut lire dans leurs yeux bestiaux. Ils s'associent parfois aux autres habitants de la forêt pour affronter des incursions sur leur domaine.
+\begin{description}
+\item[Wolfen chasseur]
+\item[Wolfen Ancien]
+\item[Seigneur des bêtes]
+\item[Animaux de meute]
+\end{description}
+\subsection*{Esprits des bois}
+La forêt a une conscience propre, et les êtres de chair sont loin d'être ses seuls défenseurs. Parfois, Ellenwyn elle-même se défend face à ceux qui passent ses frontières. Les branches se lèvent et retombent lourdement, et d'étranges visions troublent les envahisseurs.
+\begin{description}
+\item[Nymphe]
+\item[Bois animés]
+\item[Feu follet]
+\item[Homme-arbre]
+\end{description}
+
+\section*{Cités libres de Lennece}
+Une multitude de cités diverses, en rivalité et en lutte constante, mais farouchement indépendantes. Elles emploient de nombreux types de troupes, levées parmi leur population, ou bien des contingents mercenaires.
+\subsection*{Milices des cités libres}
+Des forces levées parmi les citoyens des villes de Lennece, le plus souvent financées par les riches guildes marchandes. Ils emploient pour cela tout un panel d'équipement, mais peuvent manquer de formation pour les employer efficacement.
+\begin{description}
+\item[Milicien] MOUV 7/12, ATT 7, DEF 4, TIR 6, BLE 4; 4 points
+\item[Voleur] MOUV 10/15, ATT 6, DEF 3, TIR 5, BLE 3; 4 points
+\item[Patricien]MOUV 5/10, ATT 10, TIR 9, BLE 4; 8 points
+\item[Assassin]MOUV 10/15, ATT 9, TIR 9, DEF 4, BLE 4; 7 points
+\end{description}
+Liste d'équipement : armure légère 2pts, armure intermédiaire 5pts, armure lourde 8pts, bouclier 5pts, arbalète 7pts, arc 5pts, dague 1pts, épée 1pts, lance 2pts, hache 2pts, masse 2pts, hallebarde 6pts
+\subsection*{Flotte des cités libres}
+De nombreuses cités, portées vers la mer, disposent d'une puissante flotte. Parmi celles-ci, les troupes de marines font souvent office de troupes d'élite, bien qu'elles manquent de protections lourdes.
+\begin{description}
+\item[Marin]
+\item[Tireur d'élite]
+\item[Maître d'arme]
+\item[Moussaillon]
+\end{description}
+\subsection*{Église d'Elsyr}
+Très présente dans les cités libres, et une des rares forces d'unification entre elles. Elle dispose de nombreux agents, souvent armés, officiellement pour se défendre des païens comme des hérétiques. En plus du clergé, l'église peut compter sur le soutien d'ordres de chevaliers chargés de défendre l'église, les paladins.
+\begin{description}
+\item[Inquisiteur] MOUV 7/12, ATT 8, TIR 8, DEF 5, BLE 5; 10 points
+\item[Gardiens] MOUV 7/12, ATT 9, TIR 4, DEF 3, BLE 3; 7 points
+\item[Paladins]MOUV 7/10, ATT 11, TIR 4, DEF 6, BLE 5; 15 points
+\end{description}
+Liste d'équipement : armure légère 2pts, armure intermédiaire 5pts, armure lourde 8pts, bouclier 5pts, arbalète 7pts, arc 5pts, dague 1pts, épée 1pts, masse 2pts, épée à deux mains 4pts
+\subsection*{Guildes d'arcanistes}
+Isolées par les guildes marchandes, celles étudiant les arts magiques arrivent toutefois à sortir leur épingle du jeu par la variété des services qu'elles proposent à leurs nombreux clients. Sur les champs de bataille de la région, elles apportent différentes créatures invoquées en plus de leurs sortilèges dangereux.
+\begin{description}
+\item[Apprenti]
+\item[Compagnon]
+\item[Familier]
+\item[Invocation]
+\end{description}
+\end{multicols}
+\end{document}
