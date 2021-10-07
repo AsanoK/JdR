@@ -32,8 +32,8 @@ Dans \titre, on joue:
 \subsection*{Priorité maximale}
 \begin{itemize}
 \item Système de résolution de tests ; OK première version
-\item Framework d'intrigues et de combats sociaux; brouillon à valider
-\item Framework de duel; brouillon OK, à ajouter aux règles
+\item Framework d'intrigues et de combats sociaux; brouillon OK, intrigues OK
+\item Framework de duel; OK première version
 \item Réputation
 \item Factions
 \item Zone de jeu locale
@@ -43,10 +43,11 @@ Dans \titre, on joue:
 \subsection*{Priorité intermédiaire}
 \begin{itemize}
 \item Framework d'enquête
-\item Framework d'espionnage
+\item Framework d'espionnage; En cours, brouillon OK
 \item Framework de bataille rangée et de campagnes; brouillon OK
 \item Création de personnages, incluant les objectifs de groupe/personnages.
 \item Récupération, physique, morale et sociale
+\item Fiche de suivi des projets (MJ)
 \item Équipements
 \item Zone de jeu régionale
 \item Magie, religion et mysticisme
@@ -82,7 +83,14 @@ Dans les deux cas, on suit l'évolution de la \emph{Valeur} du test, qui va repr
 
 Dans un test de temps, quand un test est réussi, on vient ajouter la Marge de Réussite du test à la Valeur de celui-ci. Les deux conditions de fin de ces tests sont soit que la valeur objectif est atteinte, soit que le temps imparti pour résoudre le test est atteint (le plus souvent un certains nombre de tests).
 
-Dans un test d'opposition, on vient également ajouter la Marge de Réussite d'un test Réussi, mais on vient aussi soustraire la Marge d'échec des tests en cas d'échec. Si un adversaire entreprend une action, l'effet est inversé (on ajoute sa marge d'échec, et on soustrait sa marge de réussite). Les conditions de fin d'un test comme celui-ci sont soit qu'une faction atteigne sa valeur objectif (négative ou positive), soit qu'une faction décide d'abandonner sa tentative.
+Dans un test d'opposition, on vient également ajouter la Marge de Réussite d'un test Réussi, mais on vient aussi soustraire la Marge d'échec des tests en cas d'échec. Si un adversaire entreprend une action, l'effet est inversé (on ajoute sa marge d'échec, et on soustrait sa marge de réussite). Les conditions de fin d'un test comme celui-ci sont soit qu'une faction atteigne sa valeur objectif (négative ou positive), soit qu'une faction décide d'abandonner sa tentative.5
+\section{Projets}
+Un projet correspond à une activité sur un temps relativement long, au moins plusieurs scènes, parfois avec un certain temps entre elles. Les intrigues, l'espionnage ou le développement d'une propriété utilisent ces règles.
+
+Un projet se définit en premier lieu par un \emph{seuil}, qui correspond au nombre de \emph{réussites} à obtenir pour valider le projet. Une \emph{réussite} peut être suivant les contextes soit le fait de réussir un test, simple ou prolongé, soit suivant les contextes, employer une faveur ou obtenir une information importante lors d'une scène spécifique.
+
+Un projet peut être échoué de plusieurs manière, suivant son objectif. En premier lieu, certains ne peuvent pas vraiment échouer, mesurant surtout le temps nécessaire à obtenir un certain nombre de réussites. Il est parfois possible d'échouer si on rate trop de tentatives pour obtenir des réussites. Certains projets peuvent simplement devenir obsolète : l'information sur une préparation de guerre devient inutile quand la guerre est déclarée officiellement. Enfin, le ou les joueurs ayant lancés le projet peuvent également l'abandonner si ils jugent que ce qu'ils ont obtenu est suffisant
+\subsection{Suivi des projets}
 \section{Compétences}
 %TODO : remplir cette section au fur et à mesure du développement des différents frameworks
 \subsection*{Art} Le fait de pratiquer et comprendre l'art. Utilisé tant par les artistes eux-même que par les critiques. On l'emploie tant pour distraire, que pour impressionner, que pour évaluer le travail d'un autre.
@@ -105,7 +113,7 @@ Dans un test d'opposition, on vient également ajouter la Marge de Réussite d'u
 \subsection*{Réseau} Fait de poser des questions discrètement un peu partout, voire d'employer des informateurs dédiés pour obtenir des informations de manière indirecte sur une cible. 
 \subsection*{Roublardise} Cette compétence sert à diverses actions peu honorable : subtilisation discrète de documents ou de biens, attaques dans le dos, ouverture de cadenas récalcitrant ou encore tour de passe-passe.
 \subsection*{Sang-froid} Le fait de savoir garder le contrôle de soi et de ses émotions lors de situations nerveusement difficiles : incompétence d'un subordonné, subtiles (ou pas) provocations d'un adversaire, ou encore danger de mort imminente.
-\section{Statut social, réputation}
+\section{Statut social, relations et faveurs}
 \section{Règles de duel}
 Un duel est un test d'opposition entre les deux combattants. Chacun d'eux utilise une de ses compétences d'arme pour participer au duel. 
 
@@ -122,6 +130,40 @@ Les règles de duel peuvent essentiellement être utilisées pour représenter u
 \end{multicols}
 \chapter{Règles avancées}
 \begin{multicols}{2}
+\section{Intrigues}
+Au cours d'une intrigue, un ou plusieurs personnages tentent de modifier l'opinion d'un autre sur un sujet spécifique. cela peut consister à tenter de convaincre un duc voisin de rester neutre dans un conflit, faire passer un rival pour un imbécile auprès du seigneur local, ou encore passer pour quelqu'un devant être connu au cours d'un bal. Une intrigue est un projet dont l'objectif est déterminé par le ou les joueurs souhaitant l'entreprendre, mais le seuil est déterminé, secrètement, par le MJ. Faire la cour à un.e prédentant.e potentiel.le peut être considéré comme une forme d'intrigue, en tout cas si l'objectif est d'avoir une cour 'officielle' (ou en tout cas respectant les formes de cet exercice). Le fait de séduire et d'avoir une relation amoureuse avec un autre personnage dépend plus des règles de relations avec cet autre personnage.
+
+Au cours d'une intrigue, une \emph{réussite} correspond à un argument qui fait mouche, à quelque chose qui incite la ou les cibles à pencher du côté souhaité. Quelques exemples : une discussion avec un bon argument ou une logique plaisant à l'interlocuteur, le fait de convaincre un tiers d'intercéder en sa faveur, le fait de dépenser une faveur, d'en promettre une future, ou encore offrir un cadeau apprécié à une personne d'influence (cadeau diplomatique ou pot-de-vin, suivant le degré de légalité de la chose).
+
+\subsection{Construire une intrigue}
+La première étape consiste à choisir les différents éléments constituant l'intrigue.
+
+En premier lieu, la cible de celle-ci, qui peut être un personnage ou un groupe de personnages. Si c'est un personnage, on pourra ajouter la différence de statut social au seuil du projet : un personnage de plus haut rang nécessitera plus d'efforts pour être convaincu.
+
+Ensuite, on détermine l'idée que l'on souhaite faire accepter à la cible : un plan de campagne militaire, une opinion politique, le fait d'intervenir dans un conflit, ou encore la validité de ses revendications.  
+
+Une fois ces éléments validés avec les joueurs, le MJ va pouvoir se pencher sur les éléments techniques : le seuil, et les réussites potentielles. Pour calculer le seuil, on peut considérer comme base le nombre de PJs, qu'on modifie suivant la longueur que l'on souhaite (en considérant entre 5 et 30 minutes par réussite), et on ajoute la différence de statut social entre le plus haut des PJs impliqué et la cible. 
+
+Pour les réussites potentielles, celles-ci peuvent être proposées par les joueurs en fonction de leurs idées, mais on peut dès le début préparer des choses : certains tests peuvent être proposés directement, mais aussi une liste des PNJs qui pourraient influencer  l'intrigue, et avec lesquels les personnages pourront discuter. Avec ou sans tests, ces personnages pourraient rapporter une réussite. Enfin, on eut anticiper que les personnages utilisent ou promettent des faveurs pour gagner des réussites.
+
+Le dernier élément à déterminer pour le MJ est, si elle existe, la condition de fin du projet. Si il y a une opposition au projet, on détermine généralement un nombre d'échecs à ne pas obtenir : la base est égale au seuil, mais on peut augmenter cette valeur pour diminuer la difficulté et inversement. On peut sinon avoir un temps narratif limité, avec par exemple, un évènement spécifique pendant lequel agir, ou un temps avant que l'intrigue ne serve plus. Enfin, on peut avoir un projet sans condition de fin, permettant de voir dans ce cas combien de temps il faut aux PJs pour réaliser leur projet.
+
+
+
+\section{Espionnage}
+Le fait d'avoir des informations sur les problèmes, les concurrents, les adversaires et la situation globale est un élément essentiel de la prise de décision. 
+
+Les méthodes varient entre le légal et le totalement illégal. Pour le premier point, cela peut simplement être discuter avec des gens pour obtenir des informations dont ils disposent, ou simplement suivre les débats publics. Les méthodes illégales partent de l'achat de secrets industriels ou d'états auprès d'un traître, ou l'intrusion d'un agent pour dérober directement des documents ou observer des évènements.
+\subsection{Construire un projet d'espionnage}
+Que les personnages décident d'eux même de se lancer dans une entreprise d'espionnage, ou qu'ils tombent un peu par hasard sur des éléments intéressant, qui pourraient déclencher une certaine curiosité, les projets d'espionnage sont créés par le MJ.
+
+En premier lieu, on détermine le \emph{Fait} qui va être la cible du projet : un projet d'attaque, un noir secret, ou encore l'identité d'un nouveau professeur. Si vous pensez qu'une même faction a plusieurs cibles d'espionnage potentielles, n'hésitez pas à créer plusieurs projets, cela brouillera d'autant plus les pistes pour les joueurs.
+
+Imaginez ensuite les différents \emph{indices} liés à ce fait. Un indice est une conséquence du \emph{Fait}, que les PJs ont une chance de découvrir. Un indice peut généralement être découvert dans certaines circonstances : un document pourra se trouver dans des archives, un évènement étrange à l'endroit où il se déroule, ou par le biais de rumeurs, etc. Ces circonstances sont les \emph{Points d'accès} du projet. Quelques idées d'indices : documents (lettres, bons de commandes, pactes....), rumeurs, témoignages, actions notables d'un personnage ou encore changement de comportement ou d'habitudes. Un indice peut être très léger, et ne pas être d'une grande aide tout seul, ou à l'inverse, correspondre à une réussite complète pour le projet.
+
+Les indices peuvent ensuite être regroupés en \emph{Analyse}, en particulier pour les plus subtiles d'entre eux. Chaque analyse correspond à un test de compétence, qui pourra être tenté, et en cas de succès, comptera pour une réussite dans le projet. Si les PJs ont tous les indices nécessaires à une analyse, ils peuvent tenter le jet de compétence associé immédiatement.
+
+
 \section{Règles de propriétés, de domaines, d'entreprises}
 Au cours de leur histoire, les personnage de \titre pourront diriger diverses affaires : commerces, ateliers, fief, domaines, ou encore des royaumes entiers ! Ces éléments, dont les personnages auront la responsabilité, sont regroupés par le terme de \emph{propriété}. 
 
@@ -154,13 +196,9 @@ Ainsi, lors du calcul du bénéfice, on soustrait la valeur de compétence du ge
 
 \subsection{Phase de développement}
 %Lors de la phase de développement, on observe et on influence l'évolution à long terme de la propriété.
-
-%En premier lieu, on évalue la stabilité globale, et le risque de problèmes qui peuvent se produire dans la propriété.
-
-
-\section{Règles d'intrigues}
-\section{Règles de campagnes militaires et de batailles rangées}
-
+\section{Campagnes militaires}
+\subsection{Unités militaires}
+\subsection{Batailles rangées}
 \end{multicols}
 \chapter{Mener une partie}
 \begin{multicols}{2}

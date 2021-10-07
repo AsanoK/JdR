@@ -1,0 +1,15 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Introduction}{5}%
+\contentsline {section}{\numberline {1.1}Objectifs de design}{5}%
+\contentsline {chapter}{\numberline {2}Histoire}{7}%
+\contentsline {section}{\numberline {2.1}Histoire globale}{7}%
+\contentsline {section}{\numberline {2.2}Technologies développées depuis le XXIème siècle}{7}%
+\contentsline {section}{\numberline {2.3}Tabaya}{8}%
+\contentsline {chapter}{\numberline {3}État 1}{11}%
+\contentsline {section}{\numberline {3.1}Histoire}{11}%
+\contentsline {section}{\numberline {3.2}Société}{11}%
+\contentsline {section}{\numberline {3.3}Culture}{12}%
+\contentsline {chapter}{\numberline {4}Compagnie}{13}%
+\contentsline {chapter}{\numberline {5}Alliance 1}{15}%
+\contentsline {chapter}{\numberline {6}Campagne}{17}%
+\contentsline {chapter}{\numberline {7}Règles spécifiques à Tabaya}{19}%
