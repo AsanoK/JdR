@@ -1,0 +1,86 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{array}
+\geometry{top=3cm, bottom=3cm, left=2cm, right=2cm}
+\title{Dossier de personnel}
+\author{}
+\date{}
+
+\begin{document}
+\ttfamily
+
+%SECTION GROUPEE : état civil
+\section*{Dossier de personnel}
+%\begin{flushright}
+%\includegraphics[height=100pt]{placeholder.png}
+%\end{flushright}
+
+
+
+\begin{multicols}{3}
+\noindent\textbf{Nom :}\\
+\textbf{Genre :}\\\textbf{Date de naissance :}\\
+\textbf{Camarade :}\\
+\textbf{Traits particuliers :}\\
+\columnbreak
+\textbf{Grade et spécialité :} \\
+\textbf{Yeux :}\\
+\textbf{Cheveux :}\\
+\textbf{Taille :}\\
+\columnbreak
+\includegraphics[height=80pt]{placeholder.png}
+\end{multicols}
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+
+%ATTRIBUTS
+\subsection*{Attributs}
+\begin{center}
+    \begin{tabular}{c|c|c|c|c}
+        \textbf{Autorité} & \textbf{Chance} & \textbf{Combativité} & \textbf{Endurance} & \textbf{Sang-froid} \\
+         & & & &\\
+
+    \end{tabular}
+\end{center}
+
+\begin{tabular}{m{0.4\columnwidth} m{0.4\columnwidth}}
+     \textbf{Stress :} & \textbf{Points de progression :}
+\end{tabular}
+
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+%COMPETENCES
+\subsection*{Compétences}
+
+\begin{tabular}{p{0.4 \textwidth}| r || p{0.4 \textwidth}| r|}
+Athlétisme & &Conduite : & {}\\
+Connaissances Techniques : &  &Connaissances Techniques : & {}\\
+Conviction &  &Couverture& {}\\
+Discipline &  &Infiltration& {}\\
+Interrogation & & Labeur& {}\\
+Logistique & & Maintenance : & {}\\
+Maintenance: & & Mêlée& {}\\
+Observation & & Opération : & {}\\
+Opération : & & Orientation& {}\\
+Premiers soins & & Survie& {}\\
+Tactiques & & Tir : & {}\\
+Tir : & & Tir : & {}\\
+
+\end{tabular}\\
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+%MATERIEL ET NOTES
+\subsection*{Matériel}
+\begin{tabular}{c}
+     \\ \\ \\ \\ \\ \\ \\ \\
+\end{tabular}
+
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+
+\subsection*{Notes}
+
+
+\end{document}

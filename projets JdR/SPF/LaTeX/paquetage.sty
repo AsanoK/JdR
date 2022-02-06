@@ -1,0 +1,51 @@
+\newcommand{\paquetage}[6]{
+\ttfamily
+\begin{center}
+\fbox{\large{\textbf{#1}}}
+\normalsize
+
+#2
+
+\noindent\makebox[\linewidth]{\rule{0.8\columnwidth}{0.2pt}}
+\textbf{Attributs \& Compétences:}
+\begin{multicols}{2}
+
+Base:\\
+#3 \columnbreak 
+
+Complet:\\
+#4
+
+
+\end{multicols}
+
+\noindent\makebox[\linewidth]{\rule{0.8\columnwidth}{0.2pt}}
+\textbf{Équipements}
+\begin{multicols}{2}
+
+Base:\\
+#5 \columnbreak 
+
+Complet:\\
+#6
+
+\end{multicols}
+
+\end{center}
+\rmfamily
+}
+\newcommand{\role}[4]{
+\ttfamily
+\begin{center}
+\fbox{\large{\textbf{#1}}}\newline
+\normalsize
+#2
+\noindent\makebox[\linewidth]{\rule{0.8\columnwidth}{0.2pt}}
+\textbf{Attributs \& Compétences:}\newline
+#3 
+\noindent\makebox[\linewidth]{\rule{0.8\columnwidth}{0.2pt}}
+\textbf{Équipements}\newline
+#4
+\end{center}
+\rmfamily
+}

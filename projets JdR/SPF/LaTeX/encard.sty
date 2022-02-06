@@ -1,0 +1,14 @@
+%Usage \begin{commentbox}[options]{title}[color]
+\definecolor{LightGrey}{HTML}{d4d1c9} % PHB Part 1
+% Element colors that change when \setthemecolor is used
+\usepackage[table]{xcolor}
+\newcommand{\encard}[2]{
+    \ttfamily
+        \begin{tabular*}{0.4\textwidth}{>{\columncolor{LightGrey}} m{0.4\textwidth}}
+             \RaggedRight \emph{\textbf{#1}}  \tabularnewline
+             #2 \tabularnewline
+        \end{tabular*}
+    \rmfamily
+    
+    
+}

@@ -131,9 +131,16 @@
 \contentsline {subsection}{\numberline {6.16.1}Préparations}{42}%
 \contentsline {subsection}{\numberline {6.16.2}déroulement}{43}%
 \contentsline {subsection}{\numberline {6.16.3}remarque}{43}%
-\contentsline {chapter}{\numberline {7}Profils de la campagne}{45}%
-\contentsline {paragraph}{Noms masculins (à garder à jour)}{47}%
-\contentsline {paragraph}{noms féminins (à garder à jour}{47}%
-\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{47}%
-\contentsline {paragraph}{Noms de boutiques}{48}%
-\contentsline {paragraph}{Musiques utilisées}{48}%
+\contentsline {section}{\numberline {6.17}Session 16 : parade victorieuse}{43}%
+\contentsline {subsection}{\numberline {6.17.1}Préparatifs}{43}%
+\contentsline {subsection}{\numberline {6.17.2}Déroulement}{44}%
+\contentsline {subsection}{\numberline {6.17.3}Remarques}{45}%
+\contentsline {section}{\numberline {6.18}Session 17 : conséquences}{45}%
+\contentsline {section}{\numberline {6.19}Déroulement}{46}%
+\contentsline {section}{\numberline {6.20}Remarques}{46}%
+\contentsline {chapter}{\numberline {7}Profils de la campagne}{47}%
+\contentsline {paragraph}{Noms masculins (à garder à jour)}{49}%
+\contentsline {paragraph}{noms féminins (à garder à jour}{49}%
+\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{49}%
+\contentsline {paragraph}{Noms de boutiques}{50}%
+\contentsline {paragraph}{Musiques utilisées}{50}%
