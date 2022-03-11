@@ -150,4 +150,7 @@
 \contentsline {subsection}{\numberline {6.16.2}Déroulement}{41}%
 \contentsline {subsection}{\numberline {6.16.3}remarques}{41}%
 \contentsline {section}{\numberline {6.17}Séance 15 : la chasse commence}{41}%
-\contentsline {section}{\numberline {6.18}Carte des lieux}{43}%
+\contentsline {subsection}{\numberline {6.17.1}Déroulement}{42}%
+\contentsline {section}{\numberline {6.18}Séance 16 : Retour à Waldenheim ?}{42}%
+\contentsline {subsection}{\numberline {6.18.1}préparation}{42}%
+\contentsline {section}{\numberline {6.19}Carte des lieux}{43}%
