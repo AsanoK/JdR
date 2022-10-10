@@ -1,0 +1,17 @@
+Concept général:
+Jeux de survie/exploration à tendance écologiste.
+La nature est merveilleuse, un peu flippante et mystérieuse, mais elle peut avoir des problèmes
+Importante notion de cycle dans le jeu, sur la durée
+Le terrain de jeu est composé d'une grande forêt, qui devient plus profonde par endroit, un peu comme un océan. Les zones les plus profondes sont aussi les plus angoissantes et étranges.
+Un jeu où il se passe peu d'action, mais quand elle se passe, elle s'inspire de Monster Hunter, Shadow of the Colossus ou encore Les Souls-like. Peut-être reprendre certains éléments de souls-like avec une mécanique de cycle : le personnage meurt, mais réapparaît par ailleurs, ce qui peut déclencher des évènements sur le terrain, alors que son corps retourne à la terre, et possiblement que son 'énergie" se dissipe.
+Les lieux sûrs doivent rester relativement rares, et doivent permettre de se préparer aux explorations plus qu'autre chose.
+Les personnages peuvent avoir diverses raisons d'aller explorer la forêt
+Différents archétypes, qui doivent couvrir les capacités utiles dans l'exploration de ces régions, et les méthodes de combats contre les plus grandes créatures, possiblement corrompues.
+Les personnages sont partiellement touchés par la corruption, ce qui leur permet de revenir, mais ils sont aussi envoyés lutter contre l'expansion de cette corruption, tant qu'ils ne sont pas allé trop loin sur cette voie toxique.
+Les combats se doivent d'être dynamiques et relativement rapides, mais très intenses et mortels aussi
+L'écriture se fera en anglais pour envisager une publication à terme
+Les personnages devraient être créés averc leurs arcs narratifs déjà intégrés.
+Il faudra envisager d'entrée de jeu la qualité de vie du MJ : une suite narrative intégrée au jeu, mais modulable à l'envie, et des générations aléatoires intéressantes.
+Une amorce de quête non vue/sélectionnée doit avoir des conséquences plus loin dans la campagne
+
+

@@ -147,6 +147,9 @@
 \contentsline {subsection}{\numberline {6.22.3}Remarques}{47}%
 \contentsline {section}{\numberline {6.23}Session 20 : enquête au monastère}{47}%
 \contentsline {subsection}{\numberline {6.23.1}Déroulement}{47}%
+\contentsline {section}{\numberline {6.24}Session 21}{48}%
+\contentsline {subsection}{\numberline {6.24.1}Préparations}{48}%
+\contentsline {subsection}{\numberline {6.24.2}Déroulement}{48}%
 \contentsline {chapter}{\numberline {7}Profils de la campagne}{49}%
 \contentsline {section}{\numberline {7.1}Chef des cultistes (lvl 6)}{49}%
 \contentsline {section}{\numberline {7.2}Ministre corrompu (lvl 7)}{49}%

@@ -1,0 +1,42 @@
+prétirés premier test:
+https://www.pinterest.fr/pin/97179304448024287/?nic_v3=1a2XQkZsz
+Manifestation : entité
+spécialisation : invocateur
+actions : apparition (de l'entité), appel (tentacules !)
+passif : énergie résiduelle
+
+https://www.pinterest.fr/pin/671599363183163383/?nic_v3=1a2XQkZsz
+noble
+Manifestation : relique (épée)
+Spécialisation : Chevalier
+actions : fléau (épée, buff temporaire), charge
+passif: prendre des coups
+
+https://www.pinterest.fr/pin/462181980523238484/?nic_v3=1a2XQkZsz
+sorcière
+Actions spécifiques
+Manifestation : élémentaire (feu)
+spécialisation : arcaniste
+actions : combustion (sort précis), téléportation
+passif: enchaînement élémentaire
+
+https://www.pinterest.fr/pin/462181980523471876/?nic_v3=1a2XQkZsz
+combattant mobile
+Manifestation : physique
+spécialisation : tueur
+actions : réaction rapide, frappe critique
+passif: mobilité défensive
+
+https://www.pinterest.fr/pin/281543708519354/?nic_v3=1a2XQkZsz
+champion/buffer
+manifestation  : mort
+spécialisation : champion
+actions : Reconstruction, levée de l'étendard
+passif: contact de la mort
+
+Actions par défaut:
+-attaque (par arme employée)
+-attaque de points faibles
+-esquive, parade
+-déplacement, course
+-identification, étude des faiblesses

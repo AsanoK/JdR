@@ -1,0 +1,18 @@
+Tests
+Chaque test se réalise sur un attribut, déterminé par le MJ en fonction de l’action proposée par le joueur. Celui-ci lance alors un nombre de dé à 6 faces (d6) égal à la valeur de l’attribut sélectionné, et on regarde les résultats obtenus.
+Si au moins un dé a obtenu un 6, le test est une réussite. Si il y a plus de 1 que de 6, le personnage va aussi subir de l’attrition, dépendamment de l’attribut sélectionné. Il est tout à fait possible d’avoir une réussite et de l’attrition.
+Un test devrait toujours avoir des conséquences, en cas d’échec ou de réussites. Si une situation ne devrait pas avoir de conséquences, ce n’est pas un test, c’est une description. 
+Attrition
+Au cours de leur histoire, les personnages peuvent subir de l'attrition, sous différentes formes suivant les tâches entreprises.
+En terme de mécanique, l'attrition est représentée par une perte progressive de points d'attributs. A chaque test déclenchant de l'attrition, le personnage perd un point sur l'attribut associé.
+L'attrition en Force représente des blessures physiques, de plus en plus graves en fonction de la situation. Pour récupérer, il faut des soins, et si possible le plus vite possible, pour ne pas subir d'infection.
+En agilité, c'est de la fatigue, qui va s'accumuler et venir limiter les capacités du personnage. Pour perdre cette fatigue, il faut un accès à de la bouffe et de l'eau (propre).
+L'attrition sociale, c'est une sale réputation. Pour la récupérer, il faut des efforts, ou des ressources, et l'aide d'un peu de temps.
+L'attrition en compréhension, c'est une surcharge mentale, l'incapacité à retenir de nouvelles informations où de réfléchir correctement. Pour récupérer de ce genre de fatigue, il faut se détendre, disposer de temps calme.
+L'attrition en sang-froid, c'est de la panique, qui monte progressivement à mesure que le personnage perd le contrôle. Il faut du repos dans de bonnes conditions pour récupérer de la panique qui monte, ou utiliser des moyens plus expéditifs pour se détendre : drogues, sexe....
+Bricolage
+[placeholder - TODO] 
+Relations
+[placeholder – TODO]
+Combats
+[placeholder – TODO]

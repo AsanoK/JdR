@@ -1,0 +1,5 @@
+Règles de surprise à faire
+reset des aspects lors des downtimes pour limiter le drift
+Le drift paraissait rapide
+armement pas géré du tout, peut-être passer avec des dés bonus, ou conséquences sur les armes ?
+Augmenter la difficulté des tests : une réussite

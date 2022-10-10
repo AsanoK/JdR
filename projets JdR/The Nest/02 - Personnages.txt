@@ -1,0 +1,38 @@
+		I - Historique
+[placeholder - TODO]
+		II - Factions
+[placeholder - TODO]
+		III - Archétypes
+Un personnage définit son rôle général au sein de sa communauté par son archétype, au nombre de 9. Ceux-ci vont déterminer certaines capacités, connaissances ou équipements de base dont peut disposer le personnage.
+	Artificier
+Bricoleurs de tout type, ils font fonctionner le matériel courant de leur communauté : armes, armures, outils ou encore véhicules.
+Capacité : improvisation – un artificier peut décider de réaliser une recette de bricolage en utilisant une ressource de moins que théoriquement nécessaire, mais il y a des chances que ça foire : lancer un dé, sur 1 c’est un échec spectaculaire, sur 2-3 c’est un échec et sur 4-6, c’est une réussite. Cette capacité ne peut servir que sur des bricolages d’armes, d’armures, de munitions ou d’explosifs.
+	Boss
+Ils dirigent, ou au moins sont influents dans leur communauté. Il ont chacun leurs méthodes, mais le point commun est de diriger les efforts d’autres pour accomplir leurs objectifs.
+Capacité : coup de main 
+	Chimiste
+Ils comprennent (en général) comment fonctionnent différents produits pour leur communauté : médicaments et drogues en particulier.
+Capacité : expériences – un chimiste dispose presque toujours de deux-trois tests en cours, dans la pratique, il peut tenter de fournir une drogue de test à un personnage, avec un effet aléatoire (TODO : tableau des effets aléatoires).
+	Combattant
+La première ligne de défense de leur communauté, les combattants sont parmi les plus exposés aux hurleurs. Ils sont aussi très souvent parmi les mieux équipés en matière d’armes et d’armure. S’ils ont survécu jusque là, vous pouvez supposer qu’ils sont compétents ou très chanceux.
+	Médecin
+Élément vital d’une communauté, sans qui la moindre égratignure peut s’infecter et conduire à la mort. Tous n’ont pas reçu une « vraie » éducation médicale avant l’invasion, mais en situation de survie, toute compétence est bonne à prendre.
+	Ombre
+Les ombres accomplissent les basses besognes : infiltration, meurtre ou encore sabotage. Leur utilité est parfois limitée face aux hurleurs, mais ils restent un outil ou un effet secondaire des jeux de pouvoirs.
+Scientifique
+Ils disposent encore de connaissances sur les sciences datant d’avant l’invasion, et peuvent comprendre certains des mécanismes les plus complexes, et sont donc un atout certain pour leur communauté.
+	Stalker
+Les explorateurs et éclaireurs, qui parcourent les anciens territoires des hommes pour y repérer les éléments intéressant, notamment les ressources ou les nids de hurleur. Ils savent généralement se débrouiller tout seuls.
+	Trafiquant
+Même après l’invasion des hurleurs, les affaires sont les affaires, et les échanges continuent, au sein des communautés, et entre les communautés. Et les trafiquants savent où obtenir ce que d’autres recherchent, ils ont un réseau.
+		IV - Greffes
+[placeholder - TODO]
+		V - Attributs
+Un personnage dispose de cinq scores d’attributs, qui seront utilisés lors des parties pour déterminer le résultat de ses actions.
+    • Force – Cet attribut va servir à ne pas se faire écharper par des hurleurs ou d’autres humains peu sympathiques. Son attrition représente des blessures physiques subies. 
+    • Agilité – Utilisé pour les situations où il faut se déplacer précisément, discrètement ou rapidement, et pour résoudre les problèmes nécessitant une certaine coordination. Le tir avec des armes à distance en fait partie.
+    • Sociabilité -  Cet attribut est employé pour tester si un personnage arrive à convaincre un autre, à imposer sa volonté, ou à conclure un deal par exemple. 
+    • Compréhension -  C’est l’attribut des connaissances, de la logique, de la mémoire.
+    • Sang-froid – Représente la capacité d’un personnage à se contrôler dans des situations stressantes, voire traumatisantes. Après la première invasion, ces situations sont malheureusement courantes.
+		VI - Capacités
+[placeholder - TODO]

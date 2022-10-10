@@ -1,0 +1,18 @@
+Idée générale:
+Tester les mécaniques de base du jeu : combats, exploration et attrition générale + création de personnages
+les personnages vont devoir ramener une information importante à leur communauté, alors qu'ils étaient en expédition. Mais il va falloir sortir rapidement de la zone avant de se poser la question.
+Structure : sortir point initial puis éviter des hurleurs, puis obstacle physique à franchir de manière créative.
+Situation initiale : les PJs viennent de voir un appareil du GMR se crasher sur un barrage à proximité, ce qui a agité les hurleurs qui sortent de leurs nids. Il va falloir rentrer rapidement pour prévenir les autres du danger et de la potentielle opportunité. Mais avant tout, il va falloir réussir à quitter le coin avant que les hurleurs ne rappliquent trop vite.
+Scène 1-1 : quitter le barrage
+Scène 1-2 : les hurleurs rôdent
+Scène 2-1 : une rencontre fortuite
+Scène 2-2 : mise au point
+Scène 3 : franchir un obstacle
+Scène 4 : arrivée au camp
+
+chances de succès un peu basse
+Liste de spécialités par défaut
+Créer des vraies règles de blessure et d'obstacles
+Sursuccès : récupération de points ?
+Augmenter les bonus d'équipements
+Filer des folies dès le début du jeu
