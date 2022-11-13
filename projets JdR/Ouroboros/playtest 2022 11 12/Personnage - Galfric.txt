@@ -1,0 +1,68 @@
+Character
+Manifestation: Entity
+Specialisation: Invocator
+Background:
+Galfric was a brother of the Abyss Brotherhood, a group dedicated to find the reason behind the cataclysm. They have amassed quite a bit of knowledge about it, occult knowledge, forbidden one.
+Galfric hears voices from the abyss he found in an old ruin, and he started using what the voice taught him. He ran from the brotherhood, but keeps the same goal.
+
+Equipment
+Dagger
+IC -1 (min 1)	Damage 1
+mace
+IC +2	tags : piercing 2
+damage 3
+Mail armor
+Tags: Physical protection (5), bulk 2
+Wand of the abyss
+Focus (3)
+
+Attributes
+Corruption 5
+Empathy 2
+Might 2
+Power 4
+Precision 2
+Speed 4
+Stamina 3
+Wilderness 3
+Hit Points 5
+Passive Defense 2
+Movement 6
+
+Skills
+Affinity (Corruption) 	5	
+Athletics 		0
+Camp and cooking 	4
+Craft () 		0
+Deception 		3
+Discussion 		0
+Dodge 			3
+Intimidation 		0
+Logic 			2
+Lore (Cataclysm) 	2
+Miracles () 		0
+Music 			0
+Negociation 		3
+Observation 		4
+Parry 			0
+Religion () 		0
+Resting 		4
+Rituals () 		0
+Spells (Corruption)	5
+Stability 		0
+Stealth 		0
+Survival 		0
+Tracking 		0
+Weapons (Light) 	3
+Weapons () 		0
+Willpower 		2
+
+Actions and passives
+Evil manifests itself
+IC: 6	Tags: spell, attack, targets (Power), short range, corruption
+Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual attack using spells(corruption). Damage is [Power]
+Call of the abyss
+IC: 4	Tags: attack, spell, short range, interrupting, corruption
+Effects: tentacles are called from Beyond the veil, through a small portal opened by the character. Target suffers an attack using spells(occult). Damage is [Focus]
+Residual presence
+Effects: Any corruption spell casted on a creature gives a mark, each mark adds 1 damage to the other corruption spells

@@ -1,0 +1,66 @@
+Character
+Manifestation
+Specialisation
+Background
+
+Equipment
+<Weapon name>
+Tags
+<Weapon name>
+Tags
+<Armor name>
+Tags
+<Other name>
+Tags
+
+Attributes
+Corruption
+Empathy
+Might
+Power
+Precision
+Speed
+Stamina
+Wilderness
+Hit Points
+Passive Defense
+Movement
+
+Skills
+Affinity ()
+Athletics
+Camp and cooking
+Craft ()
+Deception
+Discussion
+Dodge
+Intimidation
+Logic
+Lore ()
+Miracles ()
+Music
+Negociation
+Observation
+Parry
+Religion ()
+Resting
+Rituals ()
+Spells ()
+Stability
+Stealth
+Survival
+Tracking
+Weapons ()
+Weapons ()
+Willpower
+
+Actions and passives
+<Action name>
+IC	Tags:
+Effects
+<Action name>
+IC	Tags:
+Effects
+<Action name>
+IC	Tags:
+Effects

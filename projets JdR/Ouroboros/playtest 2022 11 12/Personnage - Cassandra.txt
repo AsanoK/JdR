@@ -1,0 +1,65 @@
+Character
+Manifestation Relic(Sword)
+Specialisation Knight
+Background:
+Cassandra is from the Herlean kingdom, in the house of the stag. She was raised to lead from the front and protect the fortresses of the realm from the creatures.
+She decide to leave this life after finding Fang, her sword. Or maybe the sword found a wielder, because they are old, and kinda speaks to their wielder. She may not be fully sane or in control of her actions, but she is a force to take into account.
+
+Equipment
+two-handed sword
+IC +3	tags : piercing 1
+Damage 6
+Plate armor
+Tags: Physical protection (7), bulk 2
+
+Attributes
+Corruption 	2
+Empathy 	4
+Might 		5
+Power 		2
+Precision 	2
+Speed 		4
+Stamina 	4
+Wilderness 	2
+Hit Points 	9
+Passive Defense 2
+Movement 	6
+
+Skills
+Affinity () 		0
+Athletics 		3
+Camp and cooking 	0
+Craft () 		0
+Deception 		0
+Discussion 		0
+Dodge 			1
+Intimidation 		2
+Logic 			0
+Lore () 		0
+Miracles () 		0
+Music 			4
+Negociation 		4
+Observation 		2
+Parry 			5
+Religion () 		0
+Resting 		4
+Rituals () 		0
+Spells () 		0
+Stability 		4
+Stealth 		0
+Survival 		0
+Tracking 		3
+Weapons (Long) 		5
+Weapons () 		0
+Willpower 		3
+
+Actions and passives
+Bane
+IC: 2	Tags: self, object, relic, magic
+Effects : The sword surges with its own power, ready to cut through anything. For the next attack using the sword, the character gains the tag piercing or lethal or interrupting(their choice).
+Charge
+IC: 5	Tags: self, movement, charging, interrupting
+Effects: The character prepares to rush forward, shoving enemies away and cutting them as moving. The character may move 2x[movement]m, and may displace enemies on the way with a Might+athletics check, then make a standard attack.
+Taking one for the team
+Passive
+Each time a allied character within arm's reach is hit, this character may suffer the attack instead.

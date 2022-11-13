@@ -1,0 +1,64 @@
+Character
+Manifestation: Physical
+Specialisation: Slayer
+Background:
+Torbiac comes from the town of Lowend, former outskirt of the capital of Orleic, and possibly the biggest town after the cataclysm. He survived the ambiant despair and went on his own way thanks to his ability with a blade. He mostly works for money, but can be interested to learn more about the creatures lurking in the shadows of the world.
+
+Equipment
+Dagger
+IC -1 (min 1)	Damage 1
+longsword
+IC +1	Damage 3
+Mail armor
+Tags: Physical protection (5), bulk 2
+
+Attributes
+Corruption 2
+Empathy 3
+Might 2
+Power 2
+Precision 4
+Speed 5
+Stamina 3
+Wilderness 4
+Hit Points 5
+Passive Defense 3
+Movement 7
+
+Skills
+Affinity () 		0
+Athletics 		4
+Camp and cooking 	3
+Craft () 		0
+Deception 		1
+Discussion 		3
+Dodge 			4
+Intimidation 		1
+Logic 			0
+Lore (Creatures) 	2
+Miracles () 		0
+Music 			2
+Negociation 		0
+Observation 		5
+Parry 			0
+Religion () 		0
+Resting 		0
+Rituals () 		0
+Spells () 		0
+Stability 		0
+Stealth 		4
+Survival 		3
+Tracking 		3
+Weapons (Light) 	5
+Weapons () 		0
+Willpower 		0
+
+Actions and passives
+Critical strike
+Effects: the character may attack an identified weak point of an enemy. If the strike succeeds, the attack gains the tag piercing and adds [Precision] to its damages.
+Tags: attack, weapon-range, charging
+Counter-attack
+Effects : the character may oppose an incoming non-spiritual attack by using [weapon]. If the character wins the opposed check, they may inflict damage, as if they had just succeeded in a normal attack.
+Tags : reaction, defence, attack, weapon-range
+Combat mobility
+Effects: the characters moves [margin] meter when making a reaction

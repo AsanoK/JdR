@@ -1,0 +1,69 @@
+https://www.pinterest.fr/pin/281543708519354/?nic_v3=1a2XQkZsz
+
+Character
+Archetype	Champion
+Manifestation	Death
+Background	
+One of the fallen knights of the Kingdom of Orleic, he managed to maintain his sanity while his whole order went mad. In his life he swore the oath of questing : he was to search for the lineage of the First King.
+His quest and oath did not end after he died during the Cataclysm, and he still looks for clues in what remains of the kingdom of Orleic.
+
+Equipment
+longsword
+IC +1	Damage 3
+standard of the lost knights
+special : +1 to any check to resist attacks made by creatures for anyone fighting under that banner.
+mail armor
+Physical protection (5), Bulk 2
+Old trinket
+Spiritual protection (2)
+
+Attributes
+Corruption	3
+Empathy	2
+Might	4
+Power	2
+Precision	2
+Speed	4
+Stamina	6
+Wilderness	2
+Hit Points	10
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity ()	0
+Athletics	4
+Camp and cooking	2
+Craft ()	0
+Deception	0
+Discussion	0
+Dodge	4
+Intimidation	3
+Logic	2
+Lore (The First King)	4
+Miracles ()	0
+Music	0
+Negociation	0	
+Observation	2
+Parry	3
+Religion ()	0
+Resting	2
+Rituals ()	0
+Spells ()	0
+Stability	3
+Stealth	0
+Survival	3
+Tracking	2
+Weapons (Long)	4
+Weapons ()	0
+Willpower	0
+
+Actions and passives
+Reconstruct
+IC: 2	Tags : heal, self
+Effects : The character may bring itself back on its feet, even from horrible wounds. The character immediately regains [Stamina] HP and bring themselve back on their feet.
+Raise the banner high
+IC: 2	Tags:Targets (5), buff, short range.
+Effects : The character may raise up a symbol of their authority or pride, to bring more courage to their allies. Targeted characters will reduce the IC of their next action by 1.
+Death friend (passive)
+Effects : Each time a creature dies within 5m, the character regains 2 HP

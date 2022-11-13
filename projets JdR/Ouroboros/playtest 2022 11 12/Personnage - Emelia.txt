@@ -1,0 +1,67 @@
+https://www.pinterest.fr/pin/462181980523238484/?nic_v3=1a2XQkZsz
+
+Character
+Manifestation: Elementary (Fire)
+Specialisation: Arcane
+Background: Emelia is a survivor before everything : she survived the destruction of castle An Tira where her family was living when she was very young, and the trauma changed her. She feels close to the fire, and now wields it as her weapon of choice, having embraced the study of magic through an old book. At least that's the explanation she gives when asked.
+
+Equipment
+Ember's lantern
+special: gives the lethal tag to any spellcasting using this focus
+Tags: Focus(2)
+Dagger
+IC -1(min 1)
+Damage 1
+Sturdy clothes
+Tags: Physical protection (1), bulk 1
+
+Attributes
+Corruption 3
+Empathy 2
+Might 2
+Power 6
+Precision 2
+Speed 4
+Stamina 2
+Wilderness 4
+Hit Points 4
+Passive Defense 2
+Movement 6
+
+Skills
+Affinity (Arcane) 4
+Athletics
+Camp and cooking 2
+Craft ()
+Deception 3
+Discussion
+Dodge 3
+Intimidation
+Logic 3
+Lore (Witchcraft) 3
+Miracles ()
+Music
+Negociation
+Observation 2
+Parry
+Religion ()
+Resting 3
+Rituals ()
+Spells (Fire) 6
+Stability
+Stealth 3
+Survival 4
+Tracking
+Weapons (dagger) 2
+Weapons ()
+Willpower 5
+
+Actions and passives
+Combustion 
+IC: 3	Tags : short range, spell, magic, attack
+Effects: The character focuses its will and an enemy starts burning from within. This is a spiritual attack using Spells(fire). Damage is [Focus]
+Blink
+IC 3	Tags : defence, reaction, teleportation, magic, spell, self.
+Effects: the character may move [Power]m in any direction, providing they have seen the destination at some point. They may ignore any terrain while doing this movement.
+Fire spreads
+Effects : If a character is within 2m of the first target of a fire spell of this character, it may be added as an additionnal target.

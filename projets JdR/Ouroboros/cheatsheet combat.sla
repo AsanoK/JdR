@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Titre" ALIGN="1" FONT="A028 Extrabold Regular" FONTSIZE="25" FONTFEATURES="-clig,-liga" LANGUAGE="fr"/>
+        <STYLE NAME="Titre 1" LINESP="22" DROP="0" Bullet="0" Numeration="0" FONT="A028 Medium Regular" FONTSIZE="20" FONTFEATURES="-clig,-liga"/>
+        <STYLE NAME="Titre 2" PARENT="Titre 1" ALIGN="0" LINESP="15" FIRST="14.1732283464567" DROP="0" Bullet="0" BulletStr="−" Numeration="0" FONT="A030 Bold" FONTSIZE="14">
+            <Tabs Type="0" Pos="14.1732283464567" Fill=""/>
+        </STYLE>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="A028 Extrabold Regular"/>
+            <Subset Name="A028 Medium Regular"/>
+            <Subset Name="A030 Regular"/>
+            <Subset Name="Arial Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="14.1732283464567" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.889763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="14.1732283464567" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="26597" XPOS="0" YPOS="0" OwnPage="-1" ItemID="176465584" PTYPE="4" WIDTH="240.247164019752" HEIGHT="148.679033764847" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" copath="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="240.247164019752" gHeight="148.679033764847" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Attributs"/>
+                <trail/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <PAGEOBJECT XPOS="100" YPOS="61.0169491525424" OwnPage="0" ItemID="170291104" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="100" gYpos="61.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Basic rules"/>
+                <para PARENT="Titre 1"/>
+                <ITEXT CH="Turn structure and initiative tracker"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="The initiative tracker is the current value of initiative that is playing. If the tracker comes at your initiative value, you have a turn to play."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="IC of actions is added to your initiative value"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Basic concepts"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="Each action is summarized by an action card, with the following informations: name, IC, tags and effects."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Normal actions are resolved immediately, and their IC is added to the initiative of the character."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Reactions may not be undertaken during the normal turn, but once between each normal turn, a character may use one reaction, and add its IC to their initiative."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Charging actions add immediately their IC to the initiative, but are only resolved right before the next turn of the character."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="If a character is waiting for one of their charging action to be resolved, it can be interrupted in two ways: either if the character undertakes any reaction, or if they are affected by an action with the interrupting tag. In this case, their action is wasted."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Attacks and defences"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="They are normal or opposed checks, depending on a possible enemy reaction. If the check is normal, the difficulty is equal to the passive defence of the target."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Either way, if the check is a success for the attacker, they inflict damage, calculated by adding the margin of the attack check to the damage value of the action used."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="A character may suffer a number of injuries equal to their HP before being killed."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="303" YPOS="59.0169491525424" OwnPage="0" ItemID="172741472" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="303" gYpos="59.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="172683808" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Tags"/>
+                <para PARENT="Titre 1"/>
+                <ITEXT CH="Adjacent"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="An action with the adjacent tag may target any character that is at less than 3m from them."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Attack"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="An attack is a type of action destined to injure another character."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Bulk (X)"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="Any movement action done takes a penalty of X to its IC"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Charging"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="A charging action adds its IC to the initiative immediately, but is only resolved right before the character’s next turn."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Defence"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="A defence action is a reaction that transform an attacker check threshold into an opposed check, instead of a normal one."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Focus"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="Some magical abilities need a focus to work properly. The focus has a focus score."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Interrupting"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="An interrupting action wastes charging action declared by an affected character."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Lethal"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="To calculate damage from this action, the margin of success of an attack test is doubled."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Long-range"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="The action targets a character within 50m."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Melee"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="This action may target a character within arm’s reach."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Movement"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="This action makes the character move voluntarily."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Piercing (X)"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="The action ignores X point of damage reduction the target may have against this action"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Protection(X)"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="Reduce any damage suffered from attacks. Physical protection only works against normal attacks, spiritual protection works only against spiritual attacks."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Quick"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="This action does not end a character’s turn, instead, their IC is added to another action’s cost that is played at the same turn."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Reaction"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="One reaction is allowed between each turn of a character. Each have a condition that has to be met before declaring it. The IC is added immediately to the character’s initiative normally."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Self"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="This action may target the character using it."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Short-range"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="The attack targets a character within 15m."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Weapon range"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="This action affects a character within the weapon’s range."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Basic actions"/>
+                <para PARENT="Titre 1"/>
+                <ITEXT CH="Attack"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 3; Effect: The characters make a [weapon] check and if the attack is successful, rolls damage according to the weapon used. Tags: attack, melee"/>
+                <para/>
+                <ITEXT CH="Dodge"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 2; Effect: The character may use a dodge check to defend itself against an incoming non-spiritual attack. Whatever the result of the opposed check, the character may move [margin]m while the attack is being resolved. Tags: self, defence, reaction, movement"/>
+                <para/>
+                <ITEXT CH="Grab"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 2; Effect: if a character should fall, they may make a Speed check in order to grab something to hold onto and put themselves back on their feet. The difficulty of the check is determined by the GM, depending on the terrain, but should in most cases be 1. Tags: self, reaction"/>
+                <para/>
+                <ITEXT CH="Move"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 2"/>
+                <para/>
+                <ITEXT CH="Effect: The character may move [movement]m."/>
+                <para/>
+                <ITEXT CH="Tags: self, movement"/>
+                <para/>
+                <ITEXT CH="Parry"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 2; Effect: The character may resist an incoming non-spiritual attack. Whatever the res attack using the parry skill. If they win the opposed check, they may reduce their initiative value by 1. Tags: self, defence, reaction"/>
+                <para/>
+                <ITEXT CH="Sprint"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC:4; Effect: The character may move 2x[movement]m, and make a high or long jump, using the Athletics skill. Tags:self, movement"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="505" YPOS="60.0169491525424" OwnPage="0" ItemID="172683808" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="505" gYpos="60.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="170532912" BACKITEM="172741472"/>
+        <PAGEOBJECT XPOS="102.373415187508" YPOS="940.881355932204" OwnPage="1" ItemID="170532912" PTYPE="4" WIDTH="184.271186440678" HEIGHT="763.932203389831" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" copath="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" gXpos="102.373415187508" gYpos="940.881355932204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="172683808"/>
+        <PAGEOBJECT XPOS="303.729347390898" YPOS="1264.8813559322" OwnPage="1" ItemID="5206432" PTYPE="2" WIDTH="351.457627118644" HEIGHT="438.101694915254" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.600962544465369" LOCALSCY="0.600962544465369" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="schéma combats.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" copath="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" gXpos="303.729347390898" gYpos="1264.8813559322" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

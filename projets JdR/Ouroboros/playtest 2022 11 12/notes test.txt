@@ -1,0 +1,11 @@
+Avant-Première :
+même init : laisser le choix aux PJs
+bulk : aucun malus sur l'athlé par exemple
+Qu'est ce qui se passe en cas d'ex aequo sur att/def
+Préciser le type d'armes sur chaque arme
+Augmenter l'IC des sorts sur le focus
+
+équilibrage : 
+	virer le bulk des vêtements
+	modifier passif emelia pour renvoyer les dmg additionnels en cas d'overkill
+	revoir soigneusement l'équilibre de chaque PJ en fonction de ce que j'ai pu voir lors du playtest 1 + des changements de règles.

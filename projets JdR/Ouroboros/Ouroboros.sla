@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="30" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="Bullet Symbols" CPARENT="Default Character Style" FONT="OpenSymbol Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Standard" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" BCOLOR="None" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Heading" PARENT="Standard" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Regular" FONTSIZE="14" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Text body" PARENT="Standard" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="List" PARENT="Text body" ALIGN="0" LINESPMode="1" INDENT="14.1732283464567" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" DROP="0" Bullet="1" BulletStr="›" Numeration="0" BCOLOR="None" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Caption" PARENT="Standard" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Serif Italic" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Index" PARENT="Standard" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" BCOLOR="None" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Title" PARENT="Heading" ALIGN="1" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Bold" FONTSIZE="28" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Heading 1" PARENT="Heading" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Bold" FONTSIZE="18.2" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Heading 2" PARENT="Heading" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Bold" FONTSIZE="16.1" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Heading 3" PARENT="Heading" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Bold" FONTSIZE="14.14" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Subtitle" PARENT="Heading" ALIGN="1" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="3.00472440944882" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Regular" FONTSIZE="18" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Heading 4" PARENT="Heading" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None" FONT="Liberation Sans Bold Italic" FONTSIZE="13.3" FEATURES="inherit" FCOLOR="Black" BGCOLOR="None"/>
+        <STYLE NAME="Titre" PARENT="Title" ALIGN="1" FONT="Sylfaen Regular" FONTFEATURES="-clig"/>
+        <STYLE NAME="Sous-titre" PARENT="Titre" FONTSIZE="15" FSHADE="70"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="1" Bookmarks="1" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1-17" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="0" openAction="">
+            <Fonts Name="Sylfaen Regular"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Liberation Sans Bold"/>
+            <Subset Name="Liberation Sans Bold Italic"/>
+            <Subset Name="Liberation Sans Regular"/>
+            <Subset Name="Liberation Serif Bold"/>
+            <Subset Name="Liberation Serif Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="29" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.889763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.77952755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.66929133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.44881889764" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5311.33858267717" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6193.2283464567" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7075.11811023622" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7957.00787401575" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="8838.89763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="9720.78740157481" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="10602.6771653543" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="11484.5669291339" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="12366.4566929134" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="13248.3464566929" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="14130.2362204724" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="16" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="15012.125984252" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="17" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="15894.0157480315" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="18" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="16775.905511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="19" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="17657.7952755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="20" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="18539.6850393701" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="21" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="19421.5748031496" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="22" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20303.4645669291" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="23" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="21185.3543307087" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="24" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="22067.2440944882" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="25" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="22949.1338582677" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="26" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="23831.0236220472" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="27" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="24712.9133858268" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="28" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="25594.8031496063" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="29" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="10.8474576271186" YPOS="16.7457627118644" OwnPage="0" ItemID="174604928" PTYPE="2" WIDTH="853.016949152542" HEIGHT="848.135593220339" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.65651483050847" LOCALSCY="1.65651483050847" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../Pictures/Ouroboros/images générées - converties/cover 3.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L853.017 0 L853.017 848.136 L0 848.136 L0 0 Z" copath="M0 0 L853.017 0 L853.017 848.136 L0 848.136 L0 0 Z" gXpos="10.8474576271186" gYpos="16.7457627118644" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="60" OwnPage="0" ItemID="174638368" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="60" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="175251520" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" LINESP="12"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Ouroboros"/>
+                <para PARENT="Titre"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Antoine Robin"/>
+                <para PARENT="Subtitle"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Introduction"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="The Wilderness and the Spark"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Character creation"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Calling"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Manifestation of the Spark"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Specialisation"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Rules"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Checks"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Basic checks"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Checks are defined by their pool and threshold."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Checks are made by rolling a number of d10 equals to the pool. "/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Any result with 8+ is a success, and 10s are explosives: you may roll an additional dice for each one and keep any success generated that way. You may continue to reroll any die that keep exploding."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The margin of a test is the difference between the threshold and the number of success: if there is not enough successes, it will be a failure margin, otherwise it is the success margin. If the number of success is equal to the threshold, the check is a success, but at a cost. In many cases, the rules should be clear about what the cost is supposed to be, but players can always offer another idea if they feel it can bring something to their story."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Opposed checks"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Opposed checks are made by having two players (or a player and the GM) roll each a check, and comparing the result with one another, as if the number of success of the opposing side was the threshold."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="In case of a draw, the GM has the final say in what happens, the general guideline being both side should get something, for instance, half the damage on an attack."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Pushing a check"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="A player (not the GM) can decide to push any check, increasing the potential result, but taking more risks as well."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="In that case, successes are obtained on 6+, but the character suffers a number of damages equal to the number of 1s. These damages may never be reduced by any mean."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Teamwork"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="If one or several characters are attempting to help another succeed, they may use the teamwork rule: each character makes a check, and each success is added to the main check’s pool of dices."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Attributes"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Corruption"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The way in which the corruption has grown into the character. It may not control their actions, but it will certainly influence them over time."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="It is used to better understand this corruption, and harness its powers to use weird and damning abilities."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Empathy"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The way a character can interact with ease with others, and understand their motives and feelings."/>
+                <breakline/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Its most common use is to negotiate with others, but also to practice medicine."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Might"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The physical strength, that is very useful to repel the creatures, but also other humans."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Its has fairly limited use out of combat, but is the attribute that mostly corresponds to damages, and the use of overly large weapons."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Power"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Power measures how much magic the character can master by their will."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="It is used as a magic or spiritual equivalent to Might."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Precision"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The ability to coordinate delicate movements, and-eye coordination, but also some degree of situational awareness."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="It is used for shooting ranged weapons, but also for most crafting skills."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Speed"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The speed corresponds both to the ability to run fast, but also to make sudden moves."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="As Might, its main use is in combat, mostly for “light” characters that may want to be out of the way of creatures."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Stamina"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Some try to dodge problems, a character with high stamina will probably just withstand them, or at least have more margin than its more fragile counterparts."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="It is used to withstand hits and attacks, both physical or magical, but also in the most physical crafts, such as metalwork."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Wilderness"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Knowing the wilderness and the beasts ruling them is the first step leading to their defeat, or perhaps you feel more connection to them than to fellow humans."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="It allows to track and learn about beasts with more efficiency, as well as using primal spells."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Secondary scores"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Hit Points"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Passive defence"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Skills"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Affinity: primal or divine or corruption"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Athletics"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Camp and cooking"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Craft: metals, skins, bones and woods, herbs&amp;potions"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Deception"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Discussion"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Dodge"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Intimidation"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Logic"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Lore: wilderness, corruption"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Miracles: church of Icons or Purple Cult"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Music"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Negotiation"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Observation"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Parry"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Religion: Church of Icons or Purple Cult"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Resting"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Rituals: corruption, fleshcraft"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Spells: primal or corruption"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Stability"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Stealth"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Survival"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Tracking"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Weapons: light, long, heavy, gunpowder, throw and missile weapons"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Willpower"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Exploration rules"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Choosing a goal"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Different types of expeditions can be undertaken in the Wilderness, depending on what the goal is:"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Hunting a specific beast"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Surveying a zone to find out what are the creatures and interest points, or to gather resources from this zone"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Going to a specific landmark, including a haven. You need to know where is the landmark before planning an expedition to it,, otherwise you are surveying a zone"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="These three categories will require different time to be completed, and different skillsets."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Planning an expedition"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The GM will determine how long the party takes to make the journey to its destination, depending on terrain, and problems encountered along the way."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Members of the party have to fulfil a number of roles for their expedition to go. If a role is not fulfilled, then the corresponding actions may not be undertaken. NPCs may fill one or more roles if necessary. A PC may only fulfil one role during expedition. Additional characters may provide assistance to various checks. If necessary, a character may change their role during an expedition:"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Guide"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Camp master"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Watcher"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Forager (optional)"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Some expedition goals may require additional roles/"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="To survey a zone, you need a surveyor, and you may need gatherers (optional)"/>
+                <para PARENT="List"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="To hunt a specific beast, you will need to have a tracker"/>
+                <para PARENT="List"/>
+                <ITEXT CH="Every step of the way"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Each day, the party needs to undertake a few tasks, in order to survive in the Wilderness, depending on the role the character has chosen."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Each day the "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="guide"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" needs to roll to make sure the party is heading the right direction. The difficulty will vary depending on what the party is looking for: a specific place is much harder to find than a huge zone you want to survey. If you have several guides, they use the teamwork rules to figure out the path to follow."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="camp master"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" is the one in charge with setting up the camp and cooking for the rest of the group. It may seem trivial, but it is part of the preparation na party may undertake before a day full of dangers. Each success will reduce the threshold for the resting check of one party member from hard to easy. You may have several camp masters, they each may make a check."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="watcher "/>
+                <ITEXT FONT="Liberation Serif Regular" CH="makes sure no danger is able to take the party by surprise, either by keeping an eyes on the surroundings or proactively roaming around the party to find out what may threaten them. Checks are opposed by any danger the group may encounter, from creatures to natural dangers. If you have several watchers, they use the teamwork rules to find danger."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Bold" CH="Forager"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" is tasked with finding food, water and basic fuel for the camp master. Every success in the daily check allows to provide the basic resources needed for one character; every missing may be complemented with rations the party may take with them. You may have several foragers, in which case, each makes their own check."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="surveyor "/>
+                <ITEXT FONT="Liberation Serif Regular" CH="is tasked with finding interesting resources and creatures in a zone. They may make a check per day, when in the surveyed zone, to find resources to get from the Wilderness: creatures, minerals, plants; each success corresponds to one level of resource from the zone they are looking into, up to the resource level decided by the DM. More in the resource gathering rules. If a party has several surveyors, they use teamwork rules."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Bold" CH="Gatherers"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" are actively looking to get resources from a surveyed zone. They can undertake a check each day as per the gathering resources rules. If you have several gatherers, each may roll their own checks."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Combat rules"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Turn structure and initiative tracker"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The initiative tracker is the current value of initiative that is playing. If the tracker comes at your initiative value, you have a turn to play. If two characters act at the same initiative, the players get to choose the order in which turns are resolved."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Each action undertaken by a character has an initiative cost (IC), that is immediately added to the initiative value of that character. The actions with the "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="quick"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" tag are added to the tracker only after the next action (effectively modifying the next action’s IC)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Basic concepts"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Each action is summarized by an action card, with the following informations: name, IC, tags and effects."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Normal actions are resolved immediately, and their IC is added to the initiative of the character."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Bold" CH="Reactions"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" may not be undertaken during the normal turn, but once between each normal turn, a character may use one reaction, and add its IC to their initiative."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Bold" CH="Charging"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" actions add immediately their IC to the initiative, but are only resolved right before the next turn of the character."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="If a character is waiting for one of their "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="charging"/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" action to be resolved, it can be interrupted in two ways: either if the character undertakes any reaction, or if they are affected by an action with the "/>
+                <ITEXT FONT="Liberation Serif Bold" CH="interrupting "/>
+                <ITEXT FONT="Liberation Serif Regular" CH="tag. In this case, their action is wasted."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Attacks and defences"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Attacks are the main way to dispatch an enemy."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="They are normal or opposed checks, depending on a possible enemy reaction. If the check is normal, the difficulty is equal to the passive defence of the target."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Either way, if the check is a success for the attacker, they inflict damage, calculated by adding the margin of the attack check to the damage value of the action used."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="A character may suffer a number of injuries equal to their HP before being killed."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="If the check is a draw, the defender suffers damages, but apply effects of their reaction if they have one."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Adjacent"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="An action with the adjacent tag may target any character that is at less than 3m from them."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Attack"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="An attack is a type of action destined to injure another character. Attacks may be against passive enemy defence, or active, if they play a defence reaction. An attack IC is modified by the weapon’s weight."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Bulk(X)"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Any movement action done takes a penalty of X to its IC"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Charging"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="A charging action adds its IC to the initiative immediately, but is only resolved right before the character’s next turn."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold Italic" FONTSIZE="13.3" CH="Defence"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="A defence action is a reaction that transform an attacker check threshold into an opposed check, instead of a normal one."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Focus"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Some magical abilities need a focus to work properly. The focus has a focus score."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Interrupting"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="An interrupting action wastes charging action declared by an affected character."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Lethal"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="To calculate damage from this action, the margin of success of an attack test is doubled."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Long-range"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The action targets a character within 50m."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Melee"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="This action may target a character within arm’s reach."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Movement"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="This action makes the character move voluntarily."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Piercing (X)"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The action ignores X point of damage reduction the target may have against this action"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Protection(X)"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Reduce any damage suffered from attacks. Physical protection only works against normal attacks, spiritual protection works only against spiritual attacks."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Each time you suffer an attack you can resist, make a check with a pool of X dices, each success reduces damage by 1."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Quick"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="This action does not end a character’s turn, instead, their IC is added to another action’s cost that is played at the same turn."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Reaction"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="One reaction is allowed between each turn of a character. Each have a condition that has to be met before declaring it. The IC is added immediately to the character’s initiative normally."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Self"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="This action may target the character using it."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Short-range"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="The attack targets a character within 15m."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Shove(X)"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Target(s) are moved by X meters, and have to succeed a Stamina+Stability check (difficulty X) or be thrown on the ground."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="If a shoved character is blocked by the terrain, they suffer a number of damage equal to the remaining distance. If they are thrown off a ledge, they will fall."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold Italic" FONTSIZE="13.3" CH="Weapon range"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="This action affects a character within the weapon’s range."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Basic actions and reactions"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="These actions are accessible to any player character, regardless of equipment and skills."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Attack"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: The characters make a [weapon] check and if the attack is successful, inflict damage according to the weapon used."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: attack, melee"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Dodge"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2 (modified by armour's weight)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: The character may use a Speed+dodge check to defend itself against an incoming non-spiritual attack. Whatever the result of the opposed check, the character may move [margin]m while the attack is being resolved."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: self, defence, reaction, movement"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Grab a ledge"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: if a character should fall, they may make a Speed check in order to grab something to hold onto and put themselves back on their feet. The difficulty of the check is determined by the GM, depending on the terrain, but should in most cases be 1."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: self, reaction"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Move"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: The character may move [movement]m. If the character is prone, they may instead get back on their feet."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: self, movement"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Parry"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: The character may resist an incoming non-spiritual attack. They resist attack using the precision + parry skill. If they win the opposed check, they may reduce their initiative value by 1."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: self, defence, reaction"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Resist"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: the character may resist a spiritual attack using Empathy or Corruption+Willpower. If they win the opposed check, the opponent gains IC + margin."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Sprint"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC:4"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effect: The character may move 2x[movement]m, and make a high or long jump, using the Athletics skill."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: self, movement"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Character actions"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Evil manifests itself"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 6"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual attack using spells(corruption). Damage is [Power]"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: spell, attack, targets (Power), short range, corruption, spiritual, magic"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Call of the abyss"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 5"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Effects: tentacles are called from Beyond the veil, through a small portal opened by the character. Target suffers an attack using spells(occult). Damage is [Focus]"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: attack, spell, short range, Beyond, interrupting"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Bane"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects: The sword surges with its own power, ready to cut through anything. For the next attack using the sword, the character gains the tag lethal or interrupting(their choice)."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: self, object, relic, magic"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Charge"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 5"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects: The character prepares to rush forward, shoving enemies away and cutting them as moving. The character may move 2x[movement]m, and may displace enemies on the way with a Might+athletics check, then make a standard attack."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: self, movement, charging, interrupting"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Combustion"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects: The character focuses its will and an enemy starts burning from within. This is a spiritual attack using Spells(fire). Damage is [Focus]"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags : short range, spell, magic, attack"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Blink"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects : the character may move [Power]m in any direction, providing they have seen the destination at some point. They may ignore any terrain while doing this movement."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags : defence, reaction, teleportation, magic, spell, self."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Counter-attack"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects : the character may oppose an incoming non-spiritual attack by using [weapon]. If the character wins the opposed check, they may inflict damage, as if they had just succeeded in a normal attack."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags : reaction, defence, attack, weapon-range"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Critical strike"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects: the character may attack an identified weak point of an enemy. If the strike succeeds, the attack gains the tags lethal and piercing."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: attack, weapon-range, charging"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Reconstruct"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 6"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects: the character may come back, even from horrible wounds. The character immediately regains [Stamina] HP and bring themselves back on their feet."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: heal, self"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Raise the banner high"/>
+                <para PARENT="Heading 4" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="6.00944881889764" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC: 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Effects : The character may raise up a symbol of their authority or pride, to bring more courage to their allies. Targeted characters will reduce the IC of their next action by 1."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Tags: Targets (5), buff, short range."/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Being wounded, dying and the spark"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Wounds"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="A character may suffer a number of wounds equal to their HP before being out of action."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Death"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="An out-of-action character may be killed by a creature during a fight, by using the Kill special action. If every character is the group is put out of action, the whole group is considered killed."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="However, an Ouroboros character is special because of their Spark, and will be brought back by whatever force is behind this Spark: they “respawn” back at a nearby Haven (most probably the last they visited)."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="But dying has its cost, anytime the group dies completely, there is some narrative consequence: a haven is destroyed, the creature gets stronger for the next face-off, a friendly NPC gets killed"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT CH="Equipments"/>
+                <para PARENT="Heading 1" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Equipments will give some rules, allow access to certain actions and/or modify how certain actions work."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Armor"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Mail armor"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Physical protection (4), bulk1"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Plate armor"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Physical protection (7), bulk 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Sturdy clothes"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Physical protection (1)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Weapons"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Dagger"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="IC -1 (min 1); Checks:speed + weapon(light); Damage [Precision]"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Ember's lantern"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC +1; Checks: Power + spells(any)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="special: gives the lethal tag to any fire spell using this focus; Focus (2)"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Longsword"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC +1; Checks: Speed + weapon(light)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Damage [Might] or [Precision]"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Two-handed sword"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC +3; Checks: Precision+weapon (long)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Damage [Might]+3"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: piercing 1"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14.14" CH="Mace"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC +2; Checks: Speed + weapon(light)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Damage [Might]"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Tags: piercing 2"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Wand of the abyss"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="IC +2; Checks: Power + spells (any)"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Focus (3)"/>
+                <para PARENT="Text body" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT CH="Adventuring gear"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Standard of the lost knights"/>
+                <para PARENT="Heading 3" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="7.00157480314961" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Serif Regular" CH="Special: +1 to any check to resist attacks made by creatures for anyone fighting under that banner."/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.00157480314961" BCOLOR="None"/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="16.1" CH="Artefacts"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Resource gathering"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <ITEXT CH="Crafting and upgrading equipment"/>
+                <para PARENT="Heading 2" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="10.0062992125984" NACH="6.00944881889764" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Running Ouroboros"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+                <breakframe/>
+                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="18.2" CH="Creatures of the Wilderness"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="11.9905511811024" NACH="6.00944881889764" BCOLOR="None"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="941.889763779528" OwnPage="1" ItemID="175251520" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="941.889763779528" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="175256896" BACKITEM="174638368"/>
+        <PAGEOBJECT XPOS="140" YPOS="1823.77952755906" OwnPage="2" ItemID="175256896" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="1823.77952755906" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="176271904" BACKITEM="175251520"/>
+        <PAGEOBJECT XPOS="140" YPOS="2705.66929133858" OwnPage="3" ItemID="176271904" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="2705.66929133858" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="176277280" BACKITEM="175256896"/>
+        <PAGEOBJECT XPOS="140" YPOS="3587.55905511811" OwnPage="4" ItemID="176277280" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="3587.55905511811" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="174532976" BACKITEM="176271904"/>
+        <PAGEOBJECT XPOS="140" YPOS="4469.44881889764" OwnPage="5" ItemID="174532976" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="4469.44881889764" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="174538352" BACKITEM="176277280"/>
+        <PAGEOBJECT XPOS="140" YPOS="5351.33858267716" OwnPage="6" ItemID="174538352" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="5351.33858267716" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="174543728" BACKITEM="174532976"/>
+        <PAGEOBJECT XPOS="140" YPOS="6233.22834645669" OwnPage="7" ItemID="174543728" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="6233.22834645669" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="187842624" BACKITEM="174538352"/>
+        <PAGEOBJECT XPOS="140" YPOS="7115.11811023622" OwnPage="8" ItemID="187842624" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="7115.11811023622" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195289088" BACKITEM="174543728"/>
+        <PAGEOBJECT XPOS="140" YPOS="7997.00787401575" OwnPage="9" ItemID="195289088" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="7997.00787401575" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="187848000" BACKITEM="187842624"/>
+        <PAGEOBJECT XPOS="140" YPOS="8878.89763779527" OwnPage="10" ItemID="187848000" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="8878.89763779527" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="187850832" BACKITEM="195289088"/>
+        <PAGEOBJECT XPOS="140" YPOS="9760.7874015748" OwnPage="11" ItemID="187850832" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="9760.7874015748" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195272736" BACKITEM="187848000"/>
+        <PAGEOBJECT XPOS="140" YPOS="10642.6771653543" OwnPage="12" ItemID="195272736" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="10642.6771653543" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195277632" BACKITEM="187850832"/>
+        <PAGEOBJECT XPOS="140" YPOS="11524.5669291339" OwnPage="13" ItemID="195277632" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="11524.5669291339" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195283008" BACKITEM="195272736"/>
+        <PAGEOBJECT XPOS="140" YPOS="12406.4566929134" OwnPage="14" ItemID="195283008" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="12406.4566929134" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195299920" BACKITEM="195277632"/>
+        <PAGEOBJECT XPOS="140" YPOS="13288.3464566929" OwnPage="15" ItemID="195299920" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="13288.3464566929" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195316912" BACKITEM="195283008"/>
+        <PAGEOBJECT XPOS="140" YPOS="14170.2362204724" OwnPage="16" ItemID="195316912" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="14170.2362204724" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195302752" BACKITEM="195299920"/>
+        <PAGEOBJECT XPOS="140" YPOS="15052.125984252" OwnPage="17" ItemID="195302752" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="15052.125984252" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195305584" BACKITEM="195316912"/>
+        <PAGEOBJECT XPOS="140" YPOS="15934.0157480315" OwnPage="18" ItemID="195305584" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="15934.0157480315" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195319744" BACKITEM="195302752"/>
+        <PAGEOBJECT XPOS="140" YPOS="16815.905511811" OwnPage="19" ItemID="195319744" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="16815.905511811" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195314080" BACKITEM="195305584"/>
+        <PAGEOBJECT XPOS="140" YPOS="17697.7952755905" OwnPage="20" ItemID="195314080" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="17697.7952755905" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195311248" BACKITEM="195319744"/>
+        <PAGEOBJECT XPOS="140" YPOS="18579.6850393701" OwnPage="21" ItemID="195311248" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="18579.6850393701" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195322576" BACKITEM="195314080"/>
+        <PAGEOBJECT XPOS="140" YPOS="19461.5748031496" OwnPage="22" ItemID="195322576" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="19461.5748031496" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195297088" BACKITEM="195311248"/>
+        <PAGEOBJECT XPOS="140" YPOS="20343.4645669291" OwnPage="23" ItemID="195297088" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="20343.4645669291" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195325408" BACKITEM="195322576"/>
+        <PAGEOBJECT XPOS="140" YPOS="21225.3543307087" OwnPage="24" ItemID="195325408" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="21225.3543307087" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195308416" BACKITEM="195297088"/>
+        <PAGEOBJECT XPOS="140" YPOS="22107.2440944882" OwnPage="25" ItemID="195308416" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="22107.2440944882" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195389168" BACKITEM="195325408"/>
+        <PAGEOBJECT XPOS="140" YPOS="22989.1338582677" OwnPage="26" ItemID="195389168" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="22989.1338582677" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195372176" BACKITEM="195308416"/>
+        <PAGEOBJECT XPOS="140" YPOS="23871.0236220472" OwnPage="27" ItemID="195372176" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="23871.0236220472" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195375008" BACKITEM="195389168"/>
+        <PAGEOBJECT XPOS="140" YPOS="24752.9133858268" OwnPage="28" ItemID="195375008" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="24752.9133858268" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="195377840" BACKITEM="195372176"/>
+        <PAGEOBJECT XPOS="140" YPOS="25634.8031496063" OwnPage="29" ItemID="195377840" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140" gYpos="25634.8031496063" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="195375008"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

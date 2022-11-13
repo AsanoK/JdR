@@ -1,0 +1,33 @@
+maggot
+HP : 5
+attaque 6
+défense 3
+Actions : attaque (IC 3, dmg 2, portée adjacent), burrow (IC4, movement, disappears until next aciton)
+
+maggot swarm
+HP : 15
+attaque 4
+défense 2
+Actions : attaque(IC 4, dmg4, adjacent, piercing 2), rush (IC 6, movement 5m, attack dmg 2 on the movement line)
+
+queen maggot
+HP : 30
+attaque 7
+défense 4
+Actions : 
+rush : IC 6, move forward 10m, attacks anything on the path, charging, dmg 6
+Swipe: IC 8, targets (4), 5m-range, charging, dmg7
+bite : IC 4, arm's reach, dmg 4
+
+ratman ranger
+HP : 4
+attaque 6
+défense 5
+dagger strike : IC 3, dmg2 (3 if another ally is on the other side)
+stride : quick, IC2, same as a move action
+
+ratman shaman
+HP : 3
+attaque 4
+défense 4
+Call of the plague : IC5, charging, spiritual attack dmg 5, targets (2)
