@@ -7,24 +7,24 @@ Background: Emelia is a survivor before everything : she survived the destructio
 
 Equipment
 Ember's lantern
-special: gives the lethal tag to any spellcasting using this focus
-Tags: Focus(2)
+IC +1; Checks: Power + spells(any)
+special: +2 to any check to find danger made as the group's Watcher; damage 3
 Dagger
-IC -1(min 1)
-Damage 1
+IC -1 (min 1); Checks: speed + weapon(light)
+Damage [Precision]
 Sturdy clothes
-Tags: Physical protection (1), bulk 1
+Tags: Physical protection (1)
 
 Attributes
 Corruption 3
-Empathy 2
+Empathy 3
 Might 2
-Power 6
+Power 4
 Precision 2
 Speed 4
-Stamina 2
+Stamina 3
 Wilderness 4
-Hit Points 4
+Hit Points 5
 Passive Defense 2
 Movement 6
 
@@ -52,16 +52,16 @@ Stability
 Stealth 3
 Survival 4
 Tracking
-Weapons (dagger) 2
+Weapons (light) 2
 Weapons ()
 Willpower 5
 
 Actions and passives
 Combustion 
-IC: 3	Tags : short range, spell, magic, attack
-Effects: The character focuses its will and an enemy starts burning from within. This is a spiritual attack using Spells(fire). Damage is [Focus]
+IC: 3	Tags : short range, spell, magic, attack, lethal
+Effects: The character focuses its will and an enemy starts burning from within. This is a spiritual attack using Spells(fire).
 Blink
 IC 3	Tags : defence, reaction, teleportation, magic, spell, self.
 Effects: the character may move [Power]m in any direction, providing they have seen the destination at some point. They may ignore any terrain while doing this movement.
 Fire spreads
-Effects : If a character is within 2m of the first target of a fire spell of this character, it may be added as an additionnal target.
+Effects : If Fire spell from this character kills a creature, any damage not used may be redirected to another, 2m from the first one. It does not necessitate a new spell check, but may be resisted with protection.

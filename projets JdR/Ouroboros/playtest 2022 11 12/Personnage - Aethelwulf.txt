@@ -8,25 +8,26 @@ One of the fallen knights of the Kingdom of Orleic, he managed to maintain his s
 His quest and oath did not end after he died during the Cataclysm, and he still looks for clues in what remains of the kingdom of Orleic.
 
 Equipment
-longsword
-IC +1	Damage 3
-standard of the lost knights
-special : +1 to any check to resist attacks made by creatures for anyone fighting under that banner.
-mail armor
-Physical protection (5), Bulk 2
+Longsword
+IC +1; Checks: Speed + weapon(light)
+Damage [Might] or [Precision]
+Standard of the lost knights
+Special : +1 to any check to resist attacks made by creatures for anyone fighting under that banner.
+Mail armor
+Physical protection (4), Bulk 1
 Old trinket
 Spiritual protection (2)
 
 Attributes
 Corruption	3
-Empathy	2
+Empathy	4
 Might	4
 Power	2
 Precision	2
 Speed	4
-Stamina	6
+Stamina	4
 Wilderness	2
-Hit Points	10
+Hit Points	8
 Passive Defense	2
 Movement	6
 
@@ -54,13 +55,13 @@ Stability	3
 Stealth	0
 Survival	3
 Tracking	2
-Weapons (Long)	4
+Weapons (Light)	4
 Weapons ()	0
-Willpower	0
+Willpower	2
 
 Actions and passives
 Reconstruct
-IC: 2	Tags : heal, self
+IC: 6	Tags : heal, self
 Effects : The character may bring itself back on its feet, even from horrible wounds. The character immediately regains [Stamina] HP and bring themselve back on their feet.
 Raise the banner high
 IC: 2	Tags:Targets (5), buff, short range.

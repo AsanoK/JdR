@@ -1,0 +1,9 @@
+Objectifs HJ:
+-test des règles d'exploration, probablement un truc un peu ouvert
+-test des règles de craft ?
+-test des règles de création de personnages ?
+-faire de la pub interne à mon système maison
+-validation du concept en groupe complet
+
+Structure globale:
+

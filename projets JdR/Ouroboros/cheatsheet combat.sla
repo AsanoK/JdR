@@ -99,14 +99,14 @@
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="14.1732283464567" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="901.889763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="14.1732283464567" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <FRAMEOBJECT InID="26597" XPOS="0" YPOS="0" OwnPage="-1" ItemID="176465584" PTYPE="4" WIDTH="240.247164019752" HEIGHT="148.679033764847" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" copath="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="240.247164019752" gHeight="148.679033764847" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <FRAMEOBJECT InID="26597" XPOS="0" YPOS="0" OwnPage="-1" ItemID="174660032" PTYPE="4" WIDTH="240.247164019752" HEIGHT="148.679033764847" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" copath="M0 0 L240.247 0 L240.247 148.679 L0 148.679 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="240.247164019752" gHeight="148.679033764847" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Attributs"/>
                 <trail/>
             </StoryText>
         </FRAMEOBJECT>
-        <PAGEOBJECT XPOS="100" YPOS="61.0169491525424" OwnPage="0" ItemID="170291104" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="100" gYpos="61.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="100" YPOS="61.0169491525424" OwnPage="0" ItemID="174665408" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="100" gYpos="61.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Basic rules"/>
@@ -139,7 +139,7 @@
                 <trail PARENT="Default Paragraph Style"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="303" YPOS="59.0169491525424" OwnPage="0" ItemID="172741472" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="303" gYpos="59.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="172683808" BACKITEM="-1">
+        <PAGEOBJECT XPOS="303" YPOS="59.0169491525424" OwnPage="0" ItemID="175769056" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="303" gYpos="59.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="174776608" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Tags"/>
@@ -194,7 +194,9 @@
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="Protection(X)"/>
                 <para PARENT="Titre 2"/>
-                <ITEXT CH="Reduce any damage suffered from attacks. Physical protection only works against normal attacks, spiritual protection works only against spiritual attacks."/>
+                <ITEXT CH="Physical protection only works against normal attacks, spiritual protection works only against spiritual attacks."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Each time you suffer an attack you can resist, make a check with a pool of X dices, each success reduces damage by 1."/>
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="Quick"/>
                 <para PARENT="Titre 2"/>
@@ -211,6 +213,12 @@
                 <ITEXT CH="Short-range"/>
                 <para PARENT="Titre 2"/>
                 <ITEXT CH="The attack targets a character within 15m."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Shove(X)"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="Target(s) are moved by X meters, and have to succeed a Stamina+Stability check (difficulty X) or be thrown on the ground."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="If a shoved character is blocked by the terrain, they suffer a number of damage equal to the remaining distance. If they are thrown off a ledge, they will fall."/>
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="Weapon range"/>
                 <para PARENT="Titre 2"/>
@@ -242,14 +250,18 @@
                 <para PARENT="Titre 2"/>
                 <ITEXT CH="IC: 2; Effect: The character may resist an incoming non-spiritual attack. Whatever the res attack using the parry skill. If they win the opposed check, they may reduce their initiative value by 1. Tags: self, defence, reaction"/>
                 <para/>
+                <ITEXT CH="Resist"/>
+                <para PARENT="Titre 2"/>
+                <ITEXT CH="IC: 2; Effect: the character may resist a spiritual attack using Empathy or Corruption+Willpower. If they win the opposed check, the opponent gains IC + margin."/>
+                <para/>
                 <ITEXT CH="Sprint"/>
                 <para PARENT="Titre 2"/>
                 <ITEXT CH="IC:4; Effect: The character may move 2x[movement]m, and make a high or long jump, using the Athletics skill. Tags:self, movement"/>
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="505" YPOS="60.0169491525424" OwnPage="0" ItemID="172683808" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="505" gYpos="60.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="170532912" BACKITEM="172741472"/>
-        <PAGEOBJECT XPOS="102.373415187508" YPOS="940.881355932204" OwnPage="1" ItemID="170532912" PTYPE="4" WIDTH="184.271186440678" HEIGHT="763.932203389831" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" copath="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" gXpos="102.373415187508" gYpos="940.881355932204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="172683808"/>
-        <PAGEOBJECT XPOS="303.729347390898" YPOS="1264.8813559322" OwnPage="1" ItemID="5206432" PTYPE="2" WIDTH="351.457627118644" HEIGHT="438.101694915254" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.600962544465369" LOCALSCY="0.600962544465369" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="schéma combats.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" copath="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" gXpos="303.729347390898" gYpos="1264.8813559322" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="505" YPOS="60.0169491525424" OwnPage="0" ItemID="174776608" PTYPE="4" WIDTH="190.305618577339" HEIGHT="761.491525423729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" copath="M0 0 L190.306 0 L190.306 761.492 L0 761.492 L0 0 Z" gXpos="505" gYpos="60.0169491525424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="176184160" BACKITEM="175769056"/>
+        <PAGEOBJECT XPOS="102.373415187508" YPOS="940.881355932204" OwnPage="1" ItemID="176184160" PTYPE="4" WIDTH="184.271186440678" HEIGHT="763.932203389831" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" copath="M0 0 L184.271 0 L184.271 763.932 L0 763.932 L0 0 Z" gXpos="102.373415187508" gYpos="940.881355932204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="174776608"/>
+        <PAGEOBJECT XPOS="303.729347390898" YPOS="1264.8813559322" OwnPage="1" ItemID="176189536" PTYPE="2" WIDTH="351.457627118644" HEIGHT="438.101694915254" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.600962544465369" LOCALSCY="0.600962544465369" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="schéma combats.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" copath="M0 0 L351.458 0 L351.458 438.102 L0 438.102 L0 0 Z" gXpos="303.729347390898" gYpos="1264.8813559322" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>

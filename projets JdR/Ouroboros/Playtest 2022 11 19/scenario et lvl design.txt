@@ -1,0 +1,37 @@
+Tour inversée, bâtie au-dessus d'un immense gouffre souterrain, avec un ogre dégénéré comme bosse de fin.
+
+Adversaires:
+cultistes et bandits
+HP : 5, réduction dégâts 1
+attaque 6, défense 4
+actions : 
+poignard : IC3, dmg 2, adjacent, dmg bonus +2 si tenaille
+esquive: IC 3, reaction, comme PJs
+arc: IC5, dmg3
+
+sorcière des marais
+HP 20,
+attaque 9, défense 7
+actions:
+contrôle mental : IC 6, un PJ réalise une action au choix du MJ, avec cible de même
+blood whip: IC4, dmg2, portée 15m, interrupting
+
+araignée géante
+HP 8
+attaque 8, défense 4
+actions:
+mandibules : IC4, dmg 2, shove 2
+toile collante: IC6, imparrable, un PJ prend IC+6
+
+Silandre - mère des araignées
+HP 60, réduction dégâts 1
+attaque 10, défense 7
+Petits : IC 4, fait apparaître un essaim d'araignées à 5m
+body slam : IC 7, charging, shove 4, interrupting, portée 6m
+poison spit : IC4, dmg2, portée 15m, interrupting
+Chaos wave : IC6, targets (3), dmg 2
+	
+essaim d'araignées
+HP 15
+attaque 5, défense 3
+Actions : attaque(IC 4, dmg2, adjacent, piercing 2), enfouissement (IC 6, attack dmg 1, interrupting).

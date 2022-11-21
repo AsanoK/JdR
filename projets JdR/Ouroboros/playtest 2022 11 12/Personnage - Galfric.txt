@@ -7,14 +7,15 @@ Galfric hears voices from the abyss he found in an old ruin, and he started usin
 
 Equipment
 Dagger
-IC -1 (min 1)	Damage 1
-mace
-IC +2	tags : piercing 2
-damage 3
+IC -1 (min 1); Checks:speed + weapon(light); Damage [Precision]
+Mace
+IC +2; Checks: Speed + weapon(light)
+Damage [Might]; Tags: piercing 2
 Mail armor
-Tags: Physical protection (5), bulk 2
+Tags: Physical protection (4), bulk 1
 Wand of the abyss
-Focus (3)
+IC +2; Checks: Power + spells (any)
+Damage [Corruption]
 
 Attributes
 Corruption 5
@@ -60,9 +61,9 @@ Willpower 		2
 Actions and passives
 Evil manifests itself
 IC: 6	Tags: spell, attack, targets (Power), short range, corruption
-Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual attack using spells(corruption). Damage is [Power]
+Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual attack.
 Call of the abyss
 IC: 4	Tags: attack, spell, short range, interrupting, corruption
-Effects: tentacles are called from Beyond the veil, through a small portal opened by the character. Target suffers an attack using spells(occult). Damage is [Focus]
+Effects: tentacles are called from Beyond the veil, through a small portal opened by the character. Target suffers a physical attack.
 Residual presence
-Effects: Any corruption spell casted on a creature gives a mark, each mark adds 1 damage to the other corruption spells
+Effects: Any corruption spell casted on a creature gives a mark, each mark adds 1 damage to any other corruption spells. Max 3 marks on a creature.

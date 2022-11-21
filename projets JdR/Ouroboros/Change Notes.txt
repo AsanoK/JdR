@@ -1,0 +1,9 @@
+13.11.2022:
+-Ajout du tag shove
+-Changements d'équilibrage sur plusieurs actions
+-Changement du fonctionnement de la protection
+-Clarification sur l'initiative
+-Clarification sur les compétences à utiliser par arme
+20.11.2022:
+-Modifications d'équilibrages sur les armes (dague et longsword notamment)
+-Changement du fonctionnement de la dodge pour correspondre aux autres réactions

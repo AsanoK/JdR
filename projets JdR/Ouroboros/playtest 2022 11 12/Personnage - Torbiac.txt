@@ -6,11 +6,12 @@ Torbiac comes from the town of Lowend, former outskirt of the capital of Orleic,
 
 Equipment
 Dagger
-IC -1 (min 1)	Damage 1
-longsword
-IC +1	Damage 3
+IC -1 (min 1); Checks: Speed + weapon(light); Damage [Precision]
+Longsword
+IC +1; Checks: Speed + weapon(light)
+Damage [Might] or [Precision]
 Mail armor
-Tags: Physical protection (5), bulk 2
+Tags: Physical protection (4), bulk 1
 
 Attributes
 Corruption 2
@@ -55,10 +56,10 @@ Willpower 		0
 
 Actions and passives
 Critical strike
-Effects: the character may attack an identified weak point of an enemy. If the strike succeeds, the attack gains the tag piercing and adds [Precision] to its damages.
-Tags: attack, weapon-range, charging
+IC: 6; Tags: attack, weapon-range, charging
+Effects: the character may attack an identified weak point of an enemy. If the strike succeeds, the attack gains the tags piercing(2) and lethal.
 Counter-attack
+IC: 5; Tags : reaction, defence, attack, weapon-range
 Effects : the character may oppose an incoming non-spiritual attack by using [weapon]. If the character wins the opposed check, they may inflict damage, as if they had just succeeded in a normal attack.
-Tags : reaction, defence, attack, weapon-range
 Combat mobility
-Effects: the characters moves [margin] meter when making a reaction
+Effects: the characters moves [margin of the check]meter when making a reaction.

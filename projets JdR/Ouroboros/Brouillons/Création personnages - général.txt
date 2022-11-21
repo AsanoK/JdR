@@ -1,0 +1,23 @@
+éléments à choisir dans un personnage:
+-manifestation du spark
+-spécialisation
+-options d'actions (spé+manifestation)
+-background
+-motivation
+-détails techniques
+
+Chaque élément est un petit package à part entière, avec des attributs, et des compétences, parfois à mettre au choix.
+
+Manifestations:
+élémentaire, mort, physique et entité
+Spécialisations:
+chevalier, tueur, witch, cleric
+Backgrounds : 
+Survivant, mercenaire, noble, esclave
+Motivations:
+Conquête, héritage, revanche, compréhension
+
+spécialisations futurs :scholar
+Manifestations futures : relique
+Backgrounds futurs: criminel, rôdeur
+Motivations futures: traumatisme, maladie, prophétie
