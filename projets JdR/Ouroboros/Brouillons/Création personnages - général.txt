@@ -1,23 +1,102 @@
 éléments à choisir dans un personnage:
--manifestation du spark
--spécialisation
--options d'actions (spé+manifestation)
--background
--motivation
--détails techniques
+-manifestation du spark : compétences, action, passif
+-spécialisation : compétences, action
+-background : compétences
+-motivation : compétences
+-détails techniques : équipement et calculs
 
 Chaque élément est un petit package à part entière, avec des attributs, et des compétences, parfois à mettre au choix.
 
 Manifestations:
 élémentaire, mort, physique et entité
 Spécialisations:
-chevalier, tueur, witch, cleric
+chevalier, tueur, witch, zealot
 Backgrounds : 
 Survivant, mercenaire, noble, esclave
 Motivations:
 Conquête, héritage, revanche, compréhension
 
-spécialisations futurs :scholar
-Manifestations futures : relique
+spécialisations futurs :scholar (inc doctor), beastmaster
+Manifestations futures : relic
 Backgrounds futurs: criminel, rôdeur
 Motivations futures: traumatisme, maladie, prophétie
+
+Objectif total : 40aine de pts de compé, une petite dizaine de pts d'attributs (base = 2 sur chaque), équipement cohérent, 2-3 actions et 1-2 passifs
+Compétences : 10/20/5/5 (manif, spec, back, motiv), garder pas mal de choix pour les PJs pour qu'ils ne se sentent pas trop bloqués. Garde-fou à 5pts dans une compé max (création perso)
+Attributs : 3/3/3/3, garde-fou à 6 max création, chaque niveau ajoute 1 pts max par attribut.
+
+Backgrounds:(attr 3, skills 5)
+Survivant
+	STA +1, WILD or COR +1, other +1
+	Survival +1, Stealth +1, camp +1, free +2
+Mercenaire
+	SPE +1, MIG or PRE +1, other +1
+	Weapon (choice) +1, athletics +1, stability +1, free +2
+Noble
+	EMP +1, PRE or SPE +1, other +1
+	Parry or dodge +1, discussion +1, intimidation or negociation +1, free +2
+Esclave
+	STA +1, SPE or MIG +1, other +1
+	survival +1, athletics +1, stability +1, free +2
+
+Motivation: (attr 3, skills 5, story points)
+Conquest
+	MIG or POW +1, COR +1, other +1
+	Weapon (choice) +1, lore (war)+2, free +2
+	Story points : elements of a plan, gathering troops, unification options
+Legacy
+	EMP +1, WILD or PRE +1, other +1
+	lore (heraldry or history) +2, observation +1, free +2
+	knowledge about the family, artefact discovery, family member, old rivals
+Revenge
+	SPE +1, MIG or PRE +1, other +1
+	Weapon (choice) or spell (choice) +1, lore (enemy) +2, free +2
+	finding enemy's lieutenant, getting intel, having a choice to make about their survival
+Understanding
+	EMP +1, COR or WILD+1, other +1
+	Lore (choice) +2, observation+1, free +1
+	getting knowledge about something dark, preserving intel or individuals ?, forgotten knowledge place, pact with an entity
+
+manifestations (3 attributes, 10 skills, 1 action, one passive option)
+Elementary
+	POW +1, STA(earth) or SPE (Fire) or PRE (water) +1, other +1
+	Affinity (elements) +3, cast ([element]) +3, free +4
+	elementary bolt : attaque à distance, basée sur un focus
+	Passive option : suivant l'élément, fire spreads, resistance après un spell ou mouvement gratuit après un spell
+Entity
+	EMP +1, STA +1, other +1
+	Affinity (Beyond the veil) +3, lore(occult) +3, free +4
+	Vision of the truth : spiritual attack based on a focus
+	Passive option : familiar
+Death (&life?)
+	STA +1, COR +1, other +1
+	Affinity(death) +3, survival +1, intimidation +1, free +4
+	Necromancy attack, using nearby corpses
+	passive option : partial reconstruction
+Physical
+	MIG +1, STA or SPE or PRE +1, other +1
+	athletics +2, stability +2, resting +2, free +4
+	Ride the creature : 
+	passive option : defensive mobility
+
+Specialisations (3 attributes, 20 skills, 1 action between few options and a passive option)
+Knight
+	MIG +1, STA ou REA +1, free +1
+	+3 weapon (choice), +2 parry or dodge, +1 willpower, +1 intimidation, +2 athletics, +2 stability, +3 lore (choice), +1 negociation, +5 free
+	charge : movement and shove smaller enemies in the way
+	passive option : lead by example : when damage is inflicted to an enemy, provide a buff to allies
+Slayer
+	REA +1, PRE +1, free +1
+	+3 weapon (choice), +2 atheltics, +3 dodge, +2 tracking or stealth, +2 intimidation, +1 craft (choice), +2 survival, +5 free
+	critical strike : attack dealing lots of dmg, but slow
+	passive option : chained attacks : each attack, hit or miss, against a target, gives a +1 dmg against the same target
+Witch
+	POW +1, COR ou WIL +1, free +1
+	+3 affinity (choice), +3 spells (choice), +2 logic, +2 rituals (choice), +2 willpower, +1 dodge, +1 camp and cooking, +1 observation, +5 free
+	Shackles : debuff spell on enemy mobility
+	passive option : curses inside curses : if a spell touches, the witch may add another target at a cost
+Zealot
+	STA +1, EMP +1, free +1
+	+3 weapon (choice), +3 religion (choice), +2 affinity (divine), +2 stability or dodge, +2 willpower, +1 intimidation, +1 tracking, +1 lore (choice), +5 free
+	Rivers of blood : attack targeting more than one enemy
+	passive option : suffering leads to clarity : if a zealot should die, them may still act for a while, and be healed

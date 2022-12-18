@@ -1,0 +1,21 @@
+RESSOURCES:
+-différents types de ressources de base, suivant leur usage en craft et/ou en préparations
+-Ressources de craft : métaux, os, bois, cuirs...
+-Ressources de préparations : matériel de rituels, matériel d'alchimie, matériels magiques, pièges, monnaie, outils....
+-Richesses, qui peuvent être échangées dans les havres à un bon ratios
+-Biens, qui peuvent être échangés dans certains havres à un bon ratio, à un ratio normal dans le cas général.
+
+Types de ressources de craft:
+-métaux
+-os et bois rares
+-fourrures, plumes et peaux
+Types de ressources de préparations:
+-matériel de rituels : encens, craies, poudres, eau bénie, etc
+-matériels alchimiques : réactifs, fioles, acides, métaux rares, huiles, herbes
+-matériels magiques : encens, crystaux, réactifs magiques, matériaux ésotériques
+-matériel de maintenance : pierres à aiguiser, consommables, huiles, matériel de couture
+-matériel de cuisine : viande de qualité, légumes frais, épices rares
+On peut noter l'existence potentielle d'éléments appartenant à plusieurs catégories de ressources de préparations
+
+Idées en vrac:
+-tiers de ressource, notamment pour le craft, ou pour filer un bonus à un test de préparation (?), peut-être imaginer les ressources de base et avancées (ces dernières venant full de boss ?)

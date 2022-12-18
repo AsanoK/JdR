@@ -1,0 +1,15 @@
+lvl 5 : 
+400po, 2 items lvl 6, 2 items lvl5, 2 conso lvl 6, 2 conso lvl 5, 2 conso lvl 4
+ITEMS
+lvl 6 crown of the companion
+lvl 6 Energizing rune
+lvl 5 Corpseward pendant
+lvl 5 armor potency rune
+
+CONSOMMABLES
+lvl 6 bloodhound mask (moderate)
+lvl 6 dispersing bullet
+lvl 5 freezing ammunition
+lvl 5 blindpepper bomb
+lvl 4 Barkskin potion
+lvl 4 crystal shards (moderate)

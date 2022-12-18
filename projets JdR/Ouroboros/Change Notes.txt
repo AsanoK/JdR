@@ -7,3 +7,10 @@
 20.11.2022:
 -Modifications d'équilibrages sur les armes (dague et longsword notamment)
 -Changement du fonctionnement de la dodge pour correspondre aux autres réactions
+
+21.11.2022
+-Ajout des règles de préparations
+-Ajout des tags corruption et corrupting
+
+18.12.2022
+-Création de personnage version 0.1 : étapes de base, contenu de chaque étape, manque encore la description de toutes les actions nommées.

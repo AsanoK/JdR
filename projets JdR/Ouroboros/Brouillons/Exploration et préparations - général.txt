@@ -1,0 +1,22 @@
+TODO:
+-Il faut qu'on intègre la gestion des ressources courantes et des préparations : la récupération des ressources doit être relativement simple en terme mécanique, mais être présente, pour offrir des opportunités de craft aux joueurs. L'objectif n'est pas vraiment de faire de la récolte de ces ressources un moment important, mais bien de permettre des moments importants.
+-Préparations : cartes spécifiques qui permettent, pour un coût en ressource/test, un bonus temporaire pour le groupe ou un de ses membres. Exemple : bénédiction, affûtage.... Les préparations doivent avoir un impact, justifié par l'investissement en ressources.
+
+Intégrer des ressources de base dans une campagne:
+-loot sur les ennemis/leurs territoires
+-effet du surveyor en cas d'exploration d'une zone spécifique.
+-échanges dans les havres
+-loot aléatoire lors des explorations
+
+
+note : aucune règle spécifique sur le tracker dans les règles de base
+
+Préparations (à création perso) en fonction de la spécialisation (premières idées)
+-chevalier: encouragements, maintien d'armure
+-tueur: maintien d'armes, partage de connaissances
+-witch: divination, préparation de potion
+-clerc: bénédiction, service religieux
+-génériques : musique et cuisine
+
+
+Autres idées:

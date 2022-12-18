@@ -1,0 +1,128 @@
+NELSON CAC MOBILE
+-- IPS-N NELSON @ LL3 --
+[ LICENSES ]
+  IPS-N NELSON 2, IPS-N CALIBAN 1
+[ CORE BONUSES ]
+  Titanomachy Mesh
+[ TALENTS ]
+  Exemplar 2, HOUSE GUARD 2, Leader 1, Duelist 1
+[ STATS ]
+  HULL:1 AGI:4 SYS:0 ENGI:0
+  STRUCTURE:4 HP:14 ARMOR:0
+  STRESS:4 HEATCAP:6 REPAIR:5
+  TECH ATK:0 LIMITED:+0
+  SPD:7 EVA:15 EDEF:7 SENSE:5 SAVE:12
+[ WEAPONS ]
+  FLEX MOUNT: Assault Rifle
+  MAIN/AUX MOUNT: War Pike (Thermal Charge) / Pistol (SUPERMASSIVE MOD)
+[ SYSTEMS ]
+  Bulwark Mods, Pattern-A Jericho Deployable Cover, Personalizations, Custom Paint Job
+Très bonne mobilité et capacité offensive, au prix d'une résistance limitée. On va chercher à déborder les défenses adverses avant de subir la contre-attaque. Permet d'offrir un soutien mixte aux alliés à proximité : défensif par les passifs, offensifs par les actifs.
+
+TORTUGA CLOSE COMBAT TANK
+-- IPS-N TORTUGA @ LL3 --
+[ LICENSES ]
+  IPS-N TORTUGA 2, IPS-N CALIBAN 1
+[ CORE BONUSES ]
+  Sloped Plating
+[ TALENTS ]
+  Exemplar 2, HOUSE GUARD 2, Leader 1, Vanguard 1
+[ STATS ]
+  HULL:1 AGI:4 SYS:0 ENGI:0
+  STRUCTURE:4 HP:14 ARMOR:3
+  STRESS:4 HEATCAP:6 REPAIR:6
+  TECH ATK:+1 LIMITED:+0
+  SPD:5 EVA:10 EDEF:10 SENSE:15 SAVE:12
+[ WEAPONS ]
+  MAIN MOUNT: Catalytic Hammer (SUPERMASSIVE MOD)
+  HEAVY MOUNT: Deck-Sweeper Automatic Shotgun
+[ SYSTEMS ]
+  Siege Ram, Personalizations, Custom Paint Job, Pattern-A Jericho Deployable Cover, Expanded Compartment
+Un build solide de soutien rapproché, tant offensif par son armement que défensif par sa capacité à manger du plomb au petit-déjeuner. Faiblesse importante en cas de combat prolongé au càc, le catalytic hammer nécessitant de reload....
+
+VLAD MIXED RANGED SUPPORT
+-- IPS-N VLAD @ LL3 --
+[ LICENSES ]
+  IPS-N VLAD 2, IPS-N DRAKE 1
+[ CORE BONUSES ]
+  Sloped Plating
+[ TALENTS ]
+  HOUSE GUARD 3, Exemplar 2, Leader 1
+[ STATS ]
+  HULL:1 AGI:4 SYS:0 ENGI:0
+  STRUCTURE:4 HP:14 ARMOR:3
+  STRESS:4 HEATCAP:6 REPAIR:4
+  TECH ATK:-2 LIMITED:+0
+  SPD:6 EVA:12 EDEF:8 SENSE:5 SAVE:13
+[ WEAPONS ]
+  FLEX MOUNT: Impaler Nailgun
+  MAIN MOUNT: Assault Cannon
+  HEAVY MOUNT: Heavy Melee Weapon
+[ SYSTEMS ]
+  Argonaut Shield, Caltrop Launcher, Type-3 Projected Shield, Personalizations, Custom Paint Job
+Un build misant de combat rapproché avec une option à portée moyenne-longue sous la forme du canon d'assaut. Un build proche de l'existant en plus robuste et plus orienté soutien défensif. La portée courte reste très dangereuse. Un mécha chiant à gérer à partir du moment où il est présent à proximité.
+
+ATLAS CLOSE COMBAT SPECIALIST
+-- SSC ATLAS @ LL3 --
+[ LICENSES ]
+  SSC ATLAS 3
+[ CORE BONUSES ]
+  Improved Armament
+[ TALENTS ]
+  Exemplar 2, HOUSE GUARD 2, Leader 1, Tactician 1
+[ STATS ]
+  HULL:0 AGI:3 SYS:2 ENGI:0
+  STRUCTURE:4 HP:10 ARMOR:0
+  STRESS:4 HEATCAP:4 REPAIR:2
+  TECH ATK:0 LIMITED:+0
+  SPD:7 EVA:15 EDEF:8 SENSE:3 SAVE:12
+[ WEAPONS ]
+  FLEX MOUNT: TERASHIMA BLADE
+  FLEX MOUNT: Assault Rifle
+  MAIN MOUNT: KRAUL RIFLE
+[ SYSTEMS ]
+  JÄGER KUNST I, RICOCHET BLADES x3, Personalizations
+Un mécha d'assut très mobile, qui va limiter le soutien qu'il va fournir à ses passifs, et mettre en parallèle des taquets à l'adversaire.
+
+ORCHIS CLOSE COMBAT TANK
+-- SSC ORCHIS @ LL3 --
+[ LICENSES ]
+  SSC BLACK WITCH 2, IPS-N DRAKE 1
+[ CORE BONUSES ]
+  Improved Armament
+[ TALENTS ]
+  HOUSE GUARD 3, Exemplar 2, Leader 1
+[ STATS ]
+  HULL:1 AGI:4 SYS:0 ENGI:0
+  STRUCTURE:4 HP:14 ARMOR:1
+  STRESS:4 HEATCAP:6 REPAIR:4
+  TECH ATK:-1 LIMITED:+0
+  SPD:7 EVA:14 EDEF:10 SENSE:10 SAVE:14
+[ WEAPONS ]
+  FLEX MOUNT: Assault Cannon
+  MAIN/AUX MOUNT: Charged Blade / Pistol
+[ SYSTEMS ]
+  Ferrous Lash, Perimeter Command Plate, Type-3 Projected Shield, Custom Paint Job, Personalizations, Argonaut Shield
+Un build avec une faible capacité offensive, mais une très grande mobilité et capacité de protection des autres. Il se déplace facilement de 10 par tour, sans boost, dispose de capacités de contrôle du terrain, et colle des dégâts sur les ennemis à portée courte. Une plaie notoire, qui dispose en prime d'un canon d'assaut pour l'engagement à portée moyenne/longue.
+
+VLAD MEME COMBAT SPECIALIST
+-- IPS-N VLAD @ LL3 --
+[ LICENSES ]
+  IPS-N VLAD 3
+[ CORE BONUSES ]
+  Sloped Plating
+[ TALENTS ]
+  Exemplar 2, HOUSE GUARD 2, Leader 1, Vanguard 1
+[ STATS ]
+  HULL:1 AGI:3 SYS:0 ENGI:1
+  STRUCTURE:4 HP:12 ARMOR:3
+  STRESS:4 HEATCAP:7 REPAIR:4
+  TECH ATK:-2 LIMITED:+0
+  SPD:5 EVA:11 EDEF:8 SENSE:5 SAVE:13
+[ WEAPONS ]
+  FLEX MOUNT: Impaler Nailgun
+  MAIN MOUNT: SUPERHEAVY WEAPON BRACING
+  HEAVY MOUNT: Combat Drill
+[ SYSTEMS ]
+  Caltrop Launcher, Pattern-A Jericho Deployable Cover, Webjaw Snare x2, Custom Paint Job, Charged Stake
+Un build un peu con en terme de dégâts avec la combat drill + impaler nailgun. Il peut devenir encore plus con avec le talent executionner, possiblement sur le LL4

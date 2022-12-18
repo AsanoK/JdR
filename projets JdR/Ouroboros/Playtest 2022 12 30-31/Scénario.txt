@@ -6,4 +6,12 @@ Objectifs HJ:
 -validation du concept en groupe complet
 
 Structure globale:
+On veut des séquences d'explo, probablement une chasse organisée contre une créature particulièrement énervée, en deux phases différentes:
+	début dans un havre
+	première explo pour trouver des indices dans un havre détruit, affrontement contre des créatures mineures
+	retour au havre initial, qui peut fournir des explications sur les indices/des infos sur la région
+	Seconde expédition, cette fois pour traquer la bête jusqu'à son antre et la tuer (affrontement contre d'autres créatures mineures possible sur la route ou autour de l'antre).
 
+adversaires 1 : créatures des bois et gardiens rendus fous par les violences. Mini-boss possible, si j'ai le temps de le préparer.
+adversaires 2 : les soldats du fort de kalden
+adversaire principal : "le loup" de kalden
