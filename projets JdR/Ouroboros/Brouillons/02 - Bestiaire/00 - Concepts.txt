@@ -1,0 +1,6 @@
+Plusieurs types de créatures:
+-Boss
+-adversaire normal
+-larbin
+
+Les boss ont des zones spécifiques qui peuvent être ciblées pour destruction

@@ -7,11 +7,17 @@ Objectifs HJ:
 
 Structure globale:
 On veut des séquences d'explo, probablement une chasse organisée contre une créature particulièrement énervée, en deux phases différentes:
-	début dans un havre
-	première explo pour trouver des indices dans un havre détruit, affrontement contre des créatures mineures
-	retour au havre initial, qui peut fournir des explications sur les indices/des infos sur la région
-	Seconde expédition, cette fois pour traquer la bête jusqu'à son antre et la tuer (affrontement contre d'autres créatures mineures possible sur la route ou autour de l'antre).
+	0.début dans un havre
+	1.première explo pour trouver des indices dans un havre détruit, affrontement contre des créatures mineures
+	2.retour au havre initial, qui peut fournir des explications sur les indices/des infos sur la région
+	3.Seconde expédition, cette fois pour traquer la bête jusqu'à son antre et la tuer (affrontement contre d'autres créatures mineures possible sur la route ou autour de l'antre).
 
 adversaires 1 : créatures des bois et gardiens rendus fous par les violences. Mini-boss possible, si j'ai le temps de le préparer.
 adversaires 2 : les soldats du fort de kalden
 adversaire principal : "le loup" de kalden
+
+0. Début dans un havre, au sein d'une forêt d'automne. Les habitants sont inquiets, le havre voisin dans les terres de cendre (ombrefeu), ne donne plus de nouvelles. Ils craignent pour leur sécurité et demandent aux PJs de bien vouloir aller enquêter sur ce qui a pu causer ce silence. Débute une première expédition, de trois jours. Les dangers de la route sont des obstacles ou des créatures mineures, avec un risque d'attaque de chevaliers phalène le 3ème jour.
+1.Une fois arrivée là où devrait se situer Ombrefeu, les PJs se rendent vite compte que le havre a été détruit, et des troupes de Kalden ravagent encore l'endroit à volonté. Ils peuvent récupérer les informations suivantes : les troupes de Kalden ont détruit ce havre; elles viennent du coeur des terres de cendres; le chef est le tristement célèbre 'loup', qui souhaite faire des terres de cendres son domaine.
+Certains de ces indices peuvent être obtenus sur les corps, d'autres en discutant avec la prétresse des chevaliers phalène, qui a échappée à la folie de ses gardiens.
+2.Seconde expédition, soit vers le havre initial, soit vers Kalden, suivant les indices obtenus. Les maraudeurs sont plus présents dans la région.
+3.Assaut de Kalden, et combat contre le loup.

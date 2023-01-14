@@ -1,0 +1,61 @@
+Character
+Background : Mercenary
+Calling : Legacy
+Manifestation : Elementary - Earth
+Specialisation : Slayer
+
+Equipment
+Saber
+IC +1; 	Checks: Speed + weapon(light)
+Damage [Might] or [Precision]
+Light armor
+Physical protection (4), bulk 1
+
+Attributes
+Corruption	2
+Empathy	4
+Might	2
+Power	3
+Precision	6
+Speed	4
+Stamina	4
+Wilderness	3
+Hit Points	6
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity (Elements)	3
+Athletics	3
+Camp and cooking	0
+Craft (Leather)	1
+Deception	0
+Discussion	0
+Dodge	4
+Intimidation	2
+Logic	0
+Lore (History)	2
+Miracles ()	0
+Music	2
+Negociation	0
+Observation	2
+Parry	0
+Religion ()	0
+Resting	0
+Rituals ()	0
+Spells (Earth)	3
+Stability	1
+Stealth	2
+Survival	0
+Tracking	2
+Weapons (Light)	5
+Willpower	2
+
+Actions and passives
+Earth bolt
+IC: 4. Effects: The character flings a bolt of rocks toward the enemy. This is a physical magic attack, damage is [Power]. Tags: long range, spell, magic, attack, Earth, focus(Earth)
+Critical strike
+IC: 6. Effects: the character may attack an identified weak point of an enemy. If
+the strike succeeds, the attack gains the tags lethal and piercing. Tags: attack, weapon-range, charging
+Chained attacks
+Each time the character attacks an opponent, it gains a chain token. Each chain token adds +1 damage for subsequent attacks by this character.

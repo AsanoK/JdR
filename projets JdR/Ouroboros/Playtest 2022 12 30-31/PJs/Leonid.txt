@@ -1,0 +1,63 @@
+Character
+Background: Noble
+Calling: Legacy
+Manifestation: Entity
+Specialisation: Knight
+
+
+Equipment
+Heavy armor
+Physical protection (7), bulk 2
+Longsword
+IC +3; Checks: Precision+weapon (long)
+Damage [Might]+2	Tags: piercing 1
+
+
+Attributes
+Corruption	2
+Empathy	5
+Might	6
+Power	2
+Precision	3
+Speed	4
+Stamina	4
+Wilderness	2
+Hit Points	10
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity (The Veil)	3
+Athletics	3
+Camp and cooking	2
+Craft ()	0
+Deception	0
+Discussion	1
+Dodge	0
+Intimidation	3
+Logic	0
+Lore (History)	4
+Lore (Occult)	3
+Miracles ()	0
+Music	0
+Negociation	2
+Observation	3
+Parry	3
+Religion ()	0
+Resting	0
+Rituals ()	0
+Spells (Corruption)	3
+Stability	5
+Stealth	0
+Survival	0
+Tracking	0
+Weapons (Long)	5
+Willpower	2
+
+Actions and passives
+Vision of the Truth:
+IC: 6. Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual focus attack. Damage is [Power] Tags: spell, attack, targets (Power), short range, spiritual, magic, focus(corruption or faith).
+Raise the banner high
+IC: 2. Effects: The character may raise up a symbol of their authority or pride, to bring more courage to their allies. Targeted characters will reduce the IC of their next action by the margin of an Empathy or Might + Willpower. Tags: Targets (5), buff, short range.
+Lead by example: 
+each time the character hits an enemy, allied characters get +1 on their next attack check (cumulative up to their Empathy).

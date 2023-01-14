@@ -1,0 +1,64 @@
+Character
+Background: Noble
+Calling: Understanding
+Manifestation: Entity
+Specialisation: Zealot
+
+
+Equipment
+Mace
+IC +2; Checks: Speed + weapon(light)
+Damage [Might]	Tags: piercing 2
+Grimoire of blood
+IC +2; 	Checks: Power + spells (any)
+Damage: Corruption	Tags:focus(corruption)
+Sturdy clothes
+Physical protection (1)
+
+Attributes
+Corruption	4
+Empathy	6
+Might	4
+Power	3
+Precision	2
+Speed	2
+Stamina	5
+Wilderness	2
+Hit Points	9
+Passive Defense	1
+Movement	4
+
+Skills
+Affinity (The veil)	3
+Affinity (Divine)	2
+Athletics	2
+Camp and cooking
+Craft ()
+Deception
+Discussion	2
+Dodge
+Intimidation	2
+Logic
+Lore (Occult)	5
+Miracles ()
+Music
+Negociation	2
+Observation	1
+Parry	4
+Religion (Blood brotherhood) 5
+Resting
+Rituals ()
+Spells (Corruption)	3
+Stability	2
+Stealth
+Survival
+Tracking	1
+Weapons (Light)	4
+Willpower	3
+
+Actions and passives
+Vision of the Truth
+IC: 6. Effects: a powerful entity shows a glimpse of itself on the battlefield, shredding the walls of reality. Targets suffer a spiritual focus attack. Damage is [Power] Tags: spell, attack, targets (Power), short range, spiritual, magic, focus(corruption or faith).
+Rivers of blood
+IC: 4. Effects: physical attack inflicting [Might/2] damage to targets. Tags: attack, targets (Speed), weapon-range.
+Familiar: The character is accompanied by a strange little creature, that seems to whisper some things into their ears, for a price. The character may reroll any lore check, but suffers one damage that cannot be protected against.

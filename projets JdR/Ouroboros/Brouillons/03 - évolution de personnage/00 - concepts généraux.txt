@@ -1,0 +1,7 @@
+Les personnages progressent par noeuds dans un arbre de progression. Chaque noeud correspond à une action, réaction, préparation ou capacité passive particulière.
+
+Un personnage peut dépenser un point de Spark pour débloquer un noeud ou un point d'attributs supplémentaire.
+
+Les points de Spark s'obtiennent en défaisant des boss pour la première fois de chaque type. "Farmer" un type de boss pour ses composants ne rapporte que ces derniers, pas de nouveaux points  de Spark, mais ça reste une possibilité bien réelle.
+
+D'autres éléments de l'histoire, notamment dans le fil rouge, peuvent permettre de gagner d'autres points de Sparks. Si le MJ souhaite accélérer la progression, il peut à la place donner un point par session ou toutes les deux sessions de jeu.

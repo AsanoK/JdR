@@ -1,0 +1,67 @@
+Character
+Calling: Revenge
+Manifestation: Death
+Specialisation: Zealot
+Background: Mercenary
+
+Equipment
+Mace
+IC +2; Checks: Speed + Weapon(light)
+Damage [Might].	Tags: piercing 2
+Light armor
+Physical protection (4), bulk 1
+
+
+Attributes
+Corruption	4
+Empathy	4
+Might	5
+Power	2
+Precision	2
+Speed	4
+Stamina	5
+Wilderness	2
+Hit Points	10
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity (Death)	2
+Affinity (Divine)	2
+Athletics	1
+Camp and cooking	2
+Craft ()
+Deception
+Discussion
+Dodge	4
+Intimidation	3
+Logic
+Lore (Kalden keep)	2
+Lore (Cataclysm)	1
+Miracles ()
+Music
+Negociation
+Observation	4
+Parry
+Religion (Blood brotherhood)	5
+Resting
+Rituals ()
+Spells (Corruption)	3
+Stability	1
+Stealth
+Survival
+Tracking	1
+Weapons (light)	6
+Weapons ()
+Willpower	2
+
+Actions and passives
+Rivers of blood: 
+IC 4. Effects: physical attack inflicting [Might/2] damage to targets. Tags: attack,
+targets (Speed), weapon-range.
+Bone burst: 
+IC 3. Attack causing [Power] damage. Tags: short range from a corpse at short range,
+spell, magic, attack, necromancy, focus(death)
+Suffering leads to clarity: 
+The zealot may add the number of HP they have lost to the
+damage of any attack, physical or spiritual.

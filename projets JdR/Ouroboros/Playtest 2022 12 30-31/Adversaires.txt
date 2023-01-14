@@ -1,0 +1,53 @@
+Adversaire:
+HP:
+Attaque:
+Défense:
+Actions:
+
+Mouches
+HP:6
+Attaque: 6
+Défense: 4
+Actions:attaque (IC 5, dmg 2, portée adjacent), burrow (IC6, movement 10m)
+
+Sorcière des cendres
+HP:25
+Attaque: physique 5, spirituel 8
+Défense: 5
+Actions: call the moth (IC 5, call a moth to help), dust wing (IC6, target (3), each target has to reroll any success on their next action)
+
+Chevalier phalène
+HP:25
+Attaque: 9
+Défense: 7
+Actions: Lancer's charge (IC 10, movement 10m, attack against a characer, dmg 6, tags : interrupting, charging)
+
+Chien de guerre
+HP: 4
+Attaque: 7
+Défense: 2
+Actions: charge (IC6, movement 10m, attack, dmg 2, tag shove)
+
+maraudeur de Kalden
+HP: 6
+Attaque: 5
+Défense: 5
+Actions: attack (IC5, dmg 2), double-down : if they are two of them around a character, they gain +2 attack
+
+Chevalier de Kalden
+HP: 20
+Attaque: 6
+Défense: 7
+Actions: attack (IC 7, dmg3), repositionning (IC4, movement 7m, ignore all terrain)
+
+Porte-mort de Kalden
+HP: 30
+Attaque: 7
+Défense: 4
+Actions: attack (IC 7, dmg 4), swipe (IC 8, charging, targets cone, dmg2)
+
+Le Loup de Kalden
+HP: 50
+Attaque: 9
+Défense: 7
+Actions:

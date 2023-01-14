@@ -1,0 +1,31 @@
+Item quality:
+common (basic stuff, available to all)
+uncommon (professional stuff, with attribute/skill prerequisite)
+rare (crafted/unique items), difficult to obtain and with prerequisites.
+
+
+Common item list:
+-knife
+-basic sword
+-club
+-sturdy clothing
+-light armor
+-axe
+-trinkets
+-divine icons
+
+Uncommon item list:
+-heavy armor
+-medium armor
+-mace
+-longswords and greatswords
+-falcata, khopesh, gladius, cavalry saber
+-dagger, main gauche, stiletto
+-warhammer, war pike, bec de corbin
+-cleaver (and giant version)
+-flails
+-giant club
+-halberd, poleaxe, billhook
+-focus : divin (2 possibilités), feu, eau, roche, mort, corruption, nature
+
+rare

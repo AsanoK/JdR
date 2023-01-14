@@ -1,0 +1,26 @@
+Concept du chevalier (et portions majeures de l'arbre):
+-Leader
+-Assaillant
+-Combattant lourd
+
+Liste des actions/réactions:
+Raise the banner high (general buff)
+Rally the troops (an allied character can take a movement action now)
+dual attack (you attack, and so does an ally flanking the target)
+breaking the ranks (move + shove, charging and quick)
+break their body and will (heavy attack, but slow)
+reaping the ranks (mutiple targets for an attack)
+Pushing back the tides (shove and interrupting)
+Suffer for the cause (take a hit for an ally)
+
+Liste des passifs:
+leading the way
+tactical acumen (buff to target flanked target)
+follow along (if you make a movement action, an ally can freely follow)
+dragon slayer (when you make a successfull attack, you get a bonus to target a specific spot)
+armor mobility (ignore 1 bulk)
+shield mastery (get a buff to parry with a shield)
+
+Liste des Préparations
+Military advice (give a specific buff)
+Armor advice (reduce bulk for an ally)

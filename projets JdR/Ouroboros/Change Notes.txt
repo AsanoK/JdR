@@ -14,3 +14,14 @@
 
 18.12.2022
 -Création de personnage version 0.1 : étapes de base, contenu de chaque étape, manque encore la description de toutes les actions nommées.
+
+26.12.2022
+-Création de personnage 0.1: finitions, avec la description de l'ensemble des actions nommées
+
+05.01.2023
+-Refonte du système d'équipement (25 objets pour le moment, divisés en objets communs et non-communs, objets rares prévus mais pas encore développés).
+-Application de corrections d'équilibrage pour les actions des PJs
+
+14.01.2023
+-V1 de l'arbre d'évolution du chevalier
+-V1 des compétences générales du chevalier

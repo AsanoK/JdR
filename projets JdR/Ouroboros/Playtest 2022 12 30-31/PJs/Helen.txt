@@ -1,0 +1,61 @@
+Character
+Background: Survivor
+Calling: Understanding
+Manifestation: Elemental - Fire
+Specialisation: Witch
+
+
+Equipment
+Sturdy clothing
+Physical protection (1)
+Fire gem
+IC +1; Checks: Power + spells(any)
+Damage 3;	Tags:focus(fire)
+
+
+Attributes
+Corruption	2
+Empathy	3
+Might	2
+Power	6
+Precision	3
+Speed	4
+Stamina	3
+Wilderness	5
+Hit Points	5
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity (Elements)	3
+Athletics	0
+Camp and cooking	2
+Craft ()	0
+Deception	0
+Discussion	2
+Dodge	3
+Intimidation	0
+Logic	2
+Lore ()	0
+Miracles ()	0
+Music	0
+Negociation	0
+Observation	2
+Parry	0
+Religion ()	0
+Resting	0
+Rituals (Nature)	2
+Spells (Fire)	4
+Stability	0
+Stealth	1
+Survival	2
+Tracking	0
+Weapons ()	0
+Willpower	2
+
+Actions and passives
+Fire bolt:
+IC: 4. Effects: The character flings a bolt of fire toward the enemy. This is a physical magic attack, damage is [Power]. Tags: long range, spell, magic, attack, Fire, focus(Fire)
+Shackles
+IC: 5. Effects: If the target is successfully hit by this magic spiritual attack, it suffers 1 damage that cannot be resisted, and gains [Power]IC. Tags: spiritual, magic, attack, curse, charging, interrupting.
+Fire spreads: If the characters kills an enemy with a Fire spell, any additional damage may be transferred to a creature at short range from the first, resistance is applied normally.

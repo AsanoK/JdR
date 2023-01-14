@@ -1,0 +1,62 @@
+Character
+Manifestation: Slave
+Calling: Conquest
+Specialisation : Physical
+Background: Slayer
+
+Equipment
+Dagger
+IC -1 (min 1); Checks:speed + weapon(light); Damage [Precision]-1
+Sturdy clothes
+Physical protection (1)
+
+Attributes
+Corruption	3
+Empathy	2
+Might	4
+Power	2
+Precision	5
+Speed	4
+Stamina	4
+Wilderness	4
+Hit Points	8
+Passive Defense	2
+Movement	6
+
+Skills
+Affinity ()	0
+Athletics	5
+Camp and cooking	0
+Craft (Textile)	1
+Deception	2
+Discussion	0
+Dodge	5
+Intimidation	2
+Logic	0
+Lore (Havens)	3
+Miracles ()	0
+Music	0
+Negociation	2
+Observation	0
+Parry	0
+Religion ()	0
+Resting	2
+Rituals ()	0
+Spells ()	0
+Stability	5
+Stealth	2
+Survival	3
+Tracking	2
+Weapons (Light)	5
+Willpower	3
+
+Actions and passives
+Ride the beast
+IC: 5. The character makes a Speed+Athletics check against the defence value of a
+bigger creature, and may climb onto it if they succeed. In this case, they always count as attacking from
+above. Each of the creature turn, they have to succeed a Might+Stability check or be thrown out and move
+freely [movement]m. Tag: movement, prolonged.
+Critical strike
+IC: 6. Effects: the character may attack an identified weak point of an enemy. If the strike succeeds, the attack gains the tags lethal and piercing. Tags: attack, weapon-range, charging
+Defensive mobility
+The characters may move [margin of the check]m each time they make a reaction.
