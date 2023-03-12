@@ -1,0 +1,26 @@
+Axes: Dire, Water, Earth
+
+Actions:
+Fire bolt (F) : ranged attack
+Spread the flames (F): zone of damage
+Shrapnel shower (F/E): attaque en cône
+Combustion (F): attaque unqiue marquant la cible
+Razor crystals (E/W): zone de ralentissement ou dégâts
+hurling boulder (E): attaque interrupting
+earthquake (E): debuff de zone
+high pressure blast (E/W): attaque + shove
+Lethal spike (W): attaque précise + piercing
+Bones of the earth (E): création bloc de terrain
+Colder than death (W): attaque cible unique + debuff
+Shield (E): semblable à parry, mais avec spellcasting
+Death from above (E/F): attaque lente mais de zone
+
+Passives:
+Fire spreads : transfert des dmg surnuméraires pour les spells de feu
+Rock skin : bonus armure après un spell avec le mot-clé terre
+Natural flow : mouvement après un spell avec le mot-clé eau
+Hunt down: bonus contre les cibles marquées, marque une cible sur dégâts infligés
+Terrain mastery : créé une zone de terrain quand cast : zone de dmg si feu, zone physique si eau, zone de debuff mobilité si eau
+Hammer the ennemy: inspiration perso sur chaque spellcasting offensif
+Controller : augmente la zone des spells de zone.
+Element mastery: IC-1 for one element

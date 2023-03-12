@@ -1,0 +1,25 @@
+Scavenger Scarab:
+Giant scarab feeding off carrions and rotting plant matter. They will not hesitate to add some preys to their diet by themselves if necessary, but if they are busy, they can also ignore creatures going by.
+They don't fly, but can, and will, expell stings toward their targets. These are thankfully not poisoned, but can be lethal nonetheless.
+Size: 2
+HP: 10
+Attack:7
+Defence: 8
+Resistance: physical 3
+Movement: 5m
+Actions:
+Sting: IC 7. Physical attack at short range, dealing 2 dmg.
+mandibles:IC 5. physical attack, dealing 1 dmg.
+
+Deepwood spirits:
+Some of the forest spirits than lurk within Aen Barr, and defend it against what they see as invaders. They seem to be connected to some of the bigger trees of the forest.
+They are mostly solitary or small groups, trying to use their plant appearance to ambush their prey.
+Size: 2
+HP: 8
+Attack: 9
+Defence: 6
+Resistance: Spiritual 3
+Movement: 7m, ignore forest difficult terrain.
+Actions:
+Lash out: IC 8. Physical attack dealing 2 dmg, followed by a second attack dealing 0 dmg.
+Vine growth: IC6. Creates a difficult terrain zone, each creature ending their turn inside this zone suffers 1 damage.

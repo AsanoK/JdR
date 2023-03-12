@@ -1,0 +1,15 @@
+moderate niveau n :80 xp
+5 adversaires de niveau n-2
+7 adversaires de niveau -3
+1 adversaire de niveau n+2
+
+severe niveau n: 120Xp
+1 adversaire de niveau n+3
+
+rencontres de la guenaude (pour lvl 5):
+blood hag : rencontre très difficile telle quelle, pas de changement à faire, ne pas trop piéger.
+Annis hag (lvl6, 60xp) +2 twigjacks (bestiaire 2 p270)
+Onidoshi (lvl 8, avec un niveau de moins (att-2, CA-1, dmg-2....)
+7 animated armors (lvl2, bestiaire p20)
+
+

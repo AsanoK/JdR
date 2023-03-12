@@ -1,32 +1,36 @@
 Boss
-Goliath insect
-These creatures lives deep in the forest, where they mostly eat rotting matter, be it flesh or plants. But when their territory is threatened, they can turn into a terrific foe, smashing everything under they armored wrath. They are deeply feared by any forest Haven, and are a prime target for hunting parties seeking to keep them safe.
+Insect Behemoth
+These creatures lives deep in the forest, where they mostly eat rotting matter, be it flesh or plants. But when their territory is threatened, they can turn into a terrific foe, smashing everything under their armored wrath. They are deeply feared by any forest Haven, and are a prime target for hunting parties seeking to keep them safe.
 There can also represent a surprising bounty, both for their shell, that provides a light but resilient armor, and for some of their organs, which can be used in some rituals and potions. Their main horn can be used to craft blades.
 Males are often alone and are the most encountered, while herds of females and youngs gather in the deep woods. 
-HP: 40
+Size : 5
+HP: 45
 Attack: 6
 Defence: 10
 Physical resistance 5
 Targets: Hind legs (10 HPs, forbid the rush action), under the armored neck (after an Impale and Gore action and before its next action, double damage)
 Movement 5
 Actions:
-Rush : IC6 moves twice and shove everything in its path, inflicting 2 damages to anything it touches.
+Rush* : IC6 moves twice and shove everything in its path, inflicting 2 damages to anything it touches.
 Swipe : IC 7, dmg 3 in the frontal arc (3m)
 Impale and gore: IC 10, charging, interrupting, dmg 5, moves in a line and attack the first target, shives all targets.
+Resources: d6 behemoth shell, 1 behemoth horn, d6 resources between ritual and magic.
 
 Fire Wyrm
 The fire wyrm is now endemic of the cinderlands, ravaging what's left of the old imperial structures. Their fly is silent, to approach their targets, before unleashing their firepower at close range. They can spit flames up to a few meters, and tear things down with their claws to finish the job.
 They notoriously favour the taste of burned flesh over anything else, and some packs may be bold enough to attack havens on a regular basis. Packs are family-based, with only a few members of each generation leaving the group.
+Size : 3
 HP: 35
 Attack: 9
 Defence: 5
 Movement: 15m (flying), 10m (on the ground)
-Targets: wings (10 HP, forbids the wyrm to fly), tongue (3HP, physical protection 5, forbids fire attacks)
+Targets: wings (10 HP, forbids the wyrm to fly), tongue (3HP, physical protection 5, forbids all fire attacks)
 Actions:
 Flying rush : IC 3, flying movement
-Rend: IC 6. Dmg 2, targets(2)
+Rend*: IC 6. Dmg 2, targets(2)
 Burst of fire: IC 8, frontal arc (5m), dmg1, fire
 Retreat: IC 9, Dmg1 at 2m then moves, interrupting.
+Resources: d6 fire crystals, 2d6 ritual resources.
 
 
 Boss archetypes:
@@ -35,7 +39,14 @@ Some creatures only get bigger with age, and this one is an ancient specimen. It
 Modifiers:
 HP +10, Physical resistance (+2)
 Actions:
-Mighty roar: IC 6, range (circle, 20m), spiritual attack causing no damage, every affected target gains +4 IC, interrupting.
-Lick the wounds: IC 4, regains 1/4 of its HP, once per fight.
+Mighty roar: IC 6, range (circle, 20m), removes all tokens from the creature, affected targets gets +2 IC.
+Lick the wounds: IC 4, regains 1/4 of its HP, once per fight, and clear all tokens.
++1 of each resource that can be harvested on the creature.
 
 Hunter
+Some creatures are more nimble and mobile than their kin, and enjoy the thrill of the hunt, perhaps even more than the result. They may stalk their preys for hours before leaping on them, or wait patiently for a good opportunity.
+Modifiers :
+Movement +2m, defense +2
+Actions:
+Retreat : Move Movementx2 meters away from enemies and if not adjacent to any opponent, can clear all tokens.
+Leap forward : Move Movement meters and make a standard attack. On hit, targets must succeed a Stamina+Stability check against the creature's size or be knocked prone.

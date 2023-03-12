@@ -1,0 +1,5 @@
+11.03.2023:
+-Première version du manuel
+-Règles de création de personnage
+-Première liste d'équipements
+-network rules

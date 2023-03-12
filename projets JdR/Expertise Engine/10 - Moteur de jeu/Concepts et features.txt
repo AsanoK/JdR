@@ -1,0 +1,34 @@
+Système moyennement léger devant permettre une certaine variété de gameplays, le combat ne devant pas être au coeur de celui-ci, mais devant rester une possibilité. L'espionnage et la politique par exemple sont également importants.
+
+Les principaux modues sont:
+-Core (jets de dés et concepts les plus basiques)
+-Combats
+-Santé et récupération
+-Politique
+-Enquête et espionnage
+-Franchissement d'obstacles
+
+Core concepts:
+Pour un jet de dés, on lance X d6, chaque 6+ est une réussite, avec X= valeur de l'attribut utilisé pour le test.
+Si on a une compétence adaptée, les réussites se font sur du 5+
+Si on a des points de maîtrise spécifiques, on gagne autant de dés que le nombre de points.
+Exemple d'attribut : combat X
+Exemple de compétence : Soldat
+Exemple de maîtrise : Carabine Winchester Y
+Pour un test de tir avec une carabine winchester, le personnage lance X+Y dés, qui donnent des succès sur 5+
+
+Combats:
+Tour par tour, terrain découpé en zones reliées entre elles. 1 tour = 1 action
+Quelques actions possibles, parfois sous condition : attaque, tir de suppression, manoeuvre, déplacement, viser
+Se mettre à couvert est une réaction, optionnelle ou obligatoire.
+Les combats font accumuler du stress, qui va influer sur les personnages.
+
+Santé et récupération
+Système de statuts successifs : fatigué, blessé, hors de combat, mort.
+On peut se retrouver rapidement mis à un statut, mais il faut ensuite passer par toutes les étapes de guérison.
+
+Politique
+
+Enquête et espionnage
+
+Obstacles

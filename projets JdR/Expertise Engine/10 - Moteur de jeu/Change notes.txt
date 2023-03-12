@@ -1,0 +1,22 @@
+11.02.2023:
+-Première base : core system
+-Première version des combats
+-Première version des règles d'enquête
+
+12.02.2023:
+-Ajout d'une première version du jeu politique.
+
+15.02.2023
+-Ajout des tests persistants
+-Ajout des premières règles de blessures et de soins.
+
+16.02.2023:
+-Ajout des règles d'obstacle
+-V0.1 de la création de personnages
+
+05.03.2023:
+-ajout du tag deadly
+
+11.03
+-Ajout du tag loading
+-Règle de véhicules/montures

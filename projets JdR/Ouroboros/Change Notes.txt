@@ -25,3 +25,43 @@
 14.01.2023
 -V1 de l'arbre d'évolution du chevalier
 -V1 des compétences générales du chevalier
+
+28.01.2023
+-V1 des compétences générales de la spécialité Witch
+-V1 de l'arbre de compétences de la Witch
+-Corrections d'équipements pour coller aux besoins de la Witch
+
+29.01.2023
+-Travail sur les compétences (disparition de discussion) : validation de l'utilité de chacune et ajout d'une description dans le manuel.
+-Ajout de la V1 du lore général et des régions Cinderlands et Aen Bar
+
+10.02.2023
+-Ajout des options de la Manifestation 'Death', pas encore de l'arbre d'évolution
+
+11.02.2023
+-Ajout des options du Slayer, pas encore de son arbre d'évolution
+-Remise à plat des tokens entre les différentes spé : mark et inspirations uniquement
+
+12.02.2023
+-Ajout des options du zealot, pas encore de son arbre d'évolution
+-Changements de formulation du lore selon les conseils d'Ashara
+-Ajouts de 3 exemples de havre : Dawnbell keep, Arrius' falls et the old watchtower (sans leurs secrets)
+
+26.02.2023
+-Ajout des arbres d'évolution des Slayers, Zealots
+-Ajout des options de l'ensemble des Manifestations, pas encore les arbres d'évolution.
+-Changements de formulation du lore selon les conseils d'Ashara
+
+03.03.2023
+-Ajout des premières créatures du bestiaire
+-ajout d'équipements uncommon
+
+11.03.2023
+-corrections de règles (Shove notamment)
+-Ajout des règles générales des PNJs
+-Règle de weak points
+-Règle de corruption
+-Clarification et changements sur les règles d'initiative.
+-Règle de surprise
+-Règle de progression des personnages
+-arbres de capacités pour les 4 manifestations

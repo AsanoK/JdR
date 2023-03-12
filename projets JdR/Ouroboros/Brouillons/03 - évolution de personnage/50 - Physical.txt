@@ -1,0 +1,30 @@
+Physical:
+axes: might (M), speed (S) et Technique (T)
+
+Actions:
+-Break the land(M) : une attaque infligeant d'important dégâts à une zone de terrain.
+-No more here (S): the character moves very quickly
+-Projectile parry (T): réaction défensive contre les attaques à distance
+-Toss away (M/T): tries to move the target away
+-Run along (S/T): the character moves and bring friends with them
+-Shatter (M): une attaque infligeant des dégâts moyens à une zone de terrain. Les créatures dans un cônes subissent une attaque
+-Use the enemy's force (T): réaction défensive, en cas de succès l'attaquant est mis au sol
+-Titanic blow (M): a big fucking attack, slow but devastating
+-Jump to heavens (S) : jump a very high/long distance
+-Unrelenting charge (M): charging and shoving everything in its path
+-Ride the beast(S): the character immediately ride the target if possible
+-Deflect attacks (T): a parry action, when successful the target hits another target in range, selected by this character
+-Dropkick (T): the character attacks, with a bonus if attacking from above
+-hit and run (S): the character attacks and move immediately
+
+Passives:
+-terrain breakers(M) : bonus to hit terrain
+-Swift (S): bonus to all movement actions
+-gain the upperhand (T): Mark versus opponent you sucessfully counter
+-titanic blows (M): bonus to hit with great weapons
+-Defensive mobility (S)
+
+Preps:
+full rest (T): rest, and get back most resources
+training (T): provide a set of bonus dices
+

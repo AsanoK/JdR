@@ -1,0 +1,21 @@
+Slayers:
+3 axes : coups bas (C), léthalité(L) et mobilité(M)
+
+Actions:
+Critical strike (L)
+Climbing dodge (M)
+Counter-strike (L)
+Hit and run (M)
+Dirty trick (C)
+Move around (C)
+Identify the weaknesses (CL)
+Death by a thousand cuts (C)
+Fast climb (M)
+Passifs:
+Chained attacks (L)
+Slit the throat (L)
+Defensive mobility (M)
+Restrict (C)
+Préparations:
+Weak points knowledge (L)
+Hunt down the prey(C)

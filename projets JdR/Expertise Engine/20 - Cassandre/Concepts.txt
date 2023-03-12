@@ -1,0 +1,9 @@
+Core system:
+dice pools (d10) above a threshold (basic success score is 8+, modified by advantage/disadvantage)
+opposed checks are simply to opposed basic checks
+teamwork adds the successes from supporting character(s) to the pool of the active character
+
+Core skills are used as basis for the dice pools
+If a specialty fits the situation, the character may get a number of bonus dices to their pool
+advantage and disadvantage change the threshold to get success on dices.
+Masteries may give a bonus to the dice pool as well.

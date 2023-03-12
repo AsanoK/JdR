@@ -4,3 +4,11 @@ Plusieurs types de créatures:
 -larbin
 
 Les boss ont des zones spécifiques qui peuvent être ciblées pour destruction
+
+Size:
+HP:
+Attack:
+Defence:
+Resistance:
+Movement:
+Actions:

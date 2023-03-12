@@ -2,8 +2,8 @@ lvl 5 :
 400po, 2 items lvl 6, 2 items lvl5, 2 conso lvl 6, 2 conso lvl 5, 2 conso lvl 4
 ITEMS
 lvl 6 crown of the companion
-lvl 6 Energizing rune
-lvl 5 Corpseward pendant
+lvl 6 Energizing rune, donnée
+lvl 5 Corpseward pendant, à virer
 lvl 5 armor potency rune
 
 CONSOMMABLES

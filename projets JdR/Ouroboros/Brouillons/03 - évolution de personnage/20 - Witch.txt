@@ -1,0 +1,30 @@
+Concepts importants de la Witch:
+-Curses
+-Nature spells
+-Shadows from out of this world
+
+Actions:
+-Shackles : restrain movement and debuff (curse)
+-Evil eye : limit offensive capabilities for the target (curse)
+-Sacrifice : hit yourself or an ally to gain power for the next spell
+-Conjuring of evil : make some devils appear on the battleflied, under your control. Number according to the result of the check
+-Decay of time : weaken the target (curse)
+-Weave the vines : create a difficult terrain zone, immobile targets may take damage
+-Mind stakes : Deal light spiritual damage, more depending on a condition (curse)
+-Extend the shadows : create a zone of unnatural shadows that protect the witch
+-Revigorate : give buff to an ally (remove token, and/or give check buffs)
+-Blink : the witch teleports itself on short range, but very quickly
+-Demonic seal : a seal that keeps creature in and stops ranged attacks
+-Natural seal : corrupted creatures and characters will have trouble going through this unharmed
+
+Passives
+-Curses within curses : share curses spells along targets
+-Demonic vigor : some spell revigorate the witch
+-plant growth : create terrain after casting nature spells
+-warding spells : the witch can cast a spell on a terrain element for it to be used then
+-deal with the devil : a witch may trade health from a allied character for some advantage during checks
+-Vessel : a small artificial or demonic creature that can act as a relay to cast spells from a distance. It is fragile but easy to get back out of combat.
+
+Preparations
+-Reading the smokes : get a glimpse of what is to come
+-Cast the shadows : the party will be less likely to get followed or ambushed during the journey

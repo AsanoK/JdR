@@ -1,0 +1,10 @@
+-resource gathering
+-crafting
+-resource to run the game
+-integrated campaign
+-boss archetypes
+-base creature archetypes
+-artefacts
+-Narrative points from callings
+-more PC options
+-cleaning exporation rules

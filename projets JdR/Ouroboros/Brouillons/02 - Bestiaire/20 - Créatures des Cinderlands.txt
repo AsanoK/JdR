@@ -1,0 +1,24 @@
+Cinderlands bats:
+Big bats, about 5m wingspan, hunting in the cinderlands when the sun is obscured or at night. They mostly hunt as packs, trying to isolate preys to jump on them and kill them quickly.
+Size 1
+HP: 6
+Attack: 8
+Defence: 6
+Resistance: none
+Movement: 10m, flying
+Actions:
+Feed:IC 5. The bat moves and tries to ride its target. If successful, it may use the bite action.
+Bite:IC 6. Normal attack, dmg1, the target suffers a mark token.
+
+Corrupted abomination
+What remains of some of the creatures too corrupted to be recognised. Older abominations seem mostly to have been former inhabitants of imperial cities, turned into this hulking masses by the Corruption. Others, newer abominqtions, can be recognised as looters or pilgrims, turned as well.
+They lack intelligence, but can stil represent a decent challenge for many travellers, especially since the smaller tend to be found in groups.
+Size 3-4
+HP: 15-20
+Attack: 7-9
+Defence: 4
+Resistance:none
+Movement: 5m
+Actions:
+Smash: IC 8: heavy attack made with whatever claws and appendices the creature has. Dmg 3.
+Hulking charge: IC 8, shove (Size), 1 non-modifed damage to any shoved target, interupting.

@@ -1,0 +1,2 @@
+mark token (death - 1 dmg auto on each attack per token)
+inspiration (knight - +1 dice on physical attack checks)

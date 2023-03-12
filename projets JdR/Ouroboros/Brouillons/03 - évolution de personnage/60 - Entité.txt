@@ -1,0 +1,28 @@
+Axes : manifestation (M), Possession (P) et invocations (I)
+
+Actions:
+Bestial leap (P): saut + attaque pendant ou à la fin du saut
+Bring the servants (I): invoque une entité from beyond
+Pale rider, white horse (I): invoque une monture tentaculaire
+Horrors made manifest (M): attaque spitiruelle de zone
+Eldritch burst(P): attaque de zone combat rapproché
+Animate objects (I/M): zone de dégâts
+Parasitic flesh (P): attaque + inspiration pour soi
+field from beyond (I): zone de dégâts + ctrl
+Howl of the true gods (P): buff de zone
+Abyssal vigilance (M): mark + debuff
+Horrific portal (M): 2 portails créent des points adjacents
+Ever vigilant eyes (I): zone de marquage
+Slam the unbelievers (P): attaque de bousculade 
+
+Passives:
+Voracious weapon : arme évolutive
+Sealed armour: armure évolutive
+Eyes of a god: debuff de zone autour de soi
+Lead the minions: buffs aux créatures invoquées
+Eldritch wounds: each time the character inflict damage, each creature nearby suffers 1 dmg
+A mind beyond: get a buff when cursed or attacking a cursed target
+
+Preps:
+Eldritch communion: get buffs from the entity
+Tolerance of the mind: get hit by something, but get spiritual resistance

@@ -28,4 +28,13 @@ Uncommon item list:
 -halberd, poleaxe, billhook
 -focus : divin (2 possibilités), feu, eau, roche, mort, corruption, nature
 
+to add:
+death: hangman's hand
+elements: warmage's seal
+Nature: crown of thorns
+beyond: witch eye
+divine: holy reliquary
+corruption: mask of the cultist
+
 rare
+Specific artefacts

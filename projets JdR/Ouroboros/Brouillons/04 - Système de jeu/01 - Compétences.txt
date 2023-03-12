@@ -1,0 +1,52 @@
+Skills and their use :
+Affinity: Element/divine/Nature/Beyond
+Allows to detect and understand magic linked to one tradition. May even be used to track some very visible manifestations of power, that may act as beacons.
+Athletics
+The various ways to cross obstacles : swimming, climbing, jumping, or riding a creature. It can also be used to sprint.
+Camp and cooking
+Used to maintain
+Craft: metals, skins, bones and woods, herbs&potions
+May be used to craft rare and special items, but also to gather some resources in the wilderness.
+Deception
+Used to lie to another character. An obvious lie will not work well.
+Dodge
+Used to try not to be in the path of danger, be it a blade or a falling rock.
+Intimidation
+Used to coerce characters into doing what you want. It is never appreciated by the receiving end.
+Logic
+Used to find the link between evidence and solve riddles. May also be used to understand ancient pieces of knowledge.
+Lore: wilderness, corruption
+The skill to know something. Each success on a check corresponds to a question you may ask the DM about a subject. Answers can only be known by your character, so the secrets of the world will stay secret.
+Miracles: church of Icons or Purple Cult or Bell Pilgrims
+May be used to cast miracles linked to one of the religion, be it the new church or the old way.
+Music
+Music soothe the mind, and may be used to appease other party members when resting, or entertain the people around you at a party.
+Negotiation
+This skill is used to convince someone either to believe you or to make you a favor. It may also used to bargain, but that may be frown upon by the characters you are talking to.
+Observation
+This skill allows to find specific hidden elements around the character : a creature hunting them, a subtle clue someone is lying to them, or perhaps the keyhole to an ancient safe.
+Parry
+Used to protect oneself from harm by blocking a blow, often with a shield, but sometimes with a weapon.
+Religion: Church of Icons or Purple Cult or Bell Pilgrims
+Knowledge about the dogma of a religion, and about how to conduct ceremonies and rituals of such religion.
+Rituals: corruption, fleshcraft, nature, Beyond
+The knowledge about, and the ability to perform magic rituals for various means.
+Spells: primal or Nature or Beyond
+This skill is used to cast magical spells of a specific tradition. Spells, contrary to rituals, are uite quick to cast and require much less preparations.
+Stability
+The ability to stay on your feet. It may be used to stand your ground against a creature's charge, or to move along a slippery place without falling.
+Stealth
+This skill is used when a character wants to stay out of sight, mostly when trying to evade some opponent.
+Survival
+The ability to get food and water in the wilderness, as well as some trapmaking and navigation skills.
+Tracking
+This skill may be used to follow the tracks of a creature or a group of enemies. It may lead the character to their target.
+Weapons: light, long, heavy, gunpowder, throw and missile weapons
+Used to hit enemies with specific types of weapons. It may also be used to maintain the equipement or to show off with your skill.
+Willpower
+This skill allows to resist spiritual attacks as well as fear effects.
+
+Discussion
+TAG : not sure, not the focus of the game
+Resting
+Make it a standard check, not a skill, otherwise it will be necessary for everyone.

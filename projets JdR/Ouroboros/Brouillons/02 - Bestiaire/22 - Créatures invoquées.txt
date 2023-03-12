@@ -1,0 +1,54 @@
+Listing:
+skeleton
+Creature from Beyond
+Tentacular horror
+familiar
+
+Skeleton
+A simple servant to summon, that was pretty common during the empire.They do not feel pain nor fatigue, and are very easy to replace, should one be destroyed.
+Size:2
+HP:6
+Attack: 6
+Defence: 7
+Resistance: spiritual 3. If armored, physical 5
+Movement: 5m
+Actions:
+Stab in the dark: IC4, physical attack dealing 0 dmg.Tags: attack, arm's range.
+Break and reform: IC6, reaction (trigger : first time the skeleton should be destroyed). The skeleton reforms in a free space within 4m of where it stood.
+(optionnal):Bone volley: IC6. Physical attack. Tags: short range, attack.
+
+Creature from beyond
+A pale silhouette, with no facial features, and thin, elongated claws. It moves fast, but in a very disturbing manner, its joints seeming to rearrange over time. These can be found where the veil between the reality and the Beyond is thin, as they are often the first symptoms of a breach.
+Size:2
+HP:15
+Attack: 9
+Defence: 7
+Resistance: Spiritual 2
+Movement: 7m
+Special : ambush predator. All attacks made against a target that is either surprised or flanked inflict +2 damages.
+Actions:
+Slash: IC 5, physical attack dealing 1 damage. Tags: attack, arm's range.
+Vision of Beyond: IC7, spiritual attack dealing 0 damage to 2 targets. Tags: attack, spiritual, arm's range.
+
+Tentacular horror
+A huge mass of pale tentacles, without a distinguishable shape. It rushes blindly at anything it perceives as a threat, trying to crush it under its weight. They do not seem intelligent at all. Curiously, magic seems to be pretty ineffective against them. 
+Size: 3
+HP: 25
+Attack: 6
+Defence: 5
+Resistance: Spiritual 5
+Movement: 8m
+Actions:
+Tentacle grab: IC 7.This attack deals no damage. Tags:attack, short range, shove (3)
+Crush: IC6. Physical attack, the target may not use the parry skill. It deals 1 damage. Tags: attack, arm's range.
+
+Familiar
+A small creature, bound to a master. The process is not well understood, but some of these may manifest from Beyond, apparently at random. They whisper arcane secrets into the ears of their protege, which makes them valuable. Sometimes their masters can feel they have some hidden agenda, even though none has revealed one.
+Size: 1
+HP: 3
+Attack: 5
+Defence: 8
+Resistance: Spiritual 3
+Movement: 8m
+Actions:
+Blink: IC 4. This creature teleports 15m away, ignoring all terrain rules.

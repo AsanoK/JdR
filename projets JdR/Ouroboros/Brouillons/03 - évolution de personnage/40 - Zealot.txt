@@ -1,0 +1,27 @@
+zealot:
+thèmes : violence (V), auto-mutilation (A), miracles(M)
+
+Actions:
+Rivers of blood (V) : attack 2 targets
+Painful strike (V) : attack with debuff
+Reckless assault (V): attack with more dmg, but the character may not take any reaction until their next turn.
+Self-flagellation (A) : inflict damage to oneself, but get buffs
+Brutal counterstrike (A): get hit, but counterstrike, surviving or not
+Suffer the burden of the faithful (A): enemies get hit with a strike getting a buff when you're wounded
+Litany of hatred (M): allies can get bonus to their next attack
+Blessing of pain (M): a wounded ally get a bonus
+Carry on the blood rain (M) : support miracle, more pronounced if you are wounded
+Blood whip (M) : short range attack
+
+Passifs:
+Suffering leads to clarity (V): dmg buff when wounded
+Blood frenzy (A) : when dealing damages to yourself, allies get inspiration
+Stakes of the faithful (A) : when dealing damages to yourself, you get a buff
+Pain means you live (M): the character may get a chance to get 1 HP instead of being killed
+Resilience of the blessed (M) : the character may *heal* self-inflicted damage right after it is suffered.
+
+Preparations:
+Sanctified scarring (A): buff to one ally, that loose an HP that cannot be regained while the buff stands.
+Litany of the sanctified (M): buff to allies
+
+idées dev ultérieur : filer des réactions qui se trigger quand il prend des dégâts.
