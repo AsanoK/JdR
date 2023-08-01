@@ -17,6 +17,12 @@
 05.03.2023:
 -ajout du tag deadly
 
-11.03
+11.03.2023:
 -Ajout du tag loading
 -Règle de véhicules/montures
+
+12.03.2023:
+-ajout des tags illegal et unreliable
+
+16.03.2023:
+-ajout des tags Piercing et Area of Effect

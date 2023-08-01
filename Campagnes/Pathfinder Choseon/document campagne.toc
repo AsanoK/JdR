@@ -150,11 +150,14 @@
 \contentsline {section}{\numberline {6.24}Session 21}{48}%
 \contentsline {subsection}{\numberline {6.24.1}Préparations}{48}%
 \contentsline {subsection}{\numberline {6.24.2}Déroulement}{48}%
-\contentsline {chapter}{\numberline {7}Profils de la campagne}{49}%
-\contentsline {section}{\numberline {7.1}Chef des cultistes (lvl 6)}{49}%
-\contentsline {section}{\numberline {7.2}Ministre corrompu (lvl 7)}{49}%
-\contentsline {paragraph}{Noms masculins (à garder à jour)}{51}%
-\contentsline {paragraph}{noms féminins (à garder à jour}{51}%
-\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{51}%
-\contentsline {paragraph}{Noms de boutiques}{52}%
-\contentsline {paragraph}{Musiques utilisées}{52}%
+\contentsline {section}{\numberline {6.25}Sessions 22-25}{48}%
+\contentsline {section}{\numberline {6.26}Session 23 (et plus?)}{48}%
+\contentsline {subsection}{\numberline {6.26.1}Préparation}{48}%
+\contentsline {chapter}{\numberline {7}Profils de la campagne}{51}%
+\contentsline {section}{\numberline {7.1}Chef des cultistes (lvl 6)}{51}%
+\contentsline {section}{\numberline {7.2}Ministre corrompu (lvl 7)}{51}%
+\contentsline {paragraph}{Noms masculins (à garder à jour)}{53}%
+\contentsline {paragraph}{noms féminins (à garder à jour}{53}%
+\contentsline {paragraph}{Caractéristiques marquantes pour des PNJs}{53}%
+\contentsline {paragraph}{Noms de boutiques}{54}%
+\contentsline {paragraph}{Musiques utilisées}{54}%

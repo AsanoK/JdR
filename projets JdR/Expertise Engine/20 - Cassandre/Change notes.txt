@@ -3,3 +3,14 @@
 -Règles de création de personnage
 -Première liste d'équipements
 -network rules
+
+12.03.2023
+-ajout des règles et équipements dédiées à la médecine
+
+16.03.2023
+-Ajout des règles de pilotage de combat
+-Ajout des vaisseaux à piloter
+-Premiers profils adverses réalisés
+
+17.03.2023
+-Fusion des règles de l'EE avec celles du projet Cassandre, pour n'avoir qu'un seul fichier de règles à charger. Va impliquer la màj de ce projet pour toute màj d'EE

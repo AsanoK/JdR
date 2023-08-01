@@ -20,3 +20,10 @@ Préparations (à création perso) en fonction de la spécialisation (premières
 
 
 Autres idées:
+ 
+Music
+Resources: none
+Make an Empathy+Music check. Any character for which the check is above their current Corruption tag may reduce its value by one.
+Service
+Resources: 2 ritual resource per character benefiting from it
+Benefiting characters may reduce their corruption tag by 1, and may ignore the next time they should receive corruption.

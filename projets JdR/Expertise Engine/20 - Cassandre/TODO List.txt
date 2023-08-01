@@ -1,0 +1,4 @@
+Court terme:
+-contenu : items
+-contenu:  options de personnage
+-virer combat comme attribut

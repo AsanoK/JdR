@@ -1,0 +1,4 @@
+-lore
+-section MJ
+-règles de fatigue et de récupération
+-règles d'exploration ?

@@ -1,0 +1,16 @@
+Notes immédiates:
+-Resting apparaît encore dans la création de personnage, mais plus dans le reste des règles, idem pour discussion.
+-skull prend un test "spell(necromancy)", qui est à remplacer par spell(death).
+-ajouter spells(death), notamment à la manifestation death
+-changer le tag corruption par autre chose, pour ne pas confondre avec l'attribut
+-le test de resting est pas défini
+-rise the dead : définir l'arrêt (fin combat ?)
+-ajout d'un passif death : companion mort-vivant, légèrement customisable
+-ajout de pts faibles sur les créatures 
+-clarifier les Spark points à la création de personnage
+-changer la mise en page des arbres de compétences pour les mettre en valeur
+-ajouter le secret : séparer les dimensions/refermer une faille dans le voile
+-ajouter bonus des marques : +1 pour toucher/token ?
+-réduire la difficulté des study checks (2?)
+-buff les dégâts des boss ? et leur donner plus de variété dans les options d'actions pour eux
+-autoriser la réorientation des attaques pour les coups chargés

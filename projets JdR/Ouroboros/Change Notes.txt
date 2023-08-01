@@ -65,3 +65,13 @@
 -Règle de surprise
 -Règle de progression des personnages
 -arbres de capacités pour les 4 manifestations
+
+19.03.2023
+-Ajout des Story elements aux différents callings
+-Premiers secrets du monde ajoutés dans la section 'Running Ouroboros'
+
+15.04.2023
+-Changement des règles d'exploration et de voyage : plus structurées, plus intéressantes, plus cohérentes et plus claires.
+-Ajout de la récompense des Story elements
+-structure de base de la campagne "par défaut" du jeu.
+-Ajout des règles de craft de base

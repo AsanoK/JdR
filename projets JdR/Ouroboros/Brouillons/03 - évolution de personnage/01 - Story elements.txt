@@ -1,0 +1,48 @@
+story elements : ensemble de mini-arcs, qui développent l'histoire propre du personnage. Un personnage choisit un story element comme actif, et peut changer cette décision au début d'une séance, si le hook n'a pas été activé. Un seul hook est activable sur une scène donnée, même si plusieurs PJs peuvent activer leur hook.
+
+Prérequis : Pour débloquer certains arcs spécifiques, il faut avoir déjà obtenu un élément spécifique dans un autre arc.
+
+Initial: une situation initiale, devant laquelle un PJ peut faire une demande spécifique, pour lancer son mini-arc. Exemple : rencontre avec un PNJ hors d'un havre.
+
+Hook: un élément que le joueur peut demander au MJ d'inclure dans la scène initiale, pour la modifier et lancer son mini-arc. Exemple : le PNJ porte un symbole de la famille du PJ.
+
+Events: la ou les scènes que le MJ va pouvoir mettre en place sur ce mini-arc.
+
+Results: les options possibles pour un personnage quand les scènes de son mini-arc sont jouées.
+
+Exemple : Legacy, mini-arc de l'ancienne crypte.
+
+Initial: character find imperial ruins
+Hook: the family crest is represented on the doors of the ruins
+Events: exploring the ruins, possibly fighting creatures living there
+Results: The character may get an artefact that belonged to their family, or they may learn a dark secret about it.
+
+Callings : legacy, revenge, understanding, conquest
+
+Legacy: 
+-ancient crypt (random finds)
+-someone knows too much (someone has recognized the PC)
+-understanding what's beneath (when you have learned a secret, you may start asking questions)
+-Reclaiming the domain (trying to find a way to get a haven back)
+-Final confrontation (against a corrupted ancestor, or the source of their curse)
+
+Revenge:
+-you're only a tool : coming across servants of the enemy
+-a dark pact: some entity has made a deal with the enemy, and propose the same one
+-Know thy enemy: maybe you can learn their weaknesses
+-Hunt them down : you need to know they're now to hit them
+-Final confrontation: facing the one that has threatened to kill you
+
+Understanding
+-Key of existence: learn about the existence of a very mysterious element
+-Key of corruption: opportunity to get started on the way of understanding the corruption
+-Key of the gate: learn about the gate within the imperial palace
+-Key of enlightenment: uncover the truth behind the mysterious element
+-Key of power: get on the track to finally solve the mysterious element
+
+Conquest
+-first stone : the character may gain an opportunity to get a haven without much violence
+-showdown : there is way to challenge a haven's ruler to get their domain
+-raise an army: a war is declared, and the character has their role to play in it
+-Old conqueror: the character face an old challenger
+-traitor : someone close tries to kill the PC
