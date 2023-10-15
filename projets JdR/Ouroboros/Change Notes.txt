@@ -75,3 +75,8 @@
 -Ajout de la récompense des Story elements
 -structure de base de la campagne "par défaut" du jeu.
 -Ajout des règles de craft de base
+
+09.09.2023
+- Remplacement des règles d'interruption des actions chargées par une jauge de stabilité, qui est diminuée par les effets Knock back (X), qui correspondent aux Shove(X) renommés
+- Correction de coquilles sur les règles existant précédemment et relevées dans le dernier playtest (anciennes compétences encore présentes par exemple)
+- Renommage de la compétence Stability en Agility, pour garder e nom pour la nouvelle jauge.

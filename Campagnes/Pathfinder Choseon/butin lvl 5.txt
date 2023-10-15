@@ -14,3 +14,25 @@ lvl 5 freezing ammunition OK
 lvl 5 blindpepper bomb
 lvl 4 Barkskin potion OK
 lvl 4 crystal shards (moderate)
+
+
+LVL6
+625po
+3 items lvl7, 2 items lvl6
+3 conso lvl7, 4 consos lvl6, 2 consos lvl 5
+ITEMS
+- (7) Boots of bounding (https://2e.aonprd.com/Equipment.aspx?ID=412)
+- (7)Dragon's eye charm (https://2e.aonprd.com/Equipment.aspx?ID=502)
+- (7) vaporous pipe (https://2e.aonprd.com/Equipment.aspx?ID=2198)
+- (6)Ring of the ram (https://2e.aonprd.com/Equipment.aspx?ID=461)
+- (6)Staff of divination(https://2e.aonprd.com/Equipment.aspx?ID=353)
+CONSO
+- (7)parchemin lvl 4
+- (7)Greater ablative armor plating(https://2e.aonprd.com/Equipment.aspx?ID=1102)
+- (7)Lightning rod shot (https://2e.aonprd.com/Equipment.aspx?ID=2053)
+- (6)Potion de résistance au feu (https://2e.aonprd.com/Equipment.aspx?ID=192)
+- (6)Potion de résistance à l'électricité (https://2e.aonprd.com/Equipment.aspx?ID=192)
+- (6)Potion de résistance au feu 
+- (6)Singing muse (https://2e.aonprd.com/Equipment.aspx?ID=1091)
+- (5)parchemin de lvl 3
+- (5)parchemin de lvl3

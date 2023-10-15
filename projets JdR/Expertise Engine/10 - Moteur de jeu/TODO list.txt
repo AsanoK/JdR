@@ -1,1 +1,2 @@
 Règles:
+-carifier specialty et mastery, c'est pas clair aujourd'hui

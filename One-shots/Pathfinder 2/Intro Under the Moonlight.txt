@@ -1,0 +1,62 @@
+**Synopsis :**
+Les personnages sont des esclaves dans une cité drow d'ombreterre, et sont en train d'organiser leur évasion. Au cours de celle-ci, ils vont devoir faire face à des choix : quitter la ville seuls, ou participer à une rebellion massive contre leurs maîtres. Ce faisant, ils vont se retrouver au centre de changements politiques à venir pour la ville et toute la région.
+
+**Scènes**
+
+-Intro:
+Description de la situation initiale : les personnages sont des esclaves dans la cité drow de [TODO : nom de la ville], chacun avec un rôle un peu différent, mais le point commun de servir la maison reignante et de dormir dans la même cellule. Depuis déjà plusieurs mois, ils travaillent à un plan d'évasion, qui doit leur permettre de quitter la ville, idéalement pour se rendre dans une autre communauté.
+Le plan implique de partir en bateau en profitant du début des festivités nocturnes
+
+-Préparatifs d'évasion
+C'est le jour J, et il faut faire les derniers préparatifs, ceux qui ne pouvaient pas être faits avant, et le tout sans éveiller trop de soupçons de leurs maîtres.
+Ils sont réveillés comme d'habitude par le commandant des troupes de la maison, qui se comporte en tyran sadique (le faire tuer un esclave par pur sadisme).
+Utiliser pour ça les règles de préparation d'infiltration + ajouter rapidement les rebelles dans l'équation. Si les PJs préfèrent finalement se joindre à la rebellion, on leur filera des bonus pour certains préparatifs.
+
+-Contact des rebelles
+Alors que les PJs ont bien commencé à préparer leur évasion du soir, un autre esclave les contacte : une rebellion armée s'organise contre les drows, et vu leurs compétences, ils auraient besoin de l'aide des PJs. C'est un choix majeur pour la suite du scénario, entre une évasion avec seulement leur groupe (et éventuellement des PNJs supplémentaires), et une évasion de masse, qui ne se passera évidemment pas sans casse.
+
+-Evasion:
+Scène d'infiltration, au cours de laquelle les PJs vont devoir échapper aux gardes, soit en se faisant passer pour un groupe avec un but légitime au service de leur maison, soit sans se faire remarquer par les gardes.
+En cas d'échec de l'infiltration, il peut soit y avoir un combat (rapide) contre les gardes, soit les PNJs les moins rapides se feront rattraper (et sans doute tuer), tandis que les PJs et les autres peuvent fuir.
+En cas de réussite, il faudra choisir entre un chemin rapide, mais dangereux, ou plus lent, ce qui pourrait permettre aux drows de les retrouver.
+L'influence de Milani peut jouer subtilement ici, avec l'intervention possible d'un PNJ affilié (opportunité 1). Une maison noble rivale pourrait également aider les PJs pour priver la maison reignante d'outils de qualité (opportunité 2)
+RENCONTRE : TODO : definit l'infiltation. En cas d'échec, c'est un combat contre 3 gardes drows.
+
+-Poursuivants:
+Les personnages choisissant une fuite plus lente se feront rattraper par une patrouille de drows, menée par le commandant des troupes de leur maison. C'est un combat relativement classique face à un petit groupe d'adversaires. En cas de réussite, les PJs passent à l'outro. 
+RENCONTRE : 2 drow fighters et un drow captain (stats de bandit)
+
+-Embuscade:
+Des PJs qui auront choisi de se précipiter par une voie plus rapide vont tomber face à certains des prédateurs de la région. L'avantage, c'est qu'ils seront moins maniaques que les drow, et que leur présence est plus facile à anticiper (si qqun connait le terrain).
+RENCONTRE: 2 cave fishers ou un giant whiptail centipede
+
+
+-La réunion des rebelles
+Si les PJs participent à une évasion massive, il y a un rassemblement secret des esclaves rebelles, auquel ils sont conviés. Au cours de celui-ci, un chef semble vaguement émerger, et un plan basique, qui implique de prendre d'assaut la porte vers les tunnels, tout en lançant tout le groupe en avant. La réunion est interrompue par la mort du chef qui émerge, alors qu'une patrouille drow, menée par le commandant des forces de la maison, les a trouvé ! C'est un combat confus, dans un milieu relativement confiné.
+RENCONTRE : 2 gardes drow et un capitaine drow (Bandit) + affrontements voisins.
+
+-Insurrection:
+Une fois la rébellion découverte, il ne faut pas perdre de temps, ou être écrasé par les bottes des drows. L'assaut contre la porte s'organise rapidement, et les PJs étant parmi les plus compétents, il leur est demandé de mener l'attaque. C'est un combat avec des soutiens contre une force de drows relativement bien positionnée. Les PJs peuvent décider de s'enfuir par eux-même, ce qui est relativement facile, ou d'ouvrir la voie aux PNJs, ce qui est plus compliqué, mais peut permettre d'évacuer des esclaves vulnérables de la ville. Une légère aide peut venir de la part de Milani, qui intervient via un esclave.
+RENCONTRE : city guard squadron (avec un peu d'aide, et quelques guerriers drows additionnels)
+
+-Outro:
+La mort du commandant de la garde de la maison va permettre à différentes factions de s'en prendre à la maison reignante, qui finira renversée rapidement par une maison beaucoup plus ambitieuse, ce qui fera partie des évènements de la campagne Under the Moonlight.
+
+
+TODO :. Définir aussi les éventuelles récompenses, si ce scenario est réellement joué en tant qu'intro à la campagne. Définir les PNJs des scènes initiales. Nommer les lieux et personnages.
+Figurines/tokens nécessaires : 
+-formation de gardes drows (16)
+-gardes drows individuels (3)
+-capitaine drow (1)
+-esclaves (4-5 ?)
+-2 cave fishers ou un giant whiptail centipede
+
+Infiltration : s'évader de la cité drow
+objectif: fuir la cité, idéalement sans se faire remarquer, et avec quelques PNJs clé. Il faut quitter la forteresse de la maison reignante, puis franchir la porte des gouffres. Note : chaque PNJ supplémentaire augmente de 1 les DD de certains obstacles à franchir (pas la porte fermée, mais les autres).
+First step : quitter la forteresse (2 obstacles)
+Options d'obstacle : poste de garde (2IP groupe, easy deception, standard stealth, hard diplomacy), porte fermée (1 IP groupe, hard theivery or athletics), mur de forteresse (1IP perso : athletics or acrobatics), araignée de garde et son maître (1IP perso, Nature moyen pour la calmer, discrétion difficile pour passer)
+Second step : franchir la porte des gouffres (2 obstacles)
+Obstacles : poste de garde (2IP, standard deception or stealth, hard diplomacy), mur aiguisé (2IP groupe, hard athletics or thievery), tunnel de contrebande (groupe 2IP, survie ou perception standard), groupe de marchands (diplomacy medium ou deception hard)
+Complications : Alarme ! une alerte est donnée, signalant la fuite d'esclaves, les PJs sont alors interrogés par des gardes ou des passants (deception or diplomacy hard, performance or stealth standard). Partie de chasse : un groupe est lancé à la poursuite des PJs, des soldats de la maison sur lézards (stealth standard or nature hard or survival standard)
+Opportunités : prêtresse rivale (les Pjs croisent une prêtresse n'appartenant pas à la maison reignante, qui pourrait aider les PJs pour son propre compte, ou être volée par exemple (diplomacy hard or theivery very hard, pour réduire de 2 un DD spécifique).
+Smooth the path est disponible aussi.
