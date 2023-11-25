@@ -23,7 +23,7 @@ LVL6
 ITEMS
 - (7) Boots of bounding (https://2e.aonprd.com/Equipment.aspx?ID=412)
 - (7)Dragon's eye charm (https://2e.aonprd.com/Equipment.aspx?ID=502)
-- (7) vaporous pipe (https://2e.aonprd.com/Equipment.aspx?ID=2198)
+OK (7) vaporous pipe (https://2e.aonprd.com/Equipment.aspx?ID=2198)
 - (6)Ring of the ram (https://2e.aonprd.com/Equipment.aspx?ID=461)
 - (6)Staff of divination(https://2e.aonprd.com/Equipment.aspx?ID=353)
 CONSO
